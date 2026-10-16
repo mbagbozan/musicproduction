@@ -1,0 +1,515 @@
+{
+  "conversation_id": "6965f352-b71c-832d-a73b-a38877056ae5",
+  "title": "Suno Persona Overview",
+  "category": "chatgpt_standard",
+  "category_detail": "Standard",
+  "created_at": "2026-01-13 07:25:07",
+  "updated_at": "2026-01-13 07:29:39",
+  "source_chunk": "conversations-014.json",
+  "total_messages": 2,
+  "dialogue_turns": [
+    {
+      "role": "user",
+      "timestamp": "2026-01-13 07:25:04",
+      "text": "SUNO PERSONA"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-13 07:25:11",
+      "text": "You mean **Suno “Persona”** (the feature that lets you re-use a consistent voice/vibe/style across songs). ✅ citeturn0search2turn0search0turn0search12\n\n## What a Suno Persona is (in practice)\nA **Persona** is basically a reusable “artist preset” that auto-fills your **Style of Music** and keeps a more consistent overall sonic identity when generating new songs. citeturn0search2turn0search0\n\n## How to create a Persona (fast)\n1. Open a song you like (often one of your own best outputs)\n2. Click **…** → **Create** → **Make a Persona**\n3. Save it (public/private toggle available) citeturn0search0\n\n## How to use a Persona\n- In **Custom mode**, above the lyrics field, pick the Persona\n- Suno will auto-populate the Persona’s **Style of Music** settings citeturn0search2\n\n## Best practice “Persona prompt” structure (what to put in Style)\nKeep it **short + technical + repeatable**:\n- **Genre/Subgenre**\n- **Vocal identity**\n- **Key instruments**\n- **Mix traits**\n- **BPM + mood tags**\n\nThis aligns with the common “style prompt template” most advanced users use. citeturn0search3turn0search5\n\n## If you want: I can output a complete “SUNO PERSONA card”\nIf you paste **one song prompt** (or describe your main signature sound, like your Turkish 9/8 + arabesk-trap + lo-fi room aesthetic), I’ll generate a **ready-to-paste Persona Style block** (tight, no fluff) + **negative constraints** + **variants A/B/C**."
+    }
+  ],
+  "raw_conversation": {
+    "conversation_id": "6965f352-b71c-832d-a73b-a38877056ae5",
+    "conversation_template_id": null,
+    "create_time": 1768289107.496818,
+    "current_node": "e526cba9-def1-47cc-985a-c28b3eb08939",
+    "default_model_slug": "gpt-5-2",
+    "id": "6965f352-b71c-832d-a73b-a38877056ae5",
+    "is_archived": false,
+    "is_do_not_remember": false,
+    "is_read_only": null,
+    "is_starred": null,
+    "is_study_mode": false,
+    "mapping": {
+      "42e4e6d9-e034-4ed9-898c-fe15db3be9ca": {
+        "id": "42e4e6d9-e034-4ed9-898c-fe15db3be9ca",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "SUNO PERSONA"
+            ]
+          },
+          "create_time": 1768289104.749,
+          "id": "42e4e6d9-e034-4ed9-898c-fe15db3be9ca"
+        },
+        "parent": "client-created-root"
+      },
+      "9893a51c-6e41-4a39-8320-7b1283077052": {
+        "id": "9893a51c-6e41-4a39-8320-7b1283077052",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content": "Thought for a few seconds",
+            "content_type": "reasoning_recap"
+          },
+          "create_time": 1768289113.014437,
+          "id": "9893a51c-6e41-4a39-8320-7b1283077052",
+          "metadata": {
+            "model_slug": "gpt-5-2",
+            "parent_id": "14eea40b-8e40-4c9f-b691-fb7db0a08afc"
+          }
+        },
+        "parent": "42e4e6d9-e034-4ed9-898c-fe15db3be9ca"
+      },
+      "client-created-root": {
+        "id": "client-created-root",
+        "message": null,
+        "parent": null
+      },
+      "e526cba9-def1-47cc-985a-c28b3eb08939": {
+        "id": "e526cba9-def1-47cc-985a-c28b3eb08939",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You mean **Suno “Persona”** (the feature that lets you re-use a consistent voice/vibe/style across songs). ✅ citeturn0search2turn0search0turn0search12\n\n## What a Suno Persona is (in practice)\nA **Persona** is basically a reusable “artist preset” that auto-fills your **Style of Music** and keeps a more consistent overall sonic identity when generating new songs. citeturn0search2turn0search0\n\n## How to create a Persona (fast)\n1. Open a song you like (often one of your own best outputs)\n2. Click **…** → **Create** → **Make a Persona**\n3. Save it (public/private toggle available) citeturn0search0\n\n## How to use a Persona\n- In **Custom mode**, above the lyrics field, pick the Persona\n- Suno will auto-populate the Persona’s **Style of Music** settings citeturn0search2\n\n## Best practice “Persona prompt” structure (what to put in Style)\nKeep it **short + technical + repeatable**:\n- **Genre/Subgenre**\n- **Vocal identity**\n- **Key instruments**\n- **Mix traits**\n- **BPM + mood tags**\n\nThis aligns with the common “style prompt template” most advanced users use. citeturn0search3turn0search5\n\n## If you want: I can output a complete “SUNO PERSONA card”\nIf you paste **one song prompt** (or describe your main signature sound, like your Turkish 9/8 + arabesk-trap + lo-fi room aesthetic), I’ll generate a **ready-to-paste Persona Style block** (tight, no fluff) + **negative constraints** + **variants A/B/C**."
+            ]
+          },
+          "create_time": 1768289111.732657,
+          "id": "e526cba9-def1-47cc-985a-c28b3eb08939",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": "([Suno Help](https://help.suno.com/en/articles/3484161?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "Suno Help",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 12,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "19 Dec 2025 — Just look for the Personas area directly above the lyrics field, click to show your options, and choose the Persona you want to use. The style ...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "Suno",
+                        "pub_date": null,
+                        "snippet": "31 Oct 2024 — How to Create Your Own Persona · Find a song you love. Click “...” then go to “Create” and “Make a Persona” · You can toggle between Public and ...",
+                        "title": "Introducing Personas",
+                        "url": "https://suno.com/blog/personas?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Suno",
+                        "pub_date": null,
+                        "snippet": "1 May 2025 — Covers and Personas have received major enhancements. Covering songs should keep more melodic details. Genre switching has also been improved— ...Read more",
+                        "title": "Introducing v4.5",
+                        "url": "https://suno.com/blog/introducing-v4-5?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "What are Personas? - Knowledge Base",
+                    "url": "https://help.suno.com/en/articles/3484161?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "([Suno Help](https://help.suno.com/en/articles/3484161?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "Suno Help",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "19 Dec 2025 — Just look for the Personas area directly above the lyrics field, click to show your options, and choose the Persona you want to use. The style ...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "Suno",
+                        "pub_date": null,
+                        "snippet": "31 Oct 2024 — How to Create Your Own Persona · Find a song you love. Click “...” then go to “Create” and “Make a Persona” · You can toggle between Public and ...",
+                        "title": "Introducing Personas",
+                        "url": "https://suno.com/blog/personas?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "What are Personas? - Knowledge Base",
+                    "url": "https://help.suno.com/en/articles/3484161?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "([Suno](https://suno.com/blog/personas?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "Suno",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "31 Oct 2024 — How to Create Your Own Persona · Find a song you love. Click “...” then go to “Create” and “Make a Persona” · You can toggle between Public and ...",
+                    "supporting_websites": [],
+                    "title": "Introducing Personas",
+                    "url": "https://suno.com/blog/personas?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "([Suno Help](https://help.suno.com/en/articles/3484161?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "Suno Help",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "19 Dec 2025 — Just look for the Personas area directly above the lyrics field, click to show your options, and choose the Persona you want to use. The style ...",
+                    "supporting_websites": [],
+                    "title": "What are Personas? - Knowledge Base",
+                    "url": "https://help.suno.com/en/articles/3484161?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "([Reddit](https://www.reddit.com/r/SunoAI/comments/1n8lq6u/suno_style_prompt_guide_20/?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "Reddit",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1757018829.243,
+                    "refs": [
+                      {
+                        "ref_index": 3,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 5,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "🎵 Suno Style Prompt Quick Guide + Data-Mined Style Hints​​ ✅ Example Genre: \"Trance, House\" Exclude: \"Trap, Pop, Rock, Country, Acoustic\" ...Read more",
+                    "supporting_websites": [
+                      {
+                        "attribution": "Medium",
+                        "pub_date": null,
+                        "snippet": "Suno works with three different prompts: Think of it like cooking. The Styles of Music are your main ingredients, The lyrics are your recipe, and exclusions ...Read more",
+                        "title": "Diving into Suno AI: The Three-Part Prompt System ...",
+                        "url": "https://dodoyoyo.medium.com/diving-into-suno-ai-the-three-part-prompt-system-explained-8927a3075e52?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Suno Style Prompt Guide 2.0 : r/SunoAI",
+                    "url": "https://www.reddit.com/r/SunoAI/comments/1n8lq6u/suno_style_prompt_guide_20/?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "",
+                "has_images": false,
+                "prompt_text": null,
+                "sources": [
+                  {
+                    "attribution": "Suno Help",
+                    "title": "What are Personas? - Knowledge Base",
+                    "url": "https://help.suno.com/en/articles/3484161?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Suno",
+                    "title": "Introducing Personas",
+                    "url": "https://suno.com/blog/personas?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Reddit",
+                    "title": "Suno Style Prompt Guide 2.0 : r/SunoAI",
+                    "url": "https://www.reddit.com/r/SunoAI/comments/1n8lq6u/suno_style_prompt_guide_20/?utm_source=chatgpt.com"
+                  }
+                ],
+                "type": "sources_footnote"
+              }
+            ],
+            "model_slug": "gpt-5-2",
+            "parent_id": "9893a51c-6e41-4a39-8320-7b1283077052",
+            "search_result_groups": [
+              {
+                "domain": "youtube.com",
+                "entries": [
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "A tutorial on how to use the Personas feature in Suno. 0:00 Intro 0:34 Why Use Personas? 1:22 Demo Starts 2:53 Base Song and 3 Examples ...",
+                    "title": "How to Use Suno Personas",
+                    "url": "https://www.youtube.com/watch?v=qokCU5zcEM4&utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "Creating a Persona from any song in your library &middot; Customizing Persona names, adding images, and setting privacy options &middot; Applying Personas in ...",
+                    "title": "Suno AI's New 'Personas' Feature is AMAZING! - Full ...",
+                    "url": "https://www.youtube.com/watch?v=n9fjQn-hkfg&utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "Welcome to FenomenonX In this tutorial, I'll show you how to create and use Personas inside Suno AI Music — one of the most powerful tools ...",
+                    "title": "How to Create Personas Using Suno AI Music - Tutorial",
+                    "url": "https://www.youtube.com/watch?v=YdqnNZ9eF9E&utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "Learn how to use Suno's Persona feature to customize your AI-generated music and create songs that match your unique style and vision.",
+                    "title": "How To Use Suno's Persona - Full Guide (2025)",
+                    "url": "https://www.youtube.com/watch?v=FlGEUJzTxUo&utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "You can make a persona of your voice just upload audio of your voice and then do a remaster of v 5 then use this remaster as a persona.",
+                    "title": "Suno Voice Personas: Finally, Consistent Vocals for Every Song!",
+                    "url": "https://www.youtube.com/watch?v=pj29TIE9djY&utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "In this video I will show you How to Make and Use Personas Suno AI Music Quick Guide #guide #walkthrough #howto #sunoai Your time is money, ...",
+                    "title": "How to Make and Use Personas Suno AI Music Quick Guide",
+                    "url": "https://www.youtube.com/watch?v=u9cyfefzrXI&utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "medium.com",
+                "entries": [
+                  {
+                    "attribution": "medium.com",
+                    "snippet": "Suno works with three different prompts: Think of it like cooking. The Styles of Music are your main ingredients, The lyrics are your recipe, and exclusions ...Read more",
+                    "title": "Diving into Suno AI: The Three-Part Prompt System ...",
+                    "url": "https://dodoyoyo.medium.com/diving-into-suno-ai-the-three-part-prompt-system-explained-8927a3075e52?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "medium.com",
+                    "snippet": "Style descriptors work best when they reference particular eras or movements. Examples include “80s new wave,” “90s grunge,” or “modern trap.Read more",
+                    "title": "Suno AI Prompt-How to Structure, Style, and Master AI ...",
+                    "url": "https://medium.com/%40dolsno86/suno-ai-prompt-how-to-structure-style-and-master-ai-song-creation-2025-edition-e5f4560deff9?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "reddit.com",
+                "entries": [
+                  {
+                    "attribution": "reddit.com",
+                    "snippet": "The Persona feature is used to spend credits that you no longer want.",
+                    "title": "What exactly does \"persona\" do? : r/SunoAI",
+                    "url": "https://www.reddit.com/r/SunoAI/comments/1iu9tlu/what_exactly_does_persona_do/?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "reddit.com",
+                    "snippet": "Version 5 introduces powerful new capabilities and enhancements to existing ones: Persona Feature: Create distinct \"personas\" to emulate the ...Read more",
+                    "title": "Definitive 4.5 Suno Creation Guide : r/SunoAI",
+                    "url": "https://www.reddit.com/r/SunoAI/comments/1nkpmh9/definitive_45_suno_creation_guide/?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "facebook.com",
+                "entries": [
+                  {
+                    "attribution": "facebook.com",
+                    "snippet": "Prompt Example: \"High-energy EDM track with euphoric female vocals in the drops, shifting into robotic vocoder voices in the breakdown, creating ...Read more",
+                    "title": "Suno persona style box guide for custom voice creation",
+                    "url": "https://www.facebook.com/groups/1118818620292019/posts/1231719752335238/?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "facebook.com",
+                    "snippet": "Generate Full Song Prompts → It can create a complete title, metadata, lyrics, and production details for Suno AI. • Guide You in Prompt ...Read more",
+                    "title": "Create authentic ai vocal persona",
+                    "url": "https://www.facebook.com/groups/1118818620292019/posts/1255050210002192/?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "jackrighteous.com",
+                "entries": [
+                  {
+                    "attribution": "jackrighteous.com",
+                    "snippet": "17 Jul 2025 — Learn where to put your prompt in Suno AI. This ADHD-friendly guide helps global creators format lyrics, prompts, and tags for better ...",
+                    "title": "Where to Put Your Suno Prompt: Clear Creator Guide",
+                    "url": "https://jackrighteous.com/blogs/guides-using-suno-ai-music-creation/where-to-put-your-suno-prompt-guide?srsltid=AfmBOooJ6pwjHqx_GGEe5IKEyMxLnoMCYpZfcuO3XCxQ4Oae4QUn8jCf&utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "jackrighteous.com",
+                    "snippet": "29 Jul 2025 — Learn expert techniques for prompts, lyrics, personas, Inspire mode, and workflows to master Suno AI v4.5 Plus Create Page like a pro.",
+                    "title": "Suno AI v4.5 Plus Create Page Guide",
+                    "url": "https://jackrighteous.com/blogs/guides-using-suno-ai-music-creation/suno-ai-v4-5-plus-create-page-guide?srsltid=AfmBOoppeU1O6xBel0LsJeMzveW07XxRGb0apJDAu2Kg2LgiKc8njk49&utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "jackrighteous.com",
+                    "snippet": "19 Dec 2025 — Suno AI updated Personas in Dec 2025. Learn what changed, why vocals are more consistent, and how to use Personas better as a creator.",
+                    "title": "Suno AI Personas Update (Dec 2025): What Changed & ...",
+                    "url": "https://jackrighteous.com/blogs/guides-using-suno-ai-music-creation/suno-ai-personas-update-dec-2025-what-changed-how-to-use-it?srsltid=AfmBOorTpQLGFffZpjndK-m7H23X_L08y6LxN-0ame4aPGNElmvdwJkF&utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "aikundig.nl",
+                "entries": [
+                  {
+                    "attribution": "aikundig.nl",
+                    "snippet": "1 Nov 2024 — Suno heeft een nieuwe functie gelanceerd, genaamd Persona's. Hiermee kan je de essentie van een lied kunt bewaren en hergebruiken.",
+                    "title": "Suno introduceert nieuwe feature: Persona's (+ voorbeelden)",
+                    "url": "https://aikundig.nl/suno-introduceert-nieuwe-feature-personas/?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "suno.com",
+                "entries": [
+                  {
+                    "attribution": "suno.com",
+                    "snippet": "1 May 2025 — Covers and Personas have received major enhancements. Covering songs should keep more melodic details. Genre switching has also been improved— ...Read more",
+                    "title": "Introducing v4.5",
+                    "url": "https://suno.com/blog/introducing-v4-5?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "suno.com",
+                    "snippet": "2 May 2025 — Covers + Personas can be combined: Remix voice, structure, and style all at once. It's a whole new way to create. Extended song length: ...Read more",
+                    "title": "What's new in V4.5 - Knowledge Base",
+                    "url": "https://help.suno.com/en/articles/5782593?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "suno.com",
+                    "snippet": "Want to quickly take your prompts to the next level? There's a magic button in v4.5 that can do just that! Type your style prompt then tap the icon.Read more",
+                    "title": "V4.5 - Knowledge Base - Suno",
+                    "url": "https://help.suno.com/en/categories/1389249?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "suno.com",
+                    "snippet": "This is an example to reference for duet tagging and structuring. You'll notice that it mostly flows correctly except for in minor spots and at the very end.Read more",
+                    "title": "Duet Example (v4 Tags, Structure, Prompts) by Fifty9",
+                    "url": "https://suno.com/song/c660820d-f7f2-4080-9cd5-a61f7592b717?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "promptaa.com",
+                "entries": [
+                  {
+                    "attribution": "promptaa.com",
+                    "snippet": "14 Nov 2025 — These prompts guide the AI, influencing the style and mood of the output. This article will provide you with a variety of Suno prompt examples.Read more",
+                    "title": "Creative Suno Prompt Examples for Inspiration",
+                    "url": "https://promptaa.com/blog/creative-suno-prompt-examples-for-inspiration?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "skywork.ai",
+                "entries": [
+                  {
+                    "attribution": "skywork.ai",
+                    "snippet": "8 Oct 2025 — The quality, specificity, and structure of your prompt directly dictate the outcome. A vague prompt yields a generic song; a detailed, well- ...Read more",
+                    "title": "Mastering Suno Prompts: The Ultimate 2025 Guide to ...",
+                    "url": "https://skywork.ai/skypage/en/Mastering-Suno-Prompts%3A-The-Ultimate-2025-Guide-to-AI-Music-Creation/1975069867135528960?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "learnprompting.org",
+                "entries": [
+                  {
+                    "attribution": "learnprompting.org",
+                    "snippet": "7 Feb 2025 — Suno AI is an AI-powered music creation tool that allows you to create original songs, lyrics, and instrumentals with just a few inputs.Read more",
+                    "title": "A Complete How-To Guide to Suno: The Easiest Way ...",
+                    "url": "https://learnprompting.org/blog/guide-suno?srsltid=AfmBOoqggRfU_Ur7OpUEImKrRqu7s1PkbVOUTY9Yblqy1SKTbaQOsL8s&utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "lilys.ai",
+                "entries": [
+                  {
+                    "attribution": "lilys.ai",
+                    "snippet": "9 Dec 2025 — Create a song with a female vocalist, then make a persona for her (e.g., Rebecca); do the same for a male vocalist (e.g., Gabriel).Read more",
+                    "title": "How to Use Persona in Suno for Duets",
+                    "url": "https://lilys.ai/en/notes/suno-ai-song-20251209/suno-persona-duets?utm_source=chatgpt.com"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "parent": "9893a51c-6e41-4a39-8320-7b1283077052"
+      }
+    },
+    "memory_scope": "global_enabled",
+    "pinned_time": null,
+    "plugin_ids": null,
+    "title": "Suno Persona Overview",
+    "update_time": 1768289379.963557,
+    "voice": null
+  }
+}

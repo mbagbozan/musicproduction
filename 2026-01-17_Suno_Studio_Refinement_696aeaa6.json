@@ -1,0 +1,547 @@
+{
+  "conversation_id": "696aeaa6-ec74-8329-b4fc-1eb9f7129146",
+  "title": "Suno Studio Refinement",
+  "category": "chatgpt_standard",
+  "category_detail": "Standard",
+  "created_at": "2026-01-17 01:49:27",
+  "updated_at": "2026-01-17 06:23:01",
+  "source_chunk": "conversations-014.json",
+  "total_messages": 18,
+  "dialogue_turns": [
+    {
+      "role": "user",
+      "timestamp": "2026-01-17 05:48:11",
+      "text": "also can you please make this one version  in one of those ones \n\nTurkish arabesk, hip-hop trap, drill\n[Turkish arabesk x hip-hop trap/drill fusion, viral TikTok/Reels-friendly structure, Female mature arabesk vocal fragile tremble, deep sorrow, minimal vibrato), spoken-sung verses + melodic hook, Dark 808 bass, tight kick, crisp hats, subtle drill bounce, Darbuka layered with trap drums (chorus/drop), clarinet taksim breaks, kanun arpeggios for texture, occasional short zurna-like stabs very subtle, Tempo ramp feel: starts ~96 BPM intro/verse rising to ~124–128 BPM final drop, Big short hook repeats, strong pause moments, cinematic arabesk atmosphere, club energy without losing raw arabesk soul, Outro: sarcastic spoken monologue over fading darbuka + clarinet echoes]\n\n[Intro: spoken/half-sung, sparse darbuka, \nVerse 1: arabesk-rap, 96 BPM, tight pockets, \nPre-Chorus: build, kanun arpej + hats opening, \nChorus / Hook: catchy, repeatable, darbuka + 808 drop, \nVerse 2: rap flow more rap, darker drill bounce, 110→118 BPM feel, \nBRIDGE: ASMR, WHISPERED, INTIMATE, EMOTIONAL VULNERABILITY, PAUSES FOR BREATH,]\n[Final Chorus] — biggest drop, 124–128 BPM, extra repeats for viral cut]\n\n\n\n[Intro]  \nAdını yanlış söylediğim gün\nSensizliğim iyileşti\nSessizliğim komada\nBeni aldatmadın… o basitti…\n\n[Verse 1]\nSözlerin bahane…\nbeni dağıttın, anlamadın…\nbahanen değil şahanen…\nerkekliğinle sınıfta kaldın\n\nSadece yarım kaldım\nama kadın kaldım\nParçalanan sen virane\nbenim içimden geçtin, \nbir daha mı?\n\n[Pre-Chorus] \nBen kendimi tamamlarım\ninsan öğreniyor…\n\nSuçu ihale… (daha ne…)\nacı bana havale… (daha ne…)\nYer belli \"Şişşhane\"…\nYıkık dökük \"merhale\"\nkalp hali (kerhane, )\n(aşk dediğin yalane)\n(Onun) kalp hali kerhane…\naşk dediğin yalane…\n\n[Chorus / Hook]\nBahane… şahane…\nBenim adım: kadın — (daha da)  şahane\nYarım kaldım sandın ya\nBen tamamım, sen virane\n\nBahane… şahane…\nŞişşhane’den geçtim, oldum gülhane\nAşk dediğin yalansa\nBen yandım da, külüm şahane\n\n[Verse 2]\nBen kendimi tamamlarım\ninsan öğreniyor…\nSuçu ihale… (daha ne…)\nacı bana havale… (daha ne…)\nYer belli Şişşhane…\naşk dediğin yalane…\nDaha ne diyeyim?\nGece uzar, söz kısalır, içim büyür\nSen “adamlık” diye gezdin\nBen susunca sandın ömür\nBeni yoran sen değilsin\nbeni yoran, aynı oyun\nKendimi seçtim bu kez\nyüzüme vuran soğuk suyun\nDün “sensiz yapamamım'dın\", \nBugün “iyi ki yokum'sun\"\nKalbim vardı, acıttın\nŞimdi acı benim dokum\nBi zamanlar\nkıymetini bilmeden dokunduğun...\n\n[BRIDGE] [ASMR]\nDur…\nNefes al\nDinle…\nBak..\nGör…\nHisset.. \n\n[Long pause - audible breathing, room tone, heartbeat-like quality] [Melismatic ornaments throughout - Turkish vocal tradition honored]\nYarım bıraktığını sandığın o yer: Kırhane.\nBenim \"olduğum\" o yer: Olhane\n\n[Chorus-Hook] Layered Vocal]\n\"bahane\"… \"şahane\"…\nbenim adım kadın —\n(daha da)* \"şahane\"\nyarım kaldım sandın ya  \nben tamamım, \nsen \"virane\" \n\"bahane\"… \"şahane\"…\n\"şişhane’den geçtim, \noldum \"gülhane\"\naşk dediğin yalansa  \nben yandım da, \nkülüm \"şahane\"  \n\"bahane\"… \"şahane\"…\n\n[Final Chorus] \nBahane… şahane…\nBenim adım: kadın — daha da şahane\nYarım kaldım sandın ya\nBen tamamım, sen virane\nlerin yok…\nKafa mis… yemin ediyorum vallahi ne güzel ya…\nKeşke erkek olsaydık ya… kalbin yok… hislerin yok…\nBahane… şahane…\n\n[Outro Speech] \n(Kafa mis… yemin ediyorum vallahi ne güzel ya…)\n(Keşke erkek olsaydık ya…) \n(Ne güzel…kalbin yok… hislerin yok…)\nBeynin?  (Bahane) (sahane)  verse2 is rap flow  then asmr bridge  is calm momemnt breath after each word,  there is no outro, i will arrange it. final chorus slightly more uplift"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-17 06:20:13",
+      "text": "Done ✅ I patched **ATD1** in Canvas so the **lyrics now preserve your exact songwriter formatting** — including:\n\n- **line breaks**\n- **spacing**\n- **punctuation**\n- **quotes**\n- **intentional word placement**\n- **ASMR bridge breath-pauses**\n- **no outro preserved**\n\nSo the lyric body won’t “collapse” or change rhythm in Suno.\n\nIf you want, I can also add a **“LYRICS LOCK RULE”** at the top of the library (one permanent rule) so every future prompt keeps the same strict treatment automatically."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-01-17 06:13:03",
+      "text": "yes pls"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-17 06:13:18",
+      "text": "Done ✅\n\nI added your **Arabesk x Trap/Drill tempo-ramp version** into the **Canvas** library as:\n\n**2.7 Arabesk Trap/Drill (Tempo Ramp / Viral Hook)**  \n**ATD1 — Bahane/Şahane (Arabesk Trap Drill)**\n\nSo now it’s part of **SunAy Prompt Library v1.0** and downloadable together."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-17 06:21:25",
+      "text": "I can’t *generate or deliver the audio track itself* from Suno inside here (Suno creates the song on their side), but I **can give you the exact final Suno-ready block** to paste so you can generate it immediately.\n\nHere is your **final patched Suno prompt** (ATD1), with **lyrics preserved exactly**:\n\n---\n\n### **ATD1 — Arabesk Trap/Drill Fusion (tempo ramp, ASMR bridge, no outro)**  \n**Title:** SunAy — Bahane/Şahane (Arabesk Trap Drill)\n\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nTurkish arabesk x hip-hop trap/drill fusion. Viral TikTok/Reels-friendly structure. **Female mature Turkish arabesk vocal**: fragile tremble, deep sorrow, minimal vibrato, very human breaths and micro-timing. **Spoken-sung verses + melodic hook.** Dark 808 bass, tight kick, crisp hats, subtle drill bounce. **Darbuka layered with trap drums (chorus/drop).** **Clarinet taksim breaks**, **kanun arpeggios** for texture, occasional **very subtle zurna-like stabs** (short, rare). Cinematic arabesk atmosphere, club energy without losing raw arabesk soul. Strong pause moments.  \n**Tempo ramp feel:** starts ~96 BPM intro/verse rising to ~124–128 BPM final drop. Big short hook repeats for viral cut.  \n**Mix:** vocal forward, warm analog texture, tape hiss/vinyl dust allowed, no harsh sparkle mastering. No generic pop melody. No EDM synth leads.\n\n**STRUCTURE (strict):**  \n- **Intro:** spoken/half-sung, sparse darbuka (96 BPM)  \n- **Verse 1:** arabesk-rap, tight pocket (96 BPM)  \n- **Pre-Chorus:** build, kanun arpeggio + hats opening  \n- **Chorus / Hook:** catchy, repeatable, darbuka + 808 drop  \n- **Verse 2:** rap flow more rap, darker drill bounce, 110→118 BPM feel  \n- **BRIDGE:** ASMR whispered, intimate, emotional vulnerability, **pauses for breath after each word**  \n- **Final Chorus:** biggest drop, 124–128 BPM, extra repeats for viral cut, slightly more uplift  \n- **NO OUTRO** (end after final chorus hit)\n\n**LYRICS (do not alter / keep exact formatting):**\n\n[Intro]  \nAdını yanlış söylediğim gün  \nSensizliğim iyileşti  \nSessizliğim komada  \nBeni aldatmadın… o basitti…\n\n[Verse 1]  \nSözlerin bahane…  \nbeni dağıttın, anlamadın…  \nbahanen değil şahanen…  \nerkekliğinle sınıfta kaldın  \n\nSadece yarım kaldım  \nama kadın kaldım  \nParçalanan sen virane  \nbenim içimden geçtin,  \nbir daha mı?\n\n[Pre-Chorus]  \nBen kendimi tamamlarım  \ninsan öğreniyor…\n\nSuçu ihale… (daha ne…)  \nacı bana havale… (daha ne…)  \nYer belli \"Şişşhane\"…  \nYıkık dökük \"merhale\"  \nkalp hali (kerhane, )  \n(aşk dediğin yalane)  \n(Onun) kalp hali kerhane…  \naşk dediğin yalane…\n\n[Chorus / Hook]  \nBahane… şahane…  \nBenim adım: kadın — (daha da)  şahane  \nYarım kaldım sandın ya  \nBen tamamım, sen virane\n\nBahane… şahane…  \nŞişşhane’den geçtim, oldum gülhane  \nAşk dediğin yalansa  \nBen yandım da, külüm şahane\n\n[Verse 2]  \nBen kendimi tamamlarım  \ninsan öğreniyor…  \nSuçu ihale… (daha ne…)  \nacı bana havale… (daha ne…)  \nYer belli Şişşhane…  \naşk dediğin yalane…  \nDaha ne diyeyim?  \nGece uzar, söz kısalır, içim büyür  \nSen “adamlık” diye gezdin  \nBen susunca sandın ömür  \nBeni yoran sen değilsin  \nbeni yoran, aynı oyun  \nKendimi seçtim bu kez  \nyüzüme vuran soğuk suyun  \nDün “sensiz yapamamım'dın\",  \nBugün “iyi ki yokum'sun\"  \nKalbim vardı, acıttın  \nŞimdi acı benim dokum  \nBi zamanlar  \nkıymetini bilmeden dokunduğun...\n\n[BRIDGE] [ASMR]  \nDur…  \nNefes al  \nDinle…  \nBak..  \nGör…  \nHisset..\n\n[Long pause - audible breathing, room tone, heartbeat-like quality]  \n[Melismatic ornaments throughout - Turkish vocal tradition honored]  \nYarım bıraktığını sandığın o yer: Kırhane.  \nBenim \"olduğum\" o yer: Olhane\n\n[Chorus-Hook] [Layered Vocal]  \n\"bahane\"… \"şahane\"…  \nbenim adım kadın —  \n(daha da)* \"şahane\"  \nyarım kaldım sandın ya  \nben tamamım,  \nsen \"virane\"  \n\"bahane\"… \"şahane\"…  \n\"şişhane’den geçtim,  \noldum \"gülhane\"  \naşk dediğin yalansa  \nben yandım da,  \nkülüm \"şahane\"  \n\"bahane\"… \"şahane\"…\n\n[Final Chorus]  \nBahane… şahane…  \nBenim adım: kadın — daha da şahane  \nYarım kaldım sandın ya  \nBen tamamım, sen virane\n\n**DRIFT KILLER (optional, 1 line):**  \nNo cinematic strings. No generic pop chorus. Keep Turkish arabesk vocal realism. End after final chorus (no outro).\n\n---\n\nIf you want, I can also give you **3 “generation variants”** of this same prompt (ATD1-A / ATD1-B / ATD1-C) that keep lyrics identical but tweak *only* mix/percussion/voice intensity — so you can generate 3 takes and pick the best."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-17 06:18:13",
+      "text": "Got it — **100% agreed**.\n\nFor Suno, **line breaks / spacing / punctuation / quote marks / repeated words** can change phrasing, cadence, breath timing, and even hook perception — so **lyrics must remain exactly as written by the songwriter**.\n\n### What I will do going forward (for SunAy prompts)\n- ✅ **I will not change your lyrics at all**\n- ✅ **I will preserve**:\n  - line breaks\n  - word order\n  - punctuation (… , —, “ ”, quotes)\n  - repetitions\n  - bracket tags ([Verse], [Bridge], etc.)\n  - the number of words per line\n- ✅ I will only edit the **production prompt block** (sound + performance), never the lyric body.\n\n### About ATD1\nYou’re right: in the Canvas version, the lyric portion is *visually compressed* in places (because of formatting), even if the words are the same — and that’s **not acceptable** for your intended delivery.\n\nIf you want, I can now **patch ATD1** inside the Canvas doc so that:\n- the lyrics appear **exactly with your original line formatting**, **zero compression**, **zero punctuation changes**\n- and the prompt stays clean + Suno friendly.\n\nSay: **“PATCH ATD1 LYRICS EXACT FORMAT”** and I’ll apply it in Canvas immediately."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-17 01:49:27",
+      "text": "Understood. Here’s a **tonight-ready refinement pack** for your **SunAy** Suno Studio prompts — optimized to reduce drift, lock performance behavior, and keep outputs consistent across generations.\n\n---\n\n# SunAy — Suno Studio Prompt Refinement Pack (Tonight)\n\n## 0) Core “LOCK” block (paste at top of every prompt)\nUse this exactly (it’s your anti-drift anchor):\n\n**[LOCKED CORE — DO NOT CHANGE]**  \n- **Identity:** SunAy (Turkish female vocal)  \n- **Vocal realism:** intimate, human micro-timing, audible breaths, small imperfections, emotional control  \n- **Makam/microtonal phrasing:** Turkish inflections + controlled melisma  \n- **No generic pop melody** (avoid Eurovision vibe, avoid overly clean Top40 hooks)  \n- **Production rule:** warm analog texture (tape hiss / vinyl dust allowed), no harsh sparkle mastering  \n- **Emotion rule:** intelligent, confident, emotionally precise (NOT submissive / melodramatic)  \n- **Drift control:** keep instrumentation stable; no random cinematic strings unless specified  \n\n---\n\n## 1) SunAy Prompt Template (use this as your base)\nPaste this, then only change the bracketed details.\n\n**Title:** SunAy — [TRACK NAME]  \n**Style tags:** Turkish modern fusion / [subgenre] / emotional realism  \n**BPM + time:** [BPM] — **9/8 Aksak (2+2+2+3)** OR [4/4]  \n**Key / flavor:** Hicaz tension → Buselik release (if applicable)\n\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \n[Paste the core block above]\n\n**[SONG INTENT]**  \n- Mood: [raw heartbreak / proud distance / late-night confession / etc.]  \n- Narrative: [1 line only]  \n- Arc: Verse restrained → Chorus controlled power → Bridge intimate confession → Final chorus lift\n\n**[VOCAL PERFORMANCE LOCK]**  \n- Verses: whisper-close mic, breath texture  \n- Chorus: chest voice controlled, no “big diva” belting unless specified  \n- Adlibs: minimal, only last chorus, microtonal Turkish runs\n\n**[INSTRUMENTATION — STRICT]**  \n- Always: oud or saz texture + warm bass + organic percussion  \n- No EDM drums unless requested  \n- If trap: ONLY deep davul/doum low rumble effect (no 808 synth)\n\n**[MIX]**  \n- Vocal forward, warm mids, soft top  \n- Room ambience present (bedroom/live feel)\n\n---\n\n## 2) Tonight’s 6 refined “ready-to-generate” prompts (copy/paste)\n\n### A) SunAy — Bedroom Aksak Acoustic (pure realism)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nSunAy performs **live bedroom acoustic** in **9/8 aksak (2+2+2+3)**.  \nFingerpicked acoustic + subtle oud doubles. **No drums kit**. Only light hand taps / soft darbuka brushes.  \nVocal is **breathy, close mic, fragile**, Turkish microtonal phrasing, controlled melisma only at emotional words.  \nWarm tape hiss + quiet room ambience. No cinematic layers.\n\n---\n\n### B) SunAy — Gecekondu Trap Davul (organic trap, no synth)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nDark Turkish heartbreak empowerment. **9/8 aksak half-time feel**.  \nPercussion: **low-tuned davul (sub doum)** + darbuka rolls + riq zils = trap-style rhythm but **100% acoustic**.  \nBass: warm flatwound thud.  \nSaz: distorted edge (germanium fuzz), microtonal bends.  \nVocals: verse whisper → chorus controlled chest voice (not pop-diva).  \nMix: analog grit, space echo throws only at phrase endings.\n\n---\n\n### C) SunAy — Psychedelic Anatolian Rock (Space Echo + live band)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \n1970s Anatolian psych rock meets modern emotional realism.  \nInstrumentation: live drums (soft but real), bass, fuzz saz lead, phased guitar swells, oud texture bed.  \nFX: Roland Space Echo + Schulte phaser feel, tape saturation.  \nVocals: confident, emotionally precise; microtonal Hicaz colors in verses, Buselik relief in chorus.\n\n---\n\n### D) SunAy — Minimal Piano Noir (sparse, brutal emotional clarity)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nSparse noir ballad. Tempo slow (68–78 BPM).  \nOnly: muted piano + low bass + tiny room percussion (table taps).  \nVocal extremely intimate, breathy, close mic, fragile but self-controlled.  \nNo strings, no big chorus lift.  \nFocus on lyric delivery realism and Turkish ornamentation.\n\n---\n\n### E) SunAy — Club Remorse (tasteful, not generic EDM)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nModern club track with Turkish identity. 120–126 BPM 4/4.  \nBeat: deep warm kick + organic percussion layers; no cheesy pop synths.  \nBass: warm rolling.  \nHook: Turkish microtonal vocal runs (minimal, tasteful).  \nChorus is **controlled power**, not diva belting.  \nMix: warm analog, no harsh sparkle.\n\n---\n\n### F) SunAy — Live Tavern Session (meyhane realism)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nLive tavern/meyhane session: audible room, clinks, murmurs, breaths.  \nInstrumentation: oud + clarinet taksim (imperfect human), darbuka + riq, warm bass.  \nStructure: verse storytelling → chorus refrain → short taksim bridge → final chorus.  \nVocal: conversational verses, emotional lift in chorus, microtonal ornaments.\n\n---\n\n## 3) Drift-killers (paste at end of prompts when Suno misbehaves)\nUse 1 line, not a paragraph:\n\n- **“No cinematic strings. No epic build.”**  \n- **“Keep Turkish phrasing; avoid Western pop melody.”**  \n- **“Do not add EDM synth leads.”**  \n- **“Keep vocals intimate and human, not polished.”**  \n- **“Do not change time signature: 9/8 (2+2+2+3).”**\n\n---\n\nIf you want, I can also produce a **SunAy Prompt Library v1.0** as a single clean block (20+ categorized prompts) so your whole SunAy project becomes consistent and scalable."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-01-17 05:43:53",
+      "text": "thank you that. is a good idea. can you send it to canvas so i can downlaod it."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-01-17 06:19:59",
+      "text": "THATS FINE. PATCH ATD1 LYRICS EXACT FORMAT"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-01-17 06:18:12",
+      "text": "ATD1 — Arabesk Trap/Drill Fusion (tempo ramp, ASMR bridge, no outro)\n\nTitle: SunAy — Bahane/Şahane (Arabesk Trap Drill)\n\nPrompt: [LOCKED CORE — DO NOT CHANGE] Turkish arabesk x hip-hop trap/drill fusion. Viral TikTok/Reels-friendly structure. Female mature Turkish arabesk vocal: fragile tremble, deep sorrow, minimal vibrato, very human breaths and micro-timing. Spoken-sung verses + melodic hook. Dark 808 bass, tight kick, crisp hats, subtle drill bounce. Darbuka layered with trap drums in chorus/drop. Clarinet taksim breaks, kanun arpeggios for texture, occasional very subtle zurna-like stabs (short, rare). Cinematic arabesk atmosphere + club energy without losing raw soul. Strong pause moments. Tempo ramp feel: intro/verse ~96 BPM → verse2 feels 110→118 BPM → final chorus/drop 124–128 BPM. Big short hook repeats for viral cut. Mix: vocal forward, warm analog texture, tape hiss/vinyl dust allowed, no harsh sparkle mastering. No generic pop melody. No EDM synth leads.\n\nSTRUCTURE (strict):\n\nIntro: spoken/half-sung, sparse darbuka (96 BPM)\n\nVerse 1: arabesk-rap, tight pocket (96 BPM)\n\nPre-Chorus: build, kanun arpeggio + hats opening\n\nChorus/Hook: catchy repeatable hook, darbuka + 808 drop\n\nVerse 2: more rap flow, darker drill bounce, tempo rises (110→118 BPM feel)\n\nBRIDGE: ASMR whispered, intimate, emotional vulnerability, breathy pauses after each word\n\nFinal Chorus: biggest drop 124–128 BPM, extra hook repeats, slightly more uplift\n\nNO OUTRO (end after final chorus hit)\n\nLYRICS (do not alter):\n\n[Intro] Adını yanlış söylediğim gün Sensizliğim iyileşti Sessizliğim komada Beni aldatmadın… o basitti…\n\n[Verse 1] Sözlerin bahane… beni dağıttın, anlamadın… bahanen değil şahanen… erkekliğinle sınıfta kaldın\n\nSadece yarım kaldım ama kadın kaldım Parçalanan sen virane benim içimden geçtin, bir daha mı?\n\n[Pre-Chorus] Ben kendimi tamamlarım insan öğreniyor…\n\nSuçu ihale… (daha ne…) acı bana havale… (daha ne…) Yer belli \"Şişşhane\"… Yıkık dökük \"merhale\" kalp hali (kerhane, ) (aşk dediğin yalane) (Onun) kalp hali kerhane… aşk dediğin yalane…\n\n[Chorus / Hook] Bahane… şahane… Benim adım: kadın — (daha da) şahane Yarım kaldım sandın ya Ben tamamım, sen virane\n\nBahane… şahane… Şişşhane’den geçtim, oldum gülhane Aşk dediğin yalansa Ben yandım da, külüm şahane\n\n[Verse 2] Ben kendimi tamamlarım insan öğreniyor… Suçu ihale… (daha ne…) acı bana havale… (daha ne…) Yer belli Şişşhane… aşk dediğin yalane… Daha ne diyeyim? Gece uzar, söz kısalır, içim büyür Sen “adamlık” diye gezdin Ben susunca sandın ömür Beni yoran sen değilsin beni yoran, aynı oyun Kendimi seçtim bu kez yüzüme vuran soğuk suyun Dün “sensiz yapamamım'dın\", Bugün “iyi ki yokum'sun\" Kalbim vardı, acıttın Şimdi acı benim dokum Bi zamanlar kıymetini bilmeden dokunduğun...\n\n[BRIDGE] [ASMR] Dur… Nefes al Dinle… Bak.. Gör… Hisset..\n\n[Long pause - audible breathing, room tone, heartbeat-like quality] [Melismatic ornaments throughout - Turkish vocal tradition honored] Yarım bıraktığını sandığın o yer: Kırhane. Benim \"olduğum\" o yer: Olhane\n\n[Chorus-Hook] [Layered Vocal] \"bahane\"… \"şahane\"… benim adım kadın — (daha da)* \"şahane\" yarım kaldım sandın ya ben tamamım, sen \"virane\" \"bahane\"… \"şahane\"… \"şişşhane’den geçtim, oldum \"gülhane\" aşk dediğin yalansa ben yandım da, külüm \"şahane\" \"bahane\"… \"şahane\"…\n\n[Final Chorus] Bahane… şahane… Benim adım: kadın — daha da şahane Yarım kaldım sandın ya Ben tamamım, sen virane\n\nDRIFT KILLER (optional, 1 line): No cinematic strings. No generic pop chorus. Keep Turkish arabesk vocal realism. End after final chorus (no outro). LYRICSKS HAS TO BE HOW IT HAS WRITTEN BY THE SONWRITER BECAUSE HAS A PURPOSE EVERY PLACEMED WORDSD, HOW THEY BWRITTEN WHOMANY WORDS IN EACH LINE OK. THAT CHANGE THE OSNG FOR GOOD,OK"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-01-17 01:49:26",
+      "text": "Refine Suno Studio prompts tonight : I want you to refine the Suno Studio prompts for the SunAy project tonight."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-17 06:22:40",
+      "text": "Great — here are the **3 generation variants** you can paste into Suno as **separate runs**.\n\nThey keep **LYRICS 100% identical** and only change **sound / performance intensity** so you can get 3 different “takes” without lyric drift.\n\n---\n\n# ✅ ATD1-A / ATD1-B / ATD1-C (Same lyrics, different takes)\n\n## **ATD1-A — RAW / MEYHANE-REAL (most human, least polished)**\n**Title:** SunAy — Bahane/Şahane (ATD1-A Raw)\n\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nTurkish arabesk x hip-hop trap/drill fusion. Viral TikTok/Reels-friendly structure. **Female mature Turkish arabesk vocal**: fragile tremble, deep sorrow, minimal vibrato, very human breaths and micro-timing. Spoken-sung verses + melodic hook.  \n**Sound priority:** raw meyhane realism + analog grit. Audible room tone, breaths, slight vocal edge.  \nDrums: darbuka + trap layering in chorus/drop, but **keep it organic** (less electronic shine).  \nBass: dark 808 but restrained and warm, not overblown.  \nClarinet taksim breaks prominent and imperfect. Kanun arpeggios subtle.  \nTempo ramp feel: intro/verse ~96 BPM → verse2 110→118 BPM feel → final drop 124–128 BPM.  \n**Mix:** vocal very forward, warm mids, soft top, tape hiss/vinyl dust allowed. No harsh sparkle. No generic pop melody. No EDM synth leads.\n\n**STRUCTURE (strict):**  \nIntro spoken/half-sung (96) → Verse 1 (96) → Pre build → Hook drop → Verse 2 drill bounce (110→118 feel) → **ASMR bridge breath pauses** → Final hook drop 124–128 → **NO OUTRO**\n\n**LYRICS (do not alter / keep exact formatting):**  \n(✅ paste the exact lyric block from ATD1 here)\n\n**DRIFT KILLER:** No cinematic strings. End after final chorus.\n\n---\n\n## **ATD1-B — CLUB CUT / VIRAL HOOK (most TikTok-friendly)**\n**Title:** SunAy — Bahane/Şahane (ATD1-B Viral)\n\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nTurkish arabesk x hip-hop trap/drill fusion. **Viral TikTok/Reels structure.** Female mature arabesk vocal: fragile tremble, sorrow, minimal vibrato, human breaths.  \n**Hook priority:** short, repeatable, punchy. Emphasize hook repetition and pauses for viral cuts.  \nDrums: tighter kick + crisp hats + subtle drill bounce. Darbuka + trap drums slam in chorus/drop.  \nBass: bigger 808 impact, clean but not EDM glossy.  \nKanun arpeggios brighter (still tasteful), short zurna stabs very rare.  \nClarinet taksim breaks short and dramatic.  \nTempo ramp feel: 96 BPM start → 110→118 Verse2 feel → 124–128 final drop.  \n**Mix:** punchy, club energy, vocal still forward, no harsh sparkle mastering. No generic Western pop melody.\n\n**STRUCTURE (strict):**  \nIntro spoken sparse → Verse1 tight → Pre build → Hook DROP (repeat lines) → Verse2 drill bounce → **ASMR bridge extreme intimacy** → Final hook drop extra repeats → **NO OUTRO**\n\n**LYRICS (do not alter / keep exact formatting):**  \n(✅ paste the exact lyric block from ATD1 here)\n\n**DRIFT KILLER:** No EDM synth leads. Keep Turkish phrasing. End after final chorus.\n\n---\n\n## **ATD1-C — CINEMATIC ARABESK (dark atmosphere, still club)**\n**Title:** SunAy — Bahane/Şahane (ATD1-C Cinematic)\n\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nTurkish arabesk x hip-hop trap/drill fusion. Female mature arabesk vocal: fragile tremble, sorrow, minimal vibrato, microtonal phrasing.  \n**Atmosphere priority:** cinematic arabesk darkness without strings. Heavy night mood, emotional weight.  \nPercussion: trap + darbuka layered in chorus, but more space and reverb tails.  \nBass: deep 808 sub, slow menace.  \nClarinet taksim breaks longer and haunting with echo. Kanun arpeggios ghostlike.  \nTempo ramp feel: 96 → 110→118 → 124–128 final drop.  \n**Mix:** wide, shadowy, analog tape warmth, space echo throws at phrase ends. No harsh sparkle. No epic orchestral strings.\n\n**STRUCTURE (strict):**  \nIntro spoken sparse → Verse1 tight → Pre build → Hook drop → Verse2 darker drill bounce → **ASMR bridge with silence + breathing** → Final chorus drop uplift slightly → **NO OUTRO**\n\n**LYRICS (do not alter / keep exact formatting):**  \n(✅ paste the exact lyric block from ATD1 here)\n\n**DRIFT KILLER:** No cinematic strings. No pop chorus. End after final chorus.\n\n---\n\n## Quick use instruction (so you don’t waste gens)\n- Run **ATD1-A** first (best chance of emotional realism)\n- Run **ATD1-B** second (best chance of viral hook)\n- Run **ATD1-C** third (best mood + atmosphere)\n\nIf you want, I can also output **a single “copy paste pack”** where each variant already includes the full lyric block inside (so you don’t have to paste lyrics 3 times)."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-01-17 06:20:42",
+      "text": "NO, EXIT FROM CANVAS"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-01-17 06:21:24",
+      "text": "OK CAN I. HAVE MY SONG"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-17 05:48:11",
+      "text": "Yes — I can convert this into a **single, Suno Studio-ready “one version” prompt** (one cohesive block), keeping your **lyrics intact** and locking the **verse2 rap flow + ASMR bridge calm breath after each word + no outro**.\n\nBelow is a **copy/paste Suno prompt** that matches your spec.\n\n---\n\n## ✅ SUNO STUDIO — ONE VERSION PROMPT (Arabesk x Trap/Drill Fusion)\n\n**Title:** BAHANE / ŞAHANE — SunAy (Arabesk Trap Drill)\n\n**Prompt:**  \nTurkish arabesk x hip-hop trap/drill fusion. Viral TikTok/Reels-friendly structure. **Female mature Turkish arabesk vocal**: fragile tremble, deep sorrow, minimal vibrato, very human breaths and micro-timing. **Spoken-sung verses** + **melodic hook**. Dark 808 bass, tight kick, crisp hats, subtle drill bounce. **Darbuka layered with trap drums in chorus/drop**. **Clarinet taksim breaks**, **kanun arpeggios** for texture, occasional **very subtle zurna-like stabs** (short, rare). Cinematic arabesk atmosphere + club energy without losing raw soul. Strong pause moments.  \n**Tempo ramp feel:** intro/verse ~96 BPM → verse2 feels 110→118 BPM → final chorus/drop 124–128 BPM. Big short hook repeats for viral cut.  \n**Mix:** vocal forward, warm analog texture, tape hiss/vinyl dust allowed, no harsh sparkle mastering. No generic pop melody. No EDM synth leads.\n\n**STRUCTURE (strict):**  \n- **Intro:** spoken/half-sung, sparse darbuka (96 BPM)  \n- **Verse 1:** arabesk-rap, tight pocket (96 BPM)  \n- **Pre-Chorus:** build, kanun arpeggio + hats opening  \n- **Chorus/Hook:** catchy repeatable hook, darbuka + 808 drop  \n- **Verse 2:** more rap flow, darker drill bounce, tempo rises (110→118 BPM feel)  \n- **BRIDGE:** **ASMR whispered, intimate, emotional vulnerability**, breathy pauses after each word  \n- **Final Chorus:** biggest drop 124–128 BPM, extra hook repeats, slightly more uplift  \n- **NO OUTRO** (end after final chorus hit)\n\n**LYRICS (do not alter):**\n\n[Intro]  \nAdını yanlış söylediğim gün  \nSensizliğim iyileşti  \nSessizliğim komada  \nBeni aldatmadın… o basitti…\n\n[Verse 1]  \nSözlerin bahane…  \nbeni dağıttın, anlamadın…  \nbahanen değil şahanen…  \nerkekliğinle sınıfta kaldın  \n\nSadece yarım kaldım  \nama kadın kaldım  \nParçalanan sen virane  \nbenim içimden geçtin,  \nbir daha mı?\n\n[Pre-Chorus]  \nBen kendimi tamamlarım  \ninsan öğreniyor…\n\nSuçu ihale… (daha ne…)  \nacı bana havale… (daha ne…)  \nYer belli \\\"Şişşhane\\\"…  \nYıkık dökük \\\"merhale\\\"  \nkalp hali (kerhane, )  \n(aşk dediğin yalane)  \n(Onun) kalp hali kerhane…  \naşk dediğin yalane…\n\n[Chorus / Hook]  \nBahane… şahane…  \nBenim adım: kadın — (daha da) şahane  \nYarım kaldım sandın ya  \nBen tamamım, sen virane  \n\nBahane… şahane…  \nŞişşhane’den geçtim, oldum gülhane  \nAşk dediğin yalansa  \nBen yandım da, külüm şahane\n\n[Verse 2]  \nBen kendimi tamamlarım  \ninsan öğreniyor…  \nSuçu ihale… (daha ne…)  \nacı bana havale… (daha ne…)  \nYer belli Şişşhane…  \naşk dediğin yalane…  \nDaha ne diyeyim?  \nGece uzar, söz kısalır, içim büyür  \nSen “adamlık” diye gezdin  \nBen susunca sandın ömür  \nBeni yoran sen değilsin  \nbeni yoran, aynı oyun  \nKendimi seçtim bu kez  \nyüzüme vuran soğuk suyun  \nDün “sensiz yapamamım'dın”,  \nBugün “iyi ki yokum'sun\\\"  \nKalbim vardı, acıttın  \nŞimdi acı benim dokum  \nBi zamanlar  \nkıymetini bilmeden dokunduğun...\n\n[BRIDGE] [ASMR]  \nDur…  \nNefes al  \nDinle…  \nBak..  \nGör…  \nHisset..\n\n[Long pause - audible breathing, room tone, heartbeat-like quality]  \n[Melismatic ornaments throughout - Turkish vocal tradition honored]  \nYarım bıraktığını sandığın o yer: Kırhane.  \nBenim \\\"olduğum\\\" o yer: Olhane\n\n[Chorus-Hook] [Layered Vocal]  \n\\\"bahane\\\"… \\\"şahane\\\"…  \nbenim adım kadın —  \n(daha da)* \\\"şahane\\\"  \nyarım kaldım sandın ya  \nben tamamım,  \nsen \\\"virane\\\"  \n\\\"bahane\\\"… \\\"şahane\\\"…  \n\\\"şişhane’den geçtim,  \noldum \\\"gülhane\\\"  \naşk dediğin yalansa  \nben yandım da,  \nkülüm \\\"şahane\\\"  \n\\\"bahane\\\"… \\\"şahane\\\"…\n\n[Final Chorus]  \nBahane… şahane…  \nBenim adım: kadın — daha da şahane  \nYarım kaldım sandın ya  \nBen tamamım, sen virane\n\n---\n\n### Optional “drift killer” line (add at the very end)\n**No cinematic strings. No generic pop chorus. Keep Turkish arabesk vocal realism. End after final chorus (no outro).**\n\n---\n\nIf you want, I can **add this as a new entry into the Canvas library** under a section like:  \n**2.7 Arabesk Trap/Drill (Tempo Ramp / Viral Hook)** so it becomes part of SunAy Prompt Library v1.1."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-01-17 06:22:39",
+      "text": "OK"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-17 05:44:38",
+      "text": "Done ✅ I’ve put **SunAy Prompt Library v1.0 (Suno Studio)** into **Canvas** now.\n\nYou can download it from there (Canvas menu → download / export).\n\nIf you want, I can also:\n- format it as a **clean PDF layout** (print-friendly), or  \n- convert it into a **Suno “Prompt Pack”** with separate sections per genre (Acoustic / Meyhane / Trap / Psych / Noir / Club)."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-17 06:20:42",
+      "text": "Understood ✅\n\nCanvas is now **done** — I won’t make any more edits there."
+    }
+  ],
+  "raw_conversation": {
+    "conversation_id": "696aeaa6-ec74-8329-b4fc-1eb9f7129146",
+    "conversation_template_id": null,
+    "create_time": 1768614567.872131,
+    "current_node": "c240b39b-d44e-43b9-98d9-8578767483c9",
+    "default_model_slug": "gpt-5-2",
+    "id": "696aeaa6-ec74-8329-b4fc-1eb9f7129146",
+    "is_archived": false,
+    "is_do_not_remember": false,
+    "is_read_only": null,
+    "is_starred": null,
+    "is_study_mode": false,
+    "mapping": {
+      "0dc1c967-ce2f-43c0-b69a-df7f99fb531c": {
+        "id": "0dc1c967-ce2f-43c0-b69a-df7f99fb531c",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "also can you please make this one version  in one of those ones \n\nTurkish arabesk, hip-hop trap, drill\n[Turkish arabesk x hip-hop trap/drill fusion, viral TikTok/Reels-friendly structure, Female mature arabesk vocal fragile tremble, deep sorrow, minimal vibrato), spoken-sung verses + melodic hook, Dark 808 bass, tight kick, crisp hats, subtle drill bounce, Darbuka layered with trap drums (chorus/drop), clarinet taksim breaks, kanun arpeggios for texture, occasional short zurna-like stabs very subtle, Tempo ramp feel: starts ~96 BPM intro/verse rising to ~124–128 BPM final drop, Big short hook repeats, strong pause moments, cinematic arabesk atmosphere, club energy without losing raw arabesk soul, Outro: sarcastic spoken monologue over fading darbuka + clarinet echoes]\n\n[Intro: spoken/half-sung, sparse darbuka, \nVerse 1: arabesk-rap, 96 BPM, tight pockets, \nPre-Chorus: build, kanun arpej + hats opening, \nChorus / Hook: catchy, repeatable, darbuka + 808 drop, \nVerse 2: rap flow more rap, darker drill bounce, 110→118 BPM feel, \nBRIDGE: ASMR, WHISPERED, INTIMATE, EMOTIONAL VULNERABILITY, PAUSES FOR BREATH,]\n[Final Chorus] — biggest drop, 124–128 BPM, extra repeats for viral cut]\n\n\n\n[Intro]  \nAdını yanlış söylediğim gün\nSensizliğim iyileşti\nSessizliğim komada\nBeni aldatmadın… o basitti…\n\n[Verse 1]\nSözlerin bahane…\nbeni dağıttın, anlamadın…\nbahanen değil şahanen…\nerkekliğinle sınıfta kaldın\n\nSadece yarım kaldım\nama kadın kaldım\nParçalanan sen virane\nbenim içimden geçtin, \nbir daha mı?\n\n[Pre-Chorus] \nBen kendimi tamamlarım\ninsan öğreniyor…\n\nSuçu ihale… (daha ne…)\nacı bana havale… (daha ne…)\nYer belli \"Şişşhane\"…\nYıkık dökük \"merhale\"\nkalp hali (kerhane, )\n(aşk dediğin yalane)\n(Onun) kalp hali kerhane…\naşk dediğin yalane…\n\n[Chorus / Hook]\nBahane… şahane…\nBenim adım: kadın — (daha da)  şahane\nYarım kaldım sandın ya\nBen tamamım, sen virane\n\nBahane… şahane…\nŞişşhane’den geçtim, oldum gülhane\nAşk dediğin yalansa\nBen yandım da, külüm şahane\n\n[Verse 2]\nBen kendimi tamamlarım\ninsan öğreniyor…\nSuçu ihale… (daha ne…)\nacı bana havale… (daha ne…)\nYer belli Şişşhane…\naşk dediğin yalane…\nDaha ne diyeyim?\nGece uzar, söz kısalır, içim büyür\nSen “adamlık” diye gezdin\nBen susunca sandın ömür\nBeni yoran sen değilsin\nbeni yoran, aynı oyun\nKendimi seçtim bu kez\nyüzüme vuran soğuk suyun\nDün “sensiz yapamamım'dın\", \nBugün “iyi ki yokum'sun\"\nKalbim vardı, acıttın\nŞimdi acı benim dokum\nBi zamanlar\nkıymetini bilmeden dokunduğun...\n\n[BRIDGE] [ASMR]\nDur…\nNefes al\nDinle…\nBak..\nGör…\nHisset.. \n\n[Long pause - audible breathing, room tone, heartbeat-like quality] [Melismatic ornaments throughout - Turkish vocal tradition honored]\nYarım bıraktığını sandığın o yer: Kırhane.\nBenim \"olduğum\" o yer: Olhane\n\n[Chorus-Hook] Layered Vocal]\n\"bahane\"… \"şahane\"…\nbenim adım kadın —\n(daha da)* \"şahane\"\nyarım kaldım sandın ya  \nben tamamım, \nsen \"virane\" \n\"bahane\"… \"şahane\"…\n\"şişhane’den geçtim, \noldum \"gülhane\"\naşk dediğin yalansa  \nben yandım da, \nkülüm \"şahane\"  \n\"bahane\"… \"şahane\"…\n\n[Final Chorus] \nBahane… şahane…\nBenim adım: kadın — daha da şahane\nYarım kaldım sandın ya\nBen tamamım, sen virane\nlerin yok…\nKafa mis… yemin ediyorum vallahi ne güzel ya…\nKeşke erkek olsaydık ya… kalbin yok… hislerin yok…\nBahane… şahane…\n\n[Outro Speech] \n(Kafa mis… yemin ediyorum vallahi ne güzel ya…)\n(Keşke erkek olsaydık ya…) \n(Ne güzel…kalbin yok… hislerin yok…)\nBeynin?  (Bahane) (sahane)  verse2 is rap flow  then asmr bridge  is calm momemnt breath after each word,  there is no outro, i will arrange it. final chorus slightly more uplift "
+            ]
+          },
+          "create_time": 1768628891.034,
+          "id": "0dc1c967-ce2f-43c0-b69a-df7f99fb531c",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "d7c51e5f-242c-4f10-b275-142948925ee6"
+      },
+      "1c3291cb-f6a8-487d-b755-70fe0c810513": {
+        "id": "1c3291cb-f6a8-487d-b755-70fe0c810513",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Done ✅ I patched **ATD1** in Canvas so the **lyrics now preserve your exact songwriter formatting** — including:\n\n- **line breaks**\n- **spacing**\n- **punctuation**\n- **quotes**\n- **intentional word placement**\n- **ASMR bridge breath-pauses**\n- **no outro preserved**\n\nSo the lyric body won’t “collapse” or change rhythm in Suno.\n\nIf you want, I can also add a **“LYRICS LOCK RULE”** at the top of the library (one permanent rule) so every future prompt keeps the same strict treatment automatically."
+            ]
+          },
+          "create_time": 1768630813.107258,
+          "id": "1c3291cb-f6a8-487d-b755-70fe0c810513",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-2",
+            "parent_id": "a5429403-38d6-41e8-be77-7363bec9290b"
+          }
+        },
+        "parent": "6ba68bdd-1186-481c-b839-6f796037c24f"
+      },
+      "24f84568-37f8-4fd6-b1e4-565e81630bcd": {
+        "id": "24f84568-37f8-4fd6-b1e4-565e81630bcd",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "yes pls"
+            ]
+          },
+          "create_time": 1768630383.668,
+          "id": "24f84568-37f8-4fd6-b1e4-565e81630bcd",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "d2f605b9-c5ee-48dd-b472-56e10403f873"
+      },
+      "45afbcb5-9c12-4c66-8441-600aa7706bf8": {
+        "id": "45afbcb5-9c12-4c66-8441-600aa7706bf8",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Done ✅\n\nI added your **Arabesk x Trap/Drill tempo-ramp version** into the **Canvas** library as:\n\n**2.7 Arabesk Trap/Drill (Tempo Ramp / Viral Hook)**  \n**ATD1 — Bahane/Şahane (Arabesk Trap Drill)**\n\nSo now it’s part of **SunAy Prompt Library v1.0** and downloadable together."
+            ]
+          },
+          "create_time": 1768630398.027712,
+          "id": "45afbcb5-9c12-4c66-8441-600aa7706bf8",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-2",
+            "parent_id": "a888cd6a-2dc8-4e47-9c17-f277a65ab3d3"
+          }
+        },
+        "parent": "24f84568-37f8-4fd6-b1e4-565e81630bcd"
+      },
+      "4c5c10f5-9e63-418d-9fc7-86b918f8c51d": {
+        "id": "4c5c10f5-9e63-418d-9fc7-86b918f8c51d",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I can’t *generate or deliver the audio track itself* from Suno inside here (Suno creates the song on their side), but I **can give you the exact final Suno-ready block** to paste so you can generate it immediately.\n\nHere is your **final patched Suno prompt** (ATD1), with **lyrics preserved exactly**:\n\n---\n\n### **ATD1 — Arabesk Trap/Drill Fusion (tempo ramp, ASMR bridge, no outro)**  \n**Title:** SunAy — Bahane/Şahane (Arabesk Trap Drill)\n\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nTurkish arabesk x hip-hop trap/drill fusion. Viral TikTok/Reels-friendly structure. **Female mature Turkish arabesk vocal**: fragile tremble, deep sorrow, minimal vibrato, very human breaths and micro-timing. **Spoken-sung verses + melodic hook.** Dark 808 bass, tight kick, crisp hats, subtle drill bounce. **Darbuka layered with trap drums (chorus/drop).** **Clarinet taksim breaks**, **kanun arpeggios** for texture, occasional **very subtle zurna-like stabs** (short, rare). Cinematic arabesk atmosphere, club energy without losing raw arabesk soul. Strong pause moments.  \n**Tempo ramp feel:** starts ~96 BPM intro/verse rising to ~124–128 BPM final drop. Big short hook repeats for viral cut.  \n**Mix:** vocal forward, warm analog texture, tape hiss/vinyl dust allowed, no harsh sparkle mastering. No generic pop melody. No EDM synth leads.\n\n**STRUCTURE (strict):**  \n- **Intro:** spoken/half-sung, sparse darbuka (96 BPM)  \n- **Verse 1:** arabesk-rap, tight pocket (96 BPM)  \n- **Pre-Chorus:** build, kanun arpeggio + hats opening  \n- **Chorus / Hook:** catchy, repeatable, darbuka + 808 drop  \n- **Verse 2:** rap flow more rap, darker drill bounce, 110→118 BPM feel  \n- **BRIDGE:** ASMR whispered, intimate, emotional vulnerability, **pauses for breath after each word**  \n- **Final Chorus:** biggest drop, 124–128 BPM, extra repeats for viral cut, slightly more uplift  \n- **NO OUTRO** (end after final chorus hit)\n\n**LYRICS (do not alter / keep exact formatting):**\n\n[Intro]  \nAdını yanlış söylediğim gün  \nSensizliğim iyileşti  \nSessizliğim komada  \nBeni aldatmadın… o basitti…\n\n[Verse 1]  \nSözlerin bahane…  \nbeni dağıttın, anlamadın…  \nbahanen değil şahanen…  \nerkekliğinle sınıfta kaldın  \n\nSadece yarım kaldım  \nama kadın kaldım  \nParçalanan sen virane  \nbenim içimden geçtin,  \nbir daha mı?\n\n[Pre-Chorus]  \nBen kendimi tamamlarım  \ninsan öğreniyor…\n\nSuçu ihale… (daha ne…)  \nacı bana havale… (daha ne…)  \nYer belli \"Şişşhane\"…  \nYıkık dökük \"merhale\"  \nkalp hali (kerhane, )  \n(aşk dediğin yalane)  \n(Onun) kalp hali kerhane…  \naşk dediğin yalane…\n\n[Chorus / Hook]  \nBahane… şahane…  \nBenim adım: kadın — (daha da)  şahane  \nYarım kaldım sandın ya  \nBen tamamım, sen virane\n\nBahane… şahane…  \nŞişşhane’den geçtim, oldum gülhane  \nAşk dediğin yalansa  \nBen yandım da, külüm şahane\n\n[Verse 2]  \nBen kendimi tamamlarım  \ninsan öğreniyor…  \nSuçu ihale… (daha ne…)  \nacı bana havale… (daha ne…)  \nYer belli Şişşhane…  \naşk dediğin yalane…  \nDaha ne diyeyim?  \nGece uzar, söz kısalır, içim büyür  \nSen “adamlık” diye gezdin  \nBen susunca sandın ömür  \nBeni yoran sen değilsin  \nbeni yoran, aynı oyun  \nKendimi seçtim bu kez  \nyüzüme vuran soğuk suyun  \nDün “sensiz yapamamım'dın\",  \nBugün “iyi ki yokum'sun\"  \nKalbim vardı, acıttın  \nŞimdi acı benim dokum  \nBi zamanlar  \nkıymetini bilmeden dokunduğun...\n\n[BRIDGE] [ASMR]  \nDur…  \nNefes al  \nDinle…  \nBak..  \nGör…  \nHisset..\n\n[Long pause - audible breathing, room tone, heartbeat-like quality]  \n[Melismatic ornaments throughout - Turkish vocal tradition honored]  \nYarım bıraktığını sandığın o yer: Kırhane.  \nBenim \"olduğum\" o yer: Olhane\n\n[Chorus-Hook] [Layered Vocal]  \n\"bahane\"… \"şahane\"…  \nbenim adım kadın —  \n(daha da)* \"şahane\"  \nyarım kaldım sandın ya  \nben tamamım,  \nsen \"virane\"  \n\"bahane\"… \"şahane\"…  \n\"şişhane’den geçtim,  \noldum \"gülhane\"  \naşk dediğin yalansa  \nben yandım da,  \nkülüm \"şahane\"  \n\"bahane\"… \"şahane\"…\n\n[Final Chorus]  \nBahane… şahane…  \nBenim adım: kadın — daha da şahane  \nYarım kaldım sandın ya  \nBen tamamım, sen virane\n\n**DRIFT KILLER (optional, 1 line):**  \nNo cinematic strings. No generic pop chorus. Keep Turkish arabesk vocal realism. End after final chorus (no outro).\n\n---\n\nIf you want, I can also give you **3 “generation variants”** of this same prompt (ATD1-A / ATD1-B / ATD1-C) that keep lyrics identical but tweak *only* mix/percussion/voice intensity — so you can generate 3 takes and pick the best."
+            ]
+          },
+          "create_time": 1768630885.256161,
+          "id": "4c5c10f5-9e63-418d-9fc7-86b918f8c51d",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-2",
+            "parent_id": "bcb37da5-8ead-4181-b7e3-a4f23b209a88"
+          }
+        },
+        "parent": "c8c67d20-e1ef-497a-be8c-2b84337b85ce"
+      },
+      "4ca33a3c-5ade-47dc-8b48-ed56264b4f3f": {
+        "id": "4ca33a3c-5ade-47dc-8b48-ed56264b4f3f",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Got it — **100% agreed**.\n\nFor Suno, **line breaks / spacing / punctuation / quote marks / repeated words** can change phrasing, cadence, breath timing, and even hook perception — so **lyrics must remain exactly as written by the songwriter**.\n\n### What I will do going forward (for SunAy prompts)\n- ✅ **I will not change your lyrics at all**\n- ✅ **I will preserve**:\n  - line breaks\n  - word order\n  - punctuation (… , —, “ ”, quotes)\n  - repetitions\n  - bracket tags ([Verse], [Bridge], etc.)\n  - the number of words per line\n- ✅ I will only edit the **production prompt block** (sound + performance), never the lyric body.\n\n### About ATD1\nYou’re right: in the Canvas version, the lyric portion is *visually compressed* in places (because of formatting), even if the words are the same — and that’s **not acceptable** for your intended delivery.\n\nIf you want, I can now **patch ATD1** inside the Canvas doc so that:\n- the lyrics appear **exactly with your original line formatting**, **zero compression**, **zero punctuation changes**\n- and the prompt stays clean + Suno friendly.\n\nSay: **“PATCH ATD1 LYRICS EXACT FORMAT”** and I’ll apply it in Canvas immediately."
+            ]
+          },
+          "create_time": 1768630693.032725,
+          "id": "4ca33a3c-5ade-47dc-8b48-ed56264b4f3f",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-2",
+            "parent_id": "280d6524-5fd3-4280-b7f1-e3bb6bac8e4c"
+          }
+        },
+        "parent": "7b9a26e6-2e98-4947-bbe1-0af65437915e"
+      },
+      "5acf04b3-e2d6-4a35-bf5f-ed9858dc1452": {
+        "id": "5acf04b3-e2d6-4a35-bf5f-ed9858dc1452",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Understood. Here’s a **tonight-ready refinement pack** for your **SunAy** Suno Studio prompts — optimized to reduce drift, lock performance behavior, and keep outputs consistent across generations.\n\n---\n\n# SunAy — Suno Studio Prompt Refinement Pack (Tonight)\n\n## 0) Core “LOCK” block (paste at top of every prompt)\nUse this exactly (it’s your anti-drift anchor):\n\n**[LOCKED CORE — DO NOT CHANGE]**  \n- **Identity:** SunAy (Turkish female vocal)  \n- **Vocal realism:** intimate, human micro-timing, audible breaths, small imperfections, emotional control  \n- **Makam/microtonal phrasing:** Turkish inflections + controlled melisma  \n- **No generic pop melody** (avoid Eurovision vibe, avoid overly clean Top40 hooks)  \n- **Production rule:** warm analog texture (tape hiss / vinyl dust allowed), no harsh sparkle mastering  \n- **Emotion rule:** intelligent, confident, emotionally precise (NOT submissive / melodramatic)  \n- **Drift control:** keep instrumentation stable; no random cinematic strings unless specified  \n\n---\n\n## 1) SunAy Prompt Template (use this as your base)\nPaste this, then only change the bracketed details.\n\n**Title:** SunAy — [TRACK NAME]  \n**Style tags:** Turkish modern fusion / [subgenre] / emotional realism  \n**BPM + time:** [BPM] — **9/8 Aksak (2+2+2+3)** OR [4/4]  \n**Key / flavor:** Hicaz tension → Buselik release (if applicable)\n\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \n[Paste the core block above]\n\n**[SONG INTENT]**  \n- Mood: [raw heartbreak / proud distance / late-night confession / etc.]  \n- Narrative: [1 line only]  \n- Arc: Verse restrained → Chorus controlled power → Bridge intimate confession → Final chorus lift\n\n**[VOCAL PERFORMANCE LOCK]**  \n- Verses: whisper-close mic, breath texture  \n- Chorus: chest voice controlled, no “big diva” belting unless specified  \n- Adlibs: minimal, only last chorus, microtonal Turkish runs\n\n**[INSTRUMENTATION — STRICT]**  \n- Always: oud or saz texture + warm bass + organic percussion  \n- No EDM drums unless requested  \n- If trap: ONLY deep davul/doum low rumble effect (no 808 synth)\n\n**[MIX]**  \n- Vocal forward, warm mids, soft top  \n- Room ambience present (bedroom/live feel)\n\n---\n\n## 2) Tonight’s 6 refined “ready-to-generate” prompts (copy/paste)\n\n### A) SunAy — Bedroom Aksak Acoustic (pure realism)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nSunAy performs **live bedroom acoustic** in **9/8 aksak (2+2+2+3)**.  \nFingerpicked acoustic + subtle oud doubles. **No drums kit**. Only light hand taps / soft darbuka brushes.  \nVocal is **breathy, close mic, fragile**, Turkish microtonal phrasing, controlled melisma only at emotional words.  \nWarm tape hiss + quiet room ambience. No cinematic layers.\n\n---\n\n### B) SunAy — Gecekondu Trap Davul (organic trap, no synth)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nDark Turkish heartbreak empowerment. **9/8 aksak half-time feel**.  \nPercussion: **low-tuned davul (sub doum)** + darbuka rolls + riq zils = trap-style rhythm but **100% acoustic**.  \nBass: warm flatwound thud.  \nSaz: distorted edge (germanium fuzz), microtonal bends.  \nVocals: verse whisper → chorus controlled chest voice (not pop-diva).  \nMix: analog grit, space echo throws only at phrase endings.\n\n---\n\n### C) SunAy — Psychedelic Anatolian Rock (Space Echo + live band)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \n1970s Anatolian psych rock meets modern emotional realism.  \nInstrumentation: live drums (soft but real), bass, fuzz saz lead, phased guitar swells, oud texture bed.  \nFX: Roland Space Echo + Schulte phaser feel, tape saturation.  \nVocals: confident, emotionally precise; microtonal Hicaz colors in verses, Buselik relief in chorus.\n\n---\n\n### D) SunAy — Minimal Piano Noir (sparse, brutal emotional clarity)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nSparse noir ballad. Tempo slow (68–78 BPM).  \nOnly: muted piano + low bass + tiny room percussion (table taps).  \nVocal extremely intimate, breathy, close mic, fragile but self-controlled.  \nNo strings, no big chorus lift.  \nFocus on lyric delivery realism and Turkish ornamentation.\n\n---\n\n### E) SunAy — Club Remorse (tasteful, not generic EDM)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nModern club track with Turkish identity. 120–126 BPM 4/4.  \nBeat: deep warm kick + organic percussion layers; no cheesy pop synths.  \nBass: warm rolling.  \nHook: Turkish microtonal vocal runs (minimal, tasteful).  \nChorus is **controlled power**, not diva belting.  \nMix: warm analog, no harsh sparkle.\n\n---\n\n### F) SunAy — Live Tavern Session (meyhane realism)\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nLive tavern/meyhane session: audible room, clinks, murmurs, breaths.  \nInstrumentation: oud + clarinet taksim (imperfect human), darbuka + riq, warm bass.  \nStructure: verse storytelling → chorus refrain → short taksim bridge → final chorus.  \nVocal: conversational verses, emotional lift in chorus, microtonal ornaments.\n\n---\n\n## 3) Drift-killers (paste at end of prompts when Suno misbehaves)\nUse 1 line, not a paragraph:\n\n- **“No cinematic strings. No epic build.”**  \n- **“Keep Turkish phrasing; avoid Western pop melody.”**  \n- **“Do not add EDM synth leads.”**  \n- **“Keep vocals intimate and human, not polished.”**  \n- **“Do not change time signature: 9/8 (2+2+2+3).”**\n\n---\n\nIf you want, I can also produce a **SunAy Prompt Library v1.0** as a single clean block (20+ categorized prompts) so your whole SunAy project becomes consistent and scalable."
+            ]
+          },
+          "create_time": 1768614567.709886,
+          "id": "5acf04b3-e2d6-4a35-bf5f-ed9858dc1452",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-2",
+            "parent_id": "bcf6ac9c-74fe-420b-88be-fb3bf6a11675"
+          }
+        },
+        "parent": "95ddcc97-223f-4fa0-938e-2e7ec56b01c7"
+      },
+      "61e24dd7-0065-4b42-ab7e-f5066787cecb": {
+        "id": "61e24dd7-0065-4b42-ab7e-f5066787cecb",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "thank you that. is a good idea. can you send it to canvas so i can downlaod it. "
+            ]
+          },
+          "create_time": 1768628633.324,
+          "id": "61e24dd7-0065-4b42-ab7e-f5066787cecb",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            },
+            "targeted_reply_source_message_id": "5acf04b3-e2d6-4a35-bf5f-ed9858dc1452",
+            "targeted_reply_source_range": {
+              "end": 5473,
+              "start": 5299
+            }
+          }
+        },
+        "parent": "5acf04b3-e2d6-4a35-bf5f-ed9858dc1452"
+      },
+      "6ba68bdd-1186-481c-b839-6f796037c24f": {
+        "id": "6ba68bdd-1186-481c-b839-6f796037c24f",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "THATS FINE. PATCH ATD1 LYRICS EXACT FORMAT"
+            ]
+          },
+          "create_time": 1768630799.887,
+          "id": "6ba68bdd-1186-481c-b839-6f796037c24f",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "4ca33a3c-5ade-47dc-8b48-ed56264b4f3f"
+      },
+      "7b9a26e6-2e98-4947-bbe1-0af65437915e": {
+        "id": "7b9a26e6-2e98-4947-bbe1-0af65437915e",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "ATD1 — Arabesk Trap/Drill Fusion (tempo ramp, ASMR bridge, no outro)\n\nTitle: SunAy — Bahane/Şahane (Arabesk Trap Drill)\n\nPrompt: [LOCKED CORE — DO NOT CHANGE] Turkish arabesk x hip-hop trap/drill fusion. Viral TikTok/Reels-friendly structure. Female mature Turkish arabesk vocal: fragile tremble, deep sorrow, minimal vibrato, very human breaths and micro-timing. Spoken-sung verses + melodic hook. Dark 808 bass, tight kick, crisp hats, subtle drill bounce. Darbuka layered with trap drums in chorus/drop. Clarinet taksim breaks, kanun arpeggios for texture, occasional very subtle zurna-like stabs (short, rare). Cinematic arabesk atmosphere + club energy without losing raw soul. Strong pause moments. Tempo ramp feel: intro/verse ~96 BPM → verse2 feels 110→118 BPM → final chorus/drop 124–128 BPM. Big short hook repeats for viral cut. Mix: vocal forward, warm analog texture, tape hiss/vinyl dust allowed, no harsh sparkle mastering. No generic pop melody. No EDM synth leads.\n\nSTRUCTURE (strict):\n\nIntro: spoken/half-sung, sparse darbuka (96 BPM)\n\nVerse 1: arabesk-rap, tight pocket (96 BPM)\n\nPre-Chorus: build, kanun arpeggio + hats opening\n\nChorus/Hook: catchy repeatable hook, darbuka + 808 drop\n\nVerse 2: more rap flow, darker drill bounce, tempo rises (110→118 BPM feel)\n\nBRIDGE: ASMR whispered, intimate, emotional vulnerability, breathy pauses after each word\n\nFinal Chorus: biggest drop 124–128 BPM, extra hook repeats, slightly more uplift\n\nNO OUTRO (end after final chorus hit)\n\nLYRICS (do not alter):\n\n[Intro] Adını yanlış söylediğim gün Sensizliğim iyileşti Sessizliğim komada Beni aldatmadın… o basitti…\n\n[Verse 1] Sözlerin bahane… beni dağıttın, anlamadın… bahanen değil şahanen… erkekliğinle sınıfta kaldın\n\nSadece yarım kaldım ama kadın kaldım Parçalanan sen virane benim içimden geçtin, bir daha mı?\n\n[Pre-Chorus] Ben kendimi tamamlarım insan öğreniyor…\n\nSuçu ihale… (daha ne…) acı bana havale… (daha ne…) Yer belli \"Şişşhane\"… Yıkık dökük \"merhale\" kalp hali (kerhane, ) (aşk dediğin yalane) (Onun) kalp hali kerhane… aşk dediğin yalane…\n\n[Chorus / Hook] Bahane… şahane… Benim adım: kadın — (daha da) şahane Yarım kaldım sandın ya Ben tamamım, sen virane\n\nBahane… şahane… Şişşhane’den geçtim, oldum gülhane Aşk dediğin yalansa Ben yandım da, külüm şahane\n\n[Verse 2] Ben kendimi tamamlarım insan öğreniyor… Suçu ihale… (daha ne…) acı bana havale… (daha ne…) Yer belli Şişşhane… aşk dediğin yalane… Daha ne diyeyim? Gece uzar, söz kısalır, içim büyür Sen “adamlık” diye gezdin Ben susunca sandın ömür Beni yoran sen değilsin beni yoran, aynı oyun Kendimi seçtim bu kez yüzüme vuran soğuk suyun Dün “sensiz yapamamım'dın\", Bugün “iyi ki yokum'sun\" Kalbim vardı, acıttın Şimdi acı benim dokum Bi zamanlar kıymetini bilmeden dokunduğun...\n\n[BRIDGE] [ASMR] Dur… Nefes al Dinle… Bak.. Gör… Hisset..\n\n[Long pause - audible breathing, room tone, heartbeat-like quality] [Melismatic ornaments throughout - Turkish vocal tradition honored] Yarım bıraktığını sandığın o yer: Kırhane. Benim \"olduğum\" o yer: Olhane\n\n[Chorus-Hook] [Layered Vocal] \"bahane\"… \"şahane\"… benim adım kadın — (daha da)* \"şahane\" yarım kaldım sandın ya ben tamamım, sen \"virane\" \"bahane\"… \"şahane\"… \"şişşhane’den geçtim, oldum \"gülhane\" aşk dediğin yalansa ben yandım da, külüm \"şahane\" \"bahane\"… \"şahane\"…\n\n[Final Chorus] Bahane… şahane… Benim adım: kadın — daha da şahane Yarım kaldım sandın ya Ben tamamım, sen virane\n\nDRIFT KILLER (optional, 1 line): No cinematic strings. No generic pop chorus. Keep Turkish arabesk vocal realism. End after final chorus (no outro). LYRICSKS HAS TO BE HOW IT HAS WRITTEN BY THE SONWRITER BECAUSE HAS A PURPOSE EVERY PLACEMED WORDSD, HOW THEY BWRITTEN WHOMANY WORDS IN EACH LINE OK. THAT CHANGE THE OSNG FOR GOOD,OK"
+            ]
+          },
+          "create_time": 1768630692.347,
+          "id": "7b9a26e6-2e98-4947-bbe1-0af65437915e",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "45afbcb5-9c12-4c66-8441-600aa7706bf8"
+      },
+      "95ddcc97-223f-4fa0-938e-2e7ec56b01c7": {
+        "id": "95ddcc97-223f-4fa0-938e-2e7ec56b01c7",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Refine Suno Studio prompts tonight : I want you to refine the Suno Studio prompts for the SunAy project tonight."
+            ]
+          },
+          "create_time": 1768614566.629,
+          "id": "95ddcc97-223f-4fa0-938e-2e7ec56b01c7"
+        },
+        "parent": "client-created-root"
+      },
+      "c240b39b-d44e-43b9-98d9-8578767483c9": {
+        "id": "c240b39b-d44e-43b9-98d9-8578767483c9",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great — here are the **3 generation variants** you can paste into Suno as **separate runs**.\n\nThey keep **LYRICS 100% identical** and only change **sound / performance intensity** so you can get 3 different “takes” without lyric drift.\n\n---\n\n# ✅ ATD1-A / ATD1-B / ATD1-C (Same lyrics, different takes)\n\n## **ATD1-A — RAW / MEYHANE-REAL (most human, least polished)**\n**Title:** SunAy — Bahane/Şahane (ATD1-A Raw)\n\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nTurkish arabesk x hip-hop trap/drill fusion. Viral TikTok/Reels-friendly structure. **Female mature Turkish arabesk vocal**: fragile tremble, deep sorrow, minimal vibrato, very human breaths and micro-timing. Spoken-sung verses + melodic hook.  \n**Sound priority:** raw meyhane realism + analog grit. Audible room tone, breaths, slight vocal edge.  \nDrums: darbuka + trap layering in chorus/drop, but **keep it organic** (less electronic shine).  \nBass: dark 808 but restrained and warm, not overblown.  \nClarinet taksim breaks prominent and imperfect. Kanun arpeggios subtle.  \nTempo ramp feel: intro/verse ~96 BPM → verse2 110→118 BPM feel → final drop 124–128 BPM.  \n**Mix:** vocal very forward, warm mids, soft top, tape hiss/vinyl dust allowed. No harsh sparkle. No generic pop melody. No EDM synth leads.\n\n**STRUCTURE (strict):**  \nIntro spoken/half-sung (96) → Verse 1 (96) → Pre build → Hook drop → Verse 2 drill bounce (110→118 feel) → **ASMR bridge breath pauses** → Final hook drop 124–128 → **NO OUTRO**\n\n**LYRICS (do not alter / keep exact formatting):**  \n(✅ paste the exact lyric block from ATD1 here)\n\n**DRIFT KILLER:** No cinematic strings. End after final chorus.\n\n---\n\n## **ATD1-B — CLUB CUT / VIRAL HOOK (most TikTok-friendly)**\n**Title:** SunAy — Bahane/Şahane (ATD1-B Viral)\n\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nTurkish arabesk x hip-hop trap/drill fusion. **Viral TikTok/Reels structure.** Female mature arabesk vocal: fragile tremble, sorrow, minimal vibrato, human breaths.  \n**Hook priority:** short, repeatable, punchy. Emphasize hook repetition and pauses for viral cuts.  \nDrums: tighter kick + crisp hats + subtle drill bounce. Darbuka + trap drums slam in chorus/drop.  \nBass: bigger 808 impact, clean but not EDM glossy.  \nKanun arpeggios brighter (still tasteful), short zurna stabs very rare.  \nClarinet taksim breaks short and dramatic.  \nTempo ramp feel: 96 BPM start → 110→118 Verse2 feel → 124–128 final drop.  \n**Mix:** punchy, club energy, vocal still forward, no harsh sparkle mastering. No generic Western pop melody.\n\n**STRUCTURE (strict):**  \nIntro spoken sparse → Verse1 tight → Pre build → Hook DROP (repeat lines) → Verse2 drill bounce → **ASMR bridge extreme intimacy** → Final hook drop extra repeats → **NO OUTRO**\n\n**LYRICS (do not alter / keep exact formatting):**  \n(✅ paste the exact lyric block from ATD1 here)\n\n**DRIFT KILLER:** No EDM synth leads. Keep Turkish phrasing. End after final chorus.\n\n---\n\n## **ATD1-C — CINEMATIC ARABESK (dark atmosphere, still club)**\n**Title:** SunAy — Bahane/Şahane (ATD1-C Cinematic)\n\n**Prompt:**  \n**[LOCKED CORE — DO NOT CHANGE]**  \nTurkish arabesk x hip-hop trap/drill fusion. Female mature arabesk vocal: fragile tremble, sorrow, minimal vibrato, microtonal phrasing.  \n**Atmosphere priority:** cinematic arabesk darkness without strings. Heavy night mood, emotional weight.  \nPercussion: trap + darbuka layered in chorus, but more space and reverb tails.  \nBass: deep 808 sub, slow menace.  \nClarinet taksim breaks longer and haunting with echo. Kanun arpeggios ghostlike.  \nTempo ramp feel: 96 → 110→118 → 124–128 final drop.  \n**Mix:** wide, shadowy, analog tape warmth, space echo throws at phrase ends. No harsh sparkle. No epic orchestral strings.\n\n**STRUCTURE (strict):**  \nIntro spoken sparse → Verse1 tight → Pre build → Hook drop → Verse2 darker drill bounce → **ASMR bridge with silence + breathing** → Final chorus drop uplift slightly → **NO OUTRO**\n\n**LYRICS (do not alter / keep exact formatting):**  \n(✅ paste the exact lyric block from ATD1 here)\n\n**DRIFT KILLER:** No cinematic strings. No pop chorus. End after final chorus.\n\n---\n\n## Quick use instruction (so you don’t waste gens)\n- Run **ATD1-A** first (best chance of emotional realism)\n- Run **ATD1-B** second (best chance of viral hook)\n- Run **ATD1-C** third (best mood + atmosphere)\n\nIf you want, I can also output **a single “copy paste pack”** where each variant already includes the full lyric block inside (so you don’t have to paste lyrics 3 times)."
+            ]
+          },
+          "create_time": 1768630960.553481,
+          "id": "c240b39b-d44e-43b9-98d9-8578767483c9",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-2",
+            "parent_id": "1b6bbca3-ce19-4ae1-98e0-0b2cfa8eb642"
+          }
+        },
+        "parent": "d6ff8dff-24cf-4400-a50e-ebfd5305ec51"
+      },
+      "c32ca7ce-d1a7-45d9-b248-9d6819ee74cb": {
+        "id": "c32ca7ce-d1a7-45d9-b248-9d6819ee74cb",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "NO, EXIT FROM CANVAS"
+            ]
+          },
+          "create_time": 1768630842.178,
+          "id": "c32ca7ce-d1a7-45d9-b248-9d6819ee74cb",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "1c3291cb-f6a8-487d-b755-70fe0c810513"
+      },
+      "c8c67d20-e1ef-497a-be8c-2b84337b85ce": {
+        "id": "c8c67d20-e1ef-497a-be8c-2b84337b85ce",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "OK CAN I. HAVE MY SONG"
+            ]
+          },
+          "create_time": 1768630884.116,
+          "id": "c8c67d20-e1ef-497a-be8c-2b84337b85ce",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "dd1cbe2b-b31c-43f7-b879-4b6f68287f51"
+      },
+      "client-created-root": {
+        "id": "client-created-root",
+        "message": null,
+        "parent": null
+      },
+      "d2f605b9-c5ee-48dd-b472-56e10403f873": {
+        "id": "d2f605b9-c5ee-48dd-b472-56e10403f873",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Yes — I can convert this into a **single, Suno Studio-ready “one version” prompt** (one cohesive block), keeping your **lyrics intact** and locking the **verse2 rap flow + ASMR bridge calm breath after each word + no outro**.\n\nBelow is a **copy/paste Suno prompt** that matches your spec.\n\n---\n\n## ✅ SUNO STUDIO — ONE VERSION PROMPT (Arabesk x Trap/Drill Fusion)\n\n**Title:** BAHANE / ŞAHANE — SunAy (Arabesk Trap Drill)\n\n**Prompt:**  \nTurkish arabesk x hip-hop trap/drill fusion. Viral TikTok/Reels-friendly structure. **Female mature Turkish arabesk vocal**: fragile tremble, deep sorrow, minimal vibrato, very human breaths and micro-timing. **Spoken-sung verses** + **melodic hook**. Dark 808 bass, tight kick, crisp hats, subtle drill bounce. **Darbuka layered with trap drums in chorus/drop**. **Clarinet taksim breaks**, **kanun arpeggios** for texture, occasional **very subtle zurna-like stabs** (short, rare). Cinematic arabesk atmosphere + club energy without losing raw soul. Strong pause moments.  \n**Tempo ramp feel:** intro/verse ~96 BPM → verse2 feels 110→118 BPM → final chorus/drop 124–128 BPM. Big short hook repeats for viral cut.  \n**Mix:** vocal forward, warm analog texture, tape hiss/vinyl dust allowed, no harsh sparkle mastering. No generic pop melody. No EDM synth leads.\n\n**STRUCTURE (strict):**  \n- **Intro:** spoken/half-sung, sparse darbuka (96 BPM)  \n- **Verse 1:** arabesk-rap, tight pocket (96 BPM)  \n- **Pre-Chorus:** build, kanun arpeggio + hats opening  \n- **Chorus/Hook:** catchy repeatable hook, darbuka + 808 drop  \n- **Verse 2:** more rap flow, darker drill bounce, tempo rises (110→118 BPM feel)  \n- **BRIDGE:** **ASMR whispered, intimate, emotional vulnerability**, breathy pauses after each word  \n- **Final Chorus:** biggest drop 124–128 BPM, extra hook repeats, slightly more uplift  \n- **NO OUTRO** (end after final chorus hit)\n\n**LYRICS (do not alter):**\n\n[Intro]  \nAdını yanlış söylediğim gün  \nSensizliğim iyileşti  \nSessizliğim komada  \nBeni aldatmadın… o basitti…\n\n[Verse 1]  \nSözlerin bahane…  \nbeni dağıttın, anlamadın…  \nbahanen değil şahanen…  \nerkekliğinle sınıfta kaldın  \n\nSadece yarım kaldım  \nama kadın kaldım  \nParçalanan sen virane  \nbenim içimden geçtin,  \nbir daha mı?\n\n[Pre-Chorus]  \nBen kendimi tamamlarım  \ninsan öğreniyor…\n\nSuçu ihale… (daha ne…)  \nacı bana havale… (daha ne…)  \nYer belli \\\"Şişşhane\\\"…  \nYıkık dökük \\\"merhale\\\"  \nkalp hali (kerhane, )  \n(aşk dediğin yalane)  \n(Onun) kalp hali kerhane…  \naşk dediğin yalane…\n\n[Chorus / Hook]  \nBahane… şahane…  \nBenim adım: kadın — (daha da) şahane  \nYarım kaldım sandın ya  \nBen tamamım, sen virane  \n\nBahane… şahane…  \nŞişşhane’den geçtim, oldum gülhane  \nAşk dediğin yalansa  \nBen yandım da, külüm şahane\n\n[Verse 2]  \nBen kendimi tamamlarım  \ninsan öğreniyor…  \nSuçu ihale… (daha ne…)  \nacı bana havale… (daha ne…)  \nYer belli Şişşhane…  \naşk dediğin yalane…  \nDaha ne diyeyim?  \nGece uzar, söz kısalır, içim büyür  \nSen “adamlık” diye gezdin  \nBen susunca sandın ömür  \nBeni yoran sen değilsin  \nbeni yoran, aynı oyun  \nKendimi seçtim bu kez  \nyüzüme vuran soğuk suyun  \nDün “sensiz yapamamım'dın”,  \nBugün “iyi ki yokum'sun\\\"  \nKalbim vardı, acıttın  \nŞimdi acı benim dokum  \nBi zamanlar  \nkıymetini bilmeden dokunduğun...\n\n[BRIDGE] [ASMR]  \nDur…  \nNefes al  \nDinle…  \nBak..  \nGör…  \nHisset..\n\n[Long pause - audible breathing, room tone, heartbeat-like quality]  \n[Melismatic ornaments throughout - Turkish vocal tradition honored]  \nYarım bıraktığını sandığın o yer: Kırhane.  \nBenim \\\"olduğum\\\" o yer: Olhane\n\n[Chorus-Hook] [Layered Vocal]  \n\\\"bahane\\\"… \\\"şahane\\\"…  \nbenim adım kadın —  \n(daha da)* \\\"şahane\\\"  \nyarım kaldım sandın ya  \nben tamamım,  \nsen \\\"virane\\\"  \n\\\"bahane\\\"… \\\"şahane\\\"…  \n\\\"şişhane’den geçtim,  \noldum \\\"gülhane\\\"  \naşk dediğin yalansa  \nben yandım da,  \nkülüm \\\"şahane\\\"  \n\\\"bahane\\\"… \\\"şahane\\\"…\n\n[Final Chorus]  \nBahane… şahane…  \nBenim adım: kadın — daha da şahane  \nYarım kaldım sandın ya  \nBen tamamım, sen virane\n\n---\n\n### Optional “drift killer” line (add at the very end)\n**No cinematic strings. No generic pop chorus. Keep Turkish arabesk vocal realism. End after final chorus (no outro).**\n\n---\n\nIf you want, I can **add this as a new entry into the Canvas library** under a section like:  \n**2.7 Arabesk Trap/Drill (Tempo Ramp / Viral Hook)** so it becomes part of SunAy Prompt Library v1.1."
+            ]
+          },
+          "create_time": 1768628891.812287,
+          "id": "d2f605b9-c5ee-48dd-b472-56e10403f873",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-2",
+            "parent_id": "0dc1c967-ce2f-43c0-b69a-df7f99fb531c"
+          }
+        },
+        "parent": "0dc1c967-ce2f-43c0-b69a-df7f99fb531c"
+      },
+      "d6ff8dff-24cf-4400-a50e-ebfd5305ec51": {
+        "id": "d6ff8dff-24cf-4400-a50e-ebfd5305ec51",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "OK"
+            ]
+          },
+          "create_time": 1768630959.779,
+          "id": "d6ff8dff-24cf-4400-a50e-ebfd5305ec51",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            },
+            "targeted_reply_source_message_id": "4c5c10f5-9e63-418d-9fc7-86b918f8c51d",
+            "targeted_reply_source_range": {
+              "end": 4400,
+              "start": 4169
+            }
+          }
+        },
+        "parent": "4c5c10f5-9e63-418d-9fc7-86b918f8c51d"
+      },
+      "d7c51e5f-242c-4f10-b275-142948925ee6": {
+        "id": "d7c51e5f-242c-4f10-b275-142948925ee6",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Done ✅ I’ve put **SunAy Prompt Library v1.0 (Suno Studio)** into **Canvas** now.\n\nYou can download it from there (Canvas menu → download / export).\n\nIf you want, I can also:\n- format it as a **clean PDF layout** (print-friendly), or  \n- convert it into a **Suno “Prompt Pack”** with separate sections per genre (Acoustic / Meyhane / Trap / Psych / Noir / Club)."
+            ]
+          },
+          "create_time": 1768628678.222918,
+          "id": "d7c51e5f-242c-4f10-b275-142948925ee6",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-2",
+            "parent_id": "3e346e1f-5b61-49b9-8fb5-1cef9b7bc704"
+          }
+        },
+        "parent": "61e24dd7-0065-4b42-ab7e-f5066787cecb"
+      },
+      "dd1cbe2b-b31c-43f7-b879-4b6f68287f51": {
+        "id": "dd1cbe2b-b31c-43f7-b879-4b6f68287f51",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Understood ✅\n\nCanvas is now **done** — I won’t make any more edits there."
+            ]
+          },
+          "create_time": 1768630842.86584,
+          "id": "dd1cbe2b-b31c-43f7-b879-4b6f68287f51",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-2",
+            "parent_id": "a7a66998-22a2-4280-922f-0363b12c94f2"
+          }
+        },
+        "parent": "c32ca7ce-d1a7-45d9-b248-9d6819ee74cb"
+      }
+    },
+    "memory_scope": "global_enabled",
+    "pinned_time": null,
+    "plugin_ids": null,
+    "title": "Suno Studio Refinement",
+    "update_time": 1768630981.957402,
+    "voice": null
+  }
+}

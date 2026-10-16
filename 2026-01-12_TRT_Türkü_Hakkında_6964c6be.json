@@ -1,0 +1,324 @@
+{
+  "conversation_id": "6964c6be-a08c-8332-8bd4-a23935a9dccf",
+  "title": "TRT Türkü Hakkında",
+  "category": "chatgpt_standard",
+  "category_detail": "Standard",
+  "created_at": "2026-01-12 10:02:39",
+  "updated_at": "2026-01-12 10:04:07",
+  "source_chunk": "conversations-013.json",
+  "total_messages": 2,
+  "dialogue_turns": [
+    {
+      "role": "assistant",
+      "timestamp": "2026-01-12 10:02:51",
+      "text": "“**TRTR TURKU**” ile kastın büyük ihtimalle **TRT Türkü (TRT Türk Halk Müziği radyosu)**.\n\n## TRT Türkü nedir?\n- **TRT (Türkiye Radyo Televizyon Kurumu)** bünyesinde, **24 saat Türk Halk Müziği / türkü** yayını yapan radyo kanalıdır. citeturn0search4turn0search8  \n- **2009’da** yayın hayatına başladı. citeturn0search4turn0search2  \n\n## Nereden dinlenir?\n- **Resmî TRT Radyo canlı yayın sayfası:** TRT Türkü citeturn0search0  \n- **TRT Dinle (resmî uygulama/site) kanal sayfası:** TRT Türkü – Türk Halk Müziği citeturn0search1  \n- TRT’nin genel radyo portalı: citeturn0search6  \n\nİstersen sana **TRT Türkü tarzında (otantik THM) aksak 9/8 ağırlıklı** bir Suno “style prompt” da yazayım."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-01-12 10:02:38",
+      "text": "TRTR TURKU"
+    }
+  ],
+  "raw_conversation": {
+    "conversation_id": "6964c6be-a08c-8332-8bd4-a23935a9dccf",
+    "conversation_template_id": null,
+    "create_time": 1768212159.297388,
+    "current_node": "6993de9f-2946-4744-be6e-e00a32a47f2b",
+    "default_model_slug": "gpt-5-2",
+    "id": "6964c6be-a08c-8332-8bd4-a23935a9dccf",
+    "is_archived": true,
+    "is_do_not_remember": false,
+    "is_read_only": null,
+    "is_starred": null,
+    "is_study_mode": false,
+    "mapping": {
+      "6993de9f-2946-4744-be6e-e00a32a47f2b": {
+        "id": "6993de9f-2946-4744-be6e-e00a32a47f2b",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "“**TRTR TURKU**” ile kastın büyük ihtimalle **TRT Türkü (TRT Türk Halk Müziği radyosu)**.\n\n## TRT Türkü nedir?\n- **TRT (Türkiye Radyo Televizyon Kurumu)** bünyesinde, **24 saat Türk Halk Müziği / türkü** yayını yapan radyo kanalıdır. citeturn0search4turn0search8  \n- **2009’da** yayın hayatına başladı. citeturn0search4turn0search2  \n\n## Nereden dinlenir?\n- **Resmî TRT Radyo canlı yayın sayfası:** TRT Türkü citeturn0search0  \n- **TRT Dinle (resmî uygulama/site) kanal sayfası:** TRT Türkü – Türk Halk Müziği citeturn0search1  \n- TRT’nin genel radyo portalı: citeturn0search6  \n\nİstersen sana **TRT Türkü tarzında (otantik THM) aksak 9/8 ağırlıklı** bir Suno “style prompt” da yazayım."
+            ]
+          },
+          "create_time": 1768212171.654496,
+          "id": "6993de9f-2946-4744-be6e-e00a32a47f2b",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": "([Wikipedia](https://tr.wikipedia.org/wiki/TRT_T%C3%BCrk%C3%BC?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "Wikipedia",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1279528579.0,
+                    "refs": [
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "TRT Türkü kanalı dinleyicilerin Türk halk müziği'ne ilgi ve sevgisini artırmak düşüncesinden yola çıkarak 1 Temmuz 2009'da yayına başladı.Read more",
+                    "supporting_websites": [
+                      {
+                        "attribution": "Wikipedia",
+                        "pub_date": null,
+                        "snippet": "",
+                        "title": "Radyo Türkü",
+                        "url": "https://en.wikipedia.org/wiki/Radyo_T%C3%BCrk%C3%BC?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "TRT Türkü",
+                    "url": "https://tr.wikipedia.org/wiki/TRT_T%C3%BCrk%C3%BC?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "([Wikipedia](https://tr.wikipedia.org/wiki/TRT_T%C3%BCrk%C3%BC?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "Wikipedia",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1279528579.0,
+                    "refs": [
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "TRT Türkü kanalı dinleyicilerin Türk halk müziği'ne ilgi ve sevgisini artırmak düşüncesinden yola çıkarak 1 Temmuz 2009'da yayına başladı.Read more",
+                    "supporting_websites": [
+                      {
+                        "attribution": "radyodinle1.com",
+                        "pub_date": null,
+                        "snippet": "TRT Türkü, Ankara merkezli Türkiye radyo televizyon kurumu bünyesinde yayınlarını sürdüren radyo istasyonudur. Radyo, 1 Temmuz 2009 tarihinde yayın hayatına ...Read more",
+                        "title": "TRT Türkü Canlı Dinle - Radyodinle1",
+                        "url": "https://www.radyodinle1.com/trt-turku/?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "TRT Türkü",
+                    "url": "https://tr.wikipedia.org/wiki/TRT_T%C3%BCrk%C3%BC?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "([radyo.trt.net.tr](https://radyo.trt.net.tr/kanallar/trt-turku?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "radyo.trt.net.tr",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Geleneksel Türküler ve halk müziği canlı yayınlarıyla TRT Türkü Radyo'da. Anadolu'nun zengin müzik mirası şimdi bir tık uzağınızda!",
+                    "supporting_websites": [],
+                    "title": "TRT Türkü Dinle",
+                    "url": "https://radyo.trt.net.tr/kanallar/trt-turku?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "([trtdinle.com](https://www.trtdinle.com/channel/trt-turku-turk-halk-muzigi?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "trtdinle.com",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 1,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Türkçe Pop ve Türkçe Rock Radyolarını Dinle! Tüm şarkılar TRT Dinle Radyoda! - Türk müziğinin en güncel örnekleri, unutulmaz şarkılar, farklı konuklarla ...Read more",
+                    "supporting_websites": [],
+                    "title": "TRT Türkü: Türk Halk Müziği",
+                    "url": "https://www.trtdinle.com/channel/trt-turku-turk-halk-muzigi?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "([radyo.trt.net.tr](https://radyo.trt.net.tr/?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "radyo.trt.net.tr",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 6,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "TRT Canlı Radyo dinle! Türkiye Radyo ve Televizyon Kurumu'nun zengin yayınlarıyla müziğin ve programların keyfini çıkarın. Hemen şimdi tıklayın!",
+                    "supporting_websites": [],
+                    "title": "TRT Radyo",
+                    "url": "https://radyo.trt.net.tr/?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "",
+                "has_images": false,
+                "prompt_text": null,
+                "sources": [
+                  {
+                    "attribution": "Wikipedia",
+                    "title": "TRT Türkü",
+                    "url": "https://tr.wikipedia.org/wiki/TRT_T%C3%BCrk%C3%BC?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "radyo.trt.net.tr",
+                    "title": "TRT Türkü Dinle",
+                    "url": "https://radyo.trt.net.tr/kanallar/trt-turku?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "trtdinle.com",
+                    "title": "TRT Türkü: Türk Halk Müziği",
+                    "url": "https://www.trtdinle.com/channel/trt-turku-turk-halk-muzigi?utm_source=chatgpt.com"
+                  }
+                ],
+                "type": "sources_footnote"
+              }
+            ],
+            "model_slug": "gpt-5-2",
+            "parent_id": "98d81058-7075-454c-adfb-507658764025",
+            "search_result_groups": [
+              {
+                "domain": "radyodinle1.com",
+                "entries": [
+                  {
+                    "attribution": "radyodinle1.com",
+                    "snippet": "TRT Türkü, Ankara merkezli Türkiye radyo televizyon kurumu bünyesinde yayınlarını sürdüren radyo istasyonudur. Radyo, 1 Temmuz 2009 tarihinde yayın hayatına ...Read more",
+                    "title": "TRT Türkü Canlı Dinle - Radyodinle1",
+                    "url": "https://www.radyodinle1.com/trt-turku/?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "youtube.com",
+                "entries": [
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "TRT TÜRKÜ · Mehmet Aldaşoğlu - Dere Kenarından geçtim · Mehmet Aldaşoğlu - Aşağıdan Gelir Hozalı Gelin · İmran Koç - Mugam - Sarı Gelin · İmran Koç - Can Dedim ki ...Read more",
+                    "title": "TRT TÜRKÜ",
+                    "url": "https://www.youtube.com/playlist?list=PLCJvv2MVs3qRibNDothZ6_Ot9batg5UPF&utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "google.com",
+                "entries": [
+                  {
+                    "attribution": "google.com",
+                    "snippet": "Diğer görevleri yaparken radyonuzu dinlemeye devam edin * İlk kez kullananlar için kullanımı kolay * Basit ve güzel kullanıcı arayüzüRead more",
+                    "title": "TRT Türkü Radyo - Google Play'de Uygulamalar",
+                    "url": "https://play.google.com/store/apps/details?hl=tr&id=com.henapp.thezone1031&utm_source=chatgpt.com"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "parent": "98d81058-7075-454c-adfb-507658764025"
+      },
+      "98d81058-7075-454c-adfb-507658764025": {
+        "id": "98d81058-7075-454c-adfb-507658764025",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content": "Thought for 12s",
+            "content_type": "reasoning_recap"
+          },
+          "create_time": 1768212172.9831,
+          "id": "98d81058-7075-454c-adfb-507658764025",
+          "metadata": {
+            "model_slug": "gpt-5-2",
+            "parent_id": "86dace61-ca82-4235-9824-4ec87bbd6d0c"
+          }
+        },
+        "parent": "e9137eaf-c7df-4250-9700-f4d0c07ac368"
+      },
+      "client-created-root": {
+        "id": "client-created-root",
+        "message": null,
+        "parent": null
+      },
+      "e9137eaf-c7df-4250-9700-f4d0c07ac368": {
+        "id": "e9137eaf-c7df-4250-9700-f4d0c07ac368",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "TRTR TURKU"
+            ]
+          },
+          "create_time": 1768212158.29,
+          "id": "e9137eaf-c7df-4250-9700-f4d0c07ac368"
+        },
+        "parent": "client-created-root"
+      }
+    },
+    "memory_scope": "global_enabled",
+    "pinned_time": null,
+    "plugin_ids": null,
+    "title": "TRT Türkü Hakkında",
+    "update_time": 1768212247.877575,
+    "voice": null
+  }
+}
