@@ -1,0 +1,414 @@
+{
+  "conversation_id": "6a3e9995-99f8-83ed-bf93-3eda9b7e5bfd",
+  "title": "Song List Analysis",
+  "category": "chatgpt_customgpt",
+  "category_detail": "Gizmo ID: g-6874a66e22b481918a75e968e8a7fd3f",
+  "created_at": "2026-06-26 16:24:45",
+  "updated_at": "2026-06-26 16:26:48",
+  "source_chunk": "conversations-016.json",
+  "total_messages": 4,
+  "dialogue_turns": [
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 16:24:45",
+      "text": "It looks like you've pasted a list of songs from the Suno Explore/Discover page, including tracks such as:\n\n- **Luna World – Secret Fantasy**\n- **Velvet Heist – BIZARRE**\n- **Ethereal Sun – Back to June**\n- **Lucid Dreaming – Slippin**\n- **Love Language**\n- **No Conversation (Underground 2-Step Mix)**\n- **Ghosts We Couldn't Keep**\n- and several others.\n\nWhat would you like me to do with this list?\n\nFor example, I can:\n\n- Compare these songs and identify common genres, production styles, and prompt patterns.\n- Infer the types of Suno **Song Description** prompts that may have produced these tracks.\n- Create a similar **copy-paste-ready Suno prompt** inspired by one or more of them (without copying copyrighted lyrics or imitating a specific artist).\n- Identify current trends in these featured songs (v5.5 vs. v4.5-all, moods, instrumentation, vocal styles, etc.).\n- Recommend which songs are most useful to study for prompt engineering.\n\nJust tell me which you'd like—for example:\n\n- **\"Analyse all of these.\"**\n- **\"Create a prompt inspired by Secret Fantasy and Lucid Dreaming.\"**\n- **\"What trends do you see?\"**\n- **\"Build me a Suno prompt that could fit alongside these featured songs.\"**"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 16:26:32",
+      "text": "yes"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 16:24:44",
+      "text": "Luna World\nSecret Fantasy\n\nSecret Fantasy\nv5.5\nAlfie\nBIZARRE \n\nBIZARRE\nv4.5-all\nMOSTER\nVelvet Heist\n\nVelvet Heist\nv5.5\nStageism\nEthereal Sun\n\nEthereal Sun\nv4.5-all\nRachel_Claveau\nBack to June\n\nBack to June\nv5.5\ngrimeko\nLucid Dreaming\n\nLucid Dreaming\nv4.5-all\nVarletine\nSlippin\n\nSlippin\nStudio\nPK♠️ 🇳🇴\nSun Rise (Cover)\n\nSun Rise (Cover)\nv5.5\nzooman\nno more\n\nno more\nv4.5-all\ndice\nBest of v5.5\nSentiment \n\nSentiment\nv5.5\nToxic trades\nLove Language\n\nLove Language\nv5.5\nHalo 💔\nNo Conversation (Underground 2-Step Mix)\n\nNo Conversation (Underground 2-Step Mix)\nv5.5\nCKDolcefarniente\nNot The Same\n\nNot The Same\nv5.5\nzaaj\nThe Other Side\n\nThe Other Side\nv5.5\nS_Mackie\nCondolences\n\nCondolences\nv5.5\nÆthereal Diffusion\n365\n\n365\nv5.5\nHan\nfloat.\n\nfloat.\nv5.5\nWorriedChart\nWe Flow so Slowly\n\nWe Flow so Slowly\nv5.5\ntheteamerchant\nFlatline\n\nFlatline\nv5.5\nKen Hein Lucky\nCover image for Ghosts We Couldn't Keep\nGhosts We Couldn't Keep\nMΔgoR\n0:53\n\n2:18"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 16:26:33",
+      "text": "Looking at this selection, there are some clear patterns. These aren't random songs—they reflect what the Suno community is currently gravitating toward, especially with v5.5.\n\n## Overall Trend\n\nThe featured tracks emphasize:\n\n- Dreamy, cinematic atmospheres\n- Emotional storytelling\n- Female or soft male vocals\n- Alternative pop mixed with electronic genres\n- UK Garage / 2-Step influences\n- Ambient synth textures\n- Organic guitars blended with modern production\n- Slow to mid-tempo (90–130 BPM)\n- Large dynamic builds rather than loud throughout\n\nTitles are also extremely simple:\n\n- Secret Fantasy\n- Lucid Dreaming\n- Love Language\n- Not The Same\n- The Other Side\n- Condolences\n- Ghosts We Couldn't Keep\n- Float\n- Sentiment\n\nAlmost every title consists of only 1–4 words and evokes an emotion rather than describing a story.\n\n---\n\n# Production Trends\n\nThe production is moving away from \"AI sounding.\"\n\nCommon characteristics include:\n\n- intimate vocals\n- layered harmonies\n- analog warmth\n- textured synth pads\n- subtle guitar ambience\n- reverb-heavy spaces\n- punchy but restrained drums\n- clean bass\n- modern stereo width\n- cinematic transitions\n\nThe mixes leave space for the vocal.\n\n---\n\n# Genre Blends\n\nInstead of using one genre, creators are combining multiple influences.\n\nTypical combinations include:\n\n- dream pop + indie electronic\n- ambient pop + future garage\n- alternative pop + UK garage\n- cinematic electronica + indie rock\n- lo-fi + synthwave\n- trip-hop + dream pop\n- house + indie pop\n- emotional drum & bass\n- chillwave + alternative R&B\n\nThis aligns with the recommendation in your Suno knowledge base to combine complementary genres rather than relying on a single label for richer outputs. fileciteturn0file0 fileciteturn0file2\n\n---\n\n# Emotional Direction\n\nThese songs rarely express happiness.\n\nInstead they explore:\n\n- nostalgia\n- longing\n- regret\n- healing\n- loneliness\n- memories\n- dreams\n- hope after loss\n- quiet confidence\n\nThe emotion is understated rather than theatrical.\n\n---\n\n# Modern Suno Prompt Style\n\nInstead of writing:\n\n```\nPop song with female vocals.\n```\n\nTop creators are using richer production briefs like:\n\n```txt\ndream pop, ambient electronica, emotional indie pop, lush synth textures, shimmering guitars, intimate female vocals, cinematic atmosphere, layered harmonies, warm analog production, subtle UK garage percussion, spacious reverb, modern commercial mix\n```\n\nThis matches the guidance in your Suno prompt engineering documents, which recommend treating the Song Description as a concise production brief covering genre, mood, instrumentation, vocal identity, and production style. fileciteturn0file5 fileciteturn0file0\n\n---\n\n# Arrangement Style\n\nMost successful tracks follow a dynamic arc:\n\n```txt\nIntro\n\nVerse\n\nPre-Chorus\n\nBig Chorus\n\nVerse 2\n\nChorus\n\nBridge\n\nFinal Chorus\n\nAtmospheric Outro\n```\n\nThe chorus is the emotional payoff rather than arriving immediately, which also reflects the hit songwriting principles in your reference material. fileciteturn0file2\n\n---\n\n# Vocal Direction\n\nPopular vocal characteristics include:\n\n- breathy\n- intimate\n- conversational\n- vulnerable\n- emotional restraint\n- layered harmonies\n- soft falsetto\n- airy head voice\n- occasional vocal cracks for realism\n\nAvoid over-processing and excessive vocal effects.\n\n---\n\n# If I Were Creating a Song to Sit Beside These\n\n### Title\n\n**Fading Signals**\n\n### Song Description\n\n```txt\ndream pop, alternative electronic, cinematic indie, future garage influences, emotional atmosphere, lush analog synths, shimmering electric guitar, intimate female vocals, layered harmonies, deep sub bass, textured percussion, spacious reverbs, modern commercial production, nostalgic yet hopeful, slow emotional build, warm stereo mix, radio-ready\n```\n\n### Style Tags\n\n```txt\n[dream pop]\n\n[future garage]\n\n[emotional]\n\n[cinematic]\n\n[intimate vocal]\n\n[layered harmonies]\n\n[ambient textures]\n\n[stereo width]\n\n[analog warmth]\n\n[radio ready]\n```\n\n---\n\n## What This Reveals About Suno v5.5\n\nCompared with older versions, successful v5.5 songs tend to feature:\n\n- More descriptive Song Descriptions with hybrid genres.\n- Cleaner, more natural vocal direction.\n- Production-focused prompts rather than just mood words.\n- Dynamic arrangements that evolve over the course of the song.\n- Emotional authenticity instead of dramatic clichés.\n\nThese trends are consistent with the prompt engineering and workflow guidance in your Suno knowledge base, which emphasizes detailed production briefs, iterative refinement, and section-specific lyric tags for achieving polished, \"radio-ready\" results. fileciteturn0file0 fileciteturn0file2\n\nBased on the research you've assembled over the past year, I can also build a **\"Top 1% Suno v5.5 Prompt Formula\"**—a reusable framework that captures the common traits of featured songs while remaining flexible enough to work across genres."
+    }
+  ],
+  "raw_conversation": {
+    "conversation_id": "6a3e9995-99f8-83ed-bf93-3eda9b7e5bfd",
+    "conversation_template_id": "g-6874a66e22b481918a75e968e8a7fd3f",
+    "create_time": 1782487485.468984,
+    "current_node": "be590dce-aef9-42ec-9f5a-625c03611b8d",
+    "default_model_slug": "gpt-5-5",
+    "id": "6a3e9995-99f8-83ed-bf93-3eda9b7e5bfd",
+    "is_archived": false,
+    "is_do_not_remember": false,
+    "is_read_only": null,
+    "is_starred": null,
+    "is_study_mode": false,
+    "mapping": {
+      "03011b3a-a014-4602-9b39-81cfd35477ef": {
+        "id": "03011b3a-a014-4602-9b39-81cfd35477ef",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "It looks like you've pasted a list of songs from the Suno Explore/Discover page, including tracks such as:\n\n- **Luna World – Secret Fantasy**\n- **Velvet Heist – BIZARRE**\n- **Ethereal Sun – Back to June**\n- **Lucid Dreaming – Slippin**\n- **Love Language**\n- **No Conversation (Underground 2-Step Mix)**\n- **Ghosts We Couldn't Keep**\n- and several others.\n\nWhat would you like me to do with this list?\n\nFor example, I can:\n\n- Compare these songs and identify common genres, production styles, and prompt patterns.\n- Infer the types of Suno **Song Description** prompts that may have produced these tracks.\n- Create a similar **copy-paste-ready Suno prompt** inspired by one or more of them (without copying copyrighted lyrics or imitating a specific artist).\n- Identify current trends in these featured songs (v5.5 vs. v4.5-all, moods, instrumentation, vocal styles, etc.).\n- Recommend which songs are most useful to study for prompt engineering.\n\nJust tell me which you'd like—for example:\n\n- **\"Analyse all of these.\"**\n- **\"Create a prompt inspired by Secret Fantasy and Lucid Dreaming.\"**\n- **\"What trends do you see?\"**\n- **\"Build me a Suno prompt that could fit alongside these featured songs.\"**"
+            ]
+          },
+          "create_time": 1782487485.309693,
+          "id": "03011b3a-a014-4602-9b39-81cfd35477ef",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-5",
+            "parent_id": "0d1be759-9f6e-47a2-b29c-498a13390ef3"
+          }
+        },
+        "parent": "a1435618-a8c3-4790-8021-32e61618ee19"
+      },
+      "8f653b54-b7cf-4af0-aa1b-933ca84a8356": {
+        "id": "8f653b54-b7cf-4af0-aa1b-933ca84a8356",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "yes"
+            ]
+          },
+          "create_time": 1782487592.754,
+          "id": "8f653b54-b7cf-4af0-aa1b-933ca84a8356",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "03011b3a-a014-4602-9b39-81cfd35477ef"
+      },
+      "a1435618-a8c3-4790-8021-32e61618ee19": {
+        "id": "a1435618-a8c3-4790-8021-32e61618ee19",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "\n\nLuna World\nSecret Fantasy\n\nSecret Fantasy\nv5.5\nAlfie\nBIZARRE \n\nBIZARRE\nv4.5-all\nMOSTER\nVelvet Heist\n\nVelvet Heist\nv5.5\nStageism\nEthereal Sun\n\nEthereal Sun\nv4.5-all\nRachel_Claveau\nBack to June\n\nBack to June\nv5.5\ngrimeko\nLucid Dreaming\n\nLucid Dreaming\nv4.5-all\nVarletine\nSlippin\n\nSlippin\nStudio\nPK♠️ 🇳🇴\nSun Rise (Cover)\n\nSun Rise (Cover)\nv5.5\nzooman\nno more\n\nno more\nv4.5-all\ndice\nBest of v5.5\nSentiment \n\nSentiment\nv5.5\nToxic trades\nLove Language\n\nLove Language\nv5.5\nHalo 💔\nNo Conversation (Underground 2-Step Mix)\n\nNo Conversation (Underground 2-Step Mix)\nv5.5\nCKDolcefarniente\nNot The Same\n\nNot The Same\nv5.5\nzaaj\nThe Other Side\n\nThe Other Side\nv5.5\nS_Mackie\nCondolences\n\nCondolences\nv5.5\nÆthereal Diffusion\n365\n\n365\nv5.5\nHan\nfloat.\n\nfloat.\nv5.5\nWorriedChart\nWe Flow so Slowly\n\nWe Flow so Slowly\nv5.5\ntheteamerchant\nFlatline\n\nFlatline\nv5.5\nKen Hein Lucky\nCover image for Ghosts We Couldn't Keep\nGhosts We Couldn't Keep\nMΔgoR\n0:53\n\n2:18\n"
+            ]
+          },
+          "create_time": 1782487484.173,
+          "id": "a1435618-a8c3-4790-8021-32e61618ee19",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "client-created-root"
+      },
+      "be590dce-aef9-42ec-9f5a-625c03611b8d": {
+        "id": "be590dce-aef9-42ec-9f5a-625c03611b8d",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking at this selection, there are some clear patterns. These aren't random songs—they reflect what the Suno community is currently gravitating toward, especially with v5.5.\n\n## Overall Trend\n\nThe featured tracks emphasize:\n\n- Dreamy, cinematic atmospheres\n- Emotional storytelling\n- Female or soft male vocals\n- Alternative pop mixed with electronic genres\n- UK Garage / 2-Step influences\n- Ambient synth textures\n- Organic guitars blended with modern production\n- Slow to mid-tempo (90–130 BPM)\n- Large dynamic builds rather than loud throughout\n\nTitles are also extremely simple:\n\n- Secret Fantasy\n- Lucid Dreaming\n- Love Language\n- Not The Same\n- The Other Side\n- Condolences\n- Ghosts We Couldn't Keep\n- Float\n- Sentiment\n\nAlmost every title consists of only 1–4 words and evokes an emotion rather than describing a story.\n\n---\n\n# Production Trends\n\nThe production is moving away from \"AI sounding.\"\n\nCommon characteristics include:\n\n- intimate vocals\n- layered harmonies\n- analog warmth\n- textured synth pads\n- subtle guitar ambience\n- reverb-heavy spaces\n- punchy but restrained drums\n- clean bass\n- modern stereo width\n- cinematic transitions\n\nThe mixes leave space for the vocal.\n\n---\n\n# Genre Blends\n\nInstead of using one genre, creators are combining multiple influences.\n\nTypical combinations include:\n\n- dream pop + indie electronic\n- ambient pop + future garage\n- alternative pop + UK garage\n- cinematic electronica + indie rock\n- lo-fi + synthwave\n- trip-hop + dream pop\n- house + indie pop\n- emotional drum & bass\n- chillwave + alternative R&B\n\nThis aligns with the recommendation in your Suno knowledge base to combine complementary genres rather than relying on a single label for richer outputs. fileciteturn0file0 fileciteturn0file2\n\n---\n\n# Emotional Direction\n\nThese songs rarely express happiness.\n\nInstead they explore:\n\n- nostalgia\n- longing\n- regret\n- healing\n- loneliness\n- memories\n- dreams\n- hope after loss\n- quiet confidence\n\nThe emotion is understated rather than theatrical.\n\n---\n\n# Modern Suno Prompt Style\n\nInstead of writing:\n\n```\nPop song with female vocals.\n```\n\nTop creators are using richer production briefs like:\n\n```txt\ndream pop, ambient electronica, emotional indie pop, lush synth textures, shimmering guitars, intimate female vocals, cinematic atmosphere, layered harmonies, warm analog production, subtle UK garage percussion, spacious reverb, modern commercial mix\n```\n\nThis matches the guidance in your Suno prompt engineering documents, which recommend treating the Song Description as a concise production brief covering genre, mood, instrumentation, vocal identity, and production style. fileciteturn0file5 fileciteturn0file0\n\n---\n\n# Arrangement Style\n\nMost successful tracks follow a dynamic arc:\n\n```txt\nIntro\n\nVerse\n\nPre-Chorus\n\nBig Chorus\n\nVerse 2\n\nChorus\n\nBridge\n\nFinal Chorus\n\nAtmospheric Outro\n```\n\nThe chorus is the emotional payoff rather than arriving immediately, which also reflects the hit songwriting principles in your reference material. fileciteturn0file2\n\n---\n\n# Vocal Direction\n\nPopular vocal characteristics include:\n\n- breathy\n- intimate\n- conversational\n- vulnerable\n- emotional restraint\n- layered harmonies\n- soft falsetto\n- airy head voice\n- occasional vocal cracks for realism\n\nAvoid over-processing and excessive vocal effects.\n\n---\n\n# If I Were Creating a Song to Sit Beside These\n\n### Title\n\n**Fading Signals**\n\n### Song Description\n\n```txt\ndream pop, alternative electronic, cinematic indie, future garage influences, emotional atmosphere, lush analog synths, shimmering electric guitar, intimate female vocals, layered harmonies, deep sub bass, textured percussion, spacious reverbs, modern commercial production, nostalgic yet hopeful, slow emotional build, warm stereo mix, radio-ready\n```\n\n### Style Tags\n\n```txt\n[dream pop]\n\n[future garage]\n\n[emotional]\n\n[cinematic]\n\n[intimate vocal]\n\n[layered harmonies]\n\n[ambient textures]\n\n[stereo width]\n\n[analog warmth]\n\n[radio ready]\n```\n\n---\n\n## What This Reveals About Suno v5.5\n\nCompared with older versions, successful v5.5 songs tend to feature:\n\n- More descriptive Song Descriptions with hybrid genres.\n- Cleaner, more natural vocal direction.\n- Production-focused prompts rather than just mood words.\n- Dynamic arrangements that evolve over the course of the song.\n- Emotional authenticity instead of dramatic clichés.\n\nThese trends are consistent with the prompt engineering and workflow guidance in your Suno knowledge base, which emphasizes detailed production briefs, iterative refinement, and section-specific lyric tags for achieving polished, \"radio-ready\" results. fileciteturn0file0 fileciteturn0file2\n\nBased on the research you've assembled over the past year, I can also build a **\"Top 1% Suno v5.5 Prompt Formula\"**—a reusable framework that captures the common traits of featured songs while remaining flexible enough to work across genres."
+            ]
+          },
+          "create_time": 1782487593.166185,
+          "id": "be590dce-aef9-42ec-9f5a-625c03611b8d",
+          "metadata": {
+            "code_blocks": {
+              "0": {
+                "edited": false,
+                "id": "d3mls4",
+                "preview_language": null,
+                "previewable": false
+              },
+              "1": {
+                "edited": false,
+                "id": "gqdpjr",
+                "preview_language": null,
+                "previewable": false
+              },
+              "2": {
+                "edited": false,
+                "id": "8rc6cc",
+                "preview_language": null,
+                "previewable": false
+              },
+              "3": {
+                "edited": false,
+                "id": "1aomf3",
+                "preview_language": null,
+                "previewable": false
+              },
+              "4": {
+                "edited": false,
+                "id": "c35uma",
+                "preview_language": null,
+                "previewable": false
+              }
+            },
+            "content_references": [
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000c88871f4a8b8211e26e2dab7",
+                "input_pointer": {
+                  "file_index": 0,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c55d78cc-aeaa-4220-ac52-07c35881576f",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "03 - Suno AI Knowledge Base Library - Prompt Engineering Codex - Advanced Prompt Engineering.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000547071f482e869c1fb2ad42a",
+                "input_pointer": {
+                  "file_index": 2,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c09a0fe0-6970-49b3-9c4e-7259f2216487",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "04 - Suno AI Knowledge Base Library - Hitmaker's Blueprint - Songwriting & Hit Music Design.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000e05471f49b3df7b665f94554",
+                "input_pointer": {
+                  "file_index": 5,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "59b2112a-ef7a-454b-a684-3683b103ad63",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "05 - Suno AI Knowledge Base Library - Meta Tags & Creative Control Manual.pdf",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000c88871f4a8b8211e26e2dab7",
+                "input_pointer": {
+                  "file_index": 0,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c55d78cc-aeaa-4220-ac52-07c35881576f",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "03 - Suno AI Knowledge Base Library - Prompt Engineering Codex - Advanced Prompt Engineering.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000547071f482e869c1fb2ad42a",
+                "input_pointer": {
+                  "file_index": 2,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c09a0fe0-6970-49b3-9c4e-7259f2216487",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "04 - Suno AI Knowledge Base Library - Hitmaker's Blueprint - Songwriting & Hit Music Design.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000c88871f4a8b8211e26e2dab7",
+                "input_pointer": {
+                  "file_index": 0,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c55d78cc-aeaa-4220-ac52-07c35881576f",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "03 - Suno AI Knowledge Base Library - Prompt Engineering Codex - Advanced Prompt Engineering.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000547071f482e869c1fb2ad42a",
+                "input_pointer": {
+                  "file_index": 2,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c09a0fe0-6970-49b3-9c4e-7259f2216487",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "04 - Suno AI Knowledge Base Library - Hitmaker's Blueprint - Songwriting & Hit Music Design.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "8f653b54-b7cf-4af0-aa1b-933ca84a8356"
+          }
+        },
+        "parent": "8f653b54-b7cf-4af0-aa1b-933ca84a8356"
+      },
+      "client-created-root": {
+        "id": "client-created-root",
+        "message": null,
+        "parent": null
+      }
+    },
+    "memory_scope": "global_enabled",
+    "pinned_time": null,
+    "plugin_ids": null,
+    "title": "Song List Analysis",
+    "update_time": 1782487608.239685,
+    "voice": null
+  }
+}

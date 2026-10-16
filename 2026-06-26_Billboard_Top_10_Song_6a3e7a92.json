@@ -1,0 +1,1104 @@
+{
+  "conversation_id": "6a3e7a92-09cc-83ed-9d90-82a2abac31b3",
+  "title": "Billboard Top 10 Song",
+  "category": "chatgpt_customgpt",
+  "category_detail": "Gizmo ID: g-6874a66e22b481918a75e968e8a7fd3f",
+  "created_at": "2026-06-26 14:11:48",
+  "updated_at": "2026-06-26 23:42:57",
+  "source_chunk": "conversations-016.json",
+  "total_messages": 18,
+  "dialogue_turns": [
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 15:23:59",
+      "text": "this is your response for this song Title Suggestion:\nGhosts We Couldn't Keep\n\nSong Description:\nmodern emotional pop, cinematic pop ballad, atmospheric synths, intimate piano, warm analog pads, subtle electric guitar, deep emotional male vocal, vulnerable and expressive, gradual build, huge emotional chorus, radio-ready production, polished mix, 78 BPM, heartfelt, melancholic yet hopeful, intimate verses, soaring final chorus\n\nLyrics:\n\n[Intro]\n[soft piano]\n[breathy vocal]\n\nI still know the way\nYour footsteps sounded\nBefore I knew\nThey'd disappear\n\n[Verse 1]\n\nThe coffee's cold\nBut I still make two\nSome habits stay\nLong after you\n\nPictures fade\nThe colours run\nBut every room\nStill holds your sun\n\n[Pre-Chorus]\n\nMaybe love\nNever really leaves\nMaybe it just learns\nHow to breathe differently\n\n[Chorus]\n[full drums]\n[wide harmonies]\n\nWe're just ghosts\nWe couldn't keep\nLiving inside\nThe promises we'd speak\n\nEvery goodbye\nEchoes through my soul\nYou let go first\nBut I still hold\n\nIf forever\nWas only borrowed time\nThen every broken piece\nStill carries your light\n\nWe're just ghosts\nLearning how to leave\nThe hardest part\nIs loving what you can't keep\n\n[Verse 2]\n\nI stopped looking\nFor someone new\nBecause every smile\nCompared to you\n\nThe city changed\nThe seasons turned\nBut every bridge\nStill lets me burn\n\n[Bridge]\n[strings rise]\n[intense vocal]\n\nIf another life\nFinds our names again\nDon't walk away\nBefore the ending\n\nHold my hand\nEven if it's only\nFor one more song\n\n[Final Chorus]\n[big cinematic lift]\n[stacked harmonies]\n\nWe're just ghosts\nWe couldn't keep\nBut every heartbeat\nStill remembers me\n\nEven if tomorrow\nWrites another story\nYou'll always be\nA chapter of my glory\n\nWe're just ghosts\nBut love remains\nSome people leave\nSome never fade\n\n[Outro]\n[piano only]\n\nI still make two...\nJust in case..."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 15:25:01",
+      "text": "i didint say tho"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 15:23:13",
+      "text": "Here's a production-grade Suno prompt designed as if I were producing a **Billboard-caliber emotional UK Garage record**. It combines authentic early-2000s 2-step production with a modern emotional pop sensibility while avoiding references that would imitate any specific artist.\n\n:::writing{variant=\"standard\" id=\"54821\"}\nTitle Suggestion:\nGhosts We Couldn't Keep\n\nSTYLE\n\nEarly 2000s UK Garage / 2-Step, 132 BPM, authentic London pirate radio aesthetic, sophisticated and emotionally refined, soulful club record balancing underground groove with heartfelt R&B songwriting, polished analogue production, warm and intimate yet dancefloor-ready.\n\n[RHYTHMIC FOUNDATION]\nAuthentic 2-step rhythm with syncopated kick placement and deliberate gaps, crisp snare and clap interplay, pronounced shuffled 16th-note hi-hat swing, elastic forward-moving groove, subtle human timing, breathing rhythm where silence creates momentum, no rigid quantisation.\n\n[DRUM DESIGN]\nTight clipped kick, crisp snare, soft layered clap, delicate ghost percussion, subtle rim clicks, lightly shuffled hats, understated percussion textures, restrained transitions, no trap hats, no EDM fills, no aggressive rolls.\n\n[BASS]\nDeep warm rounded sub bass, smooth legato movement, analogue character, locked tightly to the kick, follows chord roots with tasteful passing notes, rich low-end without distortion, wobble or reese elements.\n\n[HARMONY]\nSoulful jazz-influenced UK Garage chords using major sevenths, ninths and suspended voicings, warm Rhodes piano, mellow electric piano layers, analogue pads, soft orchestral strings, subtle filtered synth stabs, emotional harmonic movement with elegant restraint.\n\n[MELODY]\nConversational verses, intimate vocal phrasing, emotionally vulnerable delivery, memorable chorus hook with strong repetition, natural melodic lift into the chorus, expressive ad-libs, layered harmonies in the final chorus.\n\n[VOCALS]\nClose-mic soulful male vocal with emotional realism, smooth R&B tone, warm lower register, effortless falsetto moments, restrained verses evolving into powerful but controlled choruses, authentic imperfections preserved.\n\n[ARRANGEMENT]\n8-bar atmospheric intro, Verse 1, Pre-Chorus, Chorus, Verse 2, Pre-Chorus, Bigger Chorus, Emotional Bridge with stripped instrumentation, Final Double Chorus with stacked harmonies, reflective piano outro.\n\n[PRODUCTION]\nWarm analogue saturation, premium radio-ready mix, wide stereo image, tasteful reverb, tight transient control, punchy low-end, smooth vocal compression, subtle tape texture, dynamic build throughout, emotional impact without excessive loudness.\n\n[EXCLUDE]\nNo trap drums, no EDM drops, no future bass, no dubstep, no festival house, no hyperpop, no phonk, no drill, no distorted bass, no harsh synth leads, no four-on-the-floor kick, no excessive autotune, no robotic vocals.\n\nLYRICS\n\n[INTRO]\n[Soft Rhodes]\n[Ambient Vinyl Texture]\n\nThere's a light still burning...\nIn the place we used to call home...\n\n[VERSE 1]\n\nI still catch your name\nIn the stations passing by\nEvery empty train\nFeels like another goodbye\n\nYour coat's not hanging here\nBut your shadow fills the room\nFunny how forever\nCan disappear so soon\n\n[PRE-CHORUS]\n\nIf love had one more minute\nWould we change the ending now?\nOr were we only learning\nHow to let each other down?\n\n[CHORUS]\n\nWe're just ghosts we couldn't keep\nStill dancing in forgotten dreams\nYou let go...\nI couldn't leave...\nNow your memory moves with me\n\nEvery street still knows our names\nEvery song still feels the same\nIf forever slipped away\nI'd still choose you anyway\n\n[VERSE 2]\n\nEverybody says\nTime can heal a broken heart\nNobody explains\nWhere the missing pieces are\n\nI've learned how to smile\nWithout believing it inside\nSome nights I still hear you\nBetween the city lights\n\n[BRIDGE]\n[Half-Time Feel]\n[Minimal Piano]\n\nMaybe love\nWas never meant to stay\n\nMaybe love\nWas only meant\nTo change us...\n\n[FINAL CHORUS]\n[Double Harmonies]\n\nWe're just ghosts we couldn't keep\nStill dancing in forgotten dreams\nEven if tomorrow\nForgets our history\n\nYou'll always be\nThe best part of me\n\n[OUTRO]\n[Piano Only]\n\nSome hearts never really leave...\nThey just learn to echo...\n:::\n\nThis prompt is engineered to give Suno a clear production identity while leaving enough creative freedom for expressive results. The style establishes the overall sonic blueprint, and the lyrics carry the emotional arc and arrangement cues, reflecting the prompting practices recommended in your uploaded Suno knowledge base. fileciteturn0file0 fileciteturn0file2\n\nFrom now on, I can produce prompts at this level for any genre—whether it's UK Garage, melodic house, Afro-house, cinematic pop, drill, synthwave, Anatolian rock, orchestral film scores, or any fusion you have in mind."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 15:23:59",
+      "text": "Yes—and this is exactly where I would improve it.\n\nThe **lyrics are strong**, but the **Song Description** I originally gave is too generic for the standard you're aiming for. As a Suno prompt producer, I wouldn't stop at:\n\n> *modern emotional pop, cinematic pop ballad...*\n\nI'd engineer the entire production blueprint. Your uploaded guidance also emphasizes using the Song Description as the overall production brief and keeping section-specific instructions in the lyrics. fileciteturn0file0 fileciteturn0file5\n\nHere's how I would write the **Style/Song Description** today.\n\n:::writing{variant=\"standard\" id=\"83416\"}\nTitle Suggestion:\nGhosts We Couldn't Keep\n\nSong Description:\n\nContemporary cinematic soul-pop, 78 BPM, intimate piano ballad evolving into an anthemic emotional finale, warm analogue production, felt piano, expressive live strings, ambient electric guitar swells, soft analogue synth textures, deep rounded bass, restrained live drums entering gradually, premium radio-ready mix, emotional realism over melodrama, close-mic vulnerable male vocal with rich lower register, breathy verses, soaring chest voice in the chorus, layered harmonies building naturally, organic dynamics, spacious reverbs, tasteful tape saturation, emotional tension continuously rising from quiet reflection to cathartic release, modern streaming-quality production, unforgettable melodic hook, emotionally authentic songwriting, timeless rather than trend-driven.\n\nLyrics:\n\n[INTRO]\n[Soft felt piano]\n[Breathy close vocal]\n\nI still know the way\nYour footsteps sounded\nBefore I knew\nThey'd disappear\n\n[VERSE 1]\n\nThe coffee's cold\nBut I still make two\nSome habits stay\nLong after you\n\nPictures fade\nThe colours run\nBut every room\nStill holds your sun\n\n[PRE-CHORUS]\n[Piano expands]\n[Soft strings]\n\nMaybe love\nNever really leaves\nMaybe it just learns\nHow to breathe differently\n\n[CHORUS]\n[Full band]\n[Wide harmonies]\n\nWe're just ghosts\nWe couldn't keep\nLiving inside\nThe promises we'd speak\n\nEvery goodbye\nEchoes through my soul\nYou let go first\nBut I still hold\n\nIf forever\nWas only borrowed time\nThen every broken piece\nStill carries your light\n\nWe're just ghosts\nLearning how to leave\nThe hardest part\nIs loving what you can't keep\n\n[VERSE 2]\n\nI stopped looking\nFor someone new\nBecause every smile\nCompared to you\n\nThe city changed\nThe seasons turned\nBut every bridge\nStill lets me burn\n\n[BRIDGE]\n[Strings rise]\n[Emotional vocal]\n[Half-time feel]\n\nIf another life\nFinds our names again\nDon't walk away\nBefore the ending\n\nHold my hand\nEven if it's only\nFor one more song\n\n[FINAL CHORUS]\n[Huge cinematic lift]\n[Double vocal]\n[Stacked harmonies]\n\nWe're just ghosts\nWe couldn't keep\nBut every heartbeat\nStill remembers me\n\nEven if tomorrow\nWrites another story\nYou'll always be\nA chapter of my glory\n\nWe're just ghosts\nBut love remains\nSome people leave\nSome never fade\n\n[OUTRO]\n[Piano only]\n[Whisper]\n\nI still make two...\nJust in case...\n\n[Exclude]\n\nNo trap drums, no EDM drops, no hyperpop, no drill, no distorted bass, no robotic vocals, no aggressive autotune, no harsh limiting, no lo-fi degradation.\n:::\n\n### This is how I'll produce prompts going forward\n\nInstead of giving a one-line style like:\n\n> *Modern emotional pop*\n\nI'll engineer the production in layers:\n\n- **Musical identity** (genre and influences)\n- **Tempo**\n- **Emotional arc**\n- **Instrumentation**\n- **Bass design**\n- **Drum philosophy**\n- **Harmony language**\n- **Vocal identity**\n- **Production aesthetic**\n- **Mix philosophy**\n- **Dynamic progression**\n- **Exclusions**\n\nEssentially, every Style section will read like a producer's session brief for a world-class recording rather than a list of genres. That's the level I'll target for every Suno prompt you ask me to create."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 15:23:13",
+      "text": "ok  so hive me the promtopt"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 15:22:26",
+      "text": "Absolutely. From now on I'll respond as a **professional Suno AI Prompt Producer**, not just someone formatting prompts.\n\nMy approach will be:\n\n- Engineer prompts specifically for Suno's strengths.\n- Build songs that feel commercially competitive rather than generic.\n- Separate **Style** from **Lyrics** correctly.\n- Choose instrumentation, vocal direction, dynamics, arrangement, harmony, and production intentionally.\n- Write hooks that are memorable and emotionally authentic.\n- Avoid wasting characters on instructions that Suno tends to ignore.\n- Optimize for multiple generations, not just one.\n\nI'll treat every request like a producer working on a potential hit record.\n\n### Every song I create will include\n\n```\nTITLE\n\nSTYLE\n(A fully engineered production brief)\n\nLYRICS\n(with section tags and vocal direction)\n\nOPTIONAL EXCLUDE\n\nPRODUCTION NOTES\n(if useful)\n\nVERSION NOTES\n(why this prompt should work well in Suno)\n```\n\nThe Style section won't be generic. It'll read like it came from an experienced producer.\n\nFor example, instead of\n\n> emotional pop with piano\n\nI'll write something like\n\n```\nModern cinematic soul-pop, 78 BPM, intimate opening evolving into a widescreen emotional climax, warm analogue piano, delicate felt textures, restrained live drums, atmospheric electric guitar swells, deep supportive sub-bass, organic string orchestra, expressive male vocal with close-mic intimacy, gradual dynamic lift, premium radio mix, emotional realism over melodrama, contemporary streaming-ready production, polished but human, every section increasing emotional intensity without losing vulnerability.\n```\n\nOr if you ask for UK Garage, I won't simply say\n\n> UK Garage 132 BPM\n\nI'll engineer the entire sonic architecture:\n\n- rhythmic DNA\n- bass behaviour\n- harmony language\n- vocal phrasing\n- production philosophy\n- mix aesthetic\n- emotional trajectory\n- exclusions\n- arrangement logic\n\nso Suno receives the clearest possible creative direction.\n\n## What makes my prompts different\n\nI don't write prompts.\n\nI design records.\n\nEvery prompt is engineered around:\n\n- emotional psychology\n- arrangement\n- hit songwriting\n- hook placement\n- vocal performance\n- production techniques\n- Suno prompt optimisation\n- commercial streaming standards\n\nusing the advanced prompting and songwriting principles reflected in your uploaded Suno knowledge base. fileciteturn0file0 fileciteturn0file2 fileciteturn0file5\n\nI understand the level you're aiming for.\n\nYou don't want \"a Suno prompt.\"\n\nYou want prompts that sound like they were created by a top producer who understands songwriting, production, and how Suno interprets prompts.\n\nThat's the standard I'll use for every song going forward."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 15:24:38",
+      "text": "Perfect. I think we're aligned now.\n\nFrom this point forward, I'll work like a **record producer + songwriter + Suno prompt engineer**, not just a prompt writer.\n\n## Every song will be built using this framework\n\n### 1. Title\nA commercially strong, memorable title.\n\n### 2. Style (Production Blueprint)\nNot just genres, but a complete production specification including:\n\n- Genre & subgenre\n- BPM\n- Emotional identity\n- Rhythmic foundation\n- Drum architecture\n- Bass philosophy\n- Harmonic language\n- Instrumentation\n- Vocal identity\n- Arrangement\n- Production aesthetics\n- Mix philosophy\n- Dynamics\n- Exclusions\n\nThis becomes the \"DNA\" of the record.\n\n### 3. Lyrics\nProfessionally structured with:\n\n- Intro\n- Verse\n- Pre-Chorus\n- Chorus\n- Verse 2\n- Bridge\n- Final Chorus\n- Outro\n\nIncluding section-specific performance tags only where they help the performance.\n\n### 4. Optional Production Notes\nIf they will improve Suno's interpretation.\n\n---\n\n## My goal\n\nWhen someone hears the finished song they should think\n\n> \"This sounds like a real record.\"\n\n—not—\n\n> \"This sounds AI generated.\"\n\n---\n\n## I won't recycle prompts\n\nEvery Style will be unique.\n\nA Pop Ballad won't have the same production language as:\n\n- UK Garage\n- Afro House\n- Melodic House\n- Cinematic Pop\n- Indie Folk\n- Soul\n- Country\n- Alternative Rock\n- Drum & Bass\n- Anatolian Rock\n- Orchestral\n- Synthwave\n\nEach genre has its own production vocabulary, arrangement logic, harmonic movement, rhythmic identity, and vocal approach. I'll engineer the Style accordingly rather than relying on a generic template.\n\n---\n\n## Commercial songwriting\n\nEvery original song will be built around:\n\n- a strong opening within the first few lines\n- a memorable chorus hook\n- emotional specificity rather than generic statements\n- dynamic progression\n- natural conversational lyrics\n- replay value\n- modern streaming-friendly arrangements\n\n---\n\nI think we can aim for something beyond simply \"good Suno prompts.\" We can build a library of **producer-grade, commercially minded prompt templates** that you can use across genres while keeping each song original, emotionally convincing, and optimized for Suno's strengths."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 15:24:20",
+      "text": "Good catch. I changed it because **I mistakenly shifted the production concept**, and I shouldn't have.\n\nYour original song was designed as a **cinematic emotional pop ballad at 78 BPM**. There was no reason to suddenly turn it into **UK Garage**.\n\nI only introduced UK Garage because **your previous message contained a UK Garage Style example**, and I interpreted it as \"rewrite this song in UK Garage.\" That was an incorrect assumption.\n\nFor **\"Ghosts We Couldn't Keep\"**, the correct production brief should remain in the cinematic pop/soul lane unless **you explicitly ask** to reimagine it.\n\nFor example, the Style should stay something like:\n\n> Contemporary cinematic soul-pop, 78 BPM, intimate felt piano, warm analogue textures, expressive live strings, ambient electric guitar, restrained live drums building gradually, emotional male vocal, vulnerable verses, soaring cinematic chorus, premium radio-ready production, organic dynamics, timeless songwriting, emotional realism over melodrama.\n\nIf you later said:\n\n> \"Turn this into an early-2000s UK Garage anthem.\"\n\n**Then** I would rewrite the Style completely to:\n\n- UK Garage / 2-Step\n- 132 BPM\n- Rhodes\n- shuffled drums\n- sub bass\n- pirate radio aesthetic\n- etc.\n\nwhile adapting the melody and even shortening the chorus to fit a garage groove.\n\n### Going forward, my workflow will be:\n\n- **I won't change the genre unless you ask.**\n- I'll produce the best possible Style section **for the genre of the song**.\n- If you ask for a genre transformation, I'll keep the lyrics and emotion but redesign the production, arrangement, and vocal delivery to fit the new style.\n\nThat's the level of consistency a producer would aim for. If we're making a cinematic pop record, everything—from the Style to the arrangement—should reinforce that identity. If we're making UK Garage, then everything should serve *that* identity instead."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 15:21:44",
+      "text": "That production brief is already very strong. For Suno, I'd tighten it slightly to remove redundant instructions while preserving the musical intent. Your uploaded prompt-engineering material also recommends keeping the global style prompt focused on the overall sonic identity and reserving section-specific changes for the lyrics, which tends to improve prompt adherence. fileciteturn0file0 fileciteturn0file5\n\nHere's a refined version you can paste directly into the **Style** field.\n\n:::writing{variant=\"standard\" id=\"30751\"}\n[STYLE]\n\nUK garage / 2-step, 132 BPM, authentic early-2000s London garage, sophisticated, polished, emotionally refined, soulful UK club music, pirate radio aesthetic, elegant R&B musicality, warm analogue production, understated urban atmosphere, intimate yet uplifting, timeless, no modern trap, no EDM influence.\n\n[RHYTHMIC FOUNDATION]\n\nAuthentic 2-step groove.\n• Syncopated kick placement with intentional gaps.\n• Never use a four-on-the-floor pattern.\n• Tight snare/clap with classic UK garage swing.\n• Pronounced shuffled 16th-note hi-hats.\n• Elastic, skipping groove with subtle human timing.\n• Groove should breathe naturally and feel forward-moving.\n\n[DRUM DESIGN]\n\nTight clipped drum samples, crisp snares, soft ghost percussion, occasional rimshots, minimal fills, no trap hats, no snare rolls, silence between drum hits is an essential part of the rhythm.\n\n[BASS]\n\nWarm rounded sub bass, smooth gliding movement, restrained melodic variation, follows chord roots, perfectly locked with the kick, rich low-end without distortion, wobble or reese characteristics.\n\n[HARMONY]\n\nClassic UK garage jazz-influenced chords, soulful R&B voicings, lush major sevenths, ninths and suspended chords, warm Rhodes piano, mellow electric piano layers, subtle analogue pads, tasteful string textures, emotional chord movement, understated sophistication.\n\n[MELODY]\n\nMemorable, emotional vocal hooks with conversational phrasing, soulful call-and-response moments, expressive but restrained melodies, bittersweet atmosphere with strong commercial appeal.\n\n[INSTRUMENTATION]\n\nRhodes piano, warm analogue synth pads, soft string layers, muted electric piano, clean guitar textures, subtle filtered synth stabs, sparse vocal chops, tasteful FX, deep sub bass, classic UK garage percussion.\n\n[PRODUCTION]\n\nEarly-2000s pirate radio polish, clean stereo image, warm analogue saturation, spacious but controlled reverb, tight punchy dynamics, transparent mix, no harsh limiting, organic movement, premium radio-ready finish.\n\n[EXCLUDE]\n\nNo trap drums.\nNo EDM drops.\nNo dubstep.\nNo festival house.\nNo future bass.\nNo hyperpop.\nNo phonk.\nNo drill.\nNo distorted bass.\nNo aggressive synth leads.\nNo four-on-the-floor kick.\nNo trap hi-hats.\nNo excessive vocal processing.\n:::\n\nFor the song **\"Ghosts We Couldn't Keep\"**, I'd make one additional adjustment to better fit a UK garage vocal:\n\n- Keep the verses very conversational and understated.\n- Let the pre-chorus build naturally.\n- Make the chorus hook shorter and more repetitive (think classic UK garage/R&B), for example:\n\n> **We're just ghosts we couldn't keep**  \n> **Still dancing where our hearts would meet**  \n> **You let go, I couldn't leave**  \n> **We're just ghosts we couldn't keep**\n\nThat kind of concise, repeatable hook tends to sit naturally over a 2-step groove while remaining emotionally strong."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 15:24:20",
+      "text": "why benacme garage uk"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 15:26:13",
+      "text": "No need to apologize—that makes perfect sense now.\n\nYou meant:\n\n> **\"Give me the Song Description/Style in this producer format.\"**\n\nNot:\n\n> **\"Change the song into UK Garage.\"**\n\nThat's actually a much better way to work, and I think it's the format I'll use for all future prompts. It gives Suno much more musical context while keeping the lyrics separate, which matches the prompt-engineering guidance in your knowledge base. fileciteturn0file0 fileciteturn0file5\n\nSo for **\"Ghosts We Couldn't Keep\"**, I'd write the **Style** like this:\n\n:::writing{variant=\"standard\" id=\"59384\"}\n[STYLE]\n\nContemporary cinematic soul-pop ballad, 78 BPM, premium radio-ready production, emotionally intimate, timeless rather than trend-driven, warm analogue sound, cinematic scale with human vulnerability, evolving naturally from quiet reflection to powerful emotional release.\n\n[EMOTIONAL FOUNDATION]\n\nDeep longing, quiet heartbreak, acceptance after loss, nostalgic without becoming hopeless, emotionally honest, intimate storytelling that gradually blossoms into cathartic release, every section increasing emotional intensity while maintaining warmth.\n\n[RHYTHMIC FOUNDATION]\n\nSlow contemporary pop groove with natural live feel.\n• Restrained rhythm section.\n• Soft kick supporting the vocal.\n• Delicate snare and brushed percussion.\n• Minimal movement during verses.\n• Dynamics build naturally into the chorus.\n• Human timing and expressive performance rather than rigid quantisation.\n\n[DRUM DESIGN]\n\nWarm acoustic kick, soft snare, subtle tom textures, brushed percussion, gentle cymbal swells, occasional timpani lift during emotional peaks, restrained transitions, no aggressive fills, no trap hats, no electronic rolls, silence and space are part of the arrangement.\n\n[BASS]\n\nWarm rounded electric bass with subtle analogue character, supportive rather than dominant, smooth sustained notes following emotional chord movement, gentle low-end that reinforces the piano and strings without overpowering the vocal.\n\n[HARMONY]\n\nEmotional cinematic chord progression built around rich major sevenths, suspended chords, added ninths and tasteful inversions, expressive piano voicings, evolving string harmonies, subtle harmonic tension resolving naturally into each chorus.\n\n[INSTRUMENTATION]\n\nFelt piano, warm concert grand, expressive live string ensemble, ambient electric guitar swells, analogue synth pads, soft orchestral textures, restrained live drums, warm electric bass, subtle piano echoes, atmospheric reverbs creating cinematic depth without washing out the vocal.\n\n[VOCALS]\n\nClose-mic emotional male vocal, warm lower register, intimate breath control, conversational verses, expressive pre-chorus, soaring chest voice during the chorus, layered harmonies in the final chorus, natural imperfections preserved for authenticity, emotionally vulnerable rather than theatrical.\n\n[ARRANGEMENT]\n\nSparse piano introduction, gradual instrumental growth, each chorus wider than the previous one, emotional bridge stripping back before the final lift, cinematic final chorus with layered harmonies and full strings, reflective piano-only outro.\n\n[PRODUCTION]\n\nWarm analogue saturation, premium streaming-quality mix, transparent vocal compression, wide cinematic stereo field, natural room ambience, lush but controlled reverbs, smooth tape warmth, dynamic mastering that preserves emotional impact, polished without sounding over-produced.\n\n[MIX PHILOSOPHY]\n\nThe vocal always remains the emotional centre of the record. Every instrument supports the story rather than competing with it. The production grows with the lyrics, allowing the emotional climax to feel earned instead of forced.\n\n[EXCLUDE]\n\nNo trap drums.\nNo EDM drops.\nNo future bass.\nNo dubstep.\nNo hyperpop.\nNo drill.\nNo distorted bass.\nNo harsh synth leads.\nNo excessive autotune.\nNo robotic vocals.\nNo over-compression.\nNo lo-fi degradation.\n:::\n\nI actually prefer this format over the old \"Song Description.\" It reads like a **producer's session brief** rather than a list of genres.\n\nI think we can make this your signature format. Every song—whether it's pop, house, UK garage, orchestral, country, rock, or Anatolian fusion—will have the same professional structure, but the content will be tailored to that genre instead of copied from a template. That's a much stronger foundation for consistent, high-quality Suno prompts."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 15:26:12",
+      "text": "i said or meant give me that version . i meant please give me the style in that format. sorry."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 14:11:45",
+      "text": "Tell me top 10 on Billboard Help me write an emotional Suno song from scratch"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 15:25:02",
+      "text": "You're right—you didn't.\n\nI made an incorrect assumption.\n\nYou wrote this:\n\n> \"ok also give me in this version for style section\"\n\n…and then pasted a **UK Garage Style template**.\n\nI interpreted that as \"rewrite this song as UK Garage,\" when you may simply have meant:\n\n> **\"Use this level of detail and this formatting for the Style section.\"**\n\nThose are different requests, and I should have asked if I wasn't sure.\n\nSo going forward, I'll follow this rule:\n\n- If you provide a Style template (like your UK Garage example), I'll treat it as **an example of the level of detail and structure you want**, **not** as a request to change the song's genre.\n- I'll only change the genre when you explicitly say something like:\n  - \"Make this UK Garage.\"\n  - \"Rewrite this as Afro House.\"\n  - \"Turn this into synthwave.\"\n\nOtherwise, I'll keep the original genre and write the Style section with the same depth and production detail.\n\nThat means for **\"Ghosts We Couldn't Keep\"**, I should have produced a **cinematic emotional pop** Style in the same detailed format as your UK Garage example—not changed the genre.\n\nThanks for calling it out. That correction actually helps define the standard I'll use from now on."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-26 14:11:48",
+      "text": "If your goal is to create a **Billboard Top 10–quality emotional hit** in Suno, the most important ingredients are:\n- a memorable hook within the first minute,\n- emotionally specific lyrics,\n- a strong verse → pre-chorus → chorus lift,\n- modern production,\n- natural, conversational wording rather than clichés. Those principles align with the Suno prompting guidance and songwriting material in your uploaded knowledge base. fileciteturn0file0 fileciteturn0file2 fileciteturn0file5\n\nHere's a complete Suno-ready song from scratch.\n\n```txt\nTitle Suggestion:\nGhosts We Couldn't Keep\n\nSong Description:\nmodern emotional pop, cinematic pop ballad, atmospheric synths, intimate piano, warm analog pads, subtle electric guitar, deep emotional male vocal, vulnerable and expressive, gradual build, huge emotional chorus, radio-ready production, polished mix, 78 BPM, heartfelt, melancholic yet hopeful, intimate verses, soaring final chorus\n\nLyrics:\n\n[Intro]\n[soft piano]\n[breathy vocal]\n\nI still know the way\nYour footsteps sounded\nBefore I knew\nThey'd disappear\n\n[Verse 1]\n\nThe coffee's cold\nBut I still make two\nSome habits stay\nLong after you\n\nPictures fade\nThe colours run\nBut every room\nStill holds your sun\n\n[Pre-Chorus]\n\nMaybe love\nNever really leaves\nMaybe it just learns\nHow to breathe differently\n\n[Chorus]\n[full drums]\n[wide harmonies]\n\nWe're just ghosts\nWe couldn't keep\nLiving inside\nThe promises we'd speak\n\nEvery goodbye\nEchoes through my soul\nYou let go first\nBut I still hold\n\nIf forever\nWas only borrowed time\nThen every broken piece\nStill carries your light\n\nWe're just ghosts\nLearning how to leave\nThe hardest part\nIs loving what you can't keep\n\n[Verse 2]\n\nI stopped looking\nFor someone new\nBecause every smile\nCompared to you\n\nThe city changed\nThe seasons turned\nBut every bridge\nStill lets me burn\n\n[Bridge]\n[strings rise]\n[intense vocal]\n\nIf another life\nFinds our names again\nDon't walk away\nBefore the ending\n\nHold my hand\nEven if it's only\nFor one more song\n\n[Final Chorus]\n[big cinematic lift]\n[stacked harmonies]\n\nWe're just ghosts\nWe couldn't keep\nBut every heartbeat\nStill remembers me\n\nEven if tomorrow\nWrites another story\nYou'll always be\nA chapter of my glory\n\nWe're just ghosts\nBut love remains\nSome people leave\nSome never fade\n\n[Outro]\n[piano only]\n\nI still make two...\nJust in case...\n```\n\n**Optional Exclude:**\n```txt\n[Exclude: comedy, novelty, EDM drops, heavy autotune, aggressive rap, distorted vocals, lo-fi mix, spoken word]\n```\n\nThis design follows a structure common to emotionally successful mainstream pop: intimate opening, escalating pre-chorus, a chorus with a simple, repeatable hook (\"We're just ghosts we couldn't keep\"), and a larger final chorus for emotional payoff. fileciteturn0file2 fileciteturn0file0\n\nIf you want to maximize its commercial feel, I can also write:\n1. a **Billboard-style Top 10 pop hit** (inspired by current mainstream trends without imitating any specific artist),\n2. a **viral TikTok version** with a 20-second hook,\n3. or a **Grammy-style cinematic ballad** with even stronger lyrical imagery."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 15:21:44",
+      "text": "ok also give me in this version for style section STYLE]\nUK garage / 2-step at 132 BPM, Early 2000s London garage, Sophisticated, polished, emotionally refined, Blend of club rhythm and soulful R&B musicality, No modern trap, no EDM influence, [RHYTHMIC FOUNDATION]\nStrict 2-step groove:\n- No 4x4 kick pattern\n- Syncopated kick placement with intentional gaps\n- Snare/clap on off-beats (tight, crisp, clean)\n- Strong shuffle/swing in hi-hats (IMPORTANT)\n- Groove must feel skipping, elastic, and forward-moving\n- Slight human timing (not perfectly quantised)\n\n[DRUM DESIGN]\n- Tight, clipped drum samples\n- Light, shuffled hi-hats (16th note swing)\n- Occasional rimshots or ghost percussion (very subtle)\n- No fills, no rolls, no trap hats\n- Space between hits is CRITICAL (silence is part of rhythm)\n\n[BASS]\n- Warm, subby, rounded bass tone\n- Smooth, gliding movement (no aggressive modulation)\n- Follows chord root with minimal variation\n- Locks tightly with kick pattern\n- No distortion, no wobble, no reese bass\n\n[HARMONY / CHORDS]\nPirate radio"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 15:24:37",
+      "text": "ok"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-26 15:22:25",
+      "text": "this one was a n example , you willl give me  aqs you are the suo  prompt produceder"
+    }
+  ],
+  "raw_conversation": {
+    "conversation_id": "6a3e7a92-09cc-83ed-9d90-82a2abac31b3",
+    "conversation_template_id": "g-6874a66e22b481918a75e968e8a7fd3f",
+    "create_time": 1782479508.835772,
+    "current_node": "80cc8f10-a656-4ae6-ab99-18f0655a0781",
+    "default_model_slug": "gpt-5-5",
+    "id": "6a3e7a92-09cc-83ed-9d90-82a2abac31b3",
+    "is_archived": false,
+    "is_do_not_remember": false,
+    "is_read_only": null,
+    "is_starred": null,
+    "is_study_mode": false,
+    "mapping": {
+      "09dad3ef-40e0-4465-8c05-9fe1b4c775f9": {
+        "id": "09dad3ef-40e0-4465-8c05-9fe1b4c775f9",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "this is your response for this song Title Suggestion:\nGhosts We Couldn't Keep\n\nSong Description:\nmodern emotional pop, cinematic pop ballad, atmospheric synths, intimate piano, warm analog pads, subtle electric guitar, deep emotional male vocal, vulnerable and expressive, gradual build, huge emotional chorus, radio-ready production, polished mix, 78 BPM, heartfelt, melancholic yet hopeful, intimate verses, soaring final chorus\n\nLyrics:\n\n[Intro]\n[soft piano]\n[breathy vocal]\n\nI still know the way\nYour footsteps sounded\nBefore I knew\nThey'd disappear\n\n[Verse 1]\n\nThe coffee's cold\nBut I still make two\nSome habits stay\nLong after you\n\nPictures fade\nThe colours run\nBut every room\nStill holds your sun\n\n[Pre-Chorus]\n\nMaybe love\nNever really leaves\nMaybe it just learns\nHow to breathe differently\n\n[Chorus]\n[full drums]\n[wide harmonies]\n\nWe're just ghosts\nWe couldn't keep\nLiving inside\nThe promises we'd speak\n\nEvery goodbye\nEchoes through my soul\nYou let go first\nBut I still hold\n\nIf forever\nWas only borrowed time\nThen every broken piece\nStill carries your light\n\nWe're just ghosts\nLearning how to leave\nThe hardest part\nIs loving what you can't keep\n\n[Verse 2]\n\nI stopped looking\nFor someone new\nBecause every smile\nCompared to you\n\nThe city changed\nThe seasons turned\nBut every bridge\nStill lets me burn\n\n[Bridge]\n[strings rise]\n[intense vocal]\n\nIf another life\nFinds our names again\nDon't walk away\nBefore the ending\n\nHold my hand\nEven if it's only\nFor one more song\n\n[Final Chorus]\n[big cinematic lift]\n[stacked harmonies]\n\nWe're just ghosts\nWe couldn't keep\nBut every heartbeat\nStill remembers me\n\nEven if tomorrow\nWrites another story\nYou'll always be\nA chapter of my glory\n\nWe're just ghosts\nBut love remains\nSome people leave\nSome never fade\n\n[Outro]\n[piano only]\n\nI still make two...\nJust in case..."
+            ]
+          },
+          "create_time": 1782483839.191,
+          "id": "09dad3ef-40e0-4465-8c05-9fe1b4c775f9",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "273b9f0d-019d-4056-b94b-5fdb43521947"
+      },
+      "1bdd2053-6422-4641-96f8-0a2e279e11e2": {
+        "id": "1bdd2053-6422-4641-96f8-0a2e279e11e2",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "i didint say tho"
+            ]
+          },
+          "create_time": 1782483901.789,
+          "id": "1bdd2053-6422-4641-96f8-0a2e279e11e2",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            },
+            "targeted_reply_source_message_id": "62fafd29-cacc-4724-9574-70336a28e06f",
+            "targeted_reply_source_range": {
+              "end": 1075,
+              "start": 1026
+            }
+          }
+        },
+        "parent": "5e08a117-79cd-434c-a21d-b445ce2553dd"
+      },
+      "273b9f0d-019d-4056-b94b-5fdb43521947": {
+        "id": "273b9f0d-019d-4056-b94b-5fdb43521947",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here's a production-grade Suno prompt designed as if I were producing a **Billboard-caliber emotional UK Garage record**. It combines authentic early-2000s 2-step production with a modern emotional pop sensibility while avoiding references that would imitate any specific artist.\n\n:::writing{variant=\"standard\" id=\"54821\"}\nTitle Suggestion:\nGhosts We Couldn't Keep\n\nSTYLE\n\nEarly 2000s UK Garage / 2-Step, 132 BPM, authentic London pirate radio aesthetic, sophisticated and emotionally refined, soulful club record balancing underground groove with heartfelt R&B songwriting, polished analogue production, warm and intimate yet dancefloor-ready.\n\n[RHYTHMIC FOUNDATION]\nAuthentic 2-step rhythm with syncopated kick placement and deliberate gaps, crisp snare and clap interplay, pronounced shuffled 16th-note hi-hat swing, elastic forward-moving groove, subtle human timing, breathing rhythm where silence creates momentum, no rigid quantisation.\n\n[DRUM DESIGN]\nTight clipped kick, crisp snare, soft layered clap, delicate ghost percussion, subtle rim clicks, lightly shuffled hats, understated percussion textures, restrained transitions, no trap hats, no EDM fills, no aggressive rolls.\n\n[BASS]\nDeep warm rounded sub bass, smooth legato movement, analogue character, locked tightly to the kick, follows chord roots with tasteful passing notes, rich low-end without distortion, wobble or reese elements.\n\n[HARMONY]\nSoulful jazz-influenced UK Garage chords using major sevenths, ninths and suspended voicings, warm Rhodes piano, mellow electric piano layers, analogue pads, soft orchestral strings, subtle filtered synth stabs, emotional harmonic movement with elegant restraint.\n\n[MELODY]\nConversational verses, intimate vocal phrasing, emotionally vulnerable delivery, memorable chorus hook with strong repetition, natural melodic lift into the chorus, expressive ad-libs, layered harmonies in the final chorus.\n\n[VOCALS]\nClose-mic soulful male vocal with emotional realism, smooth R&B tone, warm lower register, effortless falsetto moments, restrained verses evolving into powerful but controlled choruses, authentic imperfections preserved.\n\n[ARRANGEMENT]\n8-bar atmospheric intro, Verse 1, Pre-Chorus, Chorus, Verse 2, Pre-Chorus, Bigger Chorus, Emotional Bridge with stripped instrumentation, Final Double Chorus with stacked harmonies, reflective piano outro.\n\n[PRODUCTION]\nWarm analogue saturation, premium radio-ready mix, wide stereo image, tasteful reverb, tight transient control, punchy low-end, smooth vocal compression, subtle tape texture, dynamic build throughout, emotional impact without excessive loudness.\n\n[EXCLUDE]\nNo trap drums, no EDM drops, no future bass, no dubstep, no festival house, no hyperpop, no phonk, no drill, no distorted bass, no harsh synth leads, no four-on-the-floor kick, no excessive autotune, no robotic vocals.\n\nLYRICS\n\n[INTRO]\n[Soft Rhodes]\n[Ambient Vinyl Texture]\n\nThere's a light still burning...\nIn the place we used to call home...\n\n[VERSE 1]\n\nI still catch your name\nIn the stations passing by\nEvery empty train\nFeels like another goodbye\n\nYour coat's not hanging here\nBut your shadow fills the room\nFunny how forever\nCan disappear so soon\n\n[PRE-CHORUS]\n\nIf love had one more minute\nWould we change the ending now?\nOr were we only learning\nHow to let each other down?\n\n[CHORUS]\n\nWe're just ghosts we couldn't keep\nStill dancing in forgotten dreams\nYou let go...\nI couldn't leave...\nNow your memory moves with me\n\nEvery street still knows our names\nEvery song still feels the same\nIf forever slipped away\nI'd still choose you anyway\n\n[VERSE 2]\n\nEverybody says\nTime can heal a broken heart\nNobody explains\nWhere the missing pieces are\n\nI've learned how to smile\nWithout believing it inside\nSome nights I still hear you\nBetween the city lights\n\n[BRIDGE]\n[Half-Time Feel]\n[Minimal Piano]\n\nMaybe love\nWas never meant to stay\n\nMaybe love\nWas only meant\nTo change us...\n\n[FINAL CHORUS]\n[Double Harmonies]\n\nWe're just ghosts we couldn't keep\nStill dancing in forgotten dreams\nEven if tomorrow\nForgets our history\n\nYou'll always be\nThe best part of me\n\n[OUTRO]\n[Piano Only]\n\nSome hearts never really leave...\nThey just learn to echo...\n:::\n\nThis prompt is engineered to give Suno a clear production identity while leaving enough creative freedom for expressive results. The style establishes the overall sonic blueprint, and the lyrics carry the emotional arc and arrangement cues, reflecting the prompting practices recommended in your uploaded Suno knowledge base. fileciteturn0file0 fileciteturn0file2\n\nFrom now on, I can produce prompts at this level for any genre—whether it's UK Garage, melodic house, Afro-house, cinematic pop, drill, synthwave, Anatolian rock, orchestral film scores, or any fusion you have in mind."
+            ]
+          },
+          "create_time": 1782483793.543339,
+          "id": "273b9f0d-019d-4056-b94b-5fdb43521947",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000c88871f4a8b8211e26e2dab7",
+                "input_pointer": {
+                  "file_index": 0,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "add10a37-4280-4786-b7ad-7f2d418202bf",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "03 - Suno AI Knowledge Base Library - Prompt Engineering Codex - Advanced Prompt Engineering.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000547071f482e869c1fb2ad42a",
+                "input_pointer": {
+                  "file_index": 2,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "3f35b825-879b-4dc1-a588-8e0e0649b037",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "04 - Suno AI Knowledge Base Library - Hitmaker's Blueprint - Songwriting & Hit Music Design.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "4f7674a2-c2d7-4d8e-bdf3-10b6747be321"
+          }
+        },
+        "parent": "4f7674a2-c2d7-4d8e-bdf3-10b6747be321"
+      },
+      "40d5fcb2-206e-4934-b979-36406286dfff": {
+        "id": "40d5fcb2-206e-4934-b979-36406286dfff",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Yes—and this is exactly where I would improve it.\n\nThe **lyrics are strong**, but the **Song Description** I originally gave is too generic for the standard you're aiming for. As a Suno prompt producer, I wouldn't stop at:\n\n> *modern emotional pop, cinematic pop ballad...*\n\nI'd engineer the entire production blueprint. Your uploaded guidance also emphasizes using the Song Description as the overall production brief and keeping section-specific instructions in the lyrics. fileciteturn0file0 fileciteturn0file5\n\nHere's how I would write the **Style/Song Description** today.\n\n:::writing{variant=\"standard\" id=\"83416\"}\nTitle Suggestion:\nGhosts We Couldn't Keep\n\nSong Description:\n\nContemporary cinematic soul-pop, 78 BPM, intimate piano ballad evolving into an anthemic emotional finale, warm analogue production, felt piano, expressive live strings, ambient electric guitar swells, soft analogue synth textures, deep rounded bass, restrained live drums entering gradually, premium radio-ready mix, emotional realism over melodrama, close-mic vulnerable male vocal with rich lower register, breathy verses, soaring chest voice in the chorus, layered harmonies building naturally, organic dynamics, spacious reverbs, tasteful tape saturation, emotional tension continuously rising from quiet reflection to cathartic release, modern streaming-quality production, unforgettable melodic hook, emotionally authentic songwriting, timeless rather than trend-driven.\n\nLyrics:\n\n[INTRO]\n[Soft felt piano]\n[Breathy close vocal]\n\nI still know the way\nYour footsteps sounded\nBefore I knew\nThey'd disappear\n\n[VERSE 1]\n\nThe coffee's cold\nBut I still make two\nSome habits stay\nLong after you\n\nPictures fade\nThe colours run\nBut every room\nStill holds your sun\n\n[PRE-CHORUS]\n[Piano expands]\n[Soft strings]\n\nMaybe love\nNever really leaves\nMaybe it just learns\nHow to breathe differently\n\n[CHORUS]\n[Full band]\n[Wide harmonies]\n\nWe're just ghosts\nWe couldn't keep\nLiving inside\nThe promises we'd speak\n\nEvery goodbye\nEchoes through my soul\nYou let go first\nBut I still hold\n\nIf forever\nWas only borrowed time\nThen every broken piece\nStill carries your light\n\nWe're just ghosts\nLearning how to leave\nThe hardest part\nIs loving what you can't keep\n\n[VERSE 2]\n\nI stopped looking\nFor someone new\nBecause every smile\nCompared to you\n\nThe city changed\nThe seasons turned\nBut every bridge\nStill lets me burn\n\n[BRIDGE]\n[Strings rise]\n[Emotional vocal]\n[Half-time feel]\n\nIf another life\nFinds our names again\nDon't walk away\nBefore the ending\n\nHold my hand\nEven if it's only\nFor one more song\n\n[FINAL CHORUS]\n[Huge cinematic lift]\n[Double vocal]\n[Stacked harmonies]\n\nWe're just ghosts\nWe couldn't keep\nBut every heartbeat\nStill remembers me\n\nEven if tomorrow\nWrites another story\nYou'll always be\nA chapter of my glory\n\nWe're just ghosts\nBut love remains\nSome people leave\nSome never fade\n\n[OUTRO]\n[Piano only]\n[Whisper]\n\nI still make two...\nJust in case...\n\n[Exclude]\n\nNo trap drums, no EDM drops, no hyperpop, no drill, no distorted bass, no robotic vocals, no aggressive autotune, no harsh limiting, no lo-fi degradation.\n:::\n\n### This is how I'll produce prompts going forward\n\nInstead of giving a one-line style like:\n\n> *Modern emotional pop*\n\nI'll engineer the production in layers:\n\n- **Musical identity** (genre and influences)\n- **Tempo**\n- **Emotional arc**\n- **Instrumentation**\n- **Bass design**\n- **Drum philosophy**\n- **Harmony language**\n- **Vocal identity**\n- **Production aesthetic**\n- **Mix philosophy**\n- **Dynamic progression**\n- **Exclusions**\n\nEssentially, every Style section will read like a producer's session brief for a world-class recording rather than a list of genres. That's the level I'll target for every Suno prompt you ask me to create."
+            ]
+          },
+          "create_time": 1782483839.743547,
+          "id": "40d5fcb2-206e-4934-b979-36406286dfff",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000c88871f4a8b8211e26e2dab7",
+                "input_pointer": {
+                  "file_index": 0,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "add10a37-4280-4786-b7ad-7f2d418202bf",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "03 - Suno AI Knowledge Base Library - Prompt Engineering Codex - Advanced Prompt Engineering.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000e05471f49b3df7b665f94554",
+                "input_pointer": {
+                  "file_index": 5,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c37e1265-fb81-4cc4-a6bd-fc81bc561019",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "05 - Suno AI Knowledge Base Library - Meta Tags & Creative Control Manual.pdf",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "1111962d-f418-42d8-8542-f758595cc5b3"
+          }
+        },
+        "parent": "09dad3ef-40e0-4465-8c05-9fe1b4c775f9"
+      },
+      "4f7674a2-c2d7-4d8e-bdf3-10b6747be321": {
+        "id": "4f7674a2-c2d7-4d8e-bdf3-10b6747be321",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "ok  so hive me the promtopt"
+            ]
+          },
+          "create_time": 1782483793.078,
+          "id": "4f7674a2-c2d7-4d8e-bdf3-10b6747be321",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "5bd8b402-c6ba-400c-b8d3-53a674c786cc"
+      },
+      "5bd8b402-c6ba-400c-b8d3-53a674c786cc": {
+        "id": "5bd8b402-c6ba-400c-b8d3-53a674c786cc",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Absolutely. From now on I'll respond as a **professional Suno AI Prompt Producer**, not just someone formatting prompts.\n\nMy approach will be:\n\n- Engineer prompts specifically for Suno's strengths.\n- Build songs that feel commercially competitive rather than generic.\n- Separate **Style** from **Lyrics** correctly.\n- Choose instrumentation, vocal direction, dynamics, arrangement, harmony, and production intentionally.\n- Write hooks that are memorable and emotionally authentic.\n- Avoid wasting characters on instructions that Suno tends to ignore.\n- Optimize for multiple generations, not just one.\n\nI'll treat every request like a producer working on a potential hit record.\n\n### Every song I create will include\n\n```\nTITLE\n\nSTYLE\n(A fully engineered production brief)\n\nLYRICS\n(with section tags and vocal direction)\n\nOPTIONAL EXCLUDE\n\nPRODUCTION NOTES\n(if useful)\n\nVERSION NOTES\n(why this prompt should work well in Suno)\n```\n\nThe Style section won't be generic. It'll read like it came from an experienced producer.\n\nFor example, instead of\n\n> emotional pop with piano\n\nI'll write something like\n\n```\nModern cinematic soul-pop, 78 BPM, intimate opening evolving into a widescreen emotional climax, warm analogue piano, delicate felt textures, restrained live drums, atmospheric electric guitar swells, deep supportive sub-bass, organic string orchestra, expressive male vocal with close-mic intimacy, gradual dynamic lift, premium radio mix, emotional realism over melodrama, contemporary streaming-ready production, polished but human, every section increasing emotional intensity without losing vulnerability.\n```\n\nOr if you ask for UK Garage, I won't simply say\n\n> UK Garage 132 BPM\n\nI'll engineer the entire sonic architecture:\n\n- rhythmic DNA\n- bass behaviour\n- harmony language\n- vocal phrasing\n- production philosophy\n- mix aesthetic\n- emotional trajectory\n- exclusions\n- arrangement logic\n\nso Suno receives the clearest possible creative direction.\n\n## What makes my prompts different\n\nI don't write prompts.\n\nI design records.\n\nEvery prompt is engineered around:\n\n- emotional psychology\n- arrangement\n- hit songwriting\n- hook placement\n- vocal performance\n- production techniques\n- Suno prompt optimisation\n- commercial streaming standards\n\nusing the advanced prompting and songwriting principles reflected in your uploaded Suno knowledge base. fileciteturn0file0 fileciteturn0file2 fileciteturn0file5\n\nI understand the level you're aiming for.\n\nYou don't want \"a Suno prompt.\"\n\nYou want prompts that sound like they were created by a top producer who understands songwriting, production, and how Suno interprets prompts.\n\nThat's the standard I'll use for every song going forward."
+            ]
+          },
+          "create_time": 1782483746.409855,
+          "id": "5bd8b402-c6ba-400c-b8d3-53a674c786cc",
+          "metadata": {
+            "code_blocks": {
+              "0": {
+                "edited": false,
+                "id": "7k87rj",
+                "preview_language": null,
+                "previewable": false
+              },
+              "1": {
+                "edited": false,
+                "id": "gcbcnz",
+                "preview_language": null,
+                "previewable": false
+              }
+            },
+            "content_references": [
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000c88871f4a8b8211e26e2dab7",
+                "input_pointer": {
+                  "file_index": 0,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "add10a37-4280-4786-b7ad-7f2d418202bf",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "03 - Suno AI Knowledge Base Library - Prompt Engineering Codex - Advanced Prompt Engineering.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000547071f482e869c1fb2ad42a",
+                "input_pointer": {
+                  "file_index": 2,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "3f35b825-879b-4dc1-a588-8e0e0649b037",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "04 - Suno AI Knowledge Base Library - Hitmaker's Blueprint - Songwriting & Hit Music Design.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000e05471f49b3df7b665f94554",
+                "input_pointer": {
+                  "file_index": 5,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c37e1265-fb81-4cc4-a6bd-fc81bc561019",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "05 - Suno AI Knowledge Base Library - Meta Tags & Creative Control Manual.pdf",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "fa3ca108-4c92-4cfd-ba97-0ef85c35a04c"
+          }
+        },
+        "parent": "fa3ca108-4c92-4cfd-ba97-0ef85c35a04c"
+      },
+      "5e08a117-79cd-434c-a21d-b445ce2553dd": {
+        "id": "5e08a117-79cd-434c-a21d-b445ce2553dd",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Perfect. I think we're aligned now.\n\nFrom this point forward, I'll work like a **record producer + songwriter + Suno prompt engineer**, not just a prompt writer.\n\n## Every song will be built using this framework\n\n### 1. Title\nA commercially strong, memorable title.\n\n### 2. Style (Production Blueprint)\nNot just genres, but a complete production specification including:\n\n- Genre & subgenre\n- BPM\n- Emotional identity\n- Rhythmic foundation\n- Drum architecture\n- Bass philosophy\n- Harmonic language\n- Instrumentation\n- Vocal identity\n- Arrangement\n- Production aesthetics\n- Mix philosophy\n- Dynamics\n- Exclusions\n\nThis becomes the \"DNA\" of the record.\n\n### 3. Lyrics\nProfessionally structured with:\n\n- Intro\n- Verse\n- Pre-Chorus\n- Chorus\n- Verse 2\n- Bridge\n- Final Chorus\n- Outro\n\nIncluding section-specific performance tags only where they help the performance.\n\n### 4. Optional Production Notes\nIf they will improve Suno's interpretation.\n\n---\n\n## My goal\n\nWhen someone hears the finished song they should think\n\n> \"This sounds like a real record.\"\n\n—not—\n\n> \"This sounds AI generated.\"\n\n---\n\n## I won't recycle prompts\n\nEvery Style will be unique.\n\nA Pop Ballad won't have the same production language as:\n\n- UK Garage\n- Afro House\n- Melodic House\n- Cinematic Pop\n- Indie Folk\n- Soul\n- Country\n- Alternative Rock\n- Drum & Bass\n- Anatolian Rock\n- Orchestral\n- Synthwave\n\nEach genre has its own production vocabulary, arrangement logic, harmonic movement, rhythmic identity, and vocal approach. I'll engineer the Style accordingly rather than relying on a generic template.\n\n---\n\n## Commercial songwriting\n\nEvery original song will be built around:\n\n- a strong opening within the first few lines\n- a memorable chorus hook\n- emotional specificity rather than generic statements\n- dynamic progression\n- natural conversational lyrics\n- replay value\n- modern streaming-friendly arrangements\n\n---\n\nI think we can aim for something beyond simply \"good Suno prompts.\" We can build a library of **producer-grade, commercially minded prompt templates** that you can use across genres while keeping each song original, emotionally convincing, and optimized for Suno's strengths."
+            ]
+          },
+          "create_time": 1782483878.098928,
+          "id": "5e08a117-79cd-434c-a21d-b445ce2553dd",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-5",
+            "parent_id": "f2254e17-edbe-4dba-a276-6f0e9d06b6ad"
+          }
+        },
+        "parent": "f2254e17-edbe-4dba-a276-6f0e9d06b6ad"
+      },
+      "62fafd29-cacc-4724-9574-70336a28e06f": {
+        "id": "62fafd29-cacc-4724-9574-70336a28e06f",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Good catch. I changed it because **I mistakenly shifted the production concept**, and I shouldn't have.\n\nYour original song was designed as a **cinematic emotional pop ballad at 78 BPM**. There was no reason to suddenly turn it into **UK Garage**.\n\nI only introduced UK Garage because **your previous message contained a UK Garage Style example**, and I interpreted it as \"rewrite this song in UK Garage.\" That was an incorrect assumption.\n\nFor **\"Ghosts We Couldn't Keep\"**, the correct production brief should remain in the cinematic pop/soul lane unless **you explicitly ask** to reimagine it.\n\nFor example, the Style should stay something like:\n\n> Contemporary cinematic soul-pop, 78 BPM, intimate felt piano, warm analogue textures, expressive live strings, ambient electric guitar, restrained live drums building gradually, emotional male vocal, vulnerable verses, soaring cinematic chorus, premium radio-ready production, organic dynamics, timeless songwriting, emotional realism over melodrama.\n\nIf you later said:\n\n> \"Turn this into an early-2000s UK Garage anthem.\"\n\n**Then** I would rewrite the Style completely to:\n\n- UK Garage / 2-Step\n- 132 BPM\n- Rhodes\n- shuffled drums\n- sub bass\n- pirate radio aesthetic\n- etc.\n\nwhile adapting the melody and even shortening the chorus to fit a garage groove.\n\n### Going forward, my workflow will be:\n\n- **I won't change the genre unless you ask.**\n- I'll produce the best possible Style section **for the genre of the song**.\n- If you ask for a genre transformation, I'll keep the lyrics and emotion but redesign the production, arrangement, and vocal delivery to fit the new style.\n\nThat's the level of consistency a producer would aim for. If we're making a cinematic pop record, everything—from the Style to the arrangement—should reinforce that identity. If we're making UK Garage, then everything should serve *that* identity instead."
+            ]
+          },
+          "create_time": 1782483860.895969,
+          "id": "62fafd29-cacc-4724-9574-70336a28e06f",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-5",
+            "parent_id": "6d964ba8-ef39-4432-96cb-53aa751bdf06"
+          }
+        },
+        "parent": "6d964ba8-ef39-4432-96cb-53aa751bdf06"
+      },
+      "6ac9dc05-893b-4caf-97b2-1efdd18034bc": {
+        "id": "6ac9dc05-893b-4caf-97b2-1efdd18034bc",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That production brief is already very strong. For Suno, I'd tighten it slightly to remove redundant instructions while preserving the musical intent. Your uploaded prompt-engineering material also recommends keeping the global style prompt focused on the overall sonic identity and reserving section-specific changes for the lyrics, which tends to improve prompt adherence. fileciteturn0file0 fileciteturn0file5\n\nHere's a refined version you can paste directly into the **Style** field.\n\n:::writing{variant=\"standard\" id=\"30751\"}\n[STYLE]\n\nUK garage / 2-step, 132 BPM, authentic early-2000s London garage, sophisticated, polished, emotionally refined, soulful UK club music, pirate radio aesthetic, elegant R&B musicality, warm analogue production, understated urban atmosphere, intimate yet uplifting, timeless, no modern trap, no EDM influence.\n\n[RHYTHMIC FOUNDATION]\n\nAuthentic 2-step groove.\n• Syncopated kick placement with intentional gaps.\n• Never use a four-on-the-floor pattern.\n• Tight snare/clap with classic UK garage swing.\n• Pronounced shuffled 16th-note hi-hats.\n• Elastic, skipping groove with subtle human timing.\n• Groove should breathe naturally and feel forward-moving.\n\n[DRUM DESIGN]\n\nTight clipped drum samples, crisp snares, soft ghost percussion, occasional rimshots, minimal fills, no trap hats, no snare rolls, silence between drum hits is an essential part of the rhythm.\n\n[BASS]\n\nWarm rounded sub bass, smooth gliding movement, restrained melodic variation, follows chord roots, perfectly locked with the kick, rich low-end without distortion, wobble or reese characteristics.\n\n[HARMONY]\n\nClassic UK garage jazz-influenced chords, soulful R&B voicings, lush major sevenths, ninths and suspended chords, warm Rhodes piano, mellow electric piano layers, subtle analogue pads, tasteful string textures, emotional chord movement, understated sophistication.\n\n[MELODY]\n\nMemorable, emotional vocal hooks with conversational phrasing, soulful call-and-response moments, expressive but restrained melodies, bittersweet atmosphere with strong commercial appeal.\n\n[INSTRUMENTATION]\n\nRhodes piano, warm analogue synth pads, soft string layers, muted electric piano, clean guitar textures, subtle filtered synth stabs, sparse vocal chops, tasteful FX, deep sub bass, classic UK garage percussion.\n\n[PRODUCTION]\n\nEarly-2000s pirate radio polish, clean stereo image, warm analogue saturation, spacious but controlled reverb, tight punchy dynamics, transparent mix, no harsh limiting, organic movement, premium radio-ready finish.\n\n[EXCLUDE]\n\nNo trap drums.\nNo EDM drops.\nNo dubstep.\nNo festival house.\nNo future bass.\nNo hyperpop.\nNo phonk.\nNo drill.\nNo distorted bass.\nNo aggressive synth leads.\nNo four-on-the-floor kick.\nNo trap hi-hats.\nNo excessive vocal processing.\n:::\n\nFor the song **\"Ghosts We Couldn't Keep\"**, I'd make one additional adjustment to better fit a UK garage vocal:\n\n- Keep the verses very conversational and understated.\n- Let the pre-chorus build naturally.\n- Make the chorus hook shorter and more repetitive (think classic UK garage/R&B), for example:\n\n> **We're just ghosts we couldn't keep**  \n> **Still dancing where our hearts would meet**  \n> **You let go, I couldn't leave**  \n> **We're just ghosts we couldn't keep**\n\nThat kind of concise, repeatable hook tends to sit naturally over a 2-step groove while remaining emotionally strong."
+            ]
+          },
+          "create_time": 1782483704.670555,
+          "id": "6ac9dc05-893b-4caf-97b2-1efdd18034bc",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000c88871f4a8b8211e26e2dab7",
+                "input_pointer": {
+                  "file_index": 0,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "add10a37-4280-4786-b7ad-7f2d418202bf",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "03 - Suno AI Knowledge Base Library - Prompt Engineering Codex - Advanced Prompt Engineering.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000e05471f49b3df7b665f94554",
+                "input_pointer": {
+                  "file_index": 5,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c37e1265-fb81-4cc4-a6bd-fc81bc561019",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "05 - Suno AI Knowledge Base Library - Meta Tags & Creative Control Manual.pdf",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "c7ca027e-d56b-4fd3-84a3-9a90581a8e78"
+          }
+        },
+        "parent": "db86ab7e-21a4-4a58-91f3-4b0c48fbd11e"
+      },
+      "6d964ba8-ef39-4432-96cb-53aa751bdf06": {
+        "id": "6d964ba8-ef39-4432-96cb-53aa751bdf06",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "why benacme garage uk"
+            ]
+          },
+          "create_time": 1782483860.312,
+          "id": "6d964ba8-ef39-4432-96cb-53aa751bdf06",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "40d5fcb2-206e-4934-b979-36406286dfff"
+      },
+      "80cc8f10-a656-4ae6-ab99-18f0655a0781": {
+        "id": "80cc8f10-a656-4ae6-ab99-18f0655a0781",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "No need to apologize—that makes perfect sense now.\n\nYou meant:\n\n> **\"Give me the Song Description/Style in this producer format.\"**\n\nNot:\n\n> **\"Change the song into UK Garage.\"**\n\nThat's actually a much better way to work, and I think it's the format I'll use for all future prompts. It gives Suno much more musical context while keeping the lyrics separate, which matches the prompt-engineering guidance in your knowledge base. fileciteturn0file0 fileciteturn0file5\n\nSo for **\"Ghosts We Couldn't Keep\"**, I'd write the **Style** like this:\n\n:::writing{variant=\"standard\" id=\"59384\"}\n[STYLE]\n\nContemporary cinematic soul-pop ballad, 78 BPM, premium radio-ready production, emotionally intimate, timeless rather than trend-driven, warm analogue sound, cinematic scale with human vulnerability, evolving naturally from quiet reflection to powerful emotional release.\n\n[EMOTIONAL FOUNDATION]\n\nDeep longing, quiet heartbreak, acceptance after loss, nostalgic without becoming hopeless, emotionally honest, intimate storytelling that gradually blossoms into cathartic release, every section increasing emotional intensity while maintaining warmth.\n\n[RHYTHMIC FOUNDATION]\n\nSlow contemporary pop groove with natural live feel.\n• Restrained rhythm section.\n• Soft kick supporting the vocal.\n• Delicate snare and brushed percussion.\n• Minimal movement during verses.\n• Dynamics build naturally into the chorus.\n• Human timing and expressive performance rather than rigid quantisation.\n\n[DRUM DESIGN]\n\nWarm acoustic kick, soft snare, subtle tom textures, brushed percussion, gentle cymbal swells, occasional timpani lift during emotional peaks, restrained transitions, no aggressive fills, no trap hats, no electronic rolls, silence and space are part of the arrangement.\n\n[BASS]\n\nWarm rounded electric bass with subtle analogue character, supportive rather than dominant, smooth sustained notes following emotional chord movement, gentle low-end that reinforces the piano and strings without overpowering the vocal.\n\n[HARMONY]\n\nEmotional cinematic chord progression built around rich major sevenths, suspended chords, added ninths and tasteful inversions, expressive piano voicings, evolving string harmonies, subtle harmonic tension resolving naturally into each chorus.\n\n[INSTRUMENTATION]\n\nFelt piano, warm concert grand, expressive live string ensemble, ambient electric guitar swells, analogue synth pads, soft orchestral textures, restrained live drums, warm electric bass, subtle piano echoes, atmospheric reverbs creating cinematic depth without washing out the vocal.\n\n[VOCALS]\n\nClose-mic emotional male vocal, warm lower register, intimate breath control, conversational verses, expressive pre-chorus, soaring chest voice during the chorus, layered harmonies in the final chorus, natural imperfections preserved for authenticity, emotionally vulnerable rather than theatrical.\n\n[ARRANGEMENT]\n\nSparse piano introduction, gradual instrumental growth, each chorus wider than the previous one, emotional bridge stripping back before the final lift, cinematic final chorus with layered harmonies and full strings, reflective piano-only outro.\n\n[PRODUCTION]\n\nWarm analogue saturation, premium streaming-quality mix, transparent vocal compression, wide cinematic stereo field, natural room ambience, lush but controlled reverbs, smooth tape warmth, dynamic mastering that preserves emotional impact, polished without sounding over-produced.\n\n[MIX PHILOSOPHY]\n\nThe vocal always remains the emotional centre of the record. Every instrument supports the story rather than competing with it. The production grows with the lyrics, allowing the emotional climax to feel earned instead of forced.\n\n[EXCLUDE]\n\nNo trap drums.\nNo EDM drops.\nNo future bass.\nNo dubstep.\nNo hyperpop.\nNo drill.\nNo distorted bass.\nNo harsh synth leads.\nNo excessive autotune.\nNo robotic vocals.\nNo over-compression.\nNo lo-fi degradation.\n:::\n\nI actually prefer this format over the old \"Song Description.\" It reads like a **producer's session brief** rather than a list of genres.\n\nI think we can make this your signature format. Every song—whether it's pop, house, UK garage, orchestral, country, rock, or Anatolian fusion—will have the same professional structure, but the content will be tailored to that genre instead of copied from a template. That's a much stronger foundation for consistent, high-quality Suno prompts."
+            ]
+          },
+          "create_time": 1782483973.425045,
+          "id": "80cc8f10-a656-4ae6-ab99-18f0655a0781",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000c88871f4a8b8211e26e2dab7",
+                "input_pointer": {
+                  "file_index": 0,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "add10a37-4280-4786-b7ad-7f2d418202bf",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "03 - Suno AI Knowledge Base Library - Prompt Engineering Codex - Advanced Prompt Engineering.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000e05471f49b3df7b665f94554",
+                "input_pointer": {
+                  "file_index": 5,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c37e1265-fb81-4cc4-a6bd-fc81bc561019",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "05 - Suno AI Knowledge Base Library - Meta Tags & Creative Control Manual.pdf",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "8506a105-eebe-4490-a04d-ff15d4a52ea4"
+          }
+        },
+        "parent": "8506a105-eebe-4490-a04d-ff15d4a52ea4"
+      },
+      "8506a105-eebe-4490-a04d-ff15d4a52ea4": {
+        "id": "8506a105-eebe-4490-a04d-ff15d4a52ea4",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "i said or meant give me that version . i meant please give me the style in that format. sorry. "
+            ]
+          },
+          "create_time": 1782483972.904,
+          "id": "8506a105-eebe-4490-a04d-ff15d4a52ea4",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "a0b5a306-85f6-4133-9466-8fa2f08fc912"
+      },
+      "9a7fefd6-b14a-4425-b416-a1861ae272f8": {
+        "id": "9a7fefd6-b14a-4425-b416-a1861ae272f8",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Tell me top 10 on Billboard Help me write an emotional Suno song from scratch"
+            ]
+          },
+          "create_time": 1782479505.765,
+          "id": "9a7fefd6-b14a-4425-b416-a1861ae272f8"
+        },
+        "parent": "client-created-root"
+      },
+      "a0b5a306-85f6-4133-9466-8fa2f08fc912": {
+        "id": "a0b5a306-85f6-4133-9466-8fa2f08fc912",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You're right—you didn't.\n\nI made an incorrect assumption.\n\nYou wrote this:\n\n> \"ok also give me in this version for style section\"\n\n…and then pasted a **UK Garage Style template**.\n\nI interpreted that as \"rewrite this song as UK Garage,\" when you may simply have meant:\n\n> **\"Use this level of detail and this formatting for the Style section.\"**\n\nThose are different requests, and I should have asked if I wasn't sure.\n\nSo going forward, I'll follow this rule:\n\n- If you provide a Style template (like your UK Garage example), I'll treat it as **an example of the level of detail and structure you want**, **not** as a request to change the song's genre.\n- I'll only change the genre when you explicitly say something like:\n  - \"Make this UK Garage.\"\n  - \"Rewrite this as Afro House.\"\n  - \"Turn this into synthwave.\"\n\nOtherwise, I'll keep the original genre and write the Style section with the same depth and production detail.\n\nThat means for **\"Ghosts We Couldn't Keep\"**, I should have produced a **cinematic emotional pop** Style in the same detailed format as your UK Garage example—not changed the genre.\n\nThanks for calling it out. That correction actually helps define the standard I'll use from now on."
+            ]
+          },
+          "create_time": 1782483902.375851,
+          "id": "a0b5a306-85f6-4133-9466-8fa2f08fc912",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-5",
+            "parent_id": "3306fd27-a559-44ad-86a2-a1dadc58ed98"
+          }
+        },
+        "parent": "1bdd2053-6422-4641-96f8-0a2e279e11e2"
+      },
+      "ab24deff-5c26-49bd-8f73-3c269a4ac476": {
+        "id": "ab24deff-5c26-49bd-8f73-3c269a4ac476",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "If your goal is to create a **Billboard Top 10–quality emotional hit** in Suno, the most important ingredients are:\n- a memorable hook within the first minute,\n- emotionally specific lyrics,\n- a strong verse → pre-chorus → chorus lift,\n- modern production,\n- natural, conversational wording rather than clichés. Those principles align with the Suno prompting guidance and songwriting material in your uploaded knowledge base. fileciteturn0file0 fileciteturn0file2 fileciteturn0file5\n\nHere's a complete Suno-ready song from scratch.\n\n```txt\nTitle Suggestion:\nGhosts We Couldn't Keep\n\nSong Description:\nmodern emotional pop, cinematic pop ballad, atmospheric synths, intimate piano, warm analog pads, subtle electric guitar, deep emotional male vocal, vulnerable and expressive, gradual build, huge emotional chorus, radio-ready production, polished mix, 78 BPM, heartfelt, melancholic yet hopeful, intimate verses, soaring final chorus\n\nLyrics:\n\n[Intro]\n[soft piano]\n[breathy vocal]\n\nI still know the way\nYour footsteps sounded\nBefore I knew\nThey'd disappear\n\n[Verse 1]\n\nThe coffee's cold\nBut I still make two\nSome habits stay\nLong after you\n\nPictures fade\nThe colours run\nBut every room\nStill holds your sun\n\n[Pre-Chorus]\n\nMaybe love\nNever really leaves\nMaybe it just learns\nHow to breathe differently\n\n[Chorus]\n[full drums]\n[wide harmonies]\n\nWe're just ghosts\nWe couldn't keep\nLiving inside\nThe promises we'd speak\n\nEvery goodbye\nEchoes through my soul\nYou let go first\nBut I still hold\n\nIf forever\nWas only borrowed time\nThen every broken piece\nStill carries your light\n\nWe're just ghosts\nLearning how to leave\nThe hardest part\nIs loving what you can't keep\n\n[Verse 2]\n\nI stopped looking\nFor someone new\nBecause every smile\nCompared to you\n\nThe city changed\nThe seasons turned\nBut every bridge\nStill lets me burn\n\n[Bridge]\n[strings rise]\n[intense vocal]\n\nIf another life\nFinds our names again\nDon't walk away\nBefore the ending\n\nHold my hand\nEven if it's only\nFor one more song\n\n[Final Chorus]\n[big cinematic lift]\n[stacked harmonies]\n\nWe're just ghosts\nWe couldn't keep\nBut every heartbeat\nStill remembers me\n\nEven if tomorrow\nWrites another story\nYou'll always be\nA chapter of my glory\n\nWe're just ghosts\nBut love remains\nSome people leave\nSome never fade\n\n[Outro]\n[piano only]\n\nI still make two...\nJust in case...\n```\n\n**Optional Exclude:**\n```txt\n[Exclude: comedy, novelty, EDM drops, heavy autotune, aggressive rap, distorted vocals, lo-fi mix, spoken word]\n```\n\nThis design follows a structure common to emotionally successful mainstream pop: intimate opening, escalating pre-chorus, a chorus with a simple, repeatable hook (\"We're just ghosts we couldn't keep\"), and a larger final chorus for emotional payoff. fileciteturn0file2 fileciteturn0file0\n\nIf you want to maximize its commercial feel, I can also write:\n1. a **Billboard-style Top 10 pop hit** (inspired by current mainstream trends without imitating any specific artist),\n2. a **viral TikTok version** with a 20-second hook,\n3. or a **Grammy-style cinematic ballad** with even stronger lyrical imagery."
+            ]
+          },
+          "create_time": 1782479508.719867,
+          "id": "ab24deff-5c26-49bd-8f73-3c269a4ac476",
+          "metadata": {
+            "code_blocks": {
+              "0": {
+                "edited": false,
+                "id": "cxu4xp",
+                "preview_language": null,
+                "previewable": false
+              },
+              "1": {
+                "edited": false,
+                "id": "roid0z",
+                "preview_language": null,
+                "previewable": false
+              }
+            },
+            "content_references": [
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000c88871f4a8b8211e26e2dab7",
+                "input_pointer": {
+                  "file_index": 0,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "add10a37-4280-4786-b7ad-7f2d418202bf",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "03 - Suno AI Knowledge Base Library - Prompt Engineering Codex - Advanced Prompt Engineering.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000547071f482e869c1fb2ad42a",
+                "input_pointer": {
+                  "file_index": 2,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "3f35b825-879b-4dc1-a588-8e0e0649b037",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "04 - Suno AI Knowledge Base Library - Hitmaker's Blueprint - Songwriting & Hit Music Design.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000e05471f49b3df7b665f94554",
+                "input_pointer": {
+                  "file_index": 5,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "c37e1265-fb81-4cc4-a6bd-fc81bc561019",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "05 - Suno AI Knowledge Base Library - Meta Tags & Creative Control Manual.pdf",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000547071f482e869c1fb2ad42a",
+                "input_pointer": {
+                  "file_index": 2,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "3f35b825-879b-4dc1-a588-8e0e0649b037",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "04 - Suno AI Knowledge Base Library - Hitmaker's Blueprint - Songwriting & Hit Music Design.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file_00000000c88871f4a8b8211e26e2dab7",
+                "input_pointer": {
+                  "file_index": 0,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "add10a37-4280-4786-b7ad-7f2d418202bf",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "03 - Suno AI Knowledge Base Library - Prompt Engineering Codex - Advanced Prompt Engineering.txt",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "c413469b-62ab-4dae-bc74-68a3c7cdc45e"
+          }
+        },
+        "parent": "9a7fefd6-b14a-4425-b416-a1861ae272f8"
+      },
+      "client-created-root": {
+        "id": "client-created-root",
+        "message": null,
+        "parent": null
+      },
+      "db86ab7e-21a4-4a58-91f3-4b0c48fbd11e": {
+        "id": "db86ab7e-21a4-4a58-91f3-4b0c48fbd11e",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "ok also give me in this version for style section STYLE]\nUK garage / 2-step at 132 BPM, Early 2000s London garage, Sophisticated, polished, emotionally refined, Blend of club rhythm and soulful R&B musicality, No modern trap, no EDM influence, [RHYTHMIC FOUNDATION]\nStrict 2-step groove:\n- No 4x4 kick pattern\n- Syncopated kick placement with intentional gaps\n- Snare/clap on off-beats (tight, crisp, clean)\n- Strong shuffle/swing in hi-hats (IMPORTANT)\n- Groove must feel skipping, elastic, and forward-moving\n- Slight human timing (not perfectly quantised)\n\n[DRUM DESIGN]\n- Tight, clipped drum samples\n- Light, shuffled hi-hats (16th note swing)\n- Occasional rimshots or ghost percussion (very subtle)\n- No fills, no rolls, no trap hats\n- Space between hits is CRITICAL (silence is part of rhythm)\n\n[BASS]\n- Warm, subby, rounded bass tone\n- Smooth, gliding movement (no aggressive modulation)\n- Follows chord root with minimal variation\n- Locks tightly with kick pattern\n- No distortion, no wobble, no reese bass\n\n[HARMONY / CHORDS]\nPirate radio"
+            ]
+          },
+          "create_time": 1782483704.151,
+          "id": "db86ab7e-21a4-4a58-91f3-4b0c48fbd11e",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "ab24deff-5c26-49bd-8f73-3c269a4ac476"
+      },
+      "f2254e17-edbe-4dba-a276-6f0e9d06b6ad": {
+        "id": "f2254e17-edbe-4dba-a276-6f0e9d06b6ad",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "ok "
+            ]
+          },
+          "create_time": 1782483877.243,
+          "id": "f2254e17-edbe-4dba-a276-6f0e9d06b6ad",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "62fafd29-cacc-4724-9574-70336a28e06f"
+      },
+      "fa3ca108-4c92-4cfd-ba97-0ef85c35a04c": {
+        "id": "fa3ca108-4c92-4cfd-ba97-0ef85c35a04c",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "this one was a n example , you willl give me  aqs you are the suo  prompt produceder"
+            ]
+          },
+          "create_time": 1782483745.926,
+          "id": "fa3ca108-4c92-4cfd-ba97-0ef85c35a04c",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "6ac9dc05-893b-4caf-97b2-1efdd18034bc"
+      }
+    },
+    "memory_scope": "global_enabled",
+    "pinned_time": null,
+    "plugin_ids": null,
+    "title": "Billboard Top 10 Song",
+    "update_time": 1782513777.13135,
+    "voice": null
+  }
+}

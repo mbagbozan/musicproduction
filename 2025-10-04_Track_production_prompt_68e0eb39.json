@@ -1,0 +1,94 @@
+{
+  "conversation_id": "68e0eb39-7d6c-832e-9bb4-df2f15c3230d",
+  "title": "Track production prompt",
+  "category": "chatgpt_customgpt",
+  "category_detail": "Gizmo ID: g-6895ba0a66908191b9c04c6a02b5f498",
+  "created_at": "2025-10-04 10:39:06",
+  "updated_at": "2025-10-13 20:45:19",
+  "source_chunk": "conversations-011.json",
+  "total_messages": 2,
+  "dialogue_turns": [
+    {
+      "role": "assistant",
+      "timestamp": "2025-10-04 10:39:06",
+      "text": "Here is a fully structured, optimized prompt tailored to your club-ready track concept for use with music production AI tools, co-writing assistants, or creative direction generators:\n\n---\n\n**🎧 Prompt: Creative Direction for Club Track Arrangement and Production**\n\n**1. OUTCOME TITLE:**  \nGenerate a high-energy, 80s Disco-House fusion club track with layered vocal design, modular arrangement, and production-ready FX detailing.\n\n**2. ROLE:**  \nYou are an expert music producer and arrangement designer specializing in retro-future dance genres with a focus on 80s disco, synthpop, and house fusion.\n\n**3. TASK:**  \nUsing the provided detailed breakdown of the track “Vivacious Minxy (Club 80s Revision),” structure the final music production into an AI-assisted session plan. Ensure the output includes vocal layer implementation, synth/bass/FX automation cues, and dynamic arrangement elements that make the track TikTok-viral and club-playable.\n\n**4. INPUT (Summary of Original Content):**  \n- **Style:** 80s Disco-House + Vocal Chop Groove, 118 BPM, 4/4.\n- **Genre Split:** 40% 80s Disco/Synthpop, 40% Classic House, 20% Vocal Chop.\n- **Vocals:**  \n  - F: Whisper-to-belt (pan sweep, ASMR to diva).\n  - M: Vocoder sub-octave (−1 octave, formant shifted).\n  - FX Chain: Formant shift, gated plate, slap delay, doubler, bitcrush, reverb/delay automation.\n- **Instruments:**  \n  - Juno-106 plucky bass, TR-909 drums, Rhodes & Prophet pads, Strat guitar chops, disco strings.\n- **Key Moments:**  \n  - TikTok build (@0:58), spinbacks, breakdowns, chant hooks.\n- **Production Specs:**  \n  - LUFS −9.5, SSL bus comp, tape sat, stereo widen, limiter.\n  - Stems: Dry vocals, printed FX buses, grouped instruments.\n\n**5. STYLE/TONE:**  \nEnergetic, retro-chic, groove-centric with polished audio engineering and TikTok-friendly earworms.\n\n**6. FORMAT:**  \nBullet-point session plan or DAW-style track map. Include arrangement bars, FX automation triggers, and key sound design highlights.\n\n**7. SUCCESS CRITERIA:**  \n- Structured clearly enough for implementation in a DAW (Ableton/Logic/FL).\n- Reflects club/dancefloor energy and streaming virality potential.\n- Preserves unique vocal architecture and genre fusion identity.\n- Automates dynamics and transitions (e.g., spinbacks, drops, FX sweeps).\n\n---\n\nWould you like a version of this prompt restructured for use in a DAW-integrated co-producer tool (e.g., Ableton + ChatGPT plugins) or adapted for AI vocal generation platforms (like Kits.AI or Lalals)?"
+    },
+    {
+      "role": "user",
+      "timestamp": "2025-10-04 10:39:02",
+      "text": "[Song Title: “Vivacious Minxy (Club 80s Revision)”]\n\n[Style: 80s Disco-House x Vocal Chop Groove | 118 BPM, 4/4 club-ready]\n\n⸻\n\n===GENRE FUSION===\n\n[40% 80s Disco/Synthpop | 40% Classic House | 20% Vocal Chop Dancefloor]\n\n⸻\n\n===VOCAL ARCHITECTURE===\n\n[F: Whisper-to-Belt Soulful (L-pan ASMR → R-pan diva lifts)]\n[M: Vocoder Sub-Octave (−1 octave, formant ↓2)]\n[FX: VocalChain = FormantShift ±2 | Gated Plate | Slap Delay | Micro-pitch Doubler]\n\n⸻\n\n===INSTRUMENTATION===\n\n[Core]\n\t•\tJuno-106 Analog Bassline (plucky 1/8 groove, sidechained)\n\t•\tTR-909 Kit (kick 4/4 pulse, clap gated plate, open hats drive)\n\t•\tRhodes + Prophet Pads (lush wide stereo)\n\t•\tDisco Guitar Chops (clean Strat muted + chorus)\n\t•\tString Ensemble (staccato 80s hits, Pre/Chorus)\n\t•\tVinyl Spinbacks / Tape-stops (transitions only)\n\n⸻\n\n===LYRICS SECTION===\n\n[INTRO: VINYL SPIN SPACE]\nvinyl spin-in_1.2s\n(909 kick enters @bar5)\n[granular vox chop] “Vi…va…cious…”\n\n⸻\n\n[VERSE 1: SOULFUL ENTRY]\n[F whisper-breath] “Minxy…(minxy…)”\n[reverse tail FX] “…minxy”\n[M vocoder sub] “Mischievous…”\n[F+M harmony layer] “Effervescent…” [long plate]\n[F falsetto glide] “Impish…” [LPF sweep → airy tail]\n\n⸻\n\n[PRE-CHORUS: TENSION RISE]\n[F belted lift] “EFFERVESCENT!” [gated plate verb]\n[riser automation w/ disco strings]\n[M vocoder shadow] “mis…chie…vous…” [formant ↓2]\n[tape stop + spinback] “…impish”\n\n⸻\n\n[CHORUS: ANTHEM CLUB GROOVE]\n[F diva belt] “MINXY!” [hall verb bloom]\n[M vocoder octave sub] “vivacious…” [chorus spread]\n[F chop repeat] “ef-fer-ves-cent… bitcrush tail”\n[F call + M vocoder response] “Impish!… mischievous!” [ping-pong delay]\n\n⸻\n\n[TIKTOK MOMENT @0:58]\n[stutterFX 1/16] “minxy…minxy…minxy…”\n[909 hats automate open/close]\n[vinyl backspin cue → bar16]\n\n⸻\n\n[BREAKDOWN: CLUB FUSION]\n[Rhodes vamp + 909 kick]\n[F ASMR whisper L→R pan] “vivacious…” [granular hold, stereo auto-pan]\n[String stabs + disco guitar riff]\n[F+M unison chant] “impish… effervescent…” [slapback + gated plate]\n[909 clap roll + vinyl spin cue → CHORUS REBUILD]\n\n\n===PRODUCTION DNA===\n\t•\tLUFS: −9.5 (club competitive)\n\t•\tMix bus: SSL G-Bus comp (2:1, −2 dB GR) + Tape Sat + Stereo widen + Limiter −0.3 dBTP\n\t•\tDrums: TR-909 w/ gated plate claps, sidechain kick pumping\n\t•\tBass: Juno-106 pluck, LPF 160 Hz, sidechain groove\n\t•\tVocals (per word):\n\t•\tVivacious = granular chop + pan sweep\n\t•\tMinxy = stutter + hall bloom\n\t•\tMischievous = vocoder + formant ↓2\n\t•\tEffervescent = long plate + bitcrush tail\n\t•\tImpish = whisper/LPF + gated reverb\n\t•\tFX Sends: Plate (1.5s gated), Hall (3s sidechain-ducked), Slapback (120 ms), Delay throws (1/4 dotted), Stutter/bitcrush bus\n\t•\tStems Export: Vocals dry, FX buses printed, instruments grouped (Drums/Bass/Keys/Strings/Guitar/FX)"
+    }
+  ],
+  "raw_conversation": {
+    "conversation_id": "68e0eb39-7d6c-832e-9bb4-df2f15c3230d",
+    "conversation_template_id": "g-6895ba0a66908191b9c04c6a02b5f498",
+    "create_time": 1759570746.123795,
+    "current_node": "1b847ac7-9d77-46ec-9e83-883bb1b12a27",
+    "default_model_slug": "gpt-4o",
+    "id": "68e0eb39-7d6c-832e-9bb4-df2f15c3230d",
+    "is_archived": true,
+    "is_do_not_remember": false,
+    "is_read_only": null,
+    "is_starred": null,
+    "is_study_mode": false,
+    "mapping": {
+      "1b847ac7-9d77-46ec-9e83-883bb1b12a27": {
+        "id": "1b847ac7-9d77-46ec-9e83-883bb1b12a27",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here is a fully structured, optimized prompt tailored to your club-ready track concept for use with music production AI tools, co-writing assistants, or creative direction generators:\n\n---\n\n**🎧 Prompt: Creative Direction for Club Track Arrangement and Production**\n\n**1. OUTCOME TITLE:**  \nGenerate a high-energy, 80s Disco-House fusion club track with layered vocal design, modular arrangement, and production-ready FX detailing.\n\n**2. ROLE:**  \nYou are an expert music producer and arrangement designer specializing in retro-future dance genres with a focus on 80s disco, synthpop, and house fusion.\n\n**3. TASK:**  \nUsing the provided detailed breakdown of the track “Vivacious Minxy (Club 80s Revision),” structure the final music production into an AI-assisted session plan. Ensure the output includes vocal layer implementation, synth/bass/FX automation cues, and dynamic arrangement elements that make the track TikTok-viral and club-playable.\n\n**4. INPUT (Summary of Original Content):**  \n- **Style:** 80s Disco-House + Vocal Chop Groove, 118 BPM, 4/4.\n- **Genre Split:** 40% 80s Disco/Synthpop, 40% Classic House, 20% Vocal Chop.\n- **Vocals:**  \n  - F: Whisper-to-belt (pan sweep, ASMR to diva).\n  - M: Vocoder sub-octave (−1 octave, formant shifted).\n  - FX Chain: Formant shift, gated plate, slap delay, doubler, bitcrush, reverb/delay automation.\n- **Instruments:**  \n  - Juno-106 plucky bass, TR-909 drums, Rhodes & Prophet pads, Strat guitar chops, disco strings.\n- **Key Moments:**  \n  - TikTok build (@0:58), spinbacks, breakdowns, chant hooks.\n- **Production Specs:**  \n  - LUFS −9.5, SSL bus comp, tape sat, stereo widen, limiter.\n  - Stems: Dry vocals, printed FX buses, grouped instruments.\n\n**5. STYLE/TONE:**  \nEnergetic, retro-chic, groove-centric with polished audio engineering and TikTok-friendly earworms.\n\n**6. FORMAT:**  \nBullet-point session plan or DAW-style track map. Include arrangement bars, FX automation triggers, and key sound design highlights.\n\n**7. SUCCESS CRITERIA:**  \n- Structured clearly enough for implementation in a DAW (Ableton/Logic/FL).\n- Reflects club/dancefloor energy and streaming virality potential.\n- Preserves unique vocal architecture and genre fusion identity.\n- Automates dynamics and transitions (e.g., spinbacks, drops, FX sweeps).\n\n---\n\nWould you like a version of this prompt restructured for use in a DAW-integrated co-producer tool (e.g., Ableton + ChatGPT plugins) or adapted for AI vocal generation platforms (like Kits.AI or Lalals)?"
+            ]
+          },
+          "create_time": 1759570746.103461,
+          "id": "1b847ac7-9d77-46ec-9e83-883bb1b12a27",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-4o",
+            "parent_id": "aaaff399-a615-417f-8e35-dbba0c654853"
+          }
+        },
+        "parent": "774c7bb3-484e-4cf4-9e4b-8e259cf694bc"
+      },
+      "774c7bb3-484e-4cf4-9e4b-8e259cf694bc": {
+        "id": "774c7bb3-484e-4cf4-9e4b-8e259cf694bc",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "[Song Title: “Vivacious Minxy (Club 80s Revision)”]\n\n[Style: 80s Disco-House x Vocal Chop Groove | 118 BPM, 4/4 club-ready]\n\n⸻\n\n===GENRE FUSION===\n\n[40% 80s Disco/Synthpop | 40% Classic House | 20% Vocal Chop Dancefloor]\n\n⸻\n\n===VOCAL ARCHITECTURE===\n\n[F: Whisper-to-Belt Soulful (L-pan ASMR → R-pan diva lifts)]\n[M: Vocoder Sub-Octave (−1 octave, formant ↓2)]\n[FX: VocalChain = FormantShift ±2 | Gated Plate | Slap Delay | Micro-pitch Doubler]\n\n⸻\n\n===INSTRUMENTATION===\n\n[Core]\n\t•\tJuno-106 Analog Bassline (plucky 1/8 groove, sidechained)\n\t•\tTR-909 Kit (kick 4/4 pulse, clap gated plate, open hats drive)\n\t•\tRhodes + Prophet Pads (lush wide stereo)\n\t•\tDisco Guitar Chops (clean Strat muted + chorus)\n\t•\tString Ensemble (staccato 80s hits, Pre/Chorus)\n\t•\tVinyl Spinbacks / Tape-stops (transitions only)\n\n⸻\n\n===LYRICS SECTION===\n\n[INTRO: VINYL SPIN SPACE]\nvinyl spin-in_1.2s\n(909 kick enters @bar5)\n[granular vox chop] “Vi…va…cious…”\n\n⸻\n\n[VERSE 1: SOULFUL ENTRY]\n[F whisper-breath] “Minxy…(minxy…)”\n[reverse tail FX] “…minxy”\n[M vocoder sub] “Mischievous…”\n[F+M harmony layer] “Effervescent…” [long plate]\n[F falsetto glide] “Impish…” [LPF sweep → airy tail]\n\n⸻\n\n[PRE-CHORUS: TENSION RISE]\n[F belted lift] “EFFERVESCENT!” [gated plate verb]\n[riser automation w/ disco strings]\n[M vocoder shadow] “mis…chie…vous…” [formant ↓2]\n[tape stop + spinback] “…impish”\n\n⸻\n\n[CHORUS: ANTHEM CLUB GROOVE]\n[F diva belt] “MINXY!” [hall verb bloom]\n[M vocoder octave sub] “vivacious…” [chorus spread]\n[F chop repeat] “ef-fer-ves-cent… bitcrush tail”\n[F call + M vocoder response] “Impish!… mischievous!” [ping-pong delay]\n\n⸻\n\n[TIKTOK MOMENT @0:58]\n[stutterFX 1/16] “minxy…minxy…minxy…”\n[909 hats automate open/close]\n[vinyl backspin cue → bar16]\n\n⸻\n\n[BREAKDOWN: CLUB FUSION]\n[Rhodes vamp + 909 kick]\n[F ASMR whisper L→R pan] “vivacious…” [granular hold, stereo auto-pan]\n[String stabs + disco guitar riff]\n[F+M unison chant] “impish… effervescent…” [slapback + gated plate]\n[909 clap roll + vinyl spin cue → CHORUS REBUILD]\n\n\n===PRODUCTION DNA===\n\t•\tLUFS: −9.5 (club competitive)\n\t•\tMix bus: SSL G-Bus comp (2:1, −2 dB GR) + Tape Sat + Stereo widen + Limiter −0.3 dBTP\n\t•\tDrums: TR-909 w/ gated plate claps, sidechain kick pumping\n\t•\tBass: Juno-106 pluck, LPF 160 Hz, sidechain groove\n\t•\tVocals (per word):\n\t•\tVivacious = granular chop + pan sweep\n\t•\tMinxy = stutter + hall bloom\n\t•\tMischievous = vocoder + formant ↓2\n\t•\tEffervescent = long plate + bitcrush tail\n\t•\tImpish = whisper/LPF + gated reverb\n\t•\tFX Sends: Plate (1.5s gated), Hall (3s sidechain-ducked), Slapback (120 ms), Delay throws (1/4 dotted), Stutter/bitcrush bus\n\t•\tStems Export: Vocals dry, FX buses printed, instruments grouped (Drums/Bass/Keys/Strings/Guitar/FX)"
+            ]
+          },
+          "create_time": 1759570742.77,
+          "id": "774c7bb3-484e-4cf4-9e4b-8e259cf694bc",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "client-created-root"
+      },
+      "client-created-root": {
+        "id": "client-created-root",
+        "message": null,
+        "parent": null
+      }
+    },
+    "memory_scope": "global_enabled",
+    "pinned_time": null,
+    "plugin_ids": null,
+    "title": "Track production prompt",
+    "update_time": 1760384719.404928,
+    "voice": null
+  }
+}
