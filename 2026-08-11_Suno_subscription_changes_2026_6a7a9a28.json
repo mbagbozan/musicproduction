@@ -1,0 +1,308 @@
+{
+  "conversation_id": "6a7a9a28-eab4-83eb-b854-691f51563970",
+  "title": "Suno subscription changes 2026",
+  "category": "chatgpt_standard",
+  "category_detail": "Standard",
+  "created_at": "2026-08-11 04:42:48",
+  "updated_at": "2026-08-11 04:45:34",
+  "source_chunk": "conversations-017.json",
+  "total_messages": 4,
+  "dialogue_turns": [
+    {
+      "role": "assistant",
+      "timestamp": "2026-08-11 04:45:20",
+      "text": "The latest email is from Suno, dated 10 August 2026, titled “Terms of service changes to your Pro subscription.”\n\nBottom line: no confirmation click is required. If you continue using Suno after 3 September 2026, you will automatically accept the new terms.\n\nChanges:\n\n- Pro downloads will be limited to 20 songs per billing month. The limit applies to existing songs too; listening and sharing remain unlimited. Downloads reset on your billing date and unused downloads do not roll over. [Suno FAQ](https://help.suno.com/en/articles/13614785)\n- Suno says music downloaded while you are a paid subscriber retains commercial and personal-use rights. Commercial use is tied to having a permitted paid-plan download. [Suno announcement](https://suno.com/blog/suno-updates-tos) · [new Terms](https://suno.com/terms-september-2026)\n- Disputes will be subject to updated individual arbitration provisions, including class-action and jury-trial waivers. [New Terms](https://suno.com/terms-september-2026)\n\nWhat you should do:\n\n- If you are happy to continue: no mandatory action. Consider downloading important songs and stems before 3 September, especially if you have more than 20 tracks to save.\n- For commercial releases: ensure each track has been downloaded through your paid Pro plan.\n- If you reject the terms: stop using Suno and close the account before your renewal date or within 30 days of 3 September, whichever comes first.\n\nSeparate billing note: I also found a failed-payment notice from 6 August, but a receipt dated 8 August confirms a successful US$10 Pro payment, so there does not appear to be an immediate billing issue."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-08-11 04:43:39",
+      "text": "I found the exact notice: Suno sent it on 10 August 2026 with the subject “Terms of service changes to your Pro subscription.” I’m checking the linked official terms/FAQ as well, because the commercial-use and dispute sections may matter beyond the short email summary."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-08-11 04:42:47",
+      "text": "Read the latest Suno subscription terms email, summarize the changes that take effect on 3 September 2026, and flag whether anything needs action on my side."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-08-11 04:42:57",
+      "text": "I’m using the Gmail workflow to locate the most recent Suno subscription-terms email, read the notice carefully, and check whether it requires any action from you."
+    }
+  ],
+  "raw_conversation": {
+    "conversation_id": "6a7a9a28-eab4-83eb-b854-691f51563970",
+    "conversation_template_id": null,
+    "create_time": 1786419768.953192,
+    "current_node": "54caf712-396f-5ab9-91d7-2ec03ab4524d",
+    "default_model_slug": "gpt-5.6-luna-wm",
+    "id": "6a7a9a28-eab4-83eb-b854-691f51563970",
+    "is_archived": false,
+    "is_do_not_remember": false,
+    "is_read_only": null,
+    "is_starred": null,
+    "is_study_mode": false,
+    "mapping": {
+      "19f2c8e2-5c63-434e-90f7-ec80bdbbf156": {
+        "id": "19f2c8e2-5c63-434e-90f7-ec80bdbbf156",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "thoughts",
+            "source_analysis_msg_id": "19f2c8e2-5c63-434e-90f7-ec80bdbbf156",
+            "thoughts": []
+          },
+          "create_time": 1786419769.479167,
+          "id": "19f2c8e2-5c63-434e-90f7-ec80bdbbf156",
+          "metadata": {
+            "model_slug": "gpt-5.6-luna-wm",
+            "parent_id": "6a8f0dba-ee9a-4723-8ca7-b486e3501e99"
+          }
+        },
+        "parent": "d3b9297f-d2aa-43ac-baf5-b0334e087da3"
+      },
+      "48a4c9e8-743e-4258-b4dc-8992a5ec7f27": {
+        "id": "48a4c9e8-743e-4258-b4dc-8992a5ec7f27",
+        "message": null,
+        "parent": null
+      },
+      "54caf712-396f-5ab9-91d7-2ec03ab4524d": {
+        "id": "54caf712-396f-5ab9-91d7-2ec03ab4524d",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "The latest email is from Suno, dated 10 August 2026, titled “Terms of service changes to your Pro subscription.”\n\nBottom line: no confirmation click is required. If you continue using Suno after 3 September 2026, you will automatically accept the new terms.\n\nChanges:\n\n- Pro downloads will be limited to 20 songs per billing month. The limit applies to existing songs too; listening and sharing remain unlimited. Downloads reset on your billing date and unused downloads do not roll over. [Suno FAQ](https://help.suno.com/en/articles/13614785)\n- Suno says music downloaded while you are a paid subscriber retains commercial and personal-use rights. Commercial use is tied to having a permitted paid-plan download. [Suno announcement](https://suno.com/blog/suno-updates-tos) · [new Terms](https://suno.com/terms-september-2026)\n- Disputes will be subject to updated individual arbitration provisions, including class-action and jury-trial waivers. [New Terms](https://suno.com/terms-september-2026)\n\nWhat you should do:\n\n- If you are happy to continue: no mandatory action. Consider downloading important songs and stems before 3 September, especially if you have more than 20 tracks to save.\n- For commercial releases: ensure each track has been downloaded through your paid Pro plan.\n- If you reject the terms: stop using Suno and close the account before your renewal date or within 30 days of 3 September, whichever comes first.\n\nSeparate billing note: I also found a failed-payment notice from 6 August, but a receipt dated 8 August confirms a successful US$10 Pro payment, so there does not appear to be an immediate billing issue."
+            ]
+          },
+          "create_time": 1786419920.081029,
+          "id": "54caf712-396f-5ab9-91d7-2ec03ab4524d",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5.6-luna-wm",
+            "parent_id": "bb6e8ddd-6484-43fa-9b8b-ada6c6d6c9d5"
+          }
+        },
+        "parent": "bb6e8ddd-6484-43fa-9b8b-ada6c6d6c9d5"
+      },
+      "55bbd56a-20f6-4ed8-b920-68c349d505b9": {
+        "id": "55bbd56a-20f6-4ed8-b920-68c349d505b9",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "thoughts",
+            "source_analysis_msg_id": "8c20a78f-d90e-43c7-9f9f-fa98ff89f362",
+            "thoughts": [
+              {
+                "chunks": [],
+                "content": "",
+                "finished": true,
+                "summary": "Read a Gmail email message"
+              }
+            ]
+          },
+          "create_time": 1786419920.067841,
+          "id": "55bbd56a-20f6-4ed8-b920-68c349d505b9",
+          "metadata": {
+            "model_slug": "gpt-5.6-luna-wm",
+            "parent_id": "550d4c57-d5a7-5845-9e1b-eb1cc5d3f201",
+            "tool_icons": [
+              "/images/ecosystem/apps/gmail/icon.png"
+            ]
+          }
+        },
+        "parent": "a520b9a3-28e9-4306-97ef-b585c8cefdfb"
+      },
+      "5f79deee-03fc-4969-b7d7-fd920a02bb68": {
+        "id": "5f79deee-03fc-4969-b7d7-fd920a02bb68",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "thoughts",
+            "source_analysis_msg_id": "0d1fda28-c86f-46d1-8e25-efa91017ca73",
+            "thoughts": [
+              {
+                "chunks": [],
+                "content": "",
+                "finished": true,
+                "summary": "Searched recent Suno emails and read their contents"
+              }
+            ]
+          },
+          "create_time": 1786419819.64095,
+          "id": "5f79deee-03fc-4969-b7d7-fd920a02bb68",
+          "metadata": {
+            "model_slug": "gpt-5.6-luna-wm",
+            "parent_id": "8a8fe539-5aa1-5305-b691-0b77c2be3374",
+            "tool_icons": [
+              "/images/ecosystem/apps/gmail/icon.png"
+            ]
+          }
+        },
+        "parent": "8d85f734-026d-478b-9bb3-125d3cd69a90"
+      },
+      "74c132d9-f29d-5f4d-b591-dcf311930e86": {
+        "id": "74c132d9-f29d-5f4d-b591-dcf311930e86",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I found the exact notice: Suno sent it on 10 August 2026 with the subject “Terms of service changes to your Pro subscription.” I’m checking the linked official terms/FAQ as well, because the commercial-use and dispute sections may matter beyond the short email summary."
+            ]
+          },
+          "create_time": 1786419819.643122,
+          "id": "74c132d9-f29d-5f4d-b591-dcf311930e86",
+          "metadata": {
+            "model_slug": "gpt-5.6-luna-wm",
+            "parent_id": "5f79deee-03fc-4969-b7d7-fd920a02bb68"
+          }
+        },
+        "parent": "5f79deee-03fc-4969-b7d7-fd920a02bb68"
+      },
+      "8d85f734-026d-478b-9bb3-125d3cd69a90": {
+        "id": "8d85f734-026d-478b-9bb3-125d3cd69a90",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "thoughts",
+            "source_analysis_msg_id": "2b75fe30-4320-4684-adb1-e389c3e73fed",
+            "thoughts": [
+              {
+                "chunks": [],
+                "content": "",
+                "finished": true,
+                "summary": "Read Gmail skill instructions"
+              }
+            ]
+          },
+          "create_time": 1786419800.405217,
+          "id": "8d85f734-026d-478b-9bb3-125d3cd69a90",
+          "metadata": {
+            "model_slug": "gpt-5.6-luna-wm",
+            "parent_id": "773de335-bd69-4b84-99ee-7499490a958e",
+            "tool_icons": [
+              "book-open"
+            ]
+          }
+        },
+        "parent": "e22a0b19-d1f5-5a33-a092-b77b3192edf1"
+      },
+      "a520b9a3-28e9-4306-97ef-b585c8cefdfb": {
+        "id": "a520b9a3-28e9-4306-97ef-b585c8cefdfb",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "thoughts",
+            "source_analysis_msg_id": "66ba2fd1-6e56-4ed8-aa6c-7d680b47c7c8",
+            "thoughts": [
+              {
+                "chunks": [],
+                "content": "",
+                "finished": true,
+                "summary": "Searched 2 websites"
+              }
+            ]
+          },
+          "create_time": 1786419846.102052,
+          "id": "a520b9a3-28e9-4306-97ef-b585c8cefdfb",
+          "metadata": {
+            "model_slug": "gpt-5.6-luna-wm",
+            "parent_id": "04ab9545-8fa1-41f7-9002-b90804c8a27d",
+            "tool_icons": [
+              "globe"
+            ]
+          }
+        },
+        "parent": "74c132d9-f29d-5f4d-b591-dcf311930e86"
+      },
+      "bb6e8ddd-6484-43fa-9b8b-ada6c6d6c9d5": {
+        "id": "bb6e8ddd-6484-43fa-9b8b-ada6c6d6c9d5",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content": "Worked for 2m 31s",
+            "content_type": "reasoning_recap"
+          },
+          "create_time": 1786419920.070337,
+          "id": "bb6e8ddd-6484-43fa-9b8b-ada6c6d6c9d5",
+          "metadata": {
+            "model_slug": "gpt-5.6-luna-wm",
+            "parent_id": "55bbd56a-20f6-4ed8-b920-68c349d505b9"
+          }
+        },
+        "parent": "55bbd56a-20f6-4ed8-b920-68c349d505b9"
+      },
+      "d3b9297f-d2aa-43ac-baf5-b0334e087da3": {
+        "id": "d3b9297f-d2aa-43ac-baf5-b0334e087da3",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Read the latest Suno subscription terms email, summarize the changes that take effect on 3 September 2026, and flag whether anything needs action on my side."
+            ]
+          },
+          "create_time": 1786419767.260226,
+          "id": "d3b9297f-d2aa-43ac-baf5-b0334e087da3"
+        },
+        "parent": "48a4c9e8-743e-4258-b4dc-8992a5ec7f27"
+      },
+      "e22a0b19-d1f5-5a33-a092-b77b3192edf1": {
+        "id": "e22a0b19-d1f5-5a33-a092-b77b3192edf1",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I’m using the Gmail workflow to locate the most recent Suno subscription-terms email, read the notice carefully, and check whether it requires any action from you."
+            ]
+          },
+          "create_time": 1786419777.843154,
+          "id": "e22a0b19-d1f5-5a33-a092-b77b3192edf1",
+          "metadata": {
+            "model_slug": "gpt-5.6-luna-wm",
+            "parent_id": "19f2c8e2-5c63-434e-90f7-ec80bdbbf156"
+          }
+        },
+        "parent": "19f2c8e2-5c63-434e-90f7-ec80bdbbf156"
+      }
+    },
+    "memory_scope": "global_enabled",
+    "pinned_time": null,
+    "plugin_ids": null,
+    "title": "Suno subscription changes 2026",
+    "update_time": 1786419934.239036,
+    "voice": null
+  }
+}
