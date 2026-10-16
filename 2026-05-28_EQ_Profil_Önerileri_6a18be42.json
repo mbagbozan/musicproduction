@@ -1,0 +1,415 @@
+{
+  "conversation_id": "6a18be42-8f34-83eb-900b-eb2c1694d03f",
+  "title": "EQ Profil Önerileri",
+  "category": "chatgpt_standard",
+  "category_detail": "Standard",
+  "created_at": "2026-05-28 23:14:40",
+  "updated_at": "2026-05-28 23:19:24",
+  "source_chunk": "conversations-015.json",
+  "total_messages": 6,
+  "dialogue_turns": [
+    {
+      "role": "assistant",
+      "timestamp": "2026-05-28 23:19:17",
+      "text": "To upload your EQ profile to the Nothing community:\n\n1. Open the Nothing X app.\n2. Go to **Equaliser** → **Advanced**.\n3. Create or adjust your custom EQ.\n4. Save the EQ profile with a name.\n5. Open the **Explore** tab (the screen in your screenshot).\n6. Tap **\"Go to Playground\"** at the bottom.\n\nOr go directly to:\n\nurlNothing Playground EQ Communityhttps://playground.nothing.tech/#eq\n\nThen:\n\n1. Sign in with your Nothing account.\n2. Select **Upload EQ** or **Create EQ**.\n3. Recreate your EQ settings if they are not already synced.\n4. Add:\n   - Profile name\n   - Description\n   - Recommended music genres\n   - Optional cover image\n5. Publish.\n\n### Before uploading\n\nA good community preset usually includes:\n\n- A clear name (e.g., *Mehmet's Vocal Focus*, *Istanbul Nights*, *Melodic House Air*)\n- Description of what it is optimized for\n- Whether ANC was on or off during tuning\n- Preferred volume range\n- Music examples\n\nExample:\n\n> **Istanbul Nights**\n>\n> Tuned for Turkish vocals, arabesk, Turkish classical music, acoustic instruments, and melodic electronic music. Focuses on vocal clarity while preserving bass depth and long-listening comfort.\n\nIf you show me your actual **Advanced EQ screenshot** (the editable screen with the EQ points visible), I can help you write a professional community description and suggest tags that are more likely to attract downloads and likes from other Nothing users."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-05-28 23:15:49",
+      "text": "Headphones (1)"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-05-28 23:14:39",
+      "text": "https://playground.nothing.tech/#eq"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-05-28 23:15:50",
+      "text": "Nothing Headphone (1), piyasadaki çoğu tüketici kulaklığından biraz farklı. Sürücüleri oldukça güçlü ve EQ değişikliklerine iyi tepki veriyor. Bu yüzden \"daha çok bass\" yaklaşımından ziyade \"daha doğru tonlama\" genellikle daha iyi sonuç veriyor.\n\nSenin dinleme alışkanlıklarından (Arabesk, Türkçe vokal, duygusal erkek vokaller, senfonik öğeler, progressive house, melodic techno) yola çıkarak:\n\n## Profil 1 — Vocal & Emotion (Günlük kullanım)\n\n| Band | Ayar |\n|--------|--------|\n| 32 Hz | +2 |\n| 64 Hz | +2 |\n| 125 Hz | +1 |\n| 250 Hz | -1 |\n| 500 Hz | 0 |\n| 1 kHz | +1 |\n| 2 kHz | +2 |\n| 4 kHz | +1 |\n| 8 kHz | 0 |\n| 16 kHz | +2 |\n\nSonuç:\n\n- Erkek vokaller öne gelir.\n- Arabesk yaylıları temiz duyulur.\n- Uzun dinlemede yormaz.\n- Progressive house'ta detay kaybolmaz.\n\n---\n\n## Profil 2 — Istanbul Nights\n\nTürkçe müzik odaklı.\n\n| Band | Ayar |\n|--------|--------|\n| 32 Hz | +3 |\n| 64 Hz | +3 |\n| 125 Hz | +1 |\n| 250 Hz | -2 |\n| 500 Hz | -1 |\n| 1 kHz | +1 |\n| 2 kHz | +3 |\n| 4 kHz | +2 |\n| 8 kHz | +1 |\n| 16 kHz | +1 |\n\nSonuç:\n\n- Hicaz makamı ve vokal süslemeleri belirginleşir.\n- Darbuka ve bas ayrışır.\n- Erkek ve kadın vokal çok yakın hissedilir.\n\n---\n\n## Profil 3 — Melodic House / Techno\n\n| Band | Ayar |\n|--------|--------|\n| 32 Hz | +4 |\n| 64 Hz | +3 |\n| 125 Hz | +2 |\n| 250 Hz | -1 |\n| 500 Hz | -1 |\n| 1 kHz | 0 |\n| 2 kHz | +1 |\n| 4 kHz | +1 |\n| 8 kHz | +2 |\n| 16 kHz | +3 |\n\nBununla:\n\n- Kick daha derine iner.\n- Synth katmanları açılır.\n- Soundstage daha büyük hissedilir.\n\n---\n\n### Eğer tek bir profil kullanacaksan\n\nBenim seçimim:\n\n**32:+2 | 64:+2 | 125:+1 | 250:-1 | 500:0 | 1k:+1 | 2k:+2 | 4k:+1 | 8k:0 | 16k:+2**\n\nBu profil:\n- Sezen Aksu'dan\n- Müslüm Gürses'e\n- Melike Şahin'e\n- Adamlar'a\n- Ben Böhmer'e\n- ARTBAT'e\n\nkadar çok geniş bir yelpazede dengeli çalışır.\n\nHeadphone (1)'de ayrıca ANC açık/kapalı ve Spatial Audio açık/kapalı durumları sesi belirgin şekilde etkileyebiliyor. ANC'yi çoğunlukla açık mı kullanıyorsun, yoksa evde kapalı mı dinliyorsun? Bu, ince ayarı değiştirebilir."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-05-28 23:19:17",
+      "text": "How can I upload my phone Equalizer settings to do community?"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-05-28 23:14:43",
+      "text": "Bu ekran, urlNothing Playground EQ Profilesturn0search0 bölümündeki topluluk tarafından oluşturulan EQ profillerini gösteriyor. Bunlar kullanıcıların kendi ses karakterlerini oluşturup paylaştığı preset'ler. citeturn0search0turn0search3\n\nEkrandaki bazı profiller:\n\n- **NEUTRAL tuning** → Daha düz/frekans olarak dengeli ses hedefliyor.\n- **DrunkPods** → Muhtemelen eğlenceli V-shape (daha fazla bass + tiz).\n- **beau** → Hafif sıcak ve rahat dinleme karakteri gibi görünüyor.\n- **Toboe's EQ** → Mid'leri koruyan daha kontrollü tuning izlenimi veriyor.\n\nAncak sadece grafiğe bakarak kesin ses karakteri çıkarmak mümkün değil; aynı nokta yerleşimleri farklı Q ve gain değerlerinden oluşabiliyor.\n\nSenin kullanım alışkanlıklarını düşünürsem:\n\n- Arabesk\n- Hicaz\n- Türk sanat müziği\n- Duygusal vokal ağırlıklı parçalar\n- Progressive / melodic house\n- Sinematik müzikler\n\niçin genelde:\n\n### Kaçınılacak\n- Aşırı bass boost\n- Aşırı V-shape tuning\n- Çok parlak tiz\n\nÇünkü vokalleri geri iter.\n\n### Daha uygun yaklaşım\n- Sub-bass: hafif artış\n- Mid-bass: kontrollü\n- 1–3 kHz: hafif önde\n- 5–8 kHz: hafif temizleme\n- 10 kHz+: biraz hava\n\nBu genellikle:\n\n- erkek vokalleri daha yakın getirir,\n- yaylıları ve piyanoyu boğmaz,\n- Arabesk ve modern elektronik arasında iyi denge kurar.\n\nNothing topluluğunda da son dönemde \"neutral\", \"flat\", \"balanced\", \"DMS\", \"SoundGuys\" tarzı profiller en çok övülenler arasında. Kullanıcılar özellikle stok tuning'in bazı modellerde tiz ve üst mid bölgelerinde dengesiz olabildiğini söylüyor. citeturn0search2turn0search4turn0search1\n\nEğer kullandığın modeli söylersen:\n\n- Nothing Ear (2024)\n- Ear (a)\n- Ear (2)\n- Headphone (1)\n\nve hangi türleri en çok dinlediğini (% olarak),\n\nsana özel 8-band Advanced EQ eğrisi çıkarabilirim. Ayrıca QR şeklinde Nothing Playground'a yüklenebilecek profil mantığını da oluşturabiliriz."
+    }
+  ],
+  "raw_conversation": {
+    "conversation_id": "6a18be42-8f34-83eb-900b-eb2c1694d03f",
+    "conversation_template_id": null,
+    "create_time": 1780006480.888554,
+    "current_node": "04344207-2815-414c-8f95-14e557e7c924",
+    "default_model_slug": "gpt-5-5",
+    "id": "6a18be42-8f34-83eb-900b-eb2c1694d03f",
+    "is_archived": false,
+    "is_do_not_remember": false,
+    "is_read_only": null,
+    "is_starred": null,
+    "is_study_mode": false,
+    "mapping": {
+      "04344207-2815-414c-8f95-14e557e7c924": {
+        "id": "04344207-2815-414c-8f95-14e557e7c924",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "To upload your EQ profile to the Nothing community:\n\n1. Open the Nothing X app.\n2. Go to **Equaliser** → **Advanced**.\n3. Create or adjust your custom EQ.\n4. Save the EQ profile with a name.\n5. Open the **Explore** tab (the screen in your screenshot).\n6. Tap **\"Go to Playground\"** at the bottom.\n\nOr go directly to:\n\nurlNothing Playground EQ Communityhttps://playground.nothing.tech/#eq\n\nThen:\n\n1. Sign in with your Nothing account.\n2. Select **Upload EQ** or **Create EQ**.\n3. Recreate your EQ settings if they are not already synced.\n4. Add:\n   - Profile name\n   - Description\n   - Recommended music genres\n   - Optional cover image\n5. Publish.\n\n### Before uploading\n\nA good community preset usually includes:\n\n- A clear name (e.g., *Mehmet's Vocal Focus*, *Istanbul Nights*, *Melodic House Air*)\n- Description of what it is optimized for\n- Whether ANC was on or off during tuning\n- Preferred volume range\n- Music examples\n\nExample:\n\n> **Istanbul Nights**\n>\n> Tuned for Turkish vocals, arabesk, Turkish classical music, acoustic instruments, and melodic electronic music. Focuses on vocal clarity while preserving bass depth and long-listening comfort.\n\nIf you show me your actual **Advanced EQ screenshot** (the editable screen with the EQ points visible), I can help you write a professional community description and suggest tags that are more likely to attract downloads and likes from other Nothing users."
+            ]
+          },
+          "create_time": 1780006757.932046,
+          "id": "04344207-2815-414c-8f95-14e557e7c924",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": "[Nothing Playground EQ Community](https://playground.nothing.tech/?utm_source=chatgpt.com#eq)",
+                "logo": null,
+                "prefix": null,
+                "prompt_text": "[Nothing Playground EQ Community](https://playground.nothing.tech/?utm_source=chatgpt.com#eq)",
+                "title": "Nothing Playground EQ Community",
+                "type": "url"
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "d5cba17b-2ddf-4dc5-9426-fcff2c02984f"
+          }
+        },
+        "parent": "d5cba17b-2ddf-4dc5-9426-fcff2c02984f"
+      },
+      "919b6aac-2772-43f5-a4dc-cedd7eae0e11": {
+        "id": "919b6aac-2772-43f5-a4dc-cedd7eae0e11",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Headphones (1)"
+            ]
+          },
+          "create_time": 1780006549.5935888,
+          "id": "919b6aac-2772-43f5-a4dc-cedd7eae0e11"
+        },
+        "parent": "e0c462ce-1aa5-48c2-a31e-d99391167faa"
+      },
+      "af7470b4-e37d-4eca-9f50-76de725dc793": {
+        "id": "af7470b4-e37d-4eca-9f50-76de725dc793",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "multimodal_text",
+            "parts": [
+              {
+                "asset_pointer": "sediment://file_00000000b25471f4a00b15508f8ae78b",
+                "content_type": "image_asset_pointer",
+                "fovea": null,
+                "height": 1536,
+                "metadata": {
+                  "asset_pointer_link": null,
+                  "container_pixel_height": null,
+                  "container_pixel_width": null,
+                  "dalle": null,
+                  "emu_omit_glimpse_image": null,
+                  "emu_patches_override": null,
+                  "generation": null,
+                  "gizmo": null,
+                  "is_no_auth_placeholder": null,
+                  "lpe_delta_encoding_channel": null,
+                  "lpe_keep_patch_ijhw": null,
+                  "sanitized": true,
+                  "segmentation": null,
+                  "watermarked_asset_pointer": null
+                },
+                "size_bytes": 301509,
+                "width": 710
+              },
+              "https://playground.nothing.tech/#eq"
+            ]
+          },
+          "create_time": 1780006479.384708,
+          "id": "af7470b4-e37d-4eca-9f50-76de725dc793",
+          "metadata": {
+            "attachments": [
+              {
+                "height": 1536,
+                "id": "file_00000000b25471f4a00b15508f8ae78b",
+                "library_file_id": "libfile_c3d7137883b88191a09d16649f47bf98",
+                "mime_type": "image/jpeg",
+                "name": "0015C4EA-A528-4607-85F0-415299EBF56B.jpeg",
+                "size": 301509,
+                "width": 710
+              }
+            ]
+          }
+        },
+        "parent": "f79c6d9d-dc2b-4a9d-b5a7-006ef25c08bb"
+      },
+      "d2cc20e9-5e9c-4d50-8ce7-cf8a2d2cdb4e": {
+        "id": "d2cc20e9-5e9c-4d50-8ce7-cf8a2d2cdb4e",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Nothing Headphone (1), piyasadaki çoğu tüketici kulaklığından biraz farklı. Sürücüleri oldukça güçlü ve EQ değişikliklerine iyi tepki veriyor. Bu yüzden \"daha çok bass\" yaklaşımından ziyade \"daha doğru tonlama\" genellikle daha iyi sonuç veriyor.\n\nSenin dinleme alışkanlıklarından (Arabesk, Türkçe vokal, duygusal erkek vokaller, senfonik öğeler, progressive house, melodic techno) yola çıkarak:\n\n## Profil 1 — Vocal & Emotion (Günlük kullanım)\n\n| Band | Ayar |\n|--------|--------|\n| 32 Hz | +2 |\n| 64 Hz | +2 |\n| 125 Hz | +1 |\n| 250 Hz | -1 |\n| 500 Hz | 0 |\n| 1 kHz | +1 |\n| 2 kHz | +2 |\n| 4 kHz | +1 |\n| 8 kHz | 0 |\n| 16 kHz | +2 |\n\nSonuç:\n\n- Erkek vokaller öne gelir.\n- Arabesk yaylıları temiz duyulur.\n- Uzun dinlemede yormaz.\n- Progressive house'ta detay kaybolmaz.\n\n---\n\n## Profil 2 — Istanbul Nights\n\nTürkçe müzik odaklı.\n\n| Band | Ayar |\n|--------|--------|\n| 32 Hz | +3 |\n| 64 Hz | +3 |\n| 125 Hz | +1 |\n| 250 Hz | -2 |\n| 500 Hz | -1 |\n| 1 kHz | +1 |\n| 2 kHz | +3 |\n| 4 kHz | +2 |\n| 8 kHz | +1 |\n| 16 kHz | +1 |\n\nSonuç:\n\n- Hicaz makamı ve vokal süslemeleri belirginleşir.\n- Darbuka ve bas ayrışır.\n- Erkek ve kadın vokal çok yakın hissedilir.\n\n---\n\n## Profil 3 — Melodic House / Techno\n\n| Band | Ayar |\n|--------|--------|\n| 32 Hz | +4 |\n| 64 Hz | +3 |\n| 125 Hz | +2 |\n| 250 Hz | -1 |\n| 500 Hz | -1 |\n| 1 kHz | 0 |\n| 2 kHz | +1 |\n| 4 kHz | +1 |\n| 8 kHz | +2 |\n| 16 kHz | +3 |\n\nBununla:\n\n- Kick daha derine iner.\n- Synth katmanları açılır.\n- Soundstage daha büyük hissedilir.\n\n---\n\n### Eğer tek bir profil kullanacaksan\n\nBenim seçimim:\n\n**32:+2 | 64:+2 | 125:+1 | 250:-1 | 500:0 | 1k:+1 | 2k:+2 | 4k:+1 | 8k:0 | 16k:+2**\n\nBu profil:\n- Sezen Aksu'dan\n- Müslüm Gürses'e\n- Melike Şahin'e\n- Adamlar'a\n- Ben Böhmer'e\n- ARTBAT'e\n\nkadar çok geniş bir yelpazede dengeli çalışır.\n\nHeadphone (1)'de ayrıca ANC açık/kapalı ve Spatial Audio açık/kapalı durumları sesi belirgin şekilde etkileyebiliyor. ANC'yi çoğunlukla açık mı kullanıyorsun, yoksa evde kapalı mı dinliyorsun? Bu, ince ayarı değiştirebilir."
+            ]
+          },
+          "create_time": 1780006550.063681,
+          "id": "d2cc20e9-5e9c-4d50-8ce7-cf8a2d2cdb4e",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-5",
+            "parent_id": "919b6aac-2772-43f5-a4dc-cedd7eae0e11"
+          }
+        },
+        "parent": "919b6aac-2772-43f5-a4dc-cedd7eae0e11"
+      },
+      "d5cba17b-2ddf-4dc5-9426-fcff2c02984f": {
+        "id": "d5cba17b-2ddf-4dc5-9426-fcff2c02984f",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "How can I upload my phone Equalizer settings to do community?"
+            ]
+          },
+          "create_time": 1780006757.3361812,
+          "id": "d5cba17b-2ddf-4dc5-9426-fcff2c02984f"
+        },
+        "parent": "d2cc20e9-5e9c-4d50-8ce7-cf8a2d2cdb4e"
+      },
+      "e0c462ce-1aa5-48c2-a31e-d99391167faa": {
+        "id": "e0c462ce-1aa5-48c2-a31e-d99391167faa",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Bu ekran, urlNothing Playground EQ Profilesturn0search0 bölümündeki topluluk tarafından oluşturulan EQ profillerini gösteriyor. Bunlar kullanıcıların kendi ses karakterlerini oluşturup paylaştığı preset'ler. citeturn0search0turn0search3\n\nEkrandaki bazı profiller:\n\n- **NEUTRAL tuning** → Daha düz/frekans olarak dengeli ses hedefliyor.\n- **DrunkPods** → Muhtemelen eğlenceli V-shape (daha fazla bass + tiz).\n- **beau** → Hafif sıcak ve rahat dinleme karakteri gibi görünüyor.\n- **Toboe's EQ** → Mid'leri koruyan daha kontrollü tuning izlenimi veriyor.\n\nAncak sadece grafiğe bakarak kesin ses karakteri çıkarmak mümkün değil; aynı nokta yerleşimleri farklı Q ve gain değerlerinden oluşabiliyor.\n\nSenin kullanım alışkanlıklarını düşünürsem:\n\n- Arabesk\n- Hicaz\n- Türk sanat müziği\n- Duygusal vokal ağırlıklı parçalar\n- Progressive / melodic house\n- Sinematik müzikler\n\niçin genelde:\n\n### Kaçınılacak\n- Aşırı bass boost\n- Aşırı V-shape tuning\n- Çok parlak tiz\n\nÇünkü vokalleri geri iter.\n\n### Daha uygun yaklaşım\n- Sub-bass: hafif artış\n- Mid-bass: kontrollü\n- 1–3 kHz: hafif önde\n- 5–8 kHz: hafif temizleme\n- 10 kHz+: biraz hava\n\nBu genellikle:\n\n- erkek vokalleri daha yakın getirir,\n- yaylıları ve piyanoyu boğmaz,\n- Arabesk ve modern elektronik arasında iyi denge kurar.\n\nNothing topluluğunda da son dönemde \"neutral\", \"flat\", \"balanced\", \"DMS\", \"SoundGuys\" tarzı profiller en çok övülenler arasında. Kullanıcılar özellikle stok tuning'in bazı modellerde tiz ve üst mid bölgelerinde dengesiz olabildiğini söylüyor. citeturn0search2turn0search4turn0search1\n\nEğer kullandığın modeli söylersen:\n\n- Nothing Ear (2024)\n- Ear (a)\n- Ear (2)\n- Headphone (1)\n\nve hangi türleri en çok dinlediğini (% olarak),\n\nsana özel 8-band Advanced EQ eğrisi çıkarabilirim. Ayrıca QR şeklinde Nothing Playground'a yüklenebilecek profil mantığını da oluşturabiliriz."
+            ]
+          },
+          "create_time": 1780006483.52587,
+          "id": "e0c462ce-1aa5-48c2-a31e-d99391167faa",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": "[Nothing Playground EQ Profiles](https://playground.nothing.tech/eqs?utm_source=chatgpt.com)",
+                "logo": null,
+                "prefix": null,
+                "prompt_text": null,
+                "title": "Nothing Playground EQ Profiles",
+                "type": "url"
+              },
+              {
+                "alt": "([Nothing Playground](https://playground.nothing.tech/eqs?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "Nothing Playground",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 3,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "EQ Profiles ; High Pitched · A. AlexisMorel ; Balanced EQ · F · fortunate ; Singapore Spring · A. Aaron X ; V factor · F · FrederickAu ; Solid EDM · C.Read more",
+                    "supporting_websites": [
+                      {
+                        "attribution": "Nothing Playground",
+                        "pub_date": null,
+                        "snippet": "Your digital Playground awaits. Join thousands of creators to build something uniquely yours, and discover the creativity of the Nothing Community.Read more",
+                        "title": "Nothing Playground",
+                        "url": "https://playground.nothing.tech/?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "EQ Profiles",
+                    "url": "https://playground.nothing.tech/eqs?utm_source=chatgpt.com"
+                  }
+                ],
+                "prefix": null,
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "([Nothing Community](https://nothing.community/en/d/37810-share-your-custom-eqs-headphone-1?utm_source=chatgpt.com))",
+                "fallback_items": null,
+                "items": [
+                  {
+                    "attribution": "Nothing Community",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1752733440.0,
+                    "refs": [
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 1,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "16 Jul 2025 — With many of you now starting to get your hands on Headphone (1) I would like to use this space to encourage you to share your custom EQ's.",
+                    "supporting_websites": [
+                      {
+                        "attribution": "SoundGuys",
+                        "pub_date": null,
+                        "snippet": "4 Jul 2025 — Tap the “Equalizer” tile to open the preset menu. Once you're in the preset menu, you should see an odd radar-looking adjustment panel, and some ...Read more",
+                        "title": "What do all the Nothing Headphone (1)'s EQ presets sound ...",
+                        "url": "https://www.soundguys.com/what-do-all-the-nothing-headphone-1-eq-presets-sound-like-140790/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Reddit",
+                        "pub_date": null,
+                        "snippet": "Save the image to your phone, open the Nothing X app, select the Nothing Ear then select equalizer, then advanced then select the QR code ...Read more",
+                        "title": "EQ SETTINGS FOR NOTHING EAR (2024) : r/NothingTech",
+                        "url": "https://www.reddit.com/r/NothingTech/comments/1hc0go6/eq_settings_for_nothing_ear_2024/?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Share Your Custom EQ's | Headphone (1)",
+                    "url": "https://nothing.community/en/d/37810-share-your-custom-eqs-headphone-1?utm_source=chatgpt.com"
+                  }
+                ],
+                "prefix": null,
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "",
+                "has_images": false,
+                "prefix": null,
+                "prompt_text": null,
+                "sources": [
+                  {
+                    "attribution": "Nothing Playground",
+                    "title": "EQ Profiles",
+                    "url": "https://playground.nothing.tech/eqs?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Nothing Community",
+                    "title": "Share Your Custom EQ's | Headphone (1)",
+                    "url": "https://nothing.community/en/d/37810-share-your-custom-eqs-headphone-1?utm_source=chatgpt.com"
+                  }
+                ],
+                "type": "sources_footnote"
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "14f89918-9d8b-4c3d-bf00-f361119f68f1",
+            "search_result_groups": [
+              {
+                "domain": "reddit.com",
+                "entries": [
+                  {
+                    "attribution": "reddit.com",
+                    "snippet": "Save the image to your phone, open the Nothing X app, select the Nothing Ear then select equalizer, then advanced then select the QR code ...Read more",
+                    "title": "EQ SETTINGS FOR NOTHING EAR (2024) : r/NothingTech",
+                    "url": "https://www.reddit.com/r/NothingTech/comments/1hc0go6/eq_settings_for_nothing_ear_2024/?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "nothing.tech",
+                "entries": [
+                  {
+                    "attribution": "nothing.tech",
+                    "snippet": "Your digital Playground awaits. Join thousands of creators to build something uniquely yours, and discover the creativity of the Nothing Community.Read more",
+                    "title": "Nothing Playground",
+                    "url": "https://playground.nothing.tech/?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "nothing.tech",
+                    "snippet": "Only compatible with Nothing earphones and headphones that support the Advanced Equaliser via Nothing X. This EQ profile is generated from image analysis. 2026/ ...Read more",
+                    "title": "Mixed Bass by Rajeev",
+                    "url": "https://playground.nothing.tech/detail/eq/I1DzDkup62mluxjt?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "nothing.tech",
+                    "snippet": "18 Apr 2024 — 1. Open the Nothing X App and connect Nothing Ear · 2. Head to Equaliser > Advanced · 3. Adjust the Frequency, Q factor and Gain to suit your ...Read more",
+                    "title": "How do I use the Advanced Equaliser? - Support Centre",
+                    "url": "https://support.nothing.tech/hc/en-us/articles/23726280844561-How-do-I-use-the-Advanced-Equaliser?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "soundguys.com",
+                "entries": [
+                  {
+                    "attribution": "soundguys.com",
+                    "snippet": "4 Jul 2025 — Tap the “Equalizer” tile to open the preset menu. Once you're in the preset menu, you should see an odd radar-looking adjustment panel, and some ...Read more",
+                    "title": "What do all the Nothing Headphone (1)'s EQ presets sound ...",
+                    "url": "https://www.soundguys.com/what-do-all-the-nothing-headphone-1-eq-presets-sound-like-140790/?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "nothing.community",
+                "entries": [
+                  {
+                    "attribution": "nothing.community",
+                    "snippet": "28 Apr 2026 — None of the profiles I found actually fix the muddy sound or improve clarity the way I'm describing. If you have a specific EQ that addresses ...Read more",
+                    "title": "HELP! Haven't looking the equalizer i'm looking for'",
+                    "url": "https://nothing.community/en/d/56527-help-havent-looking-the-equalizer-im-looking-for?utm_source=chatgpt.com"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "parent": "af7470b4-e37d-4eca-9f50-76de725dc793"
+      },
+      "f79c6d9d-dc2b-4a9d-b5a7-006ef25c08bb": {
+        "id": "f79c6d9d-dc2b-4a9d-b5a7-006ef25c08bb",
+        "message": null,
+        "parent": null
+      }
+    },
+    "memory_scope": "global_enabled",
+    "pinned_time": null,
+    "plugin_ids": null,
+    "title": "EQ Profil Önerileri",
+    "update_time": 1780006764.994646,
+    "voice": null
+  }
+}

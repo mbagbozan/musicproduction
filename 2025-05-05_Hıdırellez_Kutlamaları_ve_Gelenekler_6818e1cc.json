@@ -1,0 +1,3436 @@
+{
+  "conversation_id": "6818e1cc-09dc-800f-a133-6d4f0b0e0350",
+  "title": "Hıdırellez Kutlamaları ve Gelenekler",
+  "category": "chatgpt_projects",
+  "category_detail": "Project ID: g-p-6814a5b9b5208191a21cbd8d16ad94ba",
+  "created_at": "2025-05-05 17:05:32",
+  "updated_at": "2025-05-05 17:52:30",
+  "source_chunk": "conversations-007.json",
+  "total_messages": 11,
+  "dialogue_turns": [
+    {
+      "role": "assistant",
+      "timestamp": "2025-05-05 17:11:18",
+      "text": "Absolutely! Here's a full concept for a **loopable, minimal song inspired by Sezen Aksu’s \"Hıdrellez\"**, especially focusing on its musical mood—lush Balkan-Romani instrumentation, emotional celebration, and hypnotic repetition—while blending **Turkish and English lyrics**.\n\n---\n\n## **Song Title**: *Aşk Gibi Bahar (Spring Like Love)*\n\n---\n\n### **GENRE**:  \nWorld Fusion / Ethno-Electronic / Ambient Balkan Groove\n\n---\n\n### **MOOD**:  \nWarm, mystical, nostalgic, celebratory\n\n---\n\n### **TEMPO**:  \n90 BPM (loopable mid-tempo groove, perfect for trance-like repetition)\n\n---\n\n### **INSTRUMENTATION**:\n- **Percussion**: Darbuka, bendir, and soft tambourine loops (for groove)  \n- **Melody**: Kaval, clarinet (Balkan/Gypsy style), and baglama riffs  \n- **Chords**: Ambient synth pads mixed with kanun flourishes  \n- **Bass**: Soft sub bass with analog warmth (like a modular Moog)  \n- **FX**: Nature field sounds (light wind, spring birds), subtle reverb trails  \n- **Vocals**: Whispered Turkish-English layers with lots of space and delay\n\n---\n\n### **LYRICS** *(minimal, loopable, emotionally symbolic)*\n\n**CHORUS (Loop)**  \n*Gel, bahar gibi sev beni*  \n(Come, love me like the spring)  \n*In the silence, I bloom again*  \n*Aşk gibi, aşk gibi*  \n(Like love, like love)  \n\n**VERSE A (loopable)**  \n*Toprağın altında umut var*  \n(There is hope under the soil)  \n*When the fire fades, I rise*  \n\n**VERSE B (optional)**  \n*Suda yazdım dileğimi*  \n(I wrote my wish in the water)  \n*You felt it too, didn’t you?*\n\n---\n\n## **PRODUCTION STEPS**:\n\n### **1. Rhythmic Foundation**\n- **Loop a traditional 6/8 or 9/8 Romani-inspired rhythm** using darbuka or bendir.\n- Add layered percussion (e.g., soft shaker or clap every 3rd beat) to modernize the rhythm while keeping a traditional feel.\n- Quantize gently (not too perfect) for a live, human swing.\n\n### **2. Melodic Layering**\n- Create a 4-bar loop with clarinet or kaval riff in Phrygian dominant scale (C–Db–E–F–G–Ab–Bb–C). Improvise around it.\n- Add baglama or saz plucks with subtle delay—playing simple, nostalgic motifs.\n- Layer ambient pads (in D minor or C minor) underneath to ground everything emotionally.\n\n### **3. Bass & Harmony**\n- Use a soft analog synth or upright bass sample for warmth—follow the root of the chord progression (e.g., Cm → Gm → Ab).\n- Keep the harmony minimal to avoid overpowering the melody.\n\n### **4. Vocal FX and Loop Design**\n- Record multiple takes of the same vocal lines—one whispered, one lightly sung, one harmonized.\n- Apply light saturation, delay, and reverb to create a “ghostly” texture.\n- Keep phrasing tight for easy looping. Align vocal phrases to downbeats.\n\n### **5. FX and Atmosphere**\n- Add wind ambiances, gül (rose) petals falling, distant flute echos, and soft spring rain texture in the background.\n- Optionally modulate these ambient layers over time to evoke the changing nature of spring.\n\n---\n\n### **Exporting & Loop Tips**:\n- **Keep loop to 60–90 seconds**, seamless in transition—especially for sync licensing or meditative playlists.\n- Test on different playback systems (headphones, speakers, mono).\n- Export in **-14 LUFS** for streaming services, and **-23 LUFS** for broadcast/sync use.\n\n---\n\nWould you like me to generate a Suno-ready version of this with exact prompt formatting? Or do you want to try producing it in BandLab or another DAW first?"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2025-05-05 17:05:33",
+      "text": "iturn0image0turn0image1turn0image3turn0image4Hıdırellez, her yıl 5 Mayıs'ı 6 Mayıs'a bağlayan gece kutlanan, baharın gelişini ve doğanın uyanışını simgeleyen kadim bir Türk halk geleneğidir. Bu özel gün, Hızır (Al-Khidr) ve İlyas (Elijah) peygamberlerin yeryüzünde buluştuğuna inanılan zaman olarak kabul edilir. Bu buluşma, bereket, sağlık ve dileklerin kabulüyle ilişkilendirilir. citeturn0search7\n\n### Hıdırellez Ne Zaman Kutlanır?\n\nHıdırellez, Miladi takvime göre 6 Mayıs'ta kutlanır. Bu tarih, eski Jülyen takvimine göre 23 Nisan'a denk gelir. 6 Mayıs'tan itibaren başlayan dönem \"Hızır Günleri\" olarak adlandırılır ve yaz mevsimini temsil eder; 8 Kasım'dan itibaren ise \"Kasım Günleri\" başlar ve kış mevsimini ifade eder. citeturn0search3\n\n### Hıdırellez Ritüelleri ve Gelenekleri\n\nHıdırellez, Türkiye'nin birçok bölgesinde çeşitli ritüellerle kutlanır:\n\n- **Ateşten Atlama**: Kötülüklerden arınmak ve sağlık dilemek amacıyla yakılan ateşin üzerinden atlanır.\n\n- **Dilek Tutma**: Dilekler, kağıtlara yazılarak gül ağacının altına bırakılır veya suya atılır.\n\n- **Mantufar Geleneği**: Genç kızlar, evlenme niyetiyle yüzük veya benzeri eşyalarını su dolu bir kaba koyar ve ertesi gün maniler eşliğinde çekerler.\n\n- **Toplu Kutlamalar**: Özellikle Edirne ve İstanbul gibi şehirlerde Kakava Şenlikleri kapsamında müzik, dans ve eğlenceler düzenlenir. citeturn0search2\n\n### Hıdırellez'in Anlamı ve Önemi\n\nHıdırellez, sadece bir mevsim geçişi değil, aynı zamanda umut, yenilenme ve toplumsal dayanışmanın simgesidir. 2017 yılında UNESCO tarafından Somut Olmayan Kültürel Miras Listesi'ne dahil edilmiştir. citeturn0search10\n\nBu gelenek, Orta Asya'dan Balkanlar'a kadar geniş bir coğrafyada yaşatılmakta ve her yıl coşkuyla kutlanmaktadır.\n\nDaha fazla bilgi için aşağıdaki videoyu izleyebilirsiniz:\n\nvideoHıdırellez Nedir? Dileklerin Gerçekleştiği Gece!turn0search14"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2025-05-05 17:16:12",
+      "text": "Here is the **Suno v4.5–ready prompt** for your Hıdrellez-inspired track, blending Turkish-English lyrics with a minimal, loopable, atmospheric Balkan groove:\n\n---\n\n**title**: aşk gibi bahar  \n**genre**: ethno-electronic, ambient balkan groove, world fusion, experimental pop  \n**mood**: mystical, nostalgic, warm, hypnotic  \n**vocal style**: whispered female vocals, bilingual Turkish-English, soft layered harmonies  \n**tempo**: 90 bpm  \n**instrumentation**: darbuka, bendir, kaval, Turkish clarinet, ambient pads, saz & baglama plucks, modular sub bass, nature field recordings  \n**production notes**:  \nloopable 90-second groove evoking spring rituals and the spirit of Hıdrellez. whispery female vocals blend Turkish and English lines with emotional restraint. sparse percussion (darbuka, bendir), airy woodwinds (clarinet, kaval), and subtle kanun or baglama accents provide traditional texture. ambient pads and analog synths create emotional depth. include wind and spring nature ambiances. vocals should repeat and evolve with each loop, building atmosphere without narrative progression.\n\n**suno tags**: loopable, ethno-fusion, ambient world, cinematic folk, turkish inspired, balkan groove, spiritual minimalism, soft female vocals, bilingual lyrics  \n**lyrics**:\n\n**CHORUS**  \ngel, bahar gibi sev beni  \nin the silence, I bloom again  \naşk gibi, aşk gibi  \n\n**VERSE A**  \ntoprağın altında umut var  \nwhen the fire fades, I rise  \n\n**VERSE B**  \nsuda yazdım dileğimi  \nyou felt it too, didn’t you?  \n\n**OUTRO LOOP**  \naşk gibi  \nlike spring  \naşk gibi  \nagain  \n\n**excluded styles**: rock, trap, edm, heavy autotune, pop ballad, upbeat dance\n\n---\n\nWould you like a matching cover art prompt as well?"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2025-05-05 17:52:07",
+      "text": "Perfect—thanks for the detailed input. Here's the **final optimized Suno v4.5 prompt**, fully incorporating the musical production plan you just shared. This version is crafted for maximum realism, loopability, and sync appeal while retaining the mystical Hıdrellez-inspired aesthetic.\n\n---\n\n**title**: aşk gibi bahar  \n**genre**: ambient balkan groove, ethno-electronic, mystical world fusion, cinematic folk minimalism  \n**mood**: hypnotic, nostalgic, sacred, warm  \n**vocal style**: soft female vocals, whispered and lightly sung Turkish-English, deep delay trails, atmospheric harmonies  \n**tempo**: 90 bpm  \n**instrumentation**: darbuka, bendir, soft tambourine, analog sub bass, ambient pads in Dm/Cm, kanun flourishes, kaval and clarinet (Phrygian dominant scale), baglama plucks, wind sounds, gül petals, distant flute echoes, soft spring rain  \n\n**production notes**:  \nlooping 90 bpm groove blends darbuka, bendir, soft tambourine, analog-warm sub bass, and ethereal pads with kanun flourishes. kaval, clarinet, and baglama deliver mystical melodies in a 4-bar Phrygian riff. ambient textures (wind, rose petals, rain) and soft analog pads ground the emotional space. whispered and lightly sung female vocals float in Turkish and English with heavy reverb and stereo delay. multiple takes layered for ghostly presence. vocal phrasing aligns to downbeats and remains tight for seamless looping. groove includes optional 6/8 swing feel with soft shaker every third beat for modern variation. ideal for sync licensing and meditative use.\n\n**suno tags**: loopable, turkish ambient, balkan groove, minimalist ethno-electronica, female vocals, spring ritual, atmospheric, sync-friendly, bilingual vocals, world fusion  \n**lyrics**:\n\n**CHORUS**  \ngel, bahar gibi sev beni  \nin the silence, I bloom again  \naşk gibi, aşk gibi  \n\n**VERSE A**  \ntoprağın altında umut var  \nwhen the fire fades, I rise  \n\n**VERSE B**  \nsuda yazdım dileğimi  \nyou felt it too, didn’t you?  \n\n**OUTRO LOOP**  \naşk gibi  \nlike spring  \naşk gibi  \nagain  \n\n**excluded styles**: edm, trap, rock, hyperpop, loud pop vocals, autotune, uptempo dance\n\n---\n\nWould you like a **cover art prompt** in Kintsugi–folk fusion style, with soft gold elements and spring symbolism (gül, rain, wind, light)?"
+    },
+    {
+      "role": "user",
+      "timestamp": "2025-05-05 17:11:18",
+      "text": "Lets make song inspired by it  soeciamky musical part. With a minimal liopable turkish english mixed lyrics.  Pleas3 provide derailed song production steps as well"
+    },
+    {
+      "role": "user",
+      "timestamp": "2025-05-05 17:09:20",
+      "text": "Do you song caled hıdrellez  from sezen aksu"
+    },
+    {
+      "role": "user",
+      "timestamp": "2025-05-05 17:05:32",
+      "text": "Hıdrellez?"
+    },
+    {
+      "role": "user",
+      "timestamp": "2025-05-05 17:16:11",
+      "text": "Yes please"
+    },
+    {
+      "role": "user",
+      "timestamp": "2025-05-05 17:52:07",
+      "text": "Looping 90 BPM groove blends darbuka, bendir, soft tambourine, analog-warm sub bass, and ethereal pads with kanun flourishes. Kaval, clarinet, and baglama deliver mystical melodies, while nature sounds and airy, whispered Turkish-English vocals float with deep reverbs and delays.\n\nLoop a traditional 6/8 or 9/8 Romani-inspired rhythm using darbuka or bendir.\nAdd layered percussion (e.g., soft shaker or clap every 3rd beat) to modernize the rhythm while keeping a traditional feel.\nQuantize gently (not too perfect) for a live, human swing.\nCreate a 4-bar loop with clarinet or kaval riff in Phrygian dominant scale (C–Db–E–F–G–Ab–Bb–C). Improvise around it.\nAdd baglama or saz plucks with subtle delay—playing simple, nostalgic motifs.\nLayer ambient pads (in D minor or C minor) underneath to ground everything emotionally.\nUse a soft analog synth or upright bass sample for warmth—follow the root of the chord progression (e.g., Cm → Gm → Ab).\nKeep the harmony minimal to avoid overpowering the melody.\nRecord multiple takes of the same vocal lines—one whispered, one lightly sung, one harmonized.\nApply light saturation, delay, and reverb to create a “ghostly” texture.\nKeep phrasing tight for easy looping. Align vocal phrases to downbeats.\nAdd wind ambiances, gül (rose) petals falling, distant flute echos, and soft spring rain texture in the background.\nOptionally modulate these ambient layers over time to evoke the changing nature of spring.\nKeep loop to 60–90 seconds, seamless in transition—especially for sync licensing or meditative playlists."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2025-05-05 17:09:21",
+      "text": "iturn0image0turn0image1turn0image2turn0image5Yes, Sezen Aksu has a song titled **\"Hıdrellez\"**, released in 1997 as part of her album *Düğün ve Cenaze* (*Wedding and Funeral*). This track is a Turkish adaptation of the traditional Romani folk song **\"Ederlezi\"**, which celebrates the spring festival observed by the Roma people in the Balkans. The adaptation features lyrics penned by Sezen Aksu and Pakize Barışta, with music composed by Goran Bregović. citeturn0search14\n\nThe song beautifully captures the essence of renewal and longing associated with the Hıdrellez festival. Its lyrics reflect themes of hope, love, and the anticipation of better days, resonating with the spirit of spring's arrival.\n\nYou can listen to \"Hıdrellez\" by Sezen Aksu on various platforms:\n\n- [YouTube – Official Audio](https://www.youtube.com/watch?v=vLo4dm02MZQ)\n- [Spotify](https://open.spotify.com/intl-tr/track/05l1fRxq5fqbjQaAgPnPbT)\n- [Apple Music](https://music.apple.com/us/song/h%C4%B1drellez/597104733)\n\nFor a deeper appreciation, you might also explore the song's lyrics, which are available [here](https://lyricstranslate.com/tr/sezen-aksu-hidrellez-lyrics.html).\n\nSezen Aksu's rendition of \"Hıdrellez\" stands as a poignant tribute to cultural traditions and the universal themes of hope and renewal."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2025-05-05 17:05:33",
+      "text": "iturn0image0turn0image2turn0image3turn0image4Hıdırellez, her yıl 5-6 Mayıs tarihlerinde kutlanan, baharın gelişini ve doğanın uyanışını simgeleyen geleneksel bir Türk bayramıdır. Kökleri Orta Asya, Anadolu ve Balkanlar'a dayanan bu kutlama, 2017 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne dahil edilmiştir. citeturn0search5\n\n### Hıdırellez'in Anlamı\n\nHıdırellez, halk inancına göre karada darda kalanlara yardım eden Hızır (Hz. Hızır) ve suların koruyucusu İlyas (Hz. İlyas) peygamberlerin yılda bir kez, 6 Mayıs'ta yeryüzünde buluştukları gündür. Bu buluşma, bolluk, bereket ve şifa getirdiğine inanılan kutsal bir zaman dilimi olarak kabul edilir. citeturn0search4\n\n### Geleneksel Ritüeller\n\nHıdırellez gecesi ve ertesi gün yapılan geleneksel uygulamalardan bazıları şunlardır:\n\n- **Dilek Dilemek:** İnsanlar dileklerini bir kâğıda yazarak veya çizerek gül ağacının altına bırakır ya da akan bir suya atarlar. Bu ritüelin, dileklerin gerçekleşmesine vesile olacağına inanılır. citeturn0search11\n\n- **Ateş Üzerinden Atlama:** Topluluklar, kötülüklerden arınmak ve sağlık dilemek amacıyla yakılan Hıdırellez ateşinin üzerinden üç kez atlarlar. citeturn0search8\n\n- **Martufal (Mantufar) Geleneği:** Kadınlar, kişisel eşyalarını su dolu bir kaba koyarak gül ağacının altına bırakır ve ertesi gün maniler eşliğinde bu eşyaları çekerler. Bu ritüel, geleceğe dair kehanetlerde bulunmak amacıyla yapılır. citeturn0search22\n\n- **Doğada Kutlama:** Aileler ve arkadaşlar, doğada piknik yaparak, şarkılar söyleyip dans ederek baharın gelişini kutlarlar.\n\n### Günümüzde Hıdırellez\n\nHıdırellez, Türkiye'nin birçok yerinde coşkulu etkinliklerle kutlanmaktadır. Örneğin, Edirne'de düzenlenen Kakava Şenlikleri, Roman kültürünün renkli dansları ve büyük ateş gösterileriyle dikkat çekerken, İzmir Kültürpark'ta konserler ve dans gösterileriyle kutlamalar yapılmaktadır. citeturn0search4\n\nDaha fazla bilgi edinmek isterseniz, aşağıdaki videoyu izleyebilirsiniz:\n\nvideoHıdırellez Nedir? Dileklerin Gerçekleştiği Gece!turn0search12"
+    }
+  ],
+  "raw_conversation": {
+    "conversation_id": "6818e1cc-09dc-800f-a133-6d4f0b0e0350",
+    "conversation_template_id": "g-p-6814a5b9b5208191a21cbd8d16ad94ba",
+    "create_time": 1746461132.537426,
+    "current_node": "a5679489-f08f-4502-a2f4-89c497fa12f5",
+    "default_model_slug": "gpt-4o",
+    "id": "6818e1cc-09dc-800f-a133-6d4f0b0e0350",
+    "is_archived": false,
+    "is_do_not_remember": null,
+    "is_read_only": null,
+    "is_starred": null,
+    "is_study_mode": false,
+    "mapping": {
+      "55aad983-aa7d-4de2-9223-741e263da798": {
+        "id": "55aad983-aa7d-4de2-9223-741e263da798",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Absolutely! Here's a full concept for a **loopable, minimal song inspired by Sezen Aksu’s \"Hıdrellez\"**, especially focusing on its musical mood—lush Balkan-Romani instrumentation, emotional celebration, and hypnotic repetition—while blending **Turkish and English lyrics**.\n\n---\n\n## **Song Title**: *Aşk Gibi Bahar (Spring Like Love)*\n\n---\n\n### **GENRE**:  \nWorld Fusion / Ethno-Electronic / Ambient Balkan Groove\n\n---\n\n### **MOOD**:  \nWarm, mystical, nostalgic, celebratory\n\n---\n\n### **TEMPO**:  \n90 BPM (loopable mid-tempo groove, perfect for trance-like repetition)\n\n---\n\n### **INSTRUMENTATION**:\n- **Percussion**: Darbuka, bendir, and soft tambourine loops (for groove)  \n- **Melody**: Kaval, clarinet (Balkan/Gypsy style), and baglama riffs  \n- **Chords**: Ambient synth pads mixed with kanun flourishes  \n- **Bass**: Soft sub bass with analog warmth (like a modular Moog)  \n- **FX**: Nature field sounds (light wind, spring birds), subtle reverb trails  \n- **Vocals**: Whispered Turkish-English layers with lots of space and delay\n\n---\n\n### **LYRICS** *(minimal, loopable, emotionally symbolic)*\n\n**CHORUS (Loop)**  \n*Gel, bahar gibi sev beni*  \n(Come, love me like the spring)  \n*In the silence, I bloom again*  \n*Aşk gibi, aşk gibi*  \n(Like love, like love)  \n\n**VERSE A (loopable)**  \n*Toprağın altında umut var*  \n(There is hope under the soil)  \n*When the fire fades, I rise*  \n\n**VERSE B (optional)**  \n*Suda yazdım dileğimi*  \n(I wrote my wish in the water)  \n*You felt it too, didn’t you?*\n\n---\n\n## **PRODUCTION STEPS**:\n\n### **1. Rhythmic Foundation**\n- **Loop a traditional 6/8 or 9/8 Romani-inspired rhythm** using darbuka or bendir.\n- Add layered percussion (e.g., soft shaker or clap every 3rd beat) to modernize the rhythm while keeping a traditional feel.\n- Quantize gently (not too perfect) for a live, human swing.\n\n### **2. Melodic Layering**\n- Create a 4-bar loop with clarinet or kaval riff in Phrygian dominant scale (C–Db–E–F–G–Ab–Bb–C). Improvise around it.\n- Add baglama or saz plucks with subtle delay—playing simple, nostalgic motifs.\n- Layer ambient pads (in D minor or C minor) underneath to ground everything emotionally.\n\n### **3. Bass & Harmony**\n- Use a soft analog synth or upright bass sample for warmth—follow the root of the chord progression (e.g., Cm → Gm → Ab).\n- Keep the harmony minimal to avoid overpowering the melody.\n\n### **4. Vocal FX and Loop Design**\n- Record multiple takes of the same vocal lines—one whispered, one lightly sung, one harmonized.\n- Apply light saturation, delay, and reverb to create a “ghostly” texture.\n- Keep phrasing tight for easy looping. Align vocal phrases to downbeats.\n\n### **5. FX and Atmosphere**\n- Add wind ambiances, gül (rose) petals falling, distant flute echos, and soft spring rain texture in the background.\n- Optionally modulate these ambient layers over time to evoke the changing nature of spring.\n\n---\n\n### **Exporting & Loop Tips**:\n- **Keep loop to 60–90 seconds**, seamless in transition—especially for sync licensing or meditative playlists.\n- Test on different playback systems (headphones, speakers, mono).\n- Export in **-14 LUFS** for streaming services, and **-23 LUFS** for broadcast/sync use.\n\n---\n\nWould you like me to generate a Suno-ready version of this with exact prompt formatting? Or do you want to try producing it in BandLab or another DAW first?"
+            ]
+          },
+          "create_time": 1746461478.49825,
+          "id": "55aad983-aa7d-4de2-9223-741e263da798",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-4o",
+            "parent_id": "bbb21639-027a-4a46-8240-fabed280fb82"
+          }
+        },
+        "parent": "bbb21639-027a-4a46-8240-fabed280fb82"
+      },
+      "5f60f8a7-6dd9-4264-8ee7-dbf172abc3e9": {
+        "id": "5f60f8a7-6dd9-4264-8ee7-dbf172abc3e9",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "iturn0image0turn0image1turn0image3turn0image4Hıdırellez, her yıl 5 Mayıs'ı 6 Mayıs'a bağlayan gece kutlanan, baharın gelişini ve doğanın uyanışını simgeleyen kadim bir Türk halk geleneğidir. Bu özel gün, Hızır (Al-Khidr) ve İlyas (Elijah) peygamberlerin yeryüzünde buluştuğuna inanılan zaman olarak kabul edilir. Bu buluşma, bereket, sağlık ve dileklerin kabulüyle ilişkilendirilir. citeturn0search7\n\n### Hıdırellez Ne Zaman Kutlanır?\n\nHıdırellez, Miladi takvime göre 6 Mayıs'ta kutlanır. Bu tarih, eski Jülyen takvimine göre 23 Nisan'a denk gelir. 6 Mayıs'tan itibaren başlayan dönem \"Hızır Günleri\" olarak adlandırılır ve yaz mevsimini temsil eder; 8 Kasım'dan itibaren ise \"Kasım Günleri\" başlar ve kış mevsimini ifade eder. citeturn0search3\n\n### Hıdırellez Ritüelleri ve Gelenekleri\n\nHıdırellez, Türkiye'nin birçok bölgesinde çeşitli ritüellerle kutlanır:\n\n- **Ateşten Atlama**: Kötülüklerden arınmak ve sağlık dilemek amacıyla yakılan ateşin üzerinden atlanır.\n\n- **Dilek Tutma**: Dilekler, kağıtlara yazılarak gül ağacının altına bırakılır veya suya atılır.\n\n- **Mantufar Geleneği**: Genç kızlar, evlenme niyetiyle yüzük veya benzeri eşyalarını su dolu bir kaba koyar ve ertesi gün maniler eşliğinde çekerler.\n\n- **Toplu Kutlamalar**: Özellikle Edirne ve İstanbul gibi şehirlerde Kakava Şenlikleri kapsamında müzik, dans ve eğlenceler düzenlenir. citeturn0search2\n\n### Hıdırellez'in Anlamı ve Önemi\n\nHıdırellez, sadece bir mevsim geçişi değil, aynı zamanda umut, yenilenme ve toplumsal dayanışmanın simgesidir. 2017 yılında UNESCO tarafından Somut Olmayan Kültürel Miras Listesi'ne dahil edilmiştir. citeturn0search10\n\nBu gelenek, Orta Asya'dan Balkanlar'a kadar geniş bir coğrafyada yaşatılmakta ve her yıl coşkuyla kutlanmaktadır.\n\nDaha fazla bilgi için aşağıdaki videoyu izleyebilirsiniz:\n\nvideoHıdırellez Nedir? Dileklerin Gerçekleştiği Gece!turn0search14 "
+            ]
+          },
+          "create_time": 1746461133.7580698,
+          "id": "5f60f8a7-6dd9-4264-8ee7-dbf172abc3e9",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": "[![Kakava ve Hıdrellez şenliğinden renkli görüntüler](https://tse2.mm.bing.net/th?id=OIF.6CBYqM0%2BqMKKKWiYUcBIxw&pid=Api)](https://www.nefes.com.tr/kakava-ve-hidrellez-senliginden-renkli-goruntuler-32144)\n",
+                "images": [
+                  {
+                    "attribution": "Nefes Gazetesi",
+                    "content_size": {
+                      "height": 461,
+                      "width": 820
+                    },
+                    "content_url": "https://img.nefes.com.tr/rcman/Cw820h461q95gm/storage/files/images/2025/05/02/1117694-vvth.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 300,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://tse2.mm.bing.net/th?id=OIF.6CBYqM0%2BqMKKKWiYUcBIxw&pid=Api",
+                    "title": "Kakava ve Hıdrellez şenliğinden renkli görüntüler",
+                    "url": "https://www.nefes.com.tr/kakava-ve-hidrellez-senliginden-renkli-goruntuler-32144"
+                  },
+                  {
+                    "attribution": "Medyaradar",
+                    "content_size": {
+                      "height": 478,
+                      "width": 850
+                    },
+                    "content_url": "https://i.medyaradar.net/2/850/478/storage/files/images/2025/05/05/hidirellez-duasi-nasil-edilir-pwys_cover.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 300,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIF.QBruiTetB2Xy6jLO5DdLog&pid=Api",
+                    "title": "Hıdırellez duası nasıl edilir? Hıdırellez duasıyla nasıl dilek dilenir?",
+                    "url": "https://www.medyaradar.net/hidirellez-duasi-nasil-edilir-hidirellez-duasiyla-nasil-dilek-dilenir-fotogaleri-2203119"
+                  },
+                  {
+                    "attribution": "Aksiyon",
+                    "content_size": {
+                      "height": 720,
+                      "width": 1280
+                    },
+                    "content_url": "https://cdn.aksiyon.com.tr/uploads/1280x720/images/202505/tekirdag-da-2-suleymanpasa-kakava-hidrellez-senligi-yapildi-1200-583665.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 300,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIF.vVpdv0k8KtysBievPi8LGw&pid=Api",
+                    "title": "Tekirdağ'da 2. Süleymanpaşa Kakava Hıdrellez Şenliği Yapıldı",
+                    "url": "https://www.aksiyon.com.tr/tekirdag-da-2-suleymanpasa-kakava-hidrellez-senligi-yapildi-138500"
+                  },
+                  {
+                    "attribution": "Son Dakika",
+                    "content_size": {
+                      "height": 675,
+                      "width": 1227
+                    },
+                    "content_url": "https://foto.sondakika.com/haber/2025/04/17/gelibolu-ve-tayfur-koyunde-hidrellez-senlikle-5-18589667_amp.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 300,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIF.uEoYEFET7gsH4QGmAU80pQ&pid=Api",
+                    "title": "Hıdrellez Şenlikleri 100. Yılında Kutlandı - Son Dakika",
+                    "url": "https://www.sondakika.com/guncel/haber-hidrellez-senlikleri-100-yilinda-kutlandi-18589726/"
+                  }
+                ],
+                "prompt_text": "\n## Images:\n![Kakava ve Hıdrellez şenliğinden renkli görüntüler](https://tse2.mm.bing.net/th?id=OIF.6CBYqM0%2BqMKKKWiYUcBIxw&pid=Api)\n![Hıdırellez duası nasıl edilir? Hıdırellez duasıyla nasıl dilek dilenir?](https://tse4.mm.bing.net/th?id=OIF.QBruiTetB2Xy6jLO5DdLog&pid=Api)\n![Tekirdağ'da 2. Süleymanpaşa Kakava Hıdrellez Şenliği Yapıldı](https://tse4.mm.bing.net/th?id=OIF.vVpdv0k8KtysBievPi8LGw&pid=Api)\n![Hıdrellez Şenlikleri 100. Yılında Kutlandı - Son Dakika](https://tse4.mm.bing.net/th?id=OIF.uEoYEFET7gsH4QGmAU80pQ&pid=Api)\n",
+                "type": "image_v2"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "([Wikipedia](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez?utm_source=chatgpt.com))",
+                "items": [
+                  {
+                    "attribution": "Wikipedia",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1745327192.0,
+                    "refs": [
+                      {
+                        "ref_index": 7,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Hıdırellez",
+                    "url": "https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([en.wikipedia.org](https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez?utm_source=chatgpt.com))",
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "([Vikipedi: Özgür Ansiklopedi](https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez?utm_source=chatgpt.com))",
+                "items": [
+                  {
+                    "attribution": "Vikipedi: Özgür Ansiklopedi",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1115516425.0,
+                    "refs": [
+                      {
+                        "ref_index": 3,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Türkiye'de Hıdrellez Bayramı 5 Mayıs'ı 6 Mayıs'a bağlayan gece kutlanır. Bugün Hıristiyanlarca da baharın ve doğanın uyanmasının ilk günü olarak kabul edilir; ...",
+                    "supporting_websites": [],
+                    "title": "Hıdırellez - Vikipedi",
+                    "url": "https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([tr.wikipedia.org](https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez?utm_source=chatgpt.com))",
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Hıdırellez, Türkiye'nin birçok bölgesinde çeşitli ritüellerle kutlanır:",
+                "attributable_index": "770-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "Beyaz Yakarış",
+                    "attribution_segments": [
+                      "770-1"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 2,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 11,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 1,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 5,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": null,
+                    "supporting_websites": [
+                      {
+                        "attribution": "Onedio",
+                        "pub_date": 1746288162.385894,
+                        "snippet": "Hıdırellez, Türkiye'nin dört bir yanında ve dünyanın pek çok yerinde 5 Mayıs'ı 6 Mayıs'a bağlayan gece kutlanır. Bu özel gün, kışın soğuk ve ...",
+                        "title": "Hıdırellez Ne Zaman Kutlanır? Hıdırellez Nedir? İşte ... - Onedio",
+                        "url": "https://onedio.com/haber/hidirellez-ne-zaman-hidirellez-bayrami-nedir-neden-kutlanir-iste-en-eski-geleneklerle-hidirellez-1220471?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Milliyet",
+                        "pub_date": 1746421541.971635,
+                        "snippet": null,
+                        "title": "HIDRELLEZ BUGÜN MÜ, NE ZAMAN? Hıdırellez ne zaman nasıl kutlanır?",
+                        "url": "https://www.milliyet.com.tr/galeri/hidrellez-ne-zaman-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-7364542?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "NTV Haber",
+                        "pub_date": 1746453941.969664,
+                        "snippet": null,
+                        "title": "Hıdırellez nedir, ne zaman, nasıl kutlanır? Hıdırellez kaç gün sürecek?",
+                        "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Nefis Yemek Tarifleri",
+                        "pub_date": null,
+                        "snippet": "Hıdırellez her yıl mayıs ayı geldiğinde kutlanmaktadır. · Çok uzun zamandır 6 Mayıs Hıdırellez Bayramı olarak insanlar arasında anlam bulur. · Eskiden halk ...",
+                        "title": "Hıdırellez Nedir, Ne Zaman? Ritüelleri, Dilekleri - Nefis Yemek Tarifleri",
+                        "url": "https://www.nefisyemektarifleri.com/blog/hidirellez-nedir-hidirellezde-neler-yapilir-hidirellez-rituelleri/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "NTV Haber",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Hıdırellez duası: Hıdırellez dilek duası nasıl okunur? - Son Dakika ...",
+                        "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-duasi-hidirellez-dilek-duasi-okunusu-ve-anlami%2Cfdu-9t01i02Gj-wZ7gsk4g?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "HIDIRELLEZ NE ZAMAN 2025: Hıdırellez dilekleri ne zaman, nasıl yapılır ...",
+                    "url": "https://beyazyakaris.com/hidirellez-ne-zaman-2025-hidirellez-dilekleri-ne-zaman-nasil-yapilir/?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Kötülüklerden arınmak ve sağlık dilemek amacıyla yakılan ateşin üzerinden atlanır.",
+                "attributable_index": "888-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Dilekler, kağıtlara yazılarak gül ağacının altına bırakılır veya suya atılır.",
+                "attributable_index": "997-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "NTV Haber",
+                    "attribution_segments": [
+                      "997-1"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 5,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": null,
+                    "supporting_websites": [
+                      {
+                        "attribution": "Nefis Yemek Tarifleri",
+                        "pub_date": null,
+                        "snippet": "Hıdırellez her yıl mayıs ayı geldiğinde kutlanmaktadır. · Çok uzun zamandır 6 Mayıs Hıdırellez Bayramı olarak insanlar arasında anlam bulur. · Eskiden halk ...",
+                        "title": "Hıdırellez Nedir, Ne Zaman? Ritüelleri, Dilekleri - Nefis Yemek Tarifleri",
+                        "url": "https://www.nefisyemektarifleri.com/blog/hidirellez-nedir-hidirellezde-neler-yapilir-hidirellez-rituelleri/?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Hıdırellez duası: Hıdırellez dilek duası nasıl okunur? - Son Dakika ...",
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-duasi-hidirellez-dilek-duasi-okunusu-ve-anlami%2Cfdu-9t01i02Gj-wZ7gsk4g?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Genç kızlar, evlenme niyetiyle yüzük veya benzeri eşyalarını su dolu bir kaba koyar ve ertesi gün maniler eşliğinde çekerler.",
+                "attributable_index": "1098-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Özellikle Edirne ve İstanbul gibi şehirlerde Kakava Şenlikleri kapsamında müzik, dans ve eğlenceler düzenlenir.",
+                "attributable_index": "1253-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "",
+                "items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Typically held on the 5-6 May, Hidirellez celebrations in İstanbul and Edirne are some of the biggest and most jubilant in Türkiye. If fire leaping, dancing and ...",
+                    "supporting_websites": [],
+                    "title": "Spring Celebration: Hıdırellez in Türkiye - GoTürkiye",
+                    "url": "https://goturkiye.com/blog/spring-celebration-hidirellez-in-turkiye?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([goturkiye.com](https://goturkiye.com/blog/spring-celebration-hidirellez-in-turkiye?utm_source=chatgpt.com))",
+                "type": "grouped_webpages_model_predicted_fallback"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "Aksiyon",
+                    "attribution_segments": [
+                      "1253-1"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 3,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 0,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 7,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": null,
+                    "supporting_websites": [
+                      {
+                        "attribution": "Nefes Gazetesi",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Kakava ve Hıdrellez şenliğinden renkli görüntüler",
+                        "url": "https://www.nefes.com.tr/kakava-ve-hidrellez-senliginden-renkli-goruntuler-32144?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Go Türkiye",
+                        "pub_date": null,
+                        "snippet": "Typically held on the 5-6 May, Hidirellez celebrations in İstanbul and Edirne are some of the biggest and most jubilant in Türkiye. If fire leaping, dancing and ...",
+                        "title": "Spring Celebration: Hıdırellez in Türkiye - GoTürkiye",
+                        "url": "https://goturkiye.com/blog/spring-celebration-hidirellez-in-turkiye?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Wikipedia",
+                        "pub_date": 1745327192.0,
+                        "snippet": "Hıdırellez or Hıdrellez (or Hıdrellez; or Xıdır Nəbi; ; Romani language: Ederlezi) is a folk holiday celebrated as the day on which the prophets Al-Khidr (Hızır) and Elijah (İlyas) met on Earth. Hıdır...",
+                        "title": "Hıdırellez",
+                        "url": "https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Tekirdağ'da 2. Süleymanpaşa Kakava Hıdrellez Şenliği Yapıldı",
+                    "url": "https://www.aksiyon.com.tr/tekirdag-da-2-suleymanpasa-kakava-hidrellez-senligi-yapildi-138500?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Hıdırellez, sadece bir mevsim geçişi değil, aynı zamanda umut, yenilenme ve toplumsal dayanışmanın simgesidir.",
+                "attributable_index": "1413-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "2017 yılında UNESCO tarafından Somut Olmayan Kültürel Miras Listesi'ne dahil edilmiştir.",
+                "attributable_index": "1413-2",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "",
+                "items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 10,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "The Spring Celebration 'Hidrellez' takes place annually on 6 May, which is recognized as Spring Day, or the awakening of nature.",
+                    "supporting_websites": [],
+                    "title": "Spring celebration, Hıdrellez - intangible heritage - UNESCO",
+                    "url": "https://www.unesco.org/en/intangible-cultural-heritage/spring-celebration-hidrellez?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([unesco.org](https://www.unesco.org/en/intangible-cultural-heritage/spring-celebration-hidrellez?utm_source=chatgpt.com))",
+                "type": "grouped_webpages_model_predicted_fallback"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "Hürriyet Haber",
+                    "attribution_segments": [
+                      "1413-2"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1746399941.97261,
+                    "refs": [
+                      {
+                        "ref_index": 6,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": null,
+                    "supporting_websites": [],
+                    "title": "HIDIRELLEZ HEYECANI BAŞLIYOR || Hıdırellez bugün mü, ne zaman nasıl kutlanır? İşte sorgulanan sorunun cevabı",
+                    "url": "https://www.hurriyet.com.tr/bilgi/galeri-hidirellez-kutlama-tarihleri-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-iste-sorgulanan-sorunun-cevabi-42788670?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Bu gelenek, Orta Asya'dan Balkanlar'a kadar geniş bir coğrafyada yaşatılmakta ve her yıl coşkuyla kutlanmaktadır.",
+                "attributable_index": "1675-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "Beyaz Yakarış",
+                    "attribution_segments": [
+                      "1675-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 2,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 9,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": null,
+                    "supporting_websites": [
+                      {
+                        "attribution": "Mynet",
+                        "pub_date": 1746435941.970778,
+                        "snippet": null,
+                        "title": "Bugün Hıdırellez mi? Hıdırellez ne zaman? Hıdırellez'in hikayesi nedir, nasıl kutlanır? Hıdırellez ritüelleri nedir? - Mynet Yaşam",
+                        "url": "https://haber.mynet.com/bugun-hidirellez-mi-hidirellez-ne-zaman-hidirellez-in-hikayesi-nedir-nasil-kutlanir-hidirellez-rituelleri-nedir-110107208493?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "HIDIRELLEZ NE ZAMAN 2025: Hıdırellez dilekleri ne zaman, nasıl yapılır ...",
+                    "url": "https://beyazyakaris.com/hidirellez-ne-zaman-2025-hidirellez-dilekleri-ne-zaman-nasil-yapilir/?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Daha fazla bilgi için aşağıdaki videoyu izleyebilirsiniz:",
+                "attributable_index": "1793-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "[Hıdırellez Nedir? Dileklerin Gerçekleştiği Gece!](https://www.youtube.com/watch?v=VJ65zENesG4&utm_source=chatgpt.com)\n",
+                "prompt_text": null,
+                "thumbnail_url": "https://img.youtube.com/vi/VJ65zENesG4/maxresdefault.jpg",
+                "title": "Hıdırellez Nedir? Dileklerin Gerçekleştiği Gece!",
+                "type": "video",
+                "url": "https://www.youtube.com/watch?v=VJ65zENesG4&utm_source=chatgpt.com",
+                "video_id": "VJ65zENesG4",
+                "video_site": "youtube"
+              },
+              {
+                "alt": "",
+                "has_images": true,
+                "prompt_text": null,
+                "sources": [
+                  {
+                    "attribution": "Wikipedia",
+                    "title": "Hıdırellez",
+                    "url": "https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Vikipedi: Özgür Ansiklopedi",
+                    "title": "Hıdırellez - Vikipedi",
+                    "url": "https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Beyaz Yakarış",
+                    "title": "HIDIRELLEZ NE ZAMAN 2025: Hıdırellez dilekleri ne zaman, nasıl yapılır ...",
+                    "url": "https://beyazyakaris.com/hidirellez-ne-zaman-2025-hidirellez-dilekleri-ne-zaman-nasil-yapilir/?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "NTV Haber",
+                    "title": "Hıdırellez duası: Hıdırellez dilek duası nasıl okunur? - Son Dakika ...",
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-duasi-hidirellez-dilek-duasi-okunusu-ve-anlami%2Cfdu-9t01i02Gj-wZ7gsk4g?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Go Türkiye",
+                    "title": "Spring Celebration: Hıdırellez in Türkiye - GoTürkiye",
+                    "url": "https://goturkiye.com/blog/spring-celebration-hidirellez-in-turkiye?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Aksiyon",
+                    "title": "Tekirdağ'da 2. Süleymanpaşa Kakava Hıdrellez Şenliği Yapıldı",
+                    "url": "https://www.aksiyon.com.tr/tekirdag-da-2-suleymanpasa-kakava-hidrellez-senligi-yapildi-138500?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "UNESCO",
+                    "title": "Spring celebration, Hıdrellez - intangible heritage - UNESCO",
+                    "url": "https://www.unesco.org/en/intangible-cultural-heritage/spring-celebration-hidrellez?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Hürriyet Haber",
+                    "title": "HIDIRELLEZ HEYECANI BAŞLIYOR || Hıdırellez bugün mü, ne zaman nasıl kutlanır? İşte sorgulanan sorunun cevabı",
+                    "url": "https://www.hurriyet.com.tr/bilgi/galeri-hidirellez-kutlama-tarihleri-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-iste-sorgulanan-sorunun-cevabi-42788670?utm_source=chatgpt.com"
+                  }
+                ],
+                "type": "sources_footnote"
+              }
+            ],
+            "image_results": [
+              {
+                "attribution": "Nefes Gazetesi",
+                "content_size": {
+                  "height": 461,
+                  "width": 820
+                },
+                "content_url": "https://img.nefes.com.tr/rcman/Cw820h461q95gm/storage/files/images/2025/05/02/1117694-vvth.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse2.mm.bing.net/th?id=OIF.6CBYqM0%2bqMKKKWiYUcBIxw&pid=Api",
+                "title": "Kakava ve Hıdrellez şenliğinden renkli görüntüler",
+                "url": "https://www.nefes.com.tr/kakava-ve-hidrellez-senliginden-renkli-goruntuler-32144"
+              },
+              {
+                "attribution": "Medyaradar",
+                "content_size": {
+                  "height": 478,
+                  "width": 850
+                },
+                "content_url": "https://i.medyaradar.net/2/850/478/storage/files/images/2025/05/05/hidirellez-duasi-nasil-edilir-pwys_cover.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIF.QBruiTetB2Xy6jLO5DdLog&pid=Api",
+                "title": "Hıdırellez duası nasıl edilir? Hıdırellez duasıyla nasıl dilek dilenir?",
+                "url": "https://www.medyaradar.net/hidirellez-duasi-nasil-edilir-hidirellez-duasiyla-nasil-dilek-dilenir-fotogaleri-2203119"
+              },
+              {
+                "attribution": "Tercüman",
+                "content_size": {
+                  "height": 383,
+                  "width": 736
+                },
+                "content_url": "https://cdn.tercuman.com/resize/736x383/Documents/tercuman/images/2025/05/05/bb97a83a-sb.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIF.WKK8V9jFZg4f0o57j83sGA&pid=Api",
+                "title": "Hıdrellez: Baharın müjdecisi, kültürel bir mozaik",
+                "url": "https://www.tercuman.com/kultur-sanat/hidrellez-baharin-mujdecisi-kulturel-bir-mozaik-756/"
+              },
+              {
+                "attribution": "Beyaz Yakarış",
+                "content_size": {
+                  "height": 675,
+                  "width": 1308
+                },
+                "content_url": "https://beyazyakaris.com/wp-content/uploads/2025/05/hidirellez-ne-zaman-2025-hidirellez-dilekleri-ne-zaman-nasil-yapilir-cwBCiC5S.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIF.YPaPp8JSJosxTsMCYAhSWA&pid=Api",
+                "title": "HIDIRELLEZ NE ZAMAN 2025: Hıdırellez dilekleri ne zaman, nasıl yapılır ...",
+                "url": "https://beyazyakaris.com/hidirellez-ne-zaman-2025-hidirellez-dilekleri-ne-zaman-nasil-yapilir/"
+              },
+              {
+                "attribution": "Aksiyon",
+                "content_size": {
+                  "height": 720,
+                  "width": 1280
+                },
+                "content_url": "https://cdn.aksiyon.com.tr/uploads/1280x720/images/202505/tekirdag-da-2-suleymanpasa-kakava-hidrellez-senligi-yapildi-1200-583665.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIF.vVpdv0k8KtysBievPi8LGw&pid=Api",
+                "title": "Tekirdağ'da 2. Süleymanpaşa Kakava Hıdrellez Şenliği Yapıldı",
+                "url": "https://www.aksiyon.com.tr/tekirdag-da-2-suleymanpasa-kakava-hidrellez-senligi-yapildi-138500"
+              },
+              {
+                "attribution": "Son Dakika",
+                "content_size": {
+                  "height": 675,
+                  "width": 1227
+                },
+                "content_url": "https://foto.sondakika.com/haber/2025/04/17/gelibolu-ve-tayfur-koyunde-hidrellez-senlikle-5-18589667_amp.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIF.uEoYEFET7gsH4QGmAU80pQ&pid=Api",
+                "title": "Hıdrellez Şenlikleri 100. Yılında Kutlandı - Son Dakika",
+                "url": "https://www.sondakika.com/guncel/haber-hidrellez-senlikleri-100-yilinda-kutlandi-18589726/"
+              },
+              {
+                "attribution": "NTV Haber",
+                "content_size": {
+                  "height": 613,
+                  "width": 1080
+                },
+                "content_url": "https://cdn1.ntv.com.tr/gorsel/FVaqtpCdqEiwrKYaSKffNQ.jpg?mode=crop&scale=both&width=1080",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIF.254megDjjnuHIPhvuxYeCQ&pid=Api",
+                "title": "Hıdırellez duası: Hıdırellez dilek duası nasıl okunur? - Son Dakika ...",
+                "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-duasi-hidirellez-dilek-duasi-okunusu-ve-anlami%2Cfdu-9t01i02Gj-wZ7gsk4g"
+              },
+              {
+                "attribution": "NTV Haber",
+                "content_size": {
+                  "height": 544,
+                  "width": 1000
+                },
+                "content_url": "https://cdn1.ntv.com.tr/gorsel/Yq6sIoflF06WVcvdzOmtbg.jpg?mode=both&scale=both&v=1746453647248&width=1000",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIF.wSt9AGcrfhcd%2frC6X5wAdA&pid=Api",
+                "title": "Hıdırellez gül ağacı ritüelinin ayrıntıları: Gül ağacı yoksa ne yapılır ...",
+                "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-gul-agaci-rituelinin-ayrintilarigul-agaci-yoksa-ne-yapilir%2CRJggswrepUOp8cifndAcTg"
+              },
+              {
+                "attribution": "Yayla Haber",
+                "content_size": {
+                  "height": 720,
+                  "width": 1280
+                },
+                "content_url": "https://yaylahabercomtr.teimg.com/yaylahaber-com-tr/uploads/2025/05/hidirellez-3.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIF.eFaYKRYMO%2bPST78%2bHYJiDQ&pid=Api",
+                "title": "Hıdırellez Nedir, Ne Zaman Kutlanır? İşte Tüm Ritüel ve Gelenekler ...",
+                "url": "https://www.yaylahaber.com.tr/foto-galeri/hidirellez-nedir-ne-zaman-kutlanir-iste-tum-rituel-ve-gelenekler"
+              },
+              {
+                "attribution": "Haber Gazetesi",
+                "content_size": {
+                  "height": 720,
+                  "width": 1280
+                },
+                "content_url": "https://habergazetesicomtr.teimg.com/crop/1280x720/habergazetesi-com-tr/uploads/2025/05/resim-2025-05-05-165032415.png",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse1.mm.bing.net/th?id=OIF.3lWnHfPDmvZOcExAvtL6zQ&pid=Api",
+                "title": "Hıdrellez Ne Zaman? Hıdrellezde Ne Yapılmalı? - Haber Gazetesi",
+                "url": "https://www.habergazetesi.com.tr/hidrellez-ne-zaman-hidrellezde-ne-yapilmali"
+              },
+              {
+                "attribution": "12punto",
+                "content_size": {
+                  "height": 1000,
+                  "width": 1778
+                },
+                "content_url": "https://i.12punto.com.tr/Archive/2025/5/5/110627878-hidirellez-4.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse1.mm.bing.net/th?id=OIF.0VcmZ2vfRMBVdBxMCn7clA&pid=Api",
+                "title": "Hıdırellez dilekleri nasıl yapılır? Hıdırellez duası nasıl okunur ...",
+                "url": "https://12punto.com.tr/yasam/galeri-hidirellez-dilekleri-nasil-yapilir-hidirellez-duasi-nasil-okunur-dilek-nasil-dilenir-84562"
+              }
+            ],
+            "message_locale": "tr-TR",
+            "model_slug": "gpt-4o",
+            "parent_id": "cf35baf7-4e98-4c25-a9f4-8b5031389344",
+            "search_result_groups": [
+              {
+                "domain": "ntv.com.tr",
+                "entries": [
+                  {
+                    "attribution": "NTV Haber",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "",
+                    "title": "Hıdırellez nedir, ne zaman, nasıl kutlanır? Hıdırellez kaç gün sürecek?",
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ"
+                  }
+                ]
+              },
+              {
+                "domain": "goturkiye.com",
+                "entries": [
+                  {
+                    "attribution": "Go Türkiye",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Typically held on the 5-6 May, Hidirellez celebrations in İstanbul and Edirne are some of the biggest and most jubilant in Türkiye. If fire leaping, dancing and ...",
+                    "title": "Spring Celebration: Hıdırellez in Türkiye - GoTürkiye",
+                    "url": "https://goturkiye.com/blog/spring-celebration-hidirellez-in-turkiye"
+                  }
+                ]
+              },
+              {
+                "domain": "wikipedia.org",
+                "entries": [
+                  {
+                    "attribution": "Vikipedi: Özgür Ansiklopedi",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Türkiye'de Hıdrellez Bayramı 5 Mayıs'ı 6 Mayıs'a bağlayan gece kutlanır. Bugün Hıristiyanlarca da baharın ve doğanın uyanmasının ilk günü olarak kabul edilir; ...",
+                    "title": "Hıdırellez - Vikipedi",
+                    "url": "https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez"
+                  },
+                  {
+                    "attribution": "Wikipedia",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez starts on the night of May 5 and ends on May 6 in the Gregorian calendar, and April 23 (St. George's day for the Christians) in the Julian calendar.",
+                    "title": "Hıdırellez - Wikipedia",
+                    "url": "https://en.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez"
+                  }
+                ]
+              },
+              {
+                "domain": "milliyet.com.tr",
+                "entries": [
+                  {
+                    "attribution": "Milliyet",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "",
+                    "title": "HIDRELLEZ BUGÜN MÜ, NE ZAMAN? Hıdırellez ne zaman nasıl kutlanır?",
+                    "url": "https://www.milliyet.com.tr/galeri/hidrellez-ne-zaman-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-7364542"
+                  }
+                ]
+              },
+              {
+                "domain": "insideoutinistanbul.com",
+                "entries": [
+                  {
+                    "attribution": "Inside Out In Istanbul",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hidrellez is a very old tradition in Turkey, celebrating the arrival of spring and the awakening of nature. Turks believe it's the day the prophets Hizir and ...",
+                    "title": "Hidrellez Traditions: May Your Wishes Come True",
+                    "url": "https://www.insideoutinistanbul.com/hidrellez-traditions/"
+                  }
+                ]
+              },
+              {
+                "domain": "hurriyet.com.tr",
+                "entries": [
+                  {
+                    "attribution": "Hürriyet Haber",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "",
+                    "title": "HIDIRELLEZ HEYECANI BAŞLIYOR || Hıdırellez bugün mü, ne zaman nasıl kutlanır? İşte sorgulanan sorunun cevabı",
+                    "url": "https://www.hurriyet.com.tr/bilgi/galeri-hidirellez-kutlama-tarihleri-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-iste-sorgulanan-sorunun-cevabi-42788670"
+                  }
+                ]
+              },
+              {
+                "domain": "nefisyemektarifleri.com",
+                "entries": [
+                  {
+                    "attribution": "Nefis Yemek Tarifleri",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez her yıl mayıs ayı geldiğinde kutlanmaktadır. · Çok uzun zamandır 6 Mayıs Hıdırellez Bayramı olarak insanlar arasında anlam bulur. · Eskiden halk ...",
+                    "title": "Hıdırellez Nedir, Ne Zaman? Ritüelleri, Dilekleri - Nefis Yemek Tarifleri",
+                    "url": "https://www.nefisyemektarifleri.com/blog/hidirellez-nedir-hidirellezde-neler-yapilir-hidirellez-rituelleri/"
+                  }
+                ]
+              },
+              {
+                "domain": "mynet.com",
+                "entries": [
+                  {
+                    "attribution": "Mynet",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "",
+                    "title": "Bugün Hıdırellez mi? Hıdırellez ne zaman? Hıdırellez'in hikayesi nedir, nasıl kutlanır? Hıdırellez ritüelleri nedir? - Mynet Yaşam",
+                    "url": "https://haber.mynet.com/bugun-hidirellez-mi-hidirellez-ne-zaman-hidirellez-in-hikayesi-nedir-nasil-kutlanir-hidirellez-rituelleri-nedir-110107208493"
+                  }
+                ]
+              },
+              {
+                "domain": "unesco.org",
+                "entries": [
+                  {
+                    "attribution": "UNESCO",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "The Spring Celebration 'Hidrellez' takes place annually on 6 May, which is recognized as Spring Day, or the awakening of nature.",
+                    "title": "Spring celebration, Hıdrellez - intangible heritage - UNESCO",
+                    "url": "https://www.unesco.org/en/intangible-cultural-heritage/spring-celebration-hidrellez"
+                  }
+                ]
+              },
+              {
+                "domain": "onedio.com",
+                "entries": [
+                  {
+                    "attribution": "Onedio",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez, Türkiye'nin dört bir yanında ve dünyanın pek çok yerinde 5 Mayıs'ı 6 Mayıs'a bağlayan gece kutlanır. Bu özel gün, kışın soğuk ve ...",
+                    "title": "Hıdırellez Ne Zaman Kutlanır? Hıdırellez Nedir? İşte ... - Onedio",
+                    "url": "https://onedio.com/haber/hidirellez-ne-zaman-hidirellez-bayrami-nedir-neden-kutlanir-iste-en-eski-geleneklerle-hidirellez-1220471"
+                  }
+                ]
+              },
+              {
+                "domain": "ktb.gov.tr",
+                "entries": [
+                  {
+                    "attribution": "Kültür ve Turizm Bakanlığı",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdrellez Festival is celebrated on May 6 in Türkiye. This date is regarded as the first day of spring, when nature stirs again, by Christians as well.",
+                    "title": "Hidrellez Traditions",
+                    "url": "https://www.ktb.gov.tr/EN-98558/hidrellez-traditions.html"
+                  }
+                ]
+              },
+              {
+                "domain": "dailysabah.com",
+                "entries": [
+                  {
+                    "attribution": "Daily Sabah",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez is actually a holiday celebrating the arrival of spring. It starts on the eve of May 5 and rolls into the next day according to the Gregorian ...",
+                    "title": "Hıdırellez and Kakava: A time of setting intentions - Daily Sabah",
+                    "url": "https://www.dailysabah.com/life/history/hidirellez-and-kakava-a-time-of-setting-intentions"
+                  },
+                  {
+                    "attribution": "Daily Sabah",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez is one of the seasonal holidays celebrated in the Turkic world. Celebrated as the day on which Hızır (Al-Khidr), a major spiritual figure who is ...",
+                    "title": "Hıdırellez: A colorful celebration in Turkic culture for centuries",
+                    "url": "https://www.dailysabah.com/arts/events/hidirellez-a-colorful-celebration-in-turkic-culture-for-centuries"
+                  }
+                ]
+              },
+              {
+                "domain": "youtube.com",
+                "entries": [
+                  {
+                    "attribution": "YouTube",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "... Hıdırellez gecesinin spiritüel yönlerini de keşfedeceksiniz! Bu videoda bulacaklarınız: Hıdırellez nedir ve ne zaman kutlanır? Hıdırellez'in ...",
+                    "title": "Hıdırellez Nedir? Dileklerin Gerçekleştiği Gece! - YouTube",
+                    "url": "https://www.youtube.com/watch?v=VJ65zENesG4"
+                  }
+                ]
+              },
+              {
+                "domain": "unisonturkey.com",
+                "entries": [
+                  {
+                    "attribution": "unisonturkey.com",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdrellez: Turkey's Biggest Romani Dance and Music Festival. Discover the energy of Hıdrellez, a celebration of Romani dance, music, and culture.",
+                    "title": "Hidrellez Festival in Turkey, 2-7 May 2025 - Unison Travel & Events",
+                    "url": "https://unisonturkey.com/tours/small-group-tours/hidrellez2024/"
+                  }
+                ]
+              },
+              {
+                "domain": "twinkl.com",
+                "entries": [
+                  {
+                    "attribution": "Twinkl",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "It celebrates the arrival of Spring each year. Hidrellez Festival falls on May 5th each year. It signifies the end of winter (known as the Days of Kasim), and ...",
+                    "title": "5 May: Hidrellez Festival, Turkey - Twinkl",
+                    "url": "https://www.twinkl.com/event/hidrellez-festival-turkey-2025"
+                  }
+                ]
+              },
+              {
+                "domain": "hurriyetdailynews.com",
+                "entries": [
+                  {
+                    "attribution": "Hürriyet Daily News",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Traditionally held on May 5-6, the festival was extended this year to include the preceding weekend due to the dates falling on Monday and ...",
+                    "title": "Kakava, Hıdırellez festivities herald spring across Türkiye",
+                    "url": "https://www.hurriyetdailynews.com/kakava-hidirellez-festivities-herald-spring-across-turkiye-208821"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "parent": "bbb21aac-7282-4f92-9053-117075cad443"
+      },
+      "65e35082-d1f3-4e9f-b4e2-4a77903ecd9b": {
+        "id": "65e35082-d1f3-4e9f-b4e2-4a77903ecd9b",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here is the **Suno v4.5–ready prompt** for your Hıdrellez-inspired track, blending Turkish-English lyrics with a minimal, loopable, atmospheric Balkan groove:\n\n---\n\n**title**: aşk gibi bahar  \n**genre**: ethno-electronic, ambient balkan groove, world fusion, experimental pop  \n**mood**: mystical, nostalgic, warm, hypnotic  \n**vocal style**: whispered female vocals, bilingual Turkish-English, soft layered harmonies  \n**tempo**: 90 bpm  \n**instrumentation**: darbuka, bendir, kaval, Turkish clarinet, ambient pads, saz & baglama plucks, modular sub bass, nature field recordings  \n**production notes**:  \nloopable 90-second groove evoking spring rituals and the spirit of Hıdrellez. whispery female vocals blend Turkish and English lines with emotional restraint. sparse percussion (darbuka, bendir), airy woodwinds (clarinet, kaval), and subtle kanun or baglama accents provide traditional texture. ambient pads and analog synths create emotional depth. include wind and spring nature ambiances. vocals should repeat and evolve with each loop, building atmosphere without narrative progression.\n\n**suno tags**: loopable, ethno-fusion, ambient world, cinematic folk, turkish inspired, balkan groove, spiritual minimalism, soft female vocals, bilingual lyrics  \n**lyrics**:\n\n**CHORUS**  \ngel, bahar gibi sev beni  \nin the silence, I bloom again  \naşk gibi, aşk gibi  \n\n**VERSE A**  \ntoprağın altında umut var  \nwhen the fire fades, I rise  \n\n**VERSE B**  \nsuda yazdım dileğimi  \nyou felt it too, didn’t you?  \n\n**OUTRO LOOP**  \naşk gibi  \nlike spring  \naşk gibi  \nagain  \n\n**excluded styles**: rock, trap, edm, heavy autotune, pop ballad, upbeat dance\n\n---\n\nWould you like a matching cover art prompt as well?"
+            ]
+          },
+          "create_time": 1746461772.173391,
+          "id": "65e35082-d1f3-4e9f-b4e2-4a77903ecd9b",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-4o",
+            "parent_id": "bbb21ce1-1837-4c23-9881-0b4e2eaa0c90"
+          }
+        },
+        "parent": "bbb21ce1-1837-4c23-9881-0b4e2eaa0c90"
+      },
+      "a5679489-f08f-4502-a2f4-89c497fa12f5": {
+        "id": "a5679489-f08f-4502-a2f4-89c497fa12f5",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Perfect—thanks for the detailed input. Here's the **final optimized Suno v4.5 prompt**, fully incorporating the musical production plan you just shared. This version is crafted for maximum realism, loopability, and sync appeal while retaining the mystical Hıdrellez-inspired aesthetic.\n\n---\n\n**title**: aşk gibi bahar  \n**genre**: ambient balkan groove, ethno-electronic, mystical world fusion, cinematic folk minimalism  \n**mood**: hypnotic, nostalgic, sacred, warm  \n**vocal style**: soft female vocals, whispered and lightly sung Turkish-English, deep delay trails, atmospheric harmonies  \n**tempo**: 90 bpm  \n**instrumentation**: darbuka, bendir, soft tambourine, analog sub bass, ambient pads in Dm/Cm, kanun flourishes, kaval and clarinet (Phrygian dominant scale), baglama plucks, wind sounds, gül petals, distant flute echoes, soft spring rain  \n\n**production notes**:  \nlooping 90 bpm groove blends darbuka, bendir, soft tambourine, analog-warm sub bass, and ethereal pads with kanun flourishes. kaval, clarinet, and baglama deliver mystical melodies in a 4-bar Phrygian riff. ambient textures (wind, rose petals, rain) and soft analog pads ground the emotional space. whispered and lightly sung female vocals float in Turkish and English with heavy reverb and stereo delay. multiple takes layered for ghostly presence. vocal phrasing aligns to downbeats and remains tight for seamless looping. groove includes optional 6/8 swing feel with soft shaker every third beat for modern variation. ideal for sync licensing and meditative use.\n\n**suno tags**: loopable, turkish ambient, balkan groove, minimalist ethno-electronica, female vocals, spring ritual, atmospheric, sync-friendly, bilingual vocals, world fusion  \n**lyrics**:\n\n**CHORUS**  \ngel, bahar gibi sev beni  \nin the silence, I bloom again  \naşk gibi, aşk gibi  \n\n**VERSE A**  \ntoprağın altında umut var  \nwhen the fire fades, I rise  \n\n**VERSE B**  \nsuda yazdım dileğimi  \nyou felt it too, didn’t you?  \n\n**OUTRO LOOP**  \naşk gibi  \nlike spring  \naşk gibi  \nagain  \n\n**excluded styles**: edm, trap, rock, hyperpop, loud pop vocals, autotune, uptempo dance\n\n---\n\nWould you like a **cover art prompt** in Kintsugi–folk fusion style, with soft gold elements and spring symbolism (gül, rain, wind, light)?"
+            ]
+          },
+          "create_time": 1746463927.872765,
+          "id": "a5679489-f08f-4502-a2f4-89c497fa12f5",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-4o",
+            "parent_id": "bbb21e99-91f7-4d8a-a3b2-566815819816"
+          }
+        },
+        "parent": "bbb21e99-91f7-4d8a-a3b2-566815819816"
+      },
+      "bbb21639-027a-4a46-8240-fabed280fb82": {
+        "id": "bbb21639-027a-4a46-8240-fabed280fb82",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Lets make song inspired by it  soeciamky musical part. With a minimal liopable turkish english mixed lyrics.  Pleas3 provide derailed song production steps as well"
+            ]
+          },
+          "create_time": 1746461478.32795,
+          "id": "bbb21639-027a-4a46-8240-fabed280fb82",
+          "metadata": {
+            "content_references": [],
+            "image_results": []
+          }
+        },
+        "parent": "f509d638-08e5-4493-a198-fdc78915e3a7"
+      },
+      "bbb21a7e-2d3f-4838-b362-6f23e31480a4": {
+        "id": "bbb21a7e-2d3f-4838-b362-6f23e31480a4",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Do you song caled hıdrellez  from sezen aksu"
+            ]
+          },
+          "create_time": 1746461360.965418,
+          "id": "bbb21a7e-2d3f-4838-b362-6f23e31480a4",
+          "metadata": {
+            "content_references": [],
+            "image_results": []
+          }
+        },
+        "parent": "5f60f8a7-6dd9-4264-8ee7-dbf172abc3e9"
+      },
+      "bbb21aac-7282-4f92-9053-117075cad443": {
+        "id": "bbb21aac-7282-4f92-9053-117075cad443",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Hıdrellez?"
+            ]
+          },
+          "create_time": 1746461132.543725,
+          "id": "bbb21aac-7282-4f92-9053-117075cad443",
+          "metadata": {
+            "content_references": [],
+            "image_results": []
+          }
+        },
+        "parent": "bbb239d3-3f7d-4fcf-aa9a-a5e44c1194a6"
+      },
+      "bbb21ce1-1837-4c23-9881-0b4e2eaa0c90": {
+        "id": "bbb21ce1-1837-4c23-9881-0b4e2eaa0c90",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Yes please "
+            ]
+          },
+          "create_time": 1746461771.666164,
+          "id": "bbb21ce1-1837-4c23-9881-0b4e2eaa0c90",
+          "metadata": {
+            "content_references": [],
+            "image_results": []
+          }
+        },
+        "parent": "55aad983-aa7d-4de2-9223-741e263da798"
+      },
+      "bbb21e99-91f7-4d8a-a3b2-566815819816": {
+        "id": "bbb21e99-91f7-4d8a-a3b2-566815819816",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looping 90 BPM groove blends darbuka, bendir, soft tambourine, analog-warm sub bass, and ethereal pads with kanun flourishes. Kaval, clarinet, and baglama deliver mystical melodies, while nature sounds and airy, whispered Turkish-English vocals float with deep reverbs and delays.\n\nLoop a traditional 6/8 or 9/8 Romani-inspired rhythm using darbuka or bendir.\nAdd layered percussion (e.g., soft shaker or clap every 3rd beat) to modernize the rhythm while keeping a traditional feel.\nQuantize gently (not too perfect) for a live, human swing.\nCreate a 4-bar loop with clarinet or kaval riff in Phrygian dominant scale (C–Db–E–F–G–Ab–Bb–C). Improvise around it.\nAdd baglama or saz plucks with subtle delay—playing simple, nostalgic motifs.\nLayer ambient pads (in D minor or C minor) underneath to ground everything emotionally.\nUse a soft analog synth or upright bass sample for warmth—follow the root of the chord progression (e.g., Cm → Gm → Ab).\nKeep the harmony minimal to avoid overpowering the melody.\nRecord multiple takes of the same vocal lines—one whispered, one lightly sung, one harmonized.\nApply light saturation, delay, and reverb to create a “ghostly” texture.\nKeep phrasing tight for easy looping. Align vocal phrases to downbeats.\nAdd wind ambiances, gül (rose) petals falling, distant flute echos, and soft spring rain texture in the background.\nOptionally modulate these ambient layers over time to evoke the changing nature of spring.\nKeep loop to 60–90 seconds, seamless in transition—especially for sync licensing or meditative playlists."
+            ]
+          },
+          "create_time": 1746463927.694613,
+          "id": "bbb21e99-91f7-4d8a-a3b2-566815819816",
+          "metadata": {
+            "content_references": [],
+            "image_results": []
+          }
+        },
+        "parent": "65e35082-d1f3-4e9f-b4e2-4a77903ecd9b"
+      },
+      "bbb239d3-3f7d-4fcf-aa9a-a5e44c1194a6": {
+        "id": "bbb239d3-3f7d-4fcf-aa9a-a5e44c1194a6",
+        "message": null,
+        "parent": null
+      },
+      "f509d638-08e5-4493-a198-fdc78915e3a7": {
+        "id": "f509d638-08e5-4493-a198-fdc78915e3a7",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "iturn0image0turn0image1turn0image2turn0image5Yes, Sezen Aksu has a song titled **\"Hıdrellez\"**, released in 1997 as part of her album *Düğün ve Cenaze* (*Wedding and Funeral*). This track is a Turkish adaptation of the traditional Romani folk song **\"Ederlezi\"**, which celebrates the spring festival observed by the Roma people in the Balkans. The adaptation features lyrics penned by Sezen Aksu and Pakize Barışta, with music composed by Goran Bregović. citeturn0search14\n\nThe song beautifully captures the essence of renewal and longing associated with the Hıdrellez festival. Its lyrics reflect themes of hope, love, and the anticipation of better days, resonating with the spirit of spring's arrival.\n\nYou can listen to \"Hıdrellez\" by Sezen Aksu on various platforms:\n\n- [YouTube – Official Audio](https://www.youtube.com/watch?v=vLo4dm02MZQ)\n- [Spotify](https://open.spotify.com/intl-tr/track/05l1fRxq5fqbjQaAgPnPbT)\n- [Apple Music](https://music.apple.com/us/song/h%C4%B1drellez/597104733)\n\nFor a deeper appreciation, you might also explore the song's lyrics, which are available [here](https://lyricstranslate.com/tr/sezen-aksu-hidrellez-lyrics.html).\n\nSezen Aksu's rendition of \"Hıdrellez\" stands as a poignant tribute to cultural traditions and the universal themes of hope and renewal. "
+            ]
+          },
+          "create_time": 1746461361.9413695,
+          "id": "f509d638-08e5-4493-a198-fdc78915e3a7",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": "[![Sezen Aksu - Hıdrellez (Official Video) - YouTube](https://tse3.mm.bing.net/th?id=OIP.YoT1raFn0Vg8E0S-raZy4QHaEK&cb=iwp1&pid=Api)](https://www.youtube.com/watch?v=jPs0g5xHUI0)\n",
+                "images": [
+                  {
+                    "attribution": "YouTube",
+                    "content_size": {
+                      "height": 720,
+                      "width": 1280
+                    },
+                    "content_url": "https://i.ytimg.com/vi/jPs0g5xHUI0/maxresdefault.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 266,
+                      "width": 474
+                    },
+                    "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIP.YoT1raFn0Vg8E0S-raZy4QHaEK&cb=iwp1&pid=Api",
+                    "title": "Sezen Aksu - Hıdrellez (Official Video) - YouTube",
+                    "url": "https://www.youtube.com/watch?v=jPs0g5xHUI0"
+                  },
+                  {
+                    "attribution": "Söz Arşivi",
+                    "content_size": {
+                      "height": 675,
+                      "width": 1200
+                    },
+                    "content_url": "https://sozleri.co/wp-content/uploads/2024/05/sezen-aksu-hidrellez-sarki-sozleri.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 266,
+                      "width": 474
+                    },
+                    "thumbnail_url": "https://tse2.mm.bing.net/th?id=OIP.nGmceTqGb3OrzKjLYyrGKwHaEK&cb=iwp1&pid=Api",
+                    "title": "Sezen Aksu – Hıdrellez Şarkı Sözleri - Söz Arşivi",
+                    "url": "https://sozleri.co/sezen-aksu-hidrellez/"
+                  },
+                  {
+                    "attribution": "YouTube",
+                    "content_size": {
+                      "height": 720,
+                      "width": 1280
+                    },
+                    "content_url": "https://i.ytimg.com/vi/vLo4dm02MZQ/maxresdefault.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 266,
+                      "width": 474
+                    },
+                    "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIP.MDgEddUHGD-gzN5erKObFQHaEK&cb=iwp1&pid=Api",
+                    "title": "Sezen Aksu - Hıdrellez (Official Audio) - YouTube",
+                    "url": "https://www.youtube.com/watch?v=vLo4dm02MZQ"
+                  },
+                  {
+                    "attribution": "YouTube",
+                    "content_size": {
+                      "height": 720,
+                      "width": 1280
+                    },
+                    "content_url": "https://i.ytimg.com/vi/K0sarKJyoCg/maxresdefault.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 266,
+                      "width": 474
+                    },
+                    "thumbnail_url": "https://tse2.mm.bing.net/th?id=OIP.YCWCMhYmf5I_GS42Uf419gHaEK&cb=iwp1&pid=Api",
+                    "title": "Sezen Aksu - Hıdrellez | Stereo (Buket TV) (1997, Raks/Karma Müzik ...",
+                    "url": "https://www.youtube.com/watch?v=K0sarKJyoCg"
+                  }
+                ],
+                "prompt_text": "\n## Images:\n![Sezen Aksu - Hıdrellez (Official Video) - YouTube](https://tse3.mm.bing.net/th?id=OIP.YoT1raFn0Vg8E0S-raZy4QHaEK&cb=iwp1&pid=Api)\n![Sezen Aksu – Hıdrellez Şarkı Sözleri - Söz Arşivi](https://tse2.mm.bing.net/th?id=OIP.nGmceTqGb3OrzKjLYyrGKwHaEK&cb=iwp1&pid=Api)\n![Sezen Aksu - Hıdrellez (Official Audio) - YouTube](https://tse4.mm.bing.net/th?id=OIP.MDgEddUHGD-gzN5erKObFQHaEK&cb=iwp1&pid=Api)\n![Sezen Aksu - Hıdrellez | Stereo (Buket TV) (1997, Raks/Karma Müzik ...](https://tse2.mm.bing.net/th?id=OIP.YCWCMhYmf5I_GS42Uf419gHaEK&cb=iwp1&pid=Api)\n",
+                "type": "image_v2"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Yes, Sezen Aksu has a song titled **\"Hıdrellez\"**, released in 1997 as part of her album *Düğün ve Cenaze* (*Wedding and Funeral*).",
+                "attributable_index": "0-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "This track is a Turkish adaptation of the traditional Romani folk song **\"Ederlezi\"**, which celebrates the spring festival observed by the Roma people in the Balkans.",
+                "attributable_index": "0-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "The adaptation features lyrics penned by Sezen Aksu and Pakize Barışta, with music composed by Goran Bregović.",
+                "attributable_index": "0-2",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "",
+                "items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1738531360.0,
+                    "refs": [
+                      {
+                        "ref_index": 14,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Ederlezi (song)",
+                    "url": "https://en.wikipedia.org/wiki/Ederlezi_%28song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([en.wikipedia.org](https://en.wikipedia.org/wiki/Ederlezi_%28song%29?utm_source=chatgpt.com))",
+                "type": "grouped_webpages_model_predicted_fallback"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "Wikipedia",
+                    "attribution_segments": [
+                      "0-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1738531360.0,
+                    "refs": [
+                      {
+                        "ref_index": 14,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 15,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 6,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 13,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 7,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Ederlezi\" is a popular traditional folk song of the Romani people in the Balkans.  The song got its name from Ederlezi, which is a festival celebrating the return of springtime, especially by the Rom...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "Wikipedia – Die freie Enzyklopädie",
+                        "pub_date": 1735658155.0,
+                        "snippet": "VERÖFFENTLICHUNGEN UND WEITERE INTERPRETATIONEN  * 1988: Đurđevdan Je A Ja Nisam S Onom Koju Volim von Bijelo dugme auf dem Album Ćiribiribela (1988, auf dem Label Diskoton, LP-8333) * 1988: Scena Đur...",
+                        "title": "Ederlezi (Lied)",
+                        "url": "https://de.wikipedia.org/wiki/Ederlezi_%28Lied%29?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Apple Music - Web Player",
+                        "pub_date": 882748800.0,
+                        "snippet": "Listen to Hıdrellez by Sezen Aksu on Apple Music. 1997. Duration: 3:49.",
+                        "title": "‎Hıdrellez - Song by Sezen Aksu - Apple Music",
+                        "url": "https://music.apple.com/us/song/h%C4%B1drellez/597104733?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "YouTube",
+                        "pub_date": 1659657600.0,
+                        "snippet": "Sezen Aksu'nun Düğün ve Cenaze albümüne çektiği ilk video klip Hıdrellez.",
+                        "title": "Sezen Aksu - Hıdrellez | Stereo (Buket TV) (1997, Raks/Karma Müzik)",
+                        "url": "https://www.youtube.com/watch?v=K0sarKJyoCg&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Wikipedia – Die freie Enzyklopädie",
+                        "pub_date": 1741782700.0,
+                        "snippet": "Hıdrellez (Namensvarianten: Hıdırlez, Hıdırellez, Hederlez, Edirlez) ist ein Frühlingsfest, das am 6. Mai vor allem bei verschiedenen Turkvölkern gefeiert wird. Der Termin des Festes entspricht dem 23...",
+                        "title": "Hıdrellez",
+                        "url": "https://de.wikipedia.org/wiki/H%C4%B1drellez?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "YouTube",
+                        "pub_date": 1496361600.0,
+                        "snippet": "Provided to YouTube by Videomite Music Hıdrellez · Sezen Aksu Düğün ve Cenaze ℗ SN Music Publishing Released on: 1997-12-22 Auto-generated ...",
+                        "title": "Hıdrellez - YouTube",
+                        "url": "https://www.youtube.com/watch?v=EVMzJdSrVAo&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "YouTube",
+                        "pub_date": 1338163200.0,
+                        "snippet": "\"Hıdrellez\" (Düğün ve Cenaze - 1997) Söz: Sezen Aksu, Pakize Barışta Beste: Goran Bregoviç Bahar oldu aman Al kese astım gül dalına Adadım ...",
+                        "title": "Sezen Aksu - Hıdrellez (Official Video) - YouTube",
+                        "url": "https://www.youtube.com/watch?pp=0gcJCdgAo7VqN5tD&v=jPs0g5xHUI0&utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Ederlezi (song)",
+                    "url": "https://en.wikipedia.org/wiki/Ederlezi_%28song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "fleurmach",
+                    "attribution_segments": [
+                      "0-1"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1353283200.0,
+                    "refs": [
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 14,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 13,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 15,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 16,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Turkish language version of the Roma song “Ederlezi”, made famous outside the Balkans via Goran Bregovic's version in Emir Kusturica's film, ...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "Wikipedia",
+                        "pub_date": 1738531360.0,
+                        "snippet": "\"Ederlezi\" is a popular traditional folk song of the Romani people in the Balkans.  The song got its name from Ederlezi, which is a festival celebrating the return of springtime, especially by the Rom...",
+                        "title": "Ederlezi (song)",
+                        "url": "https://en.wikipedia.org/wiki/Ederlezi_%28song%29?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Wikipedia – Die freie Enzyklopädie",
+                        "pub_date": 1741782700.0,
+                        "snippet": "Hıdrellez (Namensvarianten: Hıdırlez, Hıdırellez, Hederlez, Edirlez) ist ein Frühlingsfest, das am 6. Mai vor allem bei verschiedenen Turkvölkern gefeiert wird. Der Termin des Festes entspricht dem 23...",
+                        "title": "Hıdrellez",
+                        "url": "https://de.wikipedia.org/wiki/H%C4%B1drellez?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Wikipedia – Die freie Enzyklopädie",
+                        "pub_date": 1735658155.0,
+                        "snippet": "VERÖFFENTLICHUNGEN UND WEITERE INTERPRETATIONEN  * 1988: Đurđevdan Je A Ja Nisam S Onom Koju Volim von Bijelo dugme auf dem Album Ćiribiribela (1988, auf dem Label Diskoton, LP-8333) * 1988: Scena Đur...",
+                        "title": "Ederlezi (Lied)",
+                        "url": "https://de.wikipedia.org/wiki/Ederlezi_%28Lied%29?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Wikipedia – Die freie Enzyklopädie",
+                        "pub_date": 1738406695.0,
+                        "snippet": "SINGLES  *  1975: Haydi Şansım/Gel Bana  *  1976: Kusura Bakma/Yaşanmamış Yıllar  *  1976: Olmaz Olsun/Vurdumduymaz  *  1977: Allahaısmarladık/Kaç Yıl Geçti Aradan  *  1977: Kaybolan Yıllar/Neye Yarar...",
+                        "title": "Sezen Aksu",
+                        "url": "https://de.wikipedia.org/wiki/Sezen_Aksu?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "sezen aksu – hıdrellez (1997) - fleurmach",
+                    "url": "https://fleurmach.com/2012/11/19/sezen-aksu-hidrellez-1997/?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "YouTube",
+                    "attribution_segments": [
+                      "0-2"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1338163200.0,
+                    "refs": [
+                      {
+                        "ref_index": 7,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 14,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 5,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 15,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Hıdrellez\" (Düğün ve Cenaze - 1997) Söz: Sezen Aksu, Pakize Barışta Beste: Goran Bregoviç Bahar oldu aman Al kese astım gül dalına Adadım ...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "YouTube",
+                        "pub_date": 1481155200.0,
+                        "snippet": "Söz: Sezen Aksu, Pakize Barışta Beste: Goran Bregoviç Düzenleme: Goran Bregoviç Bahar oldu aman Al kese astım gül dalına Adadım yarin adına ...",
+                        "title": "Sezen Aksu - Hıdrellez (Official Audio) - YouTube",
+                        "url": "https://www.youtube.com/watch?v=vLo4dm02MZQ&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Wikipedia",
+                        "pub_date": 1738531360.0,
+                        "snippet": "\"Ederlezi\" is a popular traditional folk song of the Romani people in the Balkans.  The song got its name from Ederlezi, which is a festival celebrating the return of springtime, especially by the Rom...",
+                        "title": "Ederlezi (song)",
+                        "url": "https://en.wikipedia.org/wiki/Ederlezi_%28song%29?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Lyrics Translate",
+                        "pub_date": 1647302400.0,
+                        "snippet": "Hıdrellez sözleri ; Bahar oldu aman. Al kese astım gül dalına. Adadım yarin adına ; Dağ yeşil, dallar yeşil. Uyandılar bayrama. Her gönül şen.",
+                        "title": "Hıdrellez şarkı sözleri - Sezen Aksu",
+                        "url": "https://lyricstranslate.com/tr/sezen-aksu-hidrellez-lyrics.html?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Wikipedia – Die freie Enzyklopädie",
+                        "pub_date": 1735658155.0,
+                        "snippet": "VERÖFFENTLICHUNGEN UND WEITERE INTERPRETATIONEN  * 1988: Đurđevdan Je A Ja Nisam S Onom Koju Volim von Bijelo dugme auf dem Album Ćiribiribela (1988, auf dem Label Diskoton, LP-8333) * 1988: Scena Đur...",
+                        "title": "Ederlezi (Lied)",
+                        "url": "https://de.wikipedia.org/wiki/Ederlezi_%28Lied%29?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "fleurmach",
+                        "pub_date": 1353283200.0,
+                        "snippet": "Turkish language version of the Roma song “Ederlezi”, made famous outside the Balkans via Goran Bregovic's version in Emir Kusturica's film, ...",
+                        "title": "sezen aksu – hıdrellez (1997) - fleurmach",
+                        "url": "https://fleurmach.com/2012/11/19/sezen-aksu-hidrellez-1997/?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Sezen Aksu - Hıdrellez (Official Video) - YouTube",
+                    "url": "https://www.youtube.com/watch?pp=0gcJCdgAo7VqN5tD&v=jPs0g5xHUI0&utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "The song beautifully captures the essence of renewal and longing associated with the Hıdrellez festival.",
+                "attributable_index": "489-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Its lyrics reflect themes of hope, love, and the anticipation of better days, resonating with the spirit of spring's arrival.",
+                "attributable_index": "489-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "",
+                "has_images": true,
+                "prompt_text": null,
+                "sources": [
+                  {
+                    "attribution": "Wikipedia",
+                    "title": "Ederlezi (song)",
+                    "url": "https://en.wikipedia.org/wiki/Ederlezi_%28song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "fleurmach",
+                    "title": "sezen aksu – hıdrellez (1997) - fleurmach",
+                    "url": "https://fleurmach.com/2012/11/19/sezen-aksu-hidrellez-1997/?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "YouTube",
+                    "title": "Sezen Aksu - Hıdrellez (Official Video) - YouTube",
+                    "url": "https://www.youtube.com/watch?pp=0gcJCdgAo7VqN5tD&v=jPs0g5xHUI0&utm_source=chatgpt.com"
+                  }
+                ],
+                "type": "sources_footnote"
+              }
+            ],
+            "image_results": [
+              {
+                "attribution": "YouTube",
+                "content_size": {
+                  "height": 720,
+                  "width": 1280
+                },
+                "content_url": "https://i.ytimg.com/vi/jPs0g5xHUI0/maxresdefault.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 266,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIP.YoT1raFn0Vg8E0S-raZy4QHaEK&cb=iwp1&pid=Api",
+                "title": "Sezen Aksu - Hıdrellez (Official Video) - YouTube",
+                "url": "https://www.youtube.com/watch?v=jPs0g5xHUI0"
+              },
+              {
+                "attribution": "Söz Arşivi",
+                "content_size": {
+                  "height": 675,
+                  "width": 1200
+                },
+                "content_url": "https://sozleri.co/wp-content/uploads/2024/05/sezen-aksu-hidrellez-sarki-sozleri.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 266,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse2.mm.bing.net/th?id=OIP.nGmceTqGb3OrzKjLYyrGKwHaEK&cb=iwp1&pid=Api",
+                "title": "Sezen Aksu – Hıdrellez Şarkı Sözleri - Söz Arşivi",
+                "url": "https://sozleri.co/sezen-aksu-hidrellez/"
+              },
+              {
+                "attribution": "YouTube",
+                "content_size": {
+                  "height": 720,
+                  "width": 1280
+                },
+                "content_url": "https://i.ytimg.com/vi/vLo4dm02MZQ/maxresdefault.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 266,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIP.MDgEddUHGD-gzN5erKObFQHaEK&cb=iwp1&pid=Api",
+                "title": "Sezen Aksu - Hıdrellez (Official Audio) - YouTube",
+                "url": "https://www.youtube.com/watch?v=vLo4dm02MZQ"
+              },
+              {
+                "attribution": "CDA - Społeczność cda.pl",
+                "content_size": {
+                  "height": 720,
+                  "width": 1280
+                },
+                "content_url": "https://icdn.cda.pl/vid/thumbs/ef82d4bc647f0a6a5d74e9772f45e458-31.jpg_ooooxooxox_1280x720.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 266,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIP.8IpNLcmXCIak3iJQEKgg_QHaEK&cb=iwp1&pid=Api",
+                "title": "Sezen Aksu - Hıdrellez 432 Hz - CDA",
+                "url": "https://www.cda.pl/video/561993027"
+              },
+              {
+                "attribution": "Album of the Year",
+                "content_size": {
+                  "height": 561,
+                  "width": 572
+                },
+                "content_url": "https://cdn.albumoftheyear.org/album/1098277-hidirellez_154224.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 464,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIP.bXIyVWS0WjqfGVT-RpfpDwHaHQ&cb=iwp1&pid=Api",
+                "title": "Sezen Aksu - Hıdırellez - Reviews - Album of The Year",
+                "url": "https://www.albumoftheyear.org/album/1098277-sezen-aksu-hidirellez.php"
+              },
+              {
+                "attribution": "YouTube",
+                "content_size": {
+                  "height": 720,
+                  "width": 1280
+                },
+                "content_url": "https://i.ytimg.com/vi/K0sarKJyoCg/maxresdefault.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 266,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse2.mm.bing.net/th?id=OIP.YCWCMhYmf5I_GS42Uf419gHaEK&cb=iwp1&pid=Api",
+                "title": "Sezen Aksu - Hıdrellez | Stereo (Buket TV) (1997, Raks/Karma Müzik ...",
+                "url": "https://www.youtube.com/watch?v=K0sarKJyoCg"
+              },
+              {
+                "attribution": "fleurmach",
+                "content_size": {
+                  "height": 240,
+                  "width": 294
+                },
+                "content_url": "https://fleurmach.com/wp-content/uploads/2012/11/sezen-aksu-hidrellez-video-klip-1998-1.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 240,
+                  "width": 294
+                },
+                "thumbnail_url": "https://tse1.mm.bing.net/th?id=OIP.jWMVNLTtbD2iKHVkyXeYaQAAAA&cb=iwp1&pid=Api",
+                "title": "sezen aksu – hıdrellez (1997) | fleurmach",
+                "url": "https://fleurmach.com/2012/11/19/sezen-aksu-hidrellez-1997/"
+              },
+              {
+                "attribution": "Habertürk",
+                "content_size": {
+                  "height": 627,
+                  "width": 1200
+                },
+                "content_url": "https://im.haberturk.com/l/2024/05/08/ver1715171832/3684614/jpg/1200x628",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 247,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse2.mm.bing.net/th?id=OIP.ll-RYrqqrbpu-FgIF8v4LAHaD3&cb=iwp1&pid=Api",
+                "title": "Suzan Kardeş: Sezen Aksu'dan Hıdırellez şarkısı isteyeceğim - Magazin ...",
+                "url": "https://www.haberturk.com/suzan-kardes-sezen-aksu-dan-hidirellez-sarkisi-isteyecegim-magazin-haberleri-3684614-magazin/3"
+              },
+              {
+                "attribution": "YouTube",
+                "content_size": {
+                  "height": 360,
+                  "width": 480
+                },
+                "content_url": "https://i.ytimg.com/vi/ZlLO61AOgmw/hqdefault.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 355,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse1.mm.bing.net/th?id=OIP.-myuV-2100xnzy1tkX11oAHaFj&cb=iwp1&pid=Api",
+                "title": "Sezen Aksu - Hıdrellez (Bahar oldu aman) - YouTube",
+                "url": "https://www.youtube.com/watch?v=ZlLO61AOgmw"
+              },
+              {
+                "attribution": "Listal",
+                "content_size": {
+                  "height": 720,
+                  "width": 692
+                },
+                "content_url": "https://ilarge.lisimg.com/image/3420481/740full-sezen-aksu.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 493,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIP.lw6xLnBinGKfGLwlnQhiPwHaHt&cb=iwp1&pid=Api",
+                "title": "Sezen Aksu image",
+                "url": "https://www.listal.com/viewimage/3420481"
+              },
+              {
+                "attribution": "Onedio",
+                "content_size": {
+                  "height": 675,
+                  "width": 1200
+                },
+                "content_url": "https://img-s1.onedio.com/id-64ba985bc702b3fbcb956aa6/rev-0/raw/s-d47e6f4bcc6738d7c68c156ad62b1e17fd1d1095.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 266,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th?id=OIP.gA8fKOx9M9Ujp0j9VqvmPAHaEK&cb=iwp1&pid=Api",
+                "title": "Minik Serçe Sezen Aksu'nun Yeni Şarkısı Kıra Döke'nin Sözleri: Sezen ...",
+                "url": "https://onedio.com/haber/minik-serce-sezen-aksu-nun-yeni-sarkisi-kira-doke-nin-sozleri-sezen-aksu-kira-doke-dinle-1162178"
+              },
+              {
+                "attribution": "Onedio",
+                "content_size": {
+                  "height": 675,
+                  "width": 1200
+                },
+                "content_url": "https://img-s1.onedio.com/id-64ca65385cc8be23ec905eaa/rev-0/raw/s-dbd5702c3cdb8ca84ac6ab1ca254824aaaceb3f5.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 266,
+                  "width": 474
+                },
+                "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIP.9cGpBQaw7x7KEqrqd9qS7gHaEK&cb=iwp1&pid=Api",
+                "title": "Burcunu Söyle Hangi Sezen Aksu Şarkısı Olduğunu Söyleyelim! - Onedio",
+                "url": "https://onedio.com/haber/burcunu-soyle-hangi-sezen-aksu-sarkisi-oldugunu-soyleyelim-1164417"
+              }
+            ],
+            "message_locale": "en-US",
+            "model_slug": "gpt-4o",
+            "parent_id": "ee35dfcf-cdd3-4fdf-a097-3c076b0e4953",
+            "search_result_groups": [
+              {
+                "domain": "youtube.com",
+                "entries": [
+                  {
+                    "attribution": "YouTube",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Söz: Sezen Aksu, Pakize Barışta Beste: Goran Bregoviç Düzenleme: Goran Bregoviç Bahar oldu aman Al kese astım gül dalına Adadım yarin adına ...",
+                    "title": "Sezen Aksu - Hıdrellez (Official Audio) - YouTube",
+                    "url": "https://www.youtube.com/watch?v=vLo4dm02MZQ"
+                  },
+                  {
+                    "attribution": "YouTube",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Sezen Aksu'nun Düğün ve Cenaze albümüne çektiği ilk video klip Hıdrellez.",
+                    "title": "Sezen Aksu - Hıdrellez | Stereo (Buket TV) (1997, Raks/Karma Müzik)",
+                    "url": "https://www.youtube.com/watch?v=K0sarKJyoCg"
+                  },
+                  {
+                    "attribution": "YouTube",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "\"Hıdrellez\" (Düğün ve Cenaze - 1997) Söz: Sezen Aksu, Pakize Barışta Beste: Goran Bregoviç Bahar oldu aman Al kese astım gül dalına Adadım ...",
+                    "title": "Sezen Aksu - Hıdrellez (Official Video) - YouTube",
+                    "url": "https://www.youtube.com/watch?pp=0gcJCdgAo7VqN5tD&v=jPs0g5xHUI0"
+                  },
+                  {
+                    "attribution": "YouTube",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Provided to YouTube by Videomite Music Hıdrellez · Sezen Aksu Düğün ve Cenaze ℗ SN Music Publishing Released on: 1997-12-22 Auto-generated ...",
+                    "title": "Hıdrellez - YouTube",
+                    "url": "https://www.youtube.com/watch?v=EVMzJdSrVAo"
+                  }
+                ]
+              },
+              {
+                "domain": "spotify.com",
+                "entries": [
+                  {
+                    "attribution": "Spotify",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Spotify'da dinle: Hıdrellez Sezen Aksu · Şarkı · 1.997.",
+                    "title": "Hıdrellez - müzik ve şarkı sözleri: Sezen Aksu | Spotify",
+                    "url": "https://open.spotify.com/intl-tr/track/05l1fRxq5fqbjQaAgPnPbT"
+                  },
+                  {
+                    "attribution": "Spotify",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Listen to Hidrellez on Spotify. Song · Sezen Aksu · 1997.",
+                    "title": "Hidrellez - song and lyrics by Sezen Aksu - Spotify",
+                    "url": "https://open.spotify.com/track/44IyoQ2mAgDbrDNWsv6oOV"
+                  }
+                ]
+              },
+              {
+                "domain": "fleurmach.com",
+                "entries": [
+                  {
+                    "attribution": "fleurmach",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Turkish language version of the Roma song “Ederlezi”, made famous outside the Balkans via Goran Bregovic's version in Emir Kusturica's film, ...",
+                    "title": "sezen aksu – hıdrellez (1997) - fleurmach",
+                    "url": "https://fleurmach.com/2012/11/19/sezen-aksu-hidrellez-1997/"
+                  }
+                ]
+              },
+              {
+                "domain": "lyricstranslate.com",
+                "entries": [
+                  {
+                    "attribution": "Lyrics Translate",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdrellez sözleri ; Bahar oldu aman. Al kese astım gül dalına. Adadım yarin adına ; Dağ yeşil, dallar yeşil. Uyandılar bayrama. Her gönül şen.",
+                    "title": "Hıdrellez şarkı sözleri - Sezen Aksu",
+                    "url": "https://lyricstranslate.com/tr/sezen-aksu-hidrellez-lyrics.html"
+                  }
+                ]
+              },
+              {
+                "domain": "apple.com",
+                "entries": [
+                  {
+                    "attribution": "Apple Music - Web Player",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Listen to Hıdrellez by Sezen Aksu on Apple Music. 1997. Duration: 3:49.",
+                    "title": "‎Hıdrellez - Song by Sezen Aksu - Apple Music",
+                    "url": "https://music.apple.com/us/song/h%C4%B1drellez/597104733"
+                  }
+                ]
+              },
+              {
+                "domain": "chordify.net",
+                "entries": [
+                  {
+                    "attribution": "Chordify",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Bahar oldu aman. Al kese astım gül dalına. Adadım yarin adına. İki göz oda. Dağ yeşil, dallar yeşil. Uyandılar bayrama. Her gönül şen. Bir benim bahtım kara.",
+                    "title": "Sezen Aksu - Hıdrellez (Official Video) Chords - Chordify",
+                    "url": "https://chordify.net/en/chords/sezen-aksu-songs/hidrellez-chords"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "parent": "bbb21a7e-2d3f-4838-b362-6f23e31480a4"
+      },
+      "fc5a3928-e104-4444-8046-4ecca763e00c": {
+        "id": "fc5a3928-e104-4444-8046-4ecca763e00c",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "iturn0image0turn0image2turn0image3turn0image4Hıdırellez, her yıl 5-6 Mayıs tarihlerinde kutlanan, baharın gelişini ve doğanın uyanışını simgeleyen geleneksel bir Türk bayramıdır. Kökleri Orta Asya, Anadolu ve Balkanlar'a dayanan bu kutlama, 2017 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne dahil edilmiştir. citeturn0search5\n\n### Hıdırellez'in Anlamı\n\nHıdırellez, halk inancına göre karada darda kalanlara yardım eden Hızır (Hz. Hızır) ve suların koruyucusu İlyas (Hz. İlyas) peygamberlerin yılda bir kez, 6 Mayıs'ta yeryüzünde buluştukları gündür. Bu buluşma, bolluk, bereket ve şifa getirdiğine inanılan kutsal bir zaman dilimi olarak kabul edilir. citeturn0search4\n\n### Geleneksel Ritüeller\n\nHıdırellez gecesi ve ertesi gün yapılan geleneksel uygulamalardan bazıları şunlardır:\n\n- **Dilek Dilemek:** İnsanlar dileklerini bir kâğıda yazarak veya çizerek gül ağacının altına bırakır ya da akan bir suya atarlar. Bu ritüelin, dileklerin gerçekleşmesine vesile olacağına inanılır. citeturn0search11\n\n- **Ateş Üzerinden Atlama:** Topluluklar, kötülüklerden arınmak ve sağlık dilemek amacıyla yakılan Hıdırellez ateşinin üzerinden üç kez atlarlar. citeturn0search8\n\n- **Martufal (Mantufar) Geleneği:** Kadınlar, kişisel eşyalarını su dolu bir kaba koyarak gül ağacının altına bırakır ve ertesi gün maniler eşliğinde bu eşyaları çekerler. Bu ritüel, geleceğe dair kehanetlerde bulunmak amacıyla yapılır. citeturn0search22\n\n- **Doğada Kutlama:** Aileler ve arkadaşlar, doğada piknik yaparak, şarkılar söyleyip dans ederek baharın gelişini kutlarlar.\n\n### Günümüzde Hıdırellez\n\nHıdırellez, Türkiye'nin birçok yerinde coşkulu etkinliklerle kutlanmaktadır. Örneğin, Edirne'de düzenlenen Kakava Şenlikleri, Roman kültürünün renkli dansları ve büyük ateş gösterileriyle dikkat çekerken, İzmir Kültürpark'ta konserler ve dans gösterileriyle kutlamalar yapılmaktadır. citeturn0search4\n\nDaha fazla bilgi edinmek isterseniz, aşağıdaki videoyu izleyebilirsiniz:\n\nvideoHıdırellez Nedir? Dileklerin Gerçekleştiği Gece!turn0search12 "
+            ]
+          },
+          "create_time": 1746461133.856595,
+          "id": "fc5a3928-e104-4444-8046-4ecca763e00c",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": "[![Edirne'de Hıdırellez kutlamaları! 1400 yıllık Kakava ateşi yakıldı ...](https://tse2.mm.bing.net/th?id=OIF.NbFvK%2FnjchHplSc7iv8UnA&pid=Api)](https://www.tele1.com.tr/foto-galeri/edirnede-hidirellez-kutlamalari-1400-yillik-kakava-atesi-yakildi)\n",
+                "images": [
+                  {
+                    "attribution": "Tele1 Gerçekleri İzleyin",
+                    "content_size": {
+                      "height": 720,
+                      "width": 1280
+                    },
+                    "content_url": "https://tele1comtr.teimg.com/tele1-com-tr/uploads/2025/05/kakava.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 300,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://tse2.mm.bing.net/th?id=OIF.NbFvK%2FnjchHplSc7iv8UnA&pid=Api",
+                    "title": "Edirne'de Hıdırellez kutlamaları! 1400 yıllık Kakava ateşi yakıldı ...",
+                    "url": "https://www.tele1.com.tr/foto-galeri/edirnede-hidirellez-kutlamalari-1400-yillik-kakava-atesi-yakildi"
+                  },
+                  {
+                    "attribution": "birgun.net",
+                    "content_size": {
+                      "height": 720,
+                      "width": 1280
+                    },
+                    "content_url": "https://static.birgun.net/resim/haber/2025/05/05/edirne-de-hidirellez-kutlamalari-basladi-4-gun-surecek.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 300,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIF.Z8xkXvDQMIyEuFX%2FS5Ld5g&pid=Api",
+                    "title": "Edirne'de Hıdırellez kutlamaları başladı: 4 gün sürecek",
+                    "url": "https://www.birgun.net/haber/edirne-de-hidirellez-kutlamalari-basladi-4-gun-surecek-620743"
+                  },
+                  {
+                    "attribution": "KARAR",
+                    "content_size": {
+                      "height": 675,
+                      "width": 1200
+                    },
+                    "content_url": "https://cdn.karar.com/news/1810260.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 300,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://tse4.mm.bing.net/th/id/OIF.F7p1ZIcB5uJKgRkiUTfHyw?pid=Api",
+                    "title": "Edirne'de Hıdırellez kutlamaları: 4 gün sürecek",
+                    "url": "https://www.karar.com/guncel-haberler/edirnede-hidirellez-kutlamalari-4-gun-surecek-1956611"
+                  },
+                  {
+                    "attribution": "NTV Haber",
+                    "content_size": {
+                      "height": 562,
+                      "width": 1000
+                    },
+                    "content_url": "https://cdn1.ntv.com.tr/gorsel/GjiaGYLA6kKB4rdNH2ftqQ.jpg?mode=both&scale=both&v=1746453380124&width=1000",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 300,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIF.%2FnouiMc7KSgg9v%2BE0Yjb8g&pid=Api",
+                    "title": "Hıdırellez kutlamaları başladı: Hıdırellez nedir, ne zaman, nasıl ...",
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ"
+                  }
+                ],
+                "prompt_text": "\n## Images:\n![Edirne'de Hıdırellez kutlamaları! 1400 yıllık Kakava ateşi yakıldı ...](https://tse2.mm.bing.net/th?id=OIF.NbFvK%2FnjchHplSc7iv8UnA&pid=Api)\n![Edirne'de Hıdırellez kutlamaları başladı: 4 gün sürecek](https://tse3.mm.bing.net/th?id=OIF.Z8xkXvDQMIyEuFX%2FS5Ld5g&pid=Api)\n![Edirne'de Hıdırellez kutlamaları: 4 gün sürecek](https://tse4.mm.bing.net/th/id/OIF.F7p1ZIcB5uJKgRkiUTfHyw?pid=Api)\n![Hıdırellez kutlamaları başladı: Hıdırellez nedir, ne zaman, nasıl ...](https://tse3.mm.bing.net/th?id=OIF.%2FnouiMc7KSgg9v%2BE0Yjb8g&pid=Api)\n",
+                "type": "image_v2"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "([Hürriyet Haber](https://www.hurriyet.com.tr/bilgi/galeri-hidirellez-kutlama-tarihleri-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-iste-sorgulanan-sorunun-cevabi-42788670?utm_source=chatgpt.com))",
+                "items": [
+                  {
+                    "attribution": "Hürriyet Haber",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1746399935.046512,
+                    "refs": [
+                      {
+                        "ref_index": 5,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": null,
+                    "supporting_websites": [],
+                    "title": "HIDIRELLEZ HEYECANI BAŞLIYOR || Hıdırellez bugün mü, ne zaman nasıl kutlanır? İşte sorgulanan sorunun cevabı",
+                    "url": "https://www.hurriyet.com.tr/bilgi/galeri-hidirellez-kutlama-tarihleri-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-iste-sorgulanan-sorunun-cevabi-42788670?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([hurriyet.com.tr](https://www.hurriyet.com.tr/bilgi/galeri-hidirellez-kutlama-tarihleri-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-iste-sorgulanan-sorunun-cevabi-42788670?utm_source=chatgpt.com))",
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "([NTV Haber](https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ?utm_source=chatgpt.com))",
+                "items": [
+                  {
+                    "attribution": "NTV Haber",
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1746453933.047853,
+                    "refs": [
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": null,
+                    "supporting_websites": [],
+                    "title": "Hıdırellez nedir, ne zaman, nasıl kutlanır? Hıdırellez kaç gün sürecek?",
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([ntv.com.tr](https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ?utm_source=chatgpt.com))",
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "İnsanlar dileklerini bir kâğıda yazarak veya çizerek gül ağacının altına bırakır ya da akan bir suya atarlar.",
+                "attributable_index": "700-3",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Bu ritüelin, dileklerin gerçekleşmesine vesile olacağına inanılır.",
+                "attributable_index": "700-4",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "",
+                "items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1743033600.0,
+                    "refs": [
+                      {
+                        "ref_index": 11,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Dilek Dilemek: Hıdırellez bayramında herkesçe bilinen en yaygın ritüel dilek dilemektir. · Ateş Üzerinden Atlamak: Hıdırellez'in en keyifli ...",
+                    "supporting_websites": [],
+                    "title": "Hıdırellez Geleneği ve Yemekleri | Vodafone Blog",
+                    "url": "https://www.vodafone.com.tr/ayricalikli-alisveris/blog/hidirellez-gelenegi-ve-yemekleri?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([vodafone.com.tr](https://www.vodafone.com.tr/ayricalikli-alisveris/blog/hidirellez-gelenegi-ve-yemekleri?utm_source=chatgpt.com))",
+                "type": "grouped_webpages_model_predicted_fallback"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "VODAFONE",
+                    "attribution_segments": [
+                      "700-3",
+                      "700-4"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1743033600.0,
+                    "refs": [
+                      {
+                        "ref_index": 11,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 7,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 15,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Dilek Dilemek: Hıdırellez bayramında herkesçe bilinen en yaygın ritüel dilek dilemektir. · Ateş Üzerinden Atlamak: Hıdırellez'in en keyifli ...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "Quick Sigorta Blog",
+                        "pub_date": 1683244800.0,
+                        "snippet": "Hıdırellez'in en bilinen geleneklerinden biri, gül ağacı altına dileklerin çizilmiş olduğu kâğıdı akşamdan gömüp sabah da akan suya atmak.",
+                        "title": "Yaşayan 10 Hıdrellez Geleneği - QBLOG - Quick Sigorta Blog",
+                        "url": "https://blog.quicksigorta.com/trend/yasayan-10-hidrellez-gelenegi-2711?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Ana Sayfa",
+                        "pub_date": 1682899200.0,
+                        "snippet": "Ateş yakma ritüeli, inanışa göre kötülükleri kovar ve şans getirir. Daha önce de belirttiğimiz gibi Hıdırellez gecesi ayrıca dilek dileme ...",
+                        "title": "Hıdırellez Nedir, Ritüelleri Nelerdir? - Richmond Nua Wellness Spa",
+                        "url": "https://www.richmondnua.com/nua-blog/kesfet/umut-mevsimi-geldi-hidirellez-nedir-nasil-kutlanir-rituelleri-nelerdir/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "NTV Haber",
+                        "pub_date": 1746453933.047853,
+                        "snippet": null,
+                        "title": "Hıdırellez nedir, ne zaman, nasıl kutlanır? Hıdırellez kaç gün sürecek?",
+                        "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Bolu Belediyesi",
+                        "pub_date": null,
+                        "snippet": "Bir gün önceki akşam herhangi bir gül ağacının dibine küp gömülmekte ve sabah manilerle açılmaktadır. O gün hiçbir tarla, bahçe işi yapılmaz. Ev isteyenler ...",
+                        "title": "Hıdrellez Gelenekleri - T.C. Bolu Valiliği",
+                        "url": "https://www.bolu.gov.tr/hidrellez-gelenekleri?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Hıdırellez Geleneği ve Yemekleri | Vodafone Blog",
+                    "url": "https://www.vodafone.com.tr/ayricalikli-alisveris/blog/hidirellez-gelenegi-ve-yemekleri?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Topluluklar, kötülüklerden arınmak ve sağlık dilemek amacıyla yakılan Hıdırellez ateşinin üzerinden üç kez atlarlar.",
+                "attributable_index": "1038-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "",
+                "items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1714867200.0,
+                    "refs": [
+                      {
+                        "ref_index": 8,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Hıdırellez gecesinin en bilinen geleneği, dört yol ağzına ateş yakmaktır. Bu ateşin üzerinden 3 kez atlanır. Üç kez ateşten atlayan kişinin, kış ...",
+                    "supporting_websites": [],
+                    "title": "Hıdırellez Gelenekleri ve Ritüelleri Nelerdir? - Onedio",
+                    "url": "https://onedio.com/haber/en-ozel-hidirellez-gelenekleri-hidirellez-de-hangi-dualar-edilir-hangi-ritueller-yapilir-1220484?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([onedio.com](https://onedio.com/haber/en-ozel-hidirellez-gelenekleri-hidirellez-de-hangi-dualar-edilir-hangi-ritueller-yapilir-1220484?utm_source=chatgpt.com))",
+                "type": "grouped_webpages_model_predicted_fallback"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "Onedio",
+                    "attribution_segments": [
+                      "1038-1"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1714867200.0,
+                    "refs": [
+                      {
+                        "ref_index": 8,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 18,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 11,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 7,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Hıdırellez gecesinin en bilinen geleneği, dört yol ağzına ateş yakmaktır. Bu ateşin üzerinden 3 kez atlanır. Üç kez ateşten atlayan kişinin, kış ...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "Ensonhaber",
+                        "pub_date": 1746428735.047989,
+                        "snippet": "Ateş Üzerinden Atlamak: Hıdırellez'in simgelerinden biri de ateşin etrafında dönmek ve ateş üzerinden atlamaktır. Bu gelenek, kötü enerjilerden ...",
+                        "title": "Hıdırellez ritüelleri ve gelenekleri: Hıdırellez'de ne yapılır?",
+                        "url": "https://www.ensonhaber.com/bilgi/hidirellez-rituelleri-ve-gelenekleri-hidirellezde-ne-yapilir?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "VODAFONE",
+                        "pub_date": 1743033600.0,
+                        "snippet": "Dilek Dilemek: Hıdırellez bayramında herkesçe bilinen en yaygın ritüel dilek dilemektir. · Ateş Üzerinden Atlamak: Hıdırellez'in en keyifli ...",
+                        "title": "Hıdırellez Geleneği ve Yemekleri | Vodafone Blog",
+                        "url": "https://www.vodafone.com.tr/ayricalikli-alisveris/blog/hidirellez-gelenegi-ve-yemekleri?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Ana Sayfa",
+                        "pub_date": 1682899200.0,
+                        "snippet": "Ateş yakma ritüeli, inanışa göre kötülükleri kovar ve şans getirir. Daha önce de belirttiğimiz gibi Hıdırellez gecesi ayrıca dilek dileme ...",
+                        "title": "Hıdırellez Nedir, Ritüelleri Nelerdir? - Richmond Nua Wellness Spa",
+                        "url": "https://www.richmondnua.com/nua-blog/kesfet/umut-mevsimi-geldi-hidirellez-nedir-nasil-kutlanir-rituelleri-nelerdir/?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Hıdırellez Gelenekleri ve Ritüelleri Nelerdir? - Onedio",
+                    "url": "https://onedio.com/haber/en-ozel-hidirellez-gelenekleri-hidirellez-de-hangi-dualar-edilir-hangi-ritueller-yapilir-1220484?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Kadınlar, kişisel eşyalarını su dolu bir kaba koyarak gül ağacının altına bırakır ve ertesi gün maniler eşliğinde bu eşyaları çekerler.",
+                "attributable_index": "1208-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Bu ritüel, geleceğe dair kehanetlerde bulunmak amacıyla yapılır.",
+                "attributable_index": "1208-2",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "",
+                "items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1741782700.0,
+                    "refs": [
+                      {
+                        "ref_index": 22,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Hıdrellez",
+                    "url": "https://de.wikipedia.org/wiki/H%C4%B1drellez?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([de.wikipedia.org](https://de.wikipedia.org/wiki/H%C4%B1drellez?utm_source=chatgpt.com))",
+                "type": "grouped_webpages_model_predicted_fallback"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "Bolu Belediyesi",
+                    "attribution_segments": [
+                      "1208-1"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 15,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 11,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Bir gün önceki akşam herhangi bir gül ağacının dibine küp gömülmekte ve sabah manilerle açılmaktadır. O gün hiçbir tarla, bahçe işi yapılmaz. Ev isteyenler ...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "VODAFONE",
+                        "pub_date": 1743033600.0,
+                        "snippet": "Dilek Dilemek: Hıdırellez bayramında herkesçe bilinen en yaygın ritüel dilek dilemektir. · Ateş Üzerinden Atlamak: Hıdırellez'in en keyifli ...",
+                        "title": "Hıdırellez Geleneği ve Yemekleri | Vodafone Blog",
+                        "url": "https://www.vodafone.com.tr/ayricalikli-alisveris/blog/hidirellez-gelenegi-ve-yemekleri?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Quick Sigorta Blog",
+                        "pub_date": 1683244800.0,
+                        "snippet": "Hıdırellez'in en bilinen geleneklerinden biri, gül ağacı altına dileklerin çizilmiş olduğu kâğıdı akşamdan gömüp sabah da akan suya atmak.",
+                        "title": "Yaşayan 10 Hıdrellez Geleneği - QBLOG - Quick Sigorta Blog",
+                        "url": "https://blog.quicksigorta.com/trend/yasayan-10-hidrellez-gelenegi-2711?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Hıdrellez Gelenekleri - T.C. Bolu Valiliği",
+                    "url": "https://www.bolu.gov.tr/hidrellez-gelenekleri?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Ensonhaber",
+                    "attribution_segments": [
+                      "1208-2"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1746428735.047989,
+                    "refs": [
+                      {
+                        "ref_index": 18,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Ateş Üzerinden Atlamak: Hıdırellez'in simgelerinden biri de ateşin etrafında dönmek ve ateş üzerinden atlamaktır. Bu gelenek, kötü enerjilerden ...",
+                    "supporting_websites": [],
+                    "title": "Hıdırellez ritüelleri ve gelenekleri: Hıdırellez'de ne yapılır?",
+                    "url": "https://www.ensonhaber.com/bilgi/hidirellez-rituelleri-ve-gelenekleri-hidirellezde-ne-yapilir?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Aileler ve arkadaşlar, doğada piknik yaparak, şarkılar söyleyip dans ederek baharın gelişini kutlarlar.",
+                "attributable_index": "1472-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "Milliyet",
+                    "attribution_segments": [
+                      "1472-1"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1746421540.030367,
+                    "refs": [
+                      {
+                        "ref_index": 1,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 14,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": null,
+                    "supporting_websites": [
+                      {
+                        "attribution": "Habertürk",
+                        "pub_date": 1746288335.047246,
+                        "snippet": "Hıdırellez, Türk dünyasında ve bazı Balkan ülkelerinde kutlanan mevsimlik bir bayramdır. Her yıl 5-6 Mayıs tarihlerinde kutlanan Hıdırellez, ...",
+                        "title": "Hıdırellez ne zaman, hangi tarihte? Hıdırellez ritüelleri, gelenekleri ...",
+                        "url": "https://www.haberturk.com/hidirellez-ne-zaman-hangi-tarihte-hidirellez-rituelleri-gelenekleri-ve-tarihi-hidirellezde-neler-yapilir-3787913?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "HIDRELLEZ BUGÜN MÜ, NE ZAMAN? Hıdırellez ne zaman nasıl kutlanır?",
+                    "url": "https://www.milliyet.com.tr/galeri/hidrellez-ne-zaman-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-7364542?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Hıdırellez, Türkiye'nin birçok yerinde coşkulu etkinliklerle kutlanmaktadır.",
+                "attributable_index": "1602-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "Örneğin, Edirne'de düzenlenen Kakava Şenlikleri, Roman kültürünün renkli dansları ve büyük ateş gösterileriyle dikkat çekerken, İzmir Kültürpark'ta konserler ve dans gösterileriyle kutlamalar yapılmaktadır.",
+                "attributable_index": "1602-2",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": null,
+                "prompt_text": null,
+                "type": "hidden"
+              },
+              {
+                "alt": "",
+                "items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1746453933.047853,
+                    "refs": [
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": null,
+                    "supporting_websites": [],
+                    "title": "Hıdırellez nedir, ne zaman, nasıl kutlanır? Hıdırellez kaç gün sürecek?",
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": "([ntv.com.tr](https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ?utm_source=chatgpt.com))",
+                "type": "grouped_webpages_model_predicted_fallback"
+              },
+              {
+                "alt": null,
+                "items": [
+                  {
+                    "attribution": "Trendyol.com",
+                    "attribution_segments": [
+                      "1602-1"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 10,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 14,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 1,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Hıdırellez; Orta Asya, Ortadoğu, Anadolu ve Balkanlarda kutlanan mevsimlik bir bayram oluyor. Türkiye'de bu bayram 5-6 Mayıs tarihlerinde kutlanıyor.",
+                    "supporting_websites": [
+                      {
+                        "attribution": "Habertürk",
+                        "pub_date": 1746288335.047246,
+                        "snippet": "Hıdırellez, Türk dünyasında ve bazı Balkan ülkelerinde kutlanan mevsimlik bir bayramdır. Her yıl 5-6 Mayıs tarihlerinde kutlanan Hıdırellez, ...",
+                        "title": "Hıdırellez ne zaman, hangi tarihte? Hıdırellez ritüelleri, gelenekleri ...",
+                        "url": "https://www.haberturk.com/hidirellez-ne-zaman-hangi-tarihte-hidirellez-rituelleri-gelenekleri-ve-tarihi-hidirellezde-neler-yapilir-3787913?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "NTV Haber",
+                        "pub_date": 1746453933.047853,
+                        "snippet": null,
+                        "title": "Hıdırellez nedir, ne zaman, nasıl kutlanır? Hıdırellez kaç gün sürecek?",
+                        "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "Kamu Son Haber",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Hıdırellez kutlamaları İzmir Kültürpark'ta",
+                        "url": "https://www.kamusonhaber.com.tr/hidirellez-kutlamalari-izmir-kulturparkta-164210h.htm?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Hıdırellez Nedir? Ne Zaman Kutlanır? - Trendyol Blog",
+                    "url": "https://www.trendyol.com/s/hidirellez-nedir-blog?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Kamu Son Haber",
+                    "attribution_segments": [
+                      "1602-2"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [
+                      {
+                        "ref_index": 1,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 6,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": null,
+                    "supporting_websites": [
+                      {
+                        "attribution": "Haberler",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Edirne'de Kakava-Hıdırellez Şenlikleri için Roman Kültürü Kutlamaları ...",
+                        "url": "https://www.haberler.com/kultur-sanat/edirne-de-kakava-hidirellez-senlikleri-icin-roman-kulturu-kutlamalari-18583133-haberi/?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Hıdırellez kutlamaları İzmir Kültürpark'ta",
+                    "url": "https://www.kamusonhaber.com.tr/hidirellez-kutlamalari-izmir-kulturparkta-164210h.htm?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "[Hıdırellez Nedir? Dileklerin Gerçekleştiği Gece!](https://www.youtube.com/watch?v=VJ65zENesG4&utm_source=chatgpt.com)\n",
+                "prompt_text": null,
+                "thumbnail_url": "https://img.youtube.com/vi/VJ65zENesG4/maxresdefault.jpg",
+                "title": "Hıdırellez Nedir? Dileklerin Gerçekleştiği Gece!",
+                "type": "video",
+                "url": "https://www.youtube.com/watch?v=VJ65zENesG4&utm_source=chatgpt.com",
+                "video_id": "VJ65zENesG4",
+                "video_site": "youtube"
+              },
+              {
+                "alt": "",
+                "has_images": true,
+                "prompt_text": null,
+                "sources": [
+                  {
+                    "attribution": "Hürriyet Haber",
+                    "title": "HIDIRELLEZ HEYECANI BAŞLIYOR || Hıdırellez bugün mü, ne zaman nasıl kutlanır? İşte sorgulanan sorunun cevabı",
+                    "url": "https://www.hurriyet.com.tr/bilgi/galeri-hidirellez-kutlama-tarihleri-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-iste-sorgulanan-sorunun-cevabi-42788670?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "NTV Haber",
+                    "title": "Hıdırellez nedir, ne zaman, nasıl kutlanır? Hıdırellez kaç gün sürecek?",
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "VODAFONE",
+                    "title": "Hıdırellez Geleneği ve Yemekleri | Vodafone Blog",
+                    "url": "https://www.vodafone.com.tr/ayricalikli-alisveris/blog/hidirellez-gelenegi-ve-yemekleri?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Onedio",
+                    "title": "Hıdırellez Gelenekleri ve Ritüelleri Nelerdir? - Onedio",
+                    "url": "https://onedio.com/haber/en-ozel-hidirellez-gelenekleri-hidirellez-de-hangi-dualar-edilir-hangi-ritueller-yapilir-1220484?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "Wikipedia – Die freie Enzyklopädie",
+                    "title": "Hıdrellez",
+                    "url": "https://de.wikipedia.org/wiki/H%C4%B1drellez?utm_source=chatgpt.com"
+                  }
+                ],
+                "type": "sources_footnote"
+              }
+            ],
+            "image_results": [
+              {
+                "attribution": "Tele1 Gerçekleri İzleyin",
+                "content_size": {
+                  "height": 720,
+                  "width": 1280
+                },
+                "content_url": "https://tele1comtr.teimg.com/tele1-com-tr/uploads/2025/05/kakava.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse2.mm.bing.net/th?id=OIF.NbFvK%2fnjchHplSc7iv8UnA&pid=Api",
+                "title": "Edirne'de Hıdırellez kutlamaları! 1400 yıllık Kakava ateşi yakıldı ...",
+                "url": "https://www.tele1.com.tr/foto-galeri/edirnede-hidirellez-kutlamalari-1400-yillik-kakava-atesi-yakildi"
+              },
+              {
+                "attribution": "Kamu Son Haber",
+                "content_size": {
+                  "height": 675,
+                  "width": 1200
+                },
+                "content_url": "https://cdn.kamusonhaber.com.tr/news/183179.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIF.NqZE4gx8%2bEr9CDeXHclLPA&pid=Api",
+                "title": "Hıdırellez kutlamaları İzmir Kültürpark'ta",
+                "url": "https://www.kamusonhaber.com.tr/hidirellez-kutlamalari-izmir-kulturparkta-164210h.htm"
+              },
+              {
+                "attribution": "birgun.net",
+                "content_size": {
+                  "height": 720,
+                  "width": 1280
+                },
+                "content_url": "https://static.birgun.net/resim/haber/2025/05/05/edirne-de-hidirellez-kutlamalari-basladi-4-gun-surecek.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIF.Z8xkXvDQMIyEuFX%2fS5Ld5g&pid=Api",
+                "title": "Edirne'de Hıdırellez kutlamaları başladı: 4 gün sürecek",
+                "url": "https://www.birgun.net/haber/edirne-de-hidirellez-kutlamalari-basladi-4-gun-surecek-620743"
+              },
+              {
+                "attribution": "KARAR",
+                "content_size": {
+                  "height": 675,
+                  "width": 1200
+                },
+                "content_url": "https://cdn.karar.com/news/1810260.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th/id/OIF.F7p1ZIcB5uJKgRkiUTfHyw?pid=Api",
+                "title": "Edirne'de Hıdırellez kutlamaları: 4 gün sürecek",
+                "url": "https://www.karar.com/guncel-haberler/edirnede-hidirellez-kutlamalari-4-gun-surecek-1956611"
+              },
+              {
+                "attribution": "NTV Haber",
+                "content_size": {
+                  "height": 562,
+                  "width": 1000
+                },
+                "content_url": "https://cdn1.ntv.com.tr/gorsel/GjiaGYLA6kKB4rdNH2ftqQ.jpg?mode=both&scale=both&v=1746453380124&width=1000",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse3.mm.bing.net/th?id=OIF.%2fnouiMc7KSgg9v%2bE0Yjb8g&pid=Api",
+                "title": "Hıdırellez kutlamaları başladı: Hıdırellez nedir, ne zaman, nasıl ...",
+                "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ"
+              },
+              {
+                "attribution": "Turgutlu Yankı",
+                "content_size": {
+                  "height": 720,
+                  "width": 1280
+                },
+                "content_url": "https://www.turgutluyanki.com/images/haberler/2025/05/6815b77a9faf0_manisada-hidirellez-kutlamalari-4-mayis-basliyor_h.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse2.mm.bing.net/th?id=OIF.436Gjuyo%2fMM0zQx7EpQpDA&pid=Api",
+                "title": "Manisa'da Hıdırellez kutlamaları 4 Mayıs başlıyor - Turgutlu Yankı",
+                "url": "https://www.turgutluyanki.com/manisada-hidirellez-kutlamalari-4-mayis-basliyor/99471"
+              },
+              {
+                "attribution": "Haberler",
+                "content_size": {
+                  "height": 800,
+                  "width": 1200
+                },
+                "content_url": "https://foto.haberler.com/haber/2025/04/17/ceribasi-fikri-ocak-tan-kakava-ya-renkli-dave-18583133_amp.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse4.mm.bing.net/th/id/OIF.C5CgYmSJkU4OPvOtp0sWsg?pid=Api",
+                "title": "Edirne'de Kakava-Hıdırellez Şenlikleri için Roman Kültürü Kutlamaları ...",
+                "url": "https://www.haberler.com/kultur-sanat/edirne-de-kakava-hidirellez-senlikleri-icin-roman-kulturu-kutlamalari-18583133-haberi/"
+              },
+              {
+                "attribution": "Antakya Gazetesi",
+                "content_size": {
+                  "height": 650,
+                  "width": 1080
+                },
+                "content_url": "https://antakyagazetesi.com/wp-content/uploads/2025/05/IMG-20250505-WA0014-1080x650.jpg",
+                "thumbnail_crop_info": null,
+                "thumbnail_size": {
+                  "height": 300,
+                  "width": 300
+                },
+                "thumbnail_url": "https://tse1.mm.bing.net/th/id/OIF.BrmeToGQoUijPgeBzrXkFA?pid=Api",
+                "title": "Kadın Emeği ve Sanat Buluşması Hıdırellez ile Bir Araya Geliyor ...",
+                "url": "https://antakyagazetesi.com/kadin-emegi-ve-sanat-bulusmasi-hidirellez-ile-bir-araya-geliyor/"
+              }
+            ],
+            "message_locale": "tr-TR",
+            "model_slug": "gpt-4o",
+            "parent_id": "1c298e96-e764-42bb-9033-f3aa6e6a3257",
+            "search_result_groups": [
+              {
+                "domain": "milliyet.com.tr",
+                "entries": [
+                  {
+                    "attribution": "Milliyet",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "",
+                    "title": "HIDRELLEZ BUGÜN MÜ, NE ZAMAN? Hıdırellez ne zaman nasıl kutlanır?",
+                    "url": "https://www.milliyet.com.tr/galeri/hidrellez-ne-zaman-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-7364542"
+                  }
+                ]
+              },
+              {
+                "domain": "lezzet.com.tr",
+                "entries": [
+                  {
+                    "attribution": "Lezzet",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez'in en bilinen ve en sevilen geleneği ise dört yol ağzına ateş yakmaktır. Ateşin üzerinden 3 kez atlanır. Ateşten atlandığı zaman kış ...",
+                    "title": "Hıdırellez Gelenekleri Nelerdir: 10 Farklı Ritüel - Lezzet",
+                    "url": "https://www.lezzet.com.tr/lezzetten-haberler/hidirellez-gelenekleri-nelerdir"
+                  }
+                ]
+              },
+              {
+                "domain": "wikipedia.org",
+                "entries": [
+                  {
+                    "attribution": "Vikipedi: Özgür Ansiklopedi",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Türkiye'de Hıdrellez Bayramı 5 Mayıs'ı 6 Mayıs'a bağlayan gece kutlanır. Bugün Hıristiyanlarca da baharın ve doğanın uyanmasının ilk günü olarak kabul ...",
+                    "title": "Hıdırellez - Vikipedi",
+                    "url": "https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1rellez"
+                  }
+                ]
+              },
+              {
+                "domain": "ntv.com.tr",
+                "entries": [
+                  {
+                    "attribution": "NTV Haber",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "",
+                    "title": "Hıdırellez nedir, ne zaman, nasıl kutlanır? Hıdırellez kaç gün sürecek?",
+                    "url": "https://www.ntv.com.tr/galeri/turkiye/hidirellez-ne-zaman-hangi-gunbugun-hidirellez-mi%2CvZUuysMDvUy8-PbRCPopnQ"
+                  }
+                ]
+              },
+              {
+                "domain": "hurriyet.com.tr",
+                "entries": [
+                  {
+                    "attribution": "Hürriyet Haber",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "",
+                    "title": "HIDIRELLEZ HEYECANI BAŞLIYOR || Hıdırellez bugün mü, ne zaman nasıl kutlanır? İşte sorgulanan sorunun cevabı",
+                    "url": "https://www.hurriyet.com.tr/bilgi/galeri-hidirellez-kutlama-tarihleri-hidirellez-bugun-mu-ne-zaman-nasil-kutlanir-iste-sorgulanan-sorunun-cevabi-42788670"
+                  }
+                ]
+              },
+              {
+                "domain": "ktb.gov.tr",
+                "entries": [
+                  {
+                    "attribution": "<%= Page.Title %>",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Mudurnu ilçesinde Hidrellez günü helva basılır, börekler yapılır ve kırlara gidilir, Kırmızı gül dibine bozuk para koyulup bir gün ...",
+                    "title": "Hıdrellez Gelenekleri - - BOLU İL KÜLTÜR VE TURİZM MÜDÜRLÜĞÜ",
+                    "url": "https://bolu.ktb.gov.tr/TR-69951/hidrellez-gelenekleri.html"
+                  },
+                  {
+                    "attribution": "Yakegm",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Ruz-ı Hızır (Hızır günü) olarak adlandırılan Hıdrellez günü, Hızır ve İlyas Peygamber'in yeryüzünde buluştukları gün olması nedeniyle kutlanmaktadır.",
+                    "title": "Hıdrellez Kutlamaları",
+                    "url": "https://yakegm.ktb.gov.tr/TR-12336/hidrellez-kutlamalari.html"
+                  }
+                ]
+              },
+              {
+                "domain": "richmondnua.com",
+                "entries": [
+                  {
+                    "attribution": "Ana Sayfa",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez her yıl, 5 Mayıs'ı 6 Mayıs'a bağlayan akşam ve gece kutlanır. İnsanlar bu gecede dileklerini bir kâğıda yazarak, çizerek anlatır ve ...",
+                    "title": "Hıdırellez Nedir, Ritüelleri Nelerdir? - Richmond Nua Wellness Spa",
+                    "url": "https://www.richmondnua.com/nua-blog/kesfet/umut-mevsimi-geldi-hidirellez-nedir-nasil-kutlanir-rituelleri-nelerdir/"
+                  }
+                ]
+              },
+              {
+                "domain": "onedio.com",
+                "entries": [
+                  {
+                    "attribution": "Onedio",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez gecesinin en bilinen geleneği, dört yol ağzına ateş yakmaktır. Bu ateşin üzerinden 3 kez atlanır. Üç kez ateşten atlayan kişinin, kış ...",
+                    "title": "Hıdırellez Gelenekleri ve Ritüelleri Nelerdir? - Onedio",
+                    "url": "https://onedio.com/haber/en-ozel-hidirellez-gelenekleri-hidirellez-de-hangi-dualar-edilir-hangi-ritueller-yapilir-1220484"
+                  }
+                ]
+              },
+              {
+                "domain": "trendyol.com",
+                "entries": [
+                  {
+                    "attribution": "Trendyol.com",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez; Orta Asya, Ortadoğu, Anadolu ve Balkanlarda kutlanan mevsimlik bir bayram oluyor. Türkiye'de bu bayram 5-6 Mayıs tarihlerinde kutlanıyor.",
+                    "title": "Hıdırellez Nedir? Ne Zaman Kutlanır? - Trendyol Blog",
+                    "url": "https://www.trendyol.com/s/hidirellez-nedir-blog"
+                  }
+                ]
+              },
+              {
+                "domain": "vodafone.com.tr",
+                "entries": [
+                  {
+                    "attribution": "VODAFONE",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Dilek Dilemek: Hıdırellez bayramında herkesçe bilinen en yaygın ritüel dilek dilemektir. · Ateş Üzerinden Atlamak: Hıdırellez'in en keyifli ...",
+                    "title": "Hıdırellez Geleneği ve Yemekleri | Vodafone Blog",
+                    "url": "https://www.vodafone.com.tr/ayricalikli-alisveris/blog/hidirellez-gelenegi-ve-yemekleri"
+                  }
+                ]
+              },
+              {
+                "domain": "youtube.com",
+                "entries": [
+                  {
+                    "attribution": "YouTube",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "... Hıdırellez gecesinin spiritüel yönlerini de keşfedeceksiniz! Bu videoda bulacaklarınız: Hıdırellez nedir ve ne zaman kutlanır? Hıdırellez'in ...",
+                    "title": "Hıdırellez Nedir? Dileklerin Gerçekleştiği Gece! - YouTube",
+                    "url": "https://www.youtube.com/watch?v=VJ65zENesG4"
+                  }
+                ]
+              },
+              {
+                "domain": "birartiiki.com",
+                "entries": [
+                  {
+                    "attribution": "Anasayfa |",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdrellez günü işe gidilmez, uğursuzluk olur. Hıdrellez günü salıncakta sallanmayanın beli ağrır. Hıdrellez günü demir tutmak uğursuzluk getirir. Meyve vermeyen ...",
+                    "title": "HIDIRELLEZ KUTLAMA ADET ve GELENEKLERİ | - birartiiki.com",
+                    "url": "https://birartiiki.com/hidirellez-kutlama-adet-ve-gelenekleri/"
+                  }
+                ]
+              },
+              {
+                "domain": "haberturk.com",
+                "entries": [
+                  {
+                    "attribution": "Habertürk",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez, Türk dünyasında ve bazı Balkan ülkelerinde kutlanan mevsimlik bir bayramdır. Her yıl 5-6 Mayıs tarihlerinde kutlanan Hıdırellez, ...",
+                    "title": "Hıdırellez ne zaman, hangi tarihte? Hıdırellez ritüelleri, gelenekleri ...",
+                    "url": "https://www.haberturk.com/hidirellez-ne-zaman-hangi-tarihte-hidirellez-rituelleri-gelenekleri-ve-tarihi-hidirellezde-neler-yapilir-3787913"
+                  }
+                ]
+              },
+              {
+                "domain": "bolu.gov.tr",
+                "entries": [
+                  {
+                    "attribution": "Bolu Belediyesi",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Bir gün önceki akşam herhangi bir gül ağacının dibine küp gömülmekte ve sabah manilerle açılmaktadır. O gün hiçbir tarla, bahçe işi yapılmaz. Ev isteyenler ...",
+                    "title": "Hıdrellez Gelenekleri - T.C. Bolu Valiliği",
+                    "url": "https://www.bolu.gov.tr/hidrellez-gelenekleri"
+                  }
+                ]
+              },
+              {
+                "domain": "nefisyemektarifleri.com",
+                "entries": [
+                  {
+                    "attribution": "Nefis Yemek Tarifleri",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez her yıl mayıs ayı geldiğinde kutlanmaktadır. · Çok uzun zamandır 6 Mayıs Hıdırellez Bayramı olarak insanlar arasında anlam bulur. · Eskiden halk ...",
+                    "title": "Hıdırellez Nedir, Ne Zaman? Ritüelleri, Dilekleri - Nefis Yemek Tarifleri",
+                    "url": "https://www.nefisyemektarifleri.com/blog/hidirellez-nedir-hidirellezde-neler-yapilir-hidirellez-rituelleri/"
+                  }
+                ]
+              },
+              {
+                "domain": "quicksigorta.com",
+                "entries": [
+                  {
+                    "attribution": "Quick Sigorta Blog",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Hıdırellez'in en bilinen geleneklerinden biri, gül ağacı altına dileklerin çizilmiş olduğu kâğıdı akşamdan gömüp sabah da akan suya atmak.",
+                    "title": "Yaşayan 10 Hıdrellez Geleneği - QBLOG - Quick Sigorta Blog",
+                    "url": "https://blog.quicksigorta.com/trend/yasayan-10-hidrellez-gelenegi-2711"
+                  }
+                ]
+              },
+              {
+                "domain": "ensonhaber.com",
+                "entries": [
+                  {
+                    "attribution": "Ensonhaber",
+                    "attributions": null,
+                    "content_type": null,
+                    "snippet": "Ateş Üzerinden Atlamak: Hıdırellez'in simgelerinden biri de ateşin etrafında dönmek ve ateş üzerinden atlamaktır. Bu gelenek, kötü enerjilerden ...",
+                    "title": "Hıdırellez ritüelleri ve gelenekleri: Hıdırellez'de ne yapılır?",
+                    "url": "https://www.ensonhaber.com/bilgi/hidirellez-rituelleri-ve-gelenekleri-hidirellezde-ne-yapilir"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "parent": "bbb21aac-7282-4f92-9053-117075cad443"
+      }
+    },
+    "memory_scope": "project_enabled",
+    "pinned_time": null,
+    "plugin_ids": null,
+    "title": "Hıdırellez Kutlamaları ve Gelenekler",
+    "update_time": 1746463950.369048,
+    "voice": null
+  }
+}

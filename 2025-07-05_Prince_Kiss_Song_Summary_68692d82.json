@@ -1,0 +1,2644 @@
+{
+  "conversation_id": "68692d82-65ac-800f-86c6-8e2a572e7bd1",
+  "title": "Prince Kiss Song Summary",
+  "category": "chatgpt_projects",
+  "category_detail": "Project ID: g-p-6814a5b9b5208191a21cbd8d16ad94ba",
+  "created_at": "2025-07-05 14:49:54",
+  "updated_at": "2026-07-17 23:56:57",
+  "source_chunk": "conversations-008.json",
+  "total_messages": 20,
+  "dialogue_turns": [
+    {
+      "role": "user",
+      "timestamp": "2026-06-22 14:20:58",
+      "text": "Can you add a minimalistic lyrics that goes with overall musical vibe"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2025-07-05 14:50:00",
+      "text": "iturn0image0turn0image7turn0image8turn0image3\n\nYou're likely referring to **“Kiss” by Prince**, his iconic minimalist funk-pop track released on 5 February 1986 as the lead single from the album *Parade* citeturn0search0turn0search15.\n\nIt became a global No 1—holding the top spot on the US *Billboard* Hot 100 for two weeks—and is certified gold citeturn0search0. The song stands out for its stripped-down instrumentation: no bassline, just drum-machine, funky guitar, and Prince’s signature falsetto citeturn0search0turn0search17turn0search15. Esteemed critics consider it one of his greatest:\n\n- Voted No 85 on *Rolling Stone*’s *500 Greatest Songs of All Time* (2021) citeturn0search0turn0search17turn0search15  \n- NME ranked it No 4 among the *150 Greatest Singles of All Time* citeturn0search0  \n- *Pitchfork* lauded its \"shockingly spare\" yet otherworldly funk groove citeturn0news8\n\nPrince even won a Grammy for Best R&B Performance by a Duo or Group for \"Kiss\" citeturn0search0turn0search17.\n\nvideoPrince – Kiss (Live At Paisley Park, 1999)turn0search4\n\n**Why it matters:**  \n- **Minimalist genius:** Built on a simple guitar-as-hi-hat riff, no bass, and a tight drum machine; yet incredibly catchy citeturn0search0turn0news8.  \n- **Liberating lyrics:** Prince celebrates authenticity and natural beauty—“You don't have to be rich… You don't have to be cool to rule my world…”—emphasising real connection over superficiality citeturn0search0turn0search17.  \n- **Creative backstory:** Originally an acoustic blues demo passed to protégés Mazarati, with arrangement and background vocals by David Z and the band. Prince later reclaimed and added his own falsetto, guitar riffs, and arrangement adjustments citeturn0search0turn0search17turn0news9.  \n- **Enduring influence:** It inspired numerous covers—like Art of Noise ft. Tom Jones—and remains a concert staple citeturn0search0turn0search17.\n\n**In summary:** \"Kiss\" is a masterclass in how minimalism can maximise impact. It's upbeat yet intimate, funky yet vulnerable—a standout moment in Prince’s brilliant catalogue.\n\nWould you like to explore its production techniques, cover versions, or its place in *Parade*’s legacy?"
+    },
+    {
+      "role": "user",
+      "timestamp": "2025-07-05 14:49:54",
+      "text": "kiss prince"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-22 14:22:49",
+      "text": "Can you add minimalistic lyrics to this that has the same vibe with the overall musical production?"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-21 10:09:54",
+      "text": "image_group{\"aspect_ratio\":\"16:9\",\"query\":[\"Prince Kiss 1986 performance\",\"Prince Parade era\",\"Prince studio portrait 1986\",\"Prince guitar performance Kiss\"]}\n\nIf you're interested in the production side of **entity[\"song\",\"Kiss\",\"Prince song (1986)\"]**, it's often cited as an example of how removing elements can make a record stronger.\n\n### Why \"Kiss\" sounds so unique\n\n#### 1. Almost no bass\nMost pop, funk, and R&B records rely heavily on bass guitar or synth bass.\n\n\"Kiss\" largely avoids a traditional bassline. Instead, the groove is carried by:\n\n- Drum machine\n- Rhythm guitar\n- Vocal rhythm\n- Percussion accents\n\nThis creates a surprisingly spacious mix.\n\n#### 2. Guitar becomes percussion\nThe guitar isn't just playing chords.\n\nentity[\"musical_artist\",\"Prince\",\"American singer-songwriter\"] uses short, muted funk stabs that behave almost like hi-hats or shakers. The guitar locks tightly with the drums, creating the track's signature bounce.\n\n#### 3. Drum machine discipline\nThe drum pattern is extremely simple:\n\n- Dry kick\n- Sharp snare\n- Minimal fills\n- Lots of repetition\n\nRather than changing the beat constantly, the arrangement creates interest by adding and removing elements.\n\n#### 4. Vocal as a rhythmic instrument\nListen closely and you'll notice the vocal doesn't merely follow the beat.\n\nPrince's:\n- Falsetto phrases\n- Breath sounds\n- Spoken interjections\n- Background responses\n\nall function as percussion.\n\nMany modern producers overlook this. In \"Kiss,\" the vocal groove is as important as the drum groove.\n\n#### 5. Extreme arrangement restraint\nA typical pop song might have:\n- Drums\n- Bass\n- Keys\n- Pads\n- Multiple guitars\n- Strings\n- FX\n\n\"Kiss\" strips away nearly everything unnecessary.\n\nThis creates:\n- More punch\n- More space\n- More tension\n- Greater impact when new elements appear\n\n### A useful lesson for Suno or music production\n\nMany creators try to improve a track by adding layers.\n\n\"Kiss\" demonstrates the opposite principle:\n\n> Remove elements until every remaining part is essential.\n\nThat approach often produces stronger grooves, clearer vocals, and more memorable hooks.\n\n### If you want to recreate the vibe\n\nA modern production brief might be:\n\n```txt\nMinimalist funk-pop, 112 BPM, dry drum machine groove,\nmuted rhythm guitar stabs, sparse arrangement, no dominant\nbassline, falsetto lead vocal, playful confidence, intimate\nmix, vintage 1980s funk energy, tight syncopation,\nminimal reverb, groove-driven production\n```\n\nFor Suno specifically, I can also break down \"Kiss\" into:\n- Song structure\n- Chord movement\n- Drum pattern\n- Guitar pattern\n- Vocal techniques\n- A Suno-compatible prompt inspired by the production style (without imitating Prince directly)"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-22 14:39:09",
+      "text": "[Song's Style: minimal funk-pop x nu-funk dance groove, playful confident flirtatious effortlessly cool, 112 bpm, key of e minor, dry drum machine groove with tight kick snare and crisp closed hi-hats, muted syncopated funk guitar stabs, subtle hand percussion, sparse electric piano accents, minimal bass, rhythmic vocal ad-libs, intimate vintage analog warmth, lots of negative space]\n\n[style prompt: minimal funk-pop nu-funk dance groove, dry drum machine beats, syncopated muted rhythm guitar, playful expressive conversational vocals with light falsetto, intimate close-mic production, vintage analog character, sparse arrangement, strong pocket, groove-driven with human feel, sophisticated yet infectious rhythm]\n\nLyrics:\n[title]\nbarely groove\n\n[short instrumental intro]\n*muted guitar stabs and tight drum pocket establishing the lean swing*\n\n[verse 1]\nooh say it slow ooh, \nsaw you stealing glances then playing it shy, \ni feel that same quiet pull, no need to hide, \nyou move like the room belongs to that spark in your eye\n\n[pre chorus]\nsteady in the lights but your vibe pulls me near, \ni keep it light and easy, let the tension sit right here\n\n[chorus]\ni'll be careless with you, careless with you, \nlose you in the party then find you when it feels true, \ncareless with you, careless with you, \nlove the way we barely touch, barely, barely, barely touch\n\n[verse 2]\nstepped close to dance, knew you'd catch the signal, \ntake you home yeah the want runs mutual and deep, \ndon't go sweet on purpose, i'm already leaning, \nyour sleeve under my fingers said more than words could speak\n\n[chorus]\ni'll be careless with you, careless with you, \nlose you at the party then find you after three, \ncareless with you, careless with you, \ni like when we barely touch, barely, barely, barely touch\n\n[instrumental groove break]\n*drum machine tightens, guitar stabs answer the hi-hats, hand percussion fills the spaces, vocal ad-libs echo playfully*\n\n[final chorus]\nbe careless with me too, careless with me, \nwe can get lost then chase this gentle heat, \ncareless with you, careless with me, \nthis barely touch holds the whole night, barely, barely, barely touch\n\n[outro]\nooh you wanna go out, \nyeah that sounds nice and real, \nsay it slow, \nbarely with you, \n*sparse guitar fade into silence, last hi-hat tick*\n\n*light falsetto on barely lines, conversational delivery throughout, vocal interacts with the groove like percussion, small dynamic shifts every 8 bars, keep everything dry and in the pocket*"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-22 14:25:26",
+      "text": "We were making song by inspired prince kiss. And I have you a sample SUNO struts tee. I did it ask you to remake that song ."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-22 14:22:50",
+      "text": "Yes. Looking at the production brief, the music is doing most of the emotional work:\n\n- Dance-punk groove\n- Bouncy bass\n- Sharp guitar stabs\n- Neon synth accents\n- Stylish nightclub tension\n- Flirtation mixed with distance\n- Female lead as the moving figure\n- Male voice as the grounded observer\n\nFor that type of arrangement, I would make the lyrics even more economical and repetitive. The repetition becomes part of the groove.\n\n:::writing{variant=\"standard\" id=\"32854\"}\n[Verse 1]\n\n[Female Lead]\n\nHeard you asking after me\nIn the neon\nIn the heat\n\nHeard you calling out my name\nI was already\nMoving on\n\n[Male Voice]\n\nShe was only passing through\n\n[Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\n\nDid you see me?\n(See me)\n\nSpinning in the lights\n\nDid you see me?\n\nI was gone before the dawn\n\n[Verse 2]\n\n[Female Lead]\n\nEvery corner\nEvery street\n\nEvery shadow\nLooks at me\n\nYou were searching\nI was dancing\n\nTo another song\n\n[Male Voice]\n\nSome things never stay too long\n\n[Bridge]\n\n[Female Lead]\n\nCatch me in a flash of light\n\nCatch me in a photograph\n\nCatch me in a memory\n\nThen let it fade\n\n[Male Voice]\n\nNothing lost\nNothing broken\n\nJust a night\nMoving on\n\n[Final Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\n\nDid you see me?\n(See me)\n\nSpinning in the lights\n\nDid you see me?\n\nI was gone before the dawn\n\n[Outro]\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nYou should move on\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nI'm already gone\n\n(Already gone)\n:::\n\nFor this particular production, I would actually expect this version to perform better than a lyric-heavy version because the groove, bassline, guitar stabs, and vocal attitude become the hook rather than the narrative. That's very consistent with dance-punk, art-pop, post-disco, and the kind of minimalist club storytelling your production notes suggest."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-22 14:20:58",
+      "text": "Yes. For that dance-punk / art-pop / post-punk groove, I'd actually reduce the lyric density and let the rhythm carry more of the track. The current version tells quite a complete story. A more Crazy P, LCD Soundsystem, ESG, early Róisín Murphy, post-disco approach would leave more air between lines.\n\nSomething like:\n\n:::writing{variant=\"standard\" id=\"61482\"}\n[Verse 1]\n\n[Female Lead]\n\nHeard you asking after me\nIn the lights\nIn the smoke\n\nHeard you calling out my name\nI just smiled\nAnd I disappeared\n\n[Male Voice]\n\nShe was only passing through\nYou should let it go\n\n[Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\n\nDid you see me?\n(See me)\n\nLaughing in the neon\n\nDid you see me?\n\nI was gone before the dawn\n\n[Verse 2]\n\n[Female Lead]\n\nEvery corner\nEvery street\n\nEvery face\nLooking back at me\n\nYou were searching\nI was moving\n\nNever staying\nLong enough\n\n[Male Voice]\n\nSome things only last a night\n\n[Bridge]\n\n[Female Lead]\n\nIf you catch me in the mirror\nDon't look twice\n\nIf you hear me in the music\nLet it pass\n\n[Male Voice]\n\nNothing broken\nNothing lost\n\nJust another goodbye\n\n[Final Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\n\nDid you see me?\n(See me)\n\nLaughing in the neon\n\nDid you see me?\n\nI was gone before the dawn\n\n[Outro]\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nYou should move on\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nI'm already gone\n\n(Already gone)\n:::\n\nThis version gives the instruments much more room to breathe. The bass, guitar stabs, drums, and synth accents become part of the conversation instead of constantly competing with lyrics. That's often where this kind of stylish nightclub music becomes strongest."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-22 14:39:10",
+      "text": "Now I understand what you were doing.\n\nYou already had a **Kiss-inspired original song**. You weren't asking for new lyrics. You were showing a completed Suno prompt and, implicitly, checking whether the lyric/prodution relationship actually matches the style brief.\n\nThe answer is: **mostly yes, but the lyrics are still denser and more romantic-pop than the production suggests.**\n\nThe production brief says:\n\n- minimal funk-pop\n- groove-first\n- negative space\n- conversational\n- rhythmic vocals\n- vocal acts like percussion\n- sparse arrangement\n- intimate and playful\n\nBut some lines read more like contemporary indie-pop:\n\n```txt\nsaw you stealing glances then playing it shy\ni feel that same quiet pull, no need to hide\n```\n\nand\n\n```txt\nyour sleeve under my fingers said more than words could speak\n```\n\nThose are good lyrics, but they're descriptive.\n\nThe production wants slightly more *physical rhythm* and slightly less *explanation*.\n\nFor example:\n\n```txt\nsaw you looking once\nthen looking away\n\ni did the same thing\nanyway\n```\n\nor\n\n```txt\nstepped into the groove\ncaught your eye\n\nsaid nothing\nall night\n```\n\nNot because they're better poetry.\n\nBecause they leave more room for:\n\n- guitar stabs\n- drum pocket\n- falsetto fills\n- ad-libs\n- silence\n\nThe strongest section is actually the chorus:\n\n```txt\ncareless with you\ncareless with you\n\nlose you in the party\nthen find you when it feels true\n```\n\nbecause it has:\n\n- repetition\n- hook language\n- rhythmic phrasing\n- conversational tone\n\nwhich fits the style brief perfectly.\n\nThe other thing I notice is that your style says:\n\n```txt\nminimal bass\n```\n\nbut the lyric concept:\n\n```txt\nlose you in the party\nfind you again\nbarely touch\n```\n\nis actually very close to the emotional ambiguity that works in a Kiss-inspired track.\n\nSo I would not rewrite the song.\n\nI would only trim maybe 15–20% of the verse wording and let the groove breathe more.\n\nStructurally, however, your format is already much closer to what I would standardize:\n\n```txt\n[Song's Style]\n\n[Style Prompt]\n\nLyrics:\n\n[Title]\n\n[Short Instrumental Intro]\n\n[Verse 1]\n\n[Pre Chorus]\n\n[Chorus]\n\n[Verse 2]\n\n[Chorus]\n\n[Instrumental Groove Break]\n\n[Final Chorus]\n\n[Outro]\n\n[Performance Notes]\n```\n\nAnd yes, I agree with your earlier point:\n\n- `[ ]` = all instructions and section labels\n- `( )` = harmonies / echoes / responses / layers\n- plain text = lyrics\n- `* *` is unnecessary and introduces another syntax system\n\nSo I'd actually replace:\n\n```txt\n*muted guitar stabs and tight drum pocket*\n```\n\nwith:\n\n```txt\n[Muted guitar stabs and tight drum pocket establishing the lean swing]\n```\n\nand:\n\n```txt\n*light falsetto on barely lines*\n```\n\nwith:\n\n```txt\n[Light falsetto on \"barely\" phrases]\n```\n\nThat gives you one consistent language throughout the entire prompt."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-21 22:56:11",
+      "text": "Thanks please is this format. I mean just something consistent. So ai should follow without confusing. For example section names in [] , and other non lyrical content somehow has to be consistent again.either put in [], or make them bold , or italic, remember using () creates echo, back vocal or layer harmony. So just saying. \nStyles: Dance-punk / art-pop / post-punk duet at 128 BPM. Lean, wiry, kinetic groove with sharp offbeat guitar stabs, elastic bouncy bass, twitchy crisp drums, and neon synth accents. Bright airy female lead up front; warm low male voice enters briefly in a drier, grounded tone. Minimal pads, strong rhythmic contrast, stylish nightclub tension. Avoid EDM drops, oversized pad wash, glossy corporate pop, and royalty-free stock feel.]\n\n[Song Description: Flirtatious, elusive, and slightly bittersweet — like someone dancing out of reach in a neon club while a calm voice on the sidelines tells you to let go.]\n\nLyrics:\n\n[Intro]\n[Bar 1–2: muted guitar stab motif + filtered noise/synth bed,\nBar 3–4: bass enters with a playful bouncing figure,\nBar 5–8: kick, hats, and snare lock in; tiny vocal breath/chop hints at the female lead]\n\n[Verse 1 - female] Heard you been asking around for me I'm nowhere to be found \nWe shared a dance together\nBut I rarely stick around \nHeard you're looking for me \nI don't mean to do you wrong\n\n[Male] She was only passing through, boy So you better move on\n\n[Chorus] Did you see me? (See me) Dancing through the crowd Like a sparkle in the spotlight I was laughing out so loud Did you see me? (See me) Now I'm moving on You don't need to chase me ever I was gone before the dawn\n\n[Verse 2 - female] Heard you're looking for me In the corners of the town Every shadow, every alley But I never settle down Heard you're looking for me Like a spark that won't stay lit\n\n[Male] It was just a lovely evening And I really needed it\n\n[Bridge - female] If you catch me in the mirror Smile and let the image fade I was dancing for the feeling Not to stay inside the shade\n\n[Bridge - male] You can look across the ocean You can look across the sky But the sweet things disappear, boy With a whispered goodbye\n\n[Chorus] Did you see me? (See me) Dancing through the crowd Like a sparkle in the spotlight I was laughing out so loud Did you see me? (See me) Now I'm moving on You don't need to chase me ever I was gone before the dawn\n\n[Outro] [Female] Are you looking for me? [Male] You better move on [Female] Are you looking for me? [Male] Well, I'm already gone (Already gone)"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-22 14:40:12",
+      "text": "I've kept your concept, hook, structure, and production direction intact. The changes are:\n\n- Removed `* *` instructions and converted everything to `[ ]`.\n- Tightened some verse lines so they sit better in a groove-first arrangement.\n- Kept the conversational, flirtatious feel.\n- Left the chorus largely intact because it's already the strongest section.\n- Standardized the format so every non-lyric instruction uses `[ ]` and every vocal layer/echo uses `( )`.\n\n:::writing{variant=\"standard\" id=\"68421\"}\n[Song's Style: minimal funk-pop x nu-funk dance groove, playful confident flirtatious effortlessly cool, 112 BPM, key of E minor, dry drum machine groove with tight kick snare and crisp closed hi-hats, muted syncopated funk guitar stabs, subtle hand percussion, sparse electric piano accents, minimal bass, rhythmic vocal ad-libs, intimate vintage analog warmth, lots of negative space]\n\n[Style Prompt: minimal funk-pop nu-funk dance groove, dry drum machine beats, syncopated muted rhythm guitar, playful expressive conversational vocals with light falsetto, intimate close-mic production, vintage analog character, sparse arrangement, strong pocket, groove-driven with human feel, sophisticated yet infectious rhythm]\n\nLyrics:\n\n[Title]\nBarely Groove\n\n[Short Instrumental Intro]\n\n[Muted guitar stabs and tight drum pocket establishing the lean swing]\n\n[Verse 1]\n\nOoh, say it slow, ooh\n\nSaw you stealing glances, then playing it shy\nI felt that same pull, no need to hide\nYou move like the room belongs to that spark in your eye\n\n[Pre-Chorus]\n\nSteady in the lights but your vibe pulls me near\nI keep it easy, let the tension stay right here\n\n[Chorus]\n\nI'll be careless with you\nCareless with you\n\nLose you in the party\nThen find you when it feels true\n\nCareless with you\nCareless with you\n\nLove the way we barely touch\nBarely, barely, barely touch\n\n[Verse 2]\n\nStepped close to dance\nKnew you'd catch the signal\n\nTake you home, yeah\nThe want runs mutual\n\nDon't go sweet on purpose\nI'm already leaning\n\nYour sleeve under my fingers\nSaid enough for me\n\n[Chorus]\n\nI'll be careless with you\nCareless with you\n\nLose you at the party\nThen find you after three\n\nCareless with you\nCareless with you\n\nI like when we barely touch\nBarely, barely, barely touch\n\n[Instrumental Groove Break]\n\n[Drum machine tightens. Guitar stabs answer the hi-hats. Hand percussion fills the spaces. Vocal ad-libs echo playfully.]\n\n[Final Chorus]\n\nBe careless with me too\nCareless with me\n\nWe can get lost\nThen chase this gentle heat\n\nCareless with you\nCareless with me\n\nThis barely touch\nHolds the whole night\n\nBarely, barely, barely touch\n\n[Outro]\n\nOoh, you wanna go out\n\nYeah, that sounds nice and real\n\nSay it slow\n\nBarely with you\n\n[Sparse guitar fade into silence. Final hi-hat tick.]\n\n[Light falsetto on \"barely\" phrases. Conversational delivery throughout. Vocal interacts with the groove like percussion. Small dynamic changes every 8 bars. Keep everything dry, intimate and in the pocket.]\n:::\n\nThis version is closer to the \"Kiss\" principle: less explanation, more rhythm, more space for the groove to do the work."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-22 14:40:11",
+      "text": "Then do it"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-22 14:25:55",
+      "text": "Fick off"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-22 14:25:56",
+      "text": "Fair criticism.\n\nI jumped from \"Prince Kiss-inspired production\" to rewriting the lyrics, when what you were actually discussing was **prompt architecture and formatting standards**.\n\nYour example already had lyrics. The question was about keeping the prompt structure consistent and making sure instructions, arrangement notes, vocal assignments, and lyrics are clearly separated.\n\nI should have focused on the structure itself, not started replacing the song.\n\nThe distinction matters:\n\n- **Production inspiration** = minimalist funk-pop, groove-first, space, rhythmic vocals.\n- **Prompt structure** = how `[Style]`, `[Song Description]`, `[Lyrics]`, `[Verse]`, `[Female Lead]`, `(harmonies)` etc. are formatted.\n- **Song content** = your lyrics.\n\nThose are three separate layers.\n\nWhen you showed the dance-punk example, I should have treated it as a formatting template, not as a candidate for lyrical replacement.\n\nIf you want to continue, tell me which of these you actually want to solve:\n\n1. A permanent Suno formatting standard.\n2. A Prince \"Kiss\"-inspired prompt structure.\n3. A lyric-writing standard that matches groove-first songs.\n4. Something else entirely.\n\nAnd I'll stay on that specific target."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-22 14:25:27",
+      "text": "You're right. I misunderstood your objective.\n\nYou weren't asking me to rewrite the song into a minimalist version.\n\nYou had:\n\n1. A **Prince \"Kiss\" production discussion**.\n2. A **Suno structure/template example** showing how you format prompts.\n3. A request about **consistent prompt formatting**.\n\nThe goal was to add a *small amount of lyric guidance* that fits the musical production style, not replace the song with a new minimalist lyric.\n\nFor a \"Kiss\"-inspired production, the important thing isn't reducing the song into fragments. It's understanding why the lyrics work with the groove:\n\n- conversational\n- playful\n- teasing\n- confident\n- rhythmic\n- economical\n- lots of space between ideas\n- vocal phrasing acts as percussion\n- call-and-response works well\n- memorable repeated hooks\n\nSo if we take your existing structure, I'd add guidance like this:\n\n:::writing{variant=\"standard\" id=\"51743\"}\n[Lyric Direction]\n\nConversational rather than poetic.\n\nShort phrases preferred over long narrative lines.\n\nUse repetition as a rhythmic tool.\n\nAllow space between ideas so the groove carries the energy.\n\nFlirtatious, playful, elusive and confident.\n\nThe female lead should feel untouchable but never cruel.\n\nThe male voice acts as a grounded observer rather than a second protagonist.\n\nAvoid excessive exposition, detailed storytelling, emotional over-explaining, dramatic heartbreak language, and dense lyric blocks.\n\nPrioritize memorable repeated phrases, call-and-response moments, vocal hooks, spoken-style delivery, and rhythmic phrasing that locks into the groove.\n\nExample tonal references:\n\nFemale:\n\"Did you see me?\"\n\"Maybe I was there.\"\n\"Maybe I was gone.\"\n\"You looked away.\"\n\"I kept dancing.\"\n\nMale:\n\"She was passing through.\"\n\"You should let it go.\"\n\"It was only one night.\"\n\"Some things don't stay.\"\n\nUse lyrics as part of the rhythm section.\nThe groove should remain the primary focus.\n:::\n\nI think this is closer to what you were trying to establish:\n\n- **Style** section = production.\n- **Song Description** section = emotional intent.\n- **Lyric Direction** section = writing rules.\n- **Lyrics** section = actual lyrics.\n\nThat keeps everything consistent and reusable across future Suno projects."
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-21 10:14:21",
+      "text": "If by \"last option\" you mean:\n\n> **A Suno-compatible prompt inspired by the production style of \"Kiss\" without imitating Prince directly**\n\nthen I'd build it around the underlying production principles rather than the artist.\n\n```txt\n[Genre: Minimal Funk-Pop, Nu-Funk, Dance Groove]\n\n[Mood: Playful, Confident, Flirtatious, Effortlessly Cool]\n\n[Tempo: 112 BPM]\n\n[Instrumentation]\nDry drum machine groove, tight kick and snare, crisp closed hi-hats, muted syncopated funk guitar stabs, subtle hand percussion, sparse electric piano accents, minimal bass presence, rhythmic vocal ad-libs, occasional crowd-style responses.\n\n[Production]\nExtremely minimalist arrangement, lots of negative space, groove-driven composition, dry mix, very little reverb, punchy transients, intimate vocals, vintage analog character, organic human timing, dynamic arrangement through subtraction rather than addition.\n\n[Vocal Style]\nExpressive lead vocal, conversational phrasing, playful attitude, light falsetto moments, rhythmic delivery, natural imperfections, close-mic intimacy.\n\n[Song Structure]\nShort instrumental intro\nVerse 1\nPre-Chorus\nChorus\nVerse 2\nChorus\nInstrumental Groove Break\nFinal Chorus\nOutro\n\n[Arrangement Notes]\nThe groove carries the song. Every instrument serves the rhythm. No oversized synths, no orchestral layers, no wall of sound. Keep the track lean, infectious, and danceable. Introduce small changes every 8 bars. Use silence and space as musical elements. The vocal interacts with the groove like another percussion instrument.\n\n[Master Prompt]\nMinimal funk-pop dance groove with dry drum machine beats, syncopated muted rhythm guitar, playful expressive vocals, intimate production, vintage analog warmth, sparse arrangement, strong pocket, infectious rhythm, conversational attitude, human feel, dancefloor-ready energy, sophisticated groove, modern fidelity with classic funk sensibilities.\n```\n\nFor a stronger Suno result, I'd actually push it a little closer to what makes that style work today:\n\n```txt\nMinimal funk-pop, nu-disco groove, dry drum machine, muted rhythm guitar stabs, playful male or female vocal, intimate close-mic delivery, sparse arrangement, organic swing, vintage analog warmth, subtle electric piano, dancefloor groove, infectious pocket, stylish confidence, sophisticated nightlife energy, minimal bass, crisp percussion, negative space, groove-first production, modern studio quality.\n```\n\nThis tends to generate better results because it describes the *mechanics* of the sound rather than relying on references Suno may interpret inconsistently."
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-21 10:14:20",
+      "text": "Ok let’s try last option"
+    },
+    {
+      "role": "assistant",
+      "timestamp": "2026-06-21 22:56:12",
+      "text": "Yes. I think consistency is important, especially if you're building prompts that may pass through ChatGPT → Suno → later edits → remix workflows.\n\nFrom years of user experimentation, the least ambiguous structure is usually:\n\n### Recommended Standard\n\n- `[ ]` = all non-lyric instructions, metadata, arrangement notes, section labels, production notes, vocal assignments.\n- `( )` = sung backing vocals, call-and-response, harmonies, echoes, ad-libs, layered vocals.\n- Plain text = lyrics only.\n- Avoid `**bold**`, `*italic*`, or markdown formatting inside the prompt itself because Suno doesn't consistently interpret them.\n- Never mix systems unless necessary.\n\nSo instead of:\n\n```txt\n[Verse 1 - female]\n```\n\nI would actually standardize to:\n\n```txt\n[Verse 1]\n[Female Lead]\n```\n\nor\n\n```txt\n[Verse 1 | Female Lead]\n```\n\nLikewise:\n\n```txt\n[Male]\nShe was only passing through, boy\nSo you better move on\n```\n\ninstead of embedding speaker changes inside lyric lines.\n\n---\n\nFor your example, I'd normalize it like this:\n\n:::writing{variant=\"standard\" id=\"58271\"}\n[Style]\nDance-punk, art-pop, post-punk duet, 128 BPM. Lean wiry groove. Sharp offbeat guitar stabs. Elastic bouncy bass. Twitchy crisp drums. Neon synth accents. Bright airy female lead. Warm low male voice appears briefly in a dry grounded tone. Minimal pads. Strong rhythmic contrast. Stylish nightclub tension. Avoid EDM drops, oversized pad wash, glossy corporate pop, royalty-free stock feel.\n\n[Song Description]\nFlirtatious, elusive, slightly bittersweet. Like someone dancing out of reach in a neon club while a calm voice on the sidelines tells you to let go.\n\n[Lyrics]\n\n[Intro]\n\n[Arrangement]\nBar 1-2: muted guitar stab motif and filtered synth noise bed.\nBar 3-4: bass enters with playful bouncing figure.\nBar 5-8: kick, hats and snare lock together. Small vocal breath and chop hints.\n\n[Verse 1]\n\n[Female Lead]\n\nHeard you been asking around for me\nI'm nowhere to be found\nWe shared a dance together\nBut I rarely stick around\nHeard you're looking for me\nI don't mean to do you wrong\n\n[Male Voice]\n\nShe was only passing through, boy\nSo you better move on\n\n[Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\nLike a sparkle in the spotlight\nI was laughing out so loud\n\nDid you see me?\n(See me)\n\nNow I'm moving on\nYou don't need to chase me ever\nI was gone before the dawn\n\n[Verse 2]\n\n[Female Lead]\n\nHeard you're looking for me\nIn the corners of the town\nEvery shadow, every alley\nBut I never settle down\n\nHeard you're looking for me\nLike a spark that won't stay lit\n\n[Male Voice]\n\nIt was just a lovely evening\nAnd I really needed it\n\n[Bridge]\n\n[Female Lead]\n\nIf you catch me in the mirror\nSmile and let the image fade\nI was dancing for the feeling\nNot to stay inside the shade\n\n[Bridge]\n\n[Male Voice]\n\nYou can look across the ocean\nYou can look across the sky\nBut the sweet things disappear, boy\nWith a whispered goodbye\n\n[Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\nLike a sparkle in the spotlight\nI was laughing out so loud\n\nDid you see me?\n(See me)\n\nNow I'm moving on\nYou don't need to chase me ever\nI was gone before the dawn\n\n[Outro]\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nYou better move on\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nWell, I'm already gone\n(Already gone)\n:::\n\nThis is very close to the format I would recommend as a permanent project standard:\n\n```txt\n[Style]\n...\n\n[Song Description]\n...\n\n[Lyrics]\n\n[Intro]\n\n[Arrangement]\n...\n\n[Verse 1]\n[Female Lead]\n\nlyrics\n\n[Male Voice]\n\nlyrics\n\n[Chorus]\n\nlyrics\n(harmonies)\n\n[Bridge]\n\n...\n\n[Outro]\n\n...\n```\n\nIt's easy for humans to read, easy to edit later, and keeps a strict separation between instructions, vocal assignments, and actual lyrics. It also aligns well with the Suno prompt-builder structure you've been developing in your project files. fileciteturn0file15 fileciteturn0file45"
+    },
+    {
+      "role": "user",
+      "timestamp": "2026-06-21 10:09:48",
+      "text": "Yes"
+    }
+  ],
+  "raw_conversation": {
+    "conversation_id": "68692d82-65ac-800f-86c6-8e2a572e7bd1",
+    "conversation_template_id": "g-p-6814a5b9b5208191a21cbd8d16ad94ba",
+    "create_time": 1751723394.558681,
+    "current_node": "9a052489-3fce-4bc4-965c-2a9dcf1b2c3f",
+    "default_model_slug": "gpt-5-5",
+    "id": "68692d82-65ac-800f-86c6-8e2a572e7bd1",
+    "is_archived": false,
+    "is_do_not_remember": false,
+    "is_read_only": null,
+    "is_starred": null,
+    "is_study_mode": false,
+    "mapping": {
+      "167d77ba-b1ae-4de4-b126-e48b070e49a9": {
+        "id": "167d77ba-b1ae-4de4-b126-e48b070e49a9",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Can you add a minimalistic lyrics that goes with overall musical vibe"
+            ]
+          },
+          "create_time": 1782134458.040059,
+          "id": "167d77ba-b1ae-4de4-b126-e48b070e49a9"
+        },
+        "parent": "efe1d40b-f32c-4c3d-95ee-9f41bb6b1475"
+      },
+      "179dba00-835e-43d4-bfde-af5dc79b32da": {
+        "id": "179dba00-835e-43d4-bfde-af5dc79b32da",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "iturn0image0turn0image7turn0image8turn0image3\n\nYou're likely referring to **“Kiss” by Prince**, his iconic minimalist funk-pop track released on 5 February 1986 as the lead single from the album *Parade* citeturn0search0turn0search15.\n\nIt became a global No 1—holding the top spot on the US *Billboard* Hot 100 for two weeks—and is certified gold citeturn0search0. The song stands out for its stripped-down instrumentation: no bassline, just drum-machine, funky guitar, and Prince’s signature falsetto citeturn0search0turn0search17turn0search15. Esteemed critics consider it one of his greatest:\n\n- Voted No 85 on *Rolling Stone*’s *500 Greatest Songs of All Time* (2021) citeturn0search0turn0search17turn0search15  \n- NME ranked it No 4 among the *150 Greatest Singles of All Time* citeturn0search0  \n- *Pitchfork* lauded its \"shockingly spare\" yet otherworldly funk groove citeturn0news8\n\nPrince even won a Grammy for Best R&B Performance by a Duo or Group for \"Kiss\" citeturn0search0turn0search17.\n\nvideoPrince – Kiss (Live At Paisley Park, 1999)turn0search4\n\n**Why it matters:**  \n- **Minimalist genius:** Built on a simple guitar-as-hi-hat riff, no bass, and a tight drum machine; yet incredibly catchy citeturn0search0turn0news8.  \n- **Liberating lyrics:** Prince celebrates authenticity and natural beauty—“You don't have to be rich… You don't have to be cool to rule my world…”—emphasising real connection over superficiality citeturn0search0turn0search17.  \n- **Creative backstory:** Originally an acoustic blues demo passed to protégés Mazarati, with arrangement and background vocals by David Z and the band. Prince later reclaimed and added his own falsetto, guitar riffs, and arrangement adjustments citeturn0search0turn0search17turn0news9.  \n- **Enduring influence:** It inspired numerous covers—like Art of Noise ft. Tom Jones—and remains a concert staple citeturn0search0turn0search17.\n\n**In summary:** \"Kiss\" is a masterclass in how minimalism can maximise impact. It's upbeat yet intimate, funky yet vulnerable—a standout moment in Prince’s brilliant catalogue.\n\nWould you like to explore its production techniques, cover versions, or its place in *Parade*’s legacy?"
+            ]
+          },
+          "create_time": 1751723400.800681,
+          "id": "179dba00-835e-43d4-bfde-af5dc79b32da",
+          "metadata": {
+            "content_references": [
+              {
+                "alt": "[![Classic Tracks: Prince's \"Kiss\"](https://tse4.mm.bing.net/th/id/OIP.la9MfI5cNaS6CU9jqPVn4AHaHS?pid=Api)](https://www.mixonline.com/recording/classic-tracks-princes-kiss-365014)\n",
+                "images": [
+                  {
+                    "attribution": "mixonline.com",
+                    "content_size": {
+                      "height": 561,
+                      "width": 570
+                    },
+                    "content_url": "https://www.mixonline.com/wp-content/uploads/2001/06/prince-and-the-revolution_kiss-extended-version_2.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 466,
+                      "width": 474
+                    },
+                    "thumbnail_url": "https://tse4.mm.bing.net/th/id/OIP.la9MfI5cNaS6CU9jqPVn4AHaHS?pid=Api",
+                    "title": "Classic Tracks: Prince's \"Kiss\"",
+                    "url": "https://www.mixonline.com/recording/classic-tracks-princes-kiss-365014"
+                  },
+                  {
+                    "attribution": "britannica.com",
+                    "content_size": {
+                      "height": 1136,
+                      "width": 1600
+                    },
+                    "content_url": "https://cdn.britannica.com/68/244068-050-A2A955CF/singer-Prince-publicity-still-Purple-Rain-1984.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 336,
+                      "width": 474
+                    },
+                    "thumbnail_url": "https://tse3.mm.bing.net/th/id/OIP.LEStmVhE7yqUfJ8c4YJsvwHaFQ?pid=Api",
+                    "title": "Prince | Biography, Songs, Music, Purple Rain, Significance, Death ...",
+                    "url": "https://www.britannica.com/biography/Prince-singer-and-songwriter"
+                  },
+                  {
+                    "attribution": "biography.com",
+                    "content_size": {
+                      "height": 899,
+                      "width": 980
+                    },
+                    "content_url": "https://hips.hearstapps.com/hmg-prod/images/prince_photo_kmazur_wireimage_via_getty_images_105254192.jpg?resize=980%3A%2A",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 434,
+                      "width": 474
+                    },
+                    "thumbnail_url": "https://tse4.mm.bing.net/th/id/OIP.bkoOwDvBUWnrqXCYjUnDywHaGy?pid=Api",
+                    "title": "Prince - Songs, Death & Life",
+                    "url": "https://www.biography.com/musicians/prince"
+                  },
+                  {
+                    "attribution": "wall.alphacoders.com",
+                    "content_size": {
+                      "height": 2040,
+                      "width": 3000
+                    },
+                    "content_url": "https://images.alphacoders.com/694/694216.jpg",
+                    "thumbnail_crop_info": null,
+                    "thumbnail_size": {
+                      "height": 322,
+                      "width": 474
+                    },
+                    "thumbnail_url": "https://tse1.mm.bing.net/th/id/OIP.yAm74XE5TfVIl8Ks_bcpNwHaFC?pid=Api",
+                    "title": "Download Music Prince 4k Ultra HD Wallpaper",
+                    "url": "https://wall.alphacoders.com/big.php?i=313497"
+                  }
+                ],
+                "prompt_text": "\n## Images:\n![Classic Tracks: Prince's \"Kiss\"](https://tse4.mm.bing.net/th/id/OIP.la9MfI5cNaS6CU9jqPVn4AHaHS?pid=Api)\n![Prince | Biography, Songs, Music, Purple Rain, Significance, Death ...](https://tse3.mm.bing.net/th/id/OIP.LEStmVhE7yqUfJ8c4YJsvwHaFQ?pid=Api)\n![Prince - Songs, Death & Life](https://tse4.mm.bing.net/th/id/OIP.bkoOwDvBUWnrqXCYjUnDywHaGy?pid=Api)\n![Download Music Prince 4k Ultra HD Wallpaper](https://tse1.mm.bing.net/th/id/OIP.yAm74XE5TfVIl8Ks_bcpNwHaFC?pid=Api)\n",
+                "type": "image_v2"
+              },
+              {
+                "alt": "You're likely referring to **“Kiss” by Prince**, his iconic minimalist funk-pop track released on 5 February 1986 as the lead single from the album *Parade*",
+                "attributable_index": "0-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com))",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750097941.0,
+                    "refs": [
+                      {
+                        "ref_index": 15,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Parade (Prince album)",
+                    "url": "https://en.wikipedia.org/wiki/Parade_%28Prince_album%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [
+                  {
+                    "attribution": "en.wikipedia.org",
+                    "attribution_segments": [
+                      "0-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 0,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 1,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 9,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 5,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 7,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 13,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 3,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 11,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 14,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 6,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 12,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Kiss\" is a song by American musician Prince. Released by the Paisley Park label as the lead single from Prince and the Revolution's eighth studio album, Parade, on February 5, 1986. It was a No. 1 hi...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "mixonline.com",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Classic Tracks: Prince's \"Kiss\"",
+                        "url": "https://www.mixonline.com/recording/classic-tracks-princes-kiss-365014?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1609372800.0,
+                        "snippet": "On this day in 1986, Prince shot the music video for his hit song \"Kiss\" from his Parade album. 36K views · Stop Motion Animation Clay Mixing ...",
+                        "title": "Kiss - YouTube",
+                        "url": "https://www.youtube.com/watch?v=iMSdnfpHtgM&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "ft.com",
+                        "pub_date": 1737262852.469,
+                        "snippet": "Kiss — how Prince gave his 1986 hit away Date: Sun Jan 19 05:00:52 2025 UTC  \"Why do we need to hear another cover of a song someone else did?\" Prince told Billboard in 2013, referencing the Maroon 5...",
+                        "title": "Kiss - how Prince gave his 1986 hit away",
+                        "url": "https://www.ft.com/content/0d8b5f80-4654-4a1c-b3fc-abb67d7a4932?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "pitchfork.com",
+                        "pub_date": 1440378000.0,
+                        "snippet": "-Winston Cook-Wilson Listen on Apple Music See also: Talking Heads: \"And She Was\" / Talking Heads: \"Road to Nowhere\"  Prince and the Revolution: \"Kiss\" (1986) After the commercial and artistic triump...",
+                        "title": "The 200 Best Songs of the 1980s",
+                        "url": "https://pitchfork.com/features/lists-and-guides/9700-the-200-best-songs-of-the-1980s?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "biography.com",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Prince - Songs, Death & Life",
+                        "url": "https://www.biography.com/musicians/prince?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "reddit.com",
+                        "pub_date": 1699142400.0,
+                        "snippet": "Kiss is a definite \"5\" for me. One of his biggest pop songs, and I just never loved it. It's \"fine\" but inessential. I never add it to Prince ...",
+                        "title": "Daily Song Discussion #97: Kiss : r/PRINCE - Reddit",
+                        "url": "https://www.reddit.com/r/PRINCE/comments/17okiit/daily_song_discussion_97_kiss/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "reddit.com",
+                        "pub_date": 1711843200.0,
+                        "snippet": "But the whole point of “Kiss” is him saying how he wants a real woman (regardless of wealth or coolness) and not a flirty, mindless girl.",
+                        "title": "The song Kiss 1986 from gX point of view : r/PRINCE - Reddit",
+                        "url": "https://www.reddit.com/r/PRINCE/comments/1brznzf/the_song_kiss_1986_from_gx_point_of_view/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "time.com",
+                        "pub_date": 1461269285.0,
+                        "snippet": "Legendary musician and global icon Prince died today at the age of 57 at his Paisley Park studio in Minnesota. While his ongoing musical revolution was cut short, generations will continue to appreci...",
+                        "title": "11 Essential Prince Songs You Should Listen to Right Now",
+                        "url": "https://time.com/4303780/prince-best-songs/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "open.spotify.com",
+                        "pub_date": 512611200.0,
+                        "snippet": "Kiss Prince Parade - Music from the Motion Picture Under the Cherry Moon 1986 3:46 Sign in to see lyrics and listen to the full track.",
+                        "title": "Kiss - song and lyrics by Prince - Spotify",
+                        "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1737417600.0,
+                        "snippet": "Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ ​ Prince - Kiss (Lyrics) ⏬ Download / Stream: ...",
+                        "title": "Prince - Kiss (Lyrics) - YouTube",
+                        "url": "https://www.youtube.com/watch?v=UVRqSQC9pU0&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "teenvogue.com",
+                        "pub_date": 1417348800.0,
+                        "snippet": "By now, you know Cara Delevingne can do way more than just strut down a runway. Not that being one of the most in-demand models on the face of the earth is NBD, but the Brit beauty has set her sights...",
+                        "title": "Watch Cara Delevingne and Cody Simpson Sing \"Kiss\" by Prince",
+                        "url": "https://www.teenvogue.com/story/cara-delevingne-cody-simpson-song?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "ew.com",
+                        "pub_date": 1523030400.0,
+                        "snippet": "As one of the greatest musicians of all time, Prince has seemingly endless exceptional songs in his discography, including \"1999\" and \"Kiss.\" Here are EW's picks for the best of the best. It's tough...",
+                        "title": "Prince: 25 most essential tracks",
+                        "url": "https://ew.com/article/2018/04/06/25-essential-prince-tracks/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1556236800.0,
+                        "snippet": "\"Kiss\" by Prince from Live At Paisley Park, 12/18/1999 Listen to Prince: https://Prince.lnk.to/listen_YD Kiss from the Rave Un2 The Year ...",
+                        "title": "Prince - Kiss (Live At Paisley Park, 1999) - YouTube",
+                        "url": "https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=CkrT9u7ms1c&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1415318400.0,
+                        "snippet": "Provided to YouTube by Warner Records Kiss · Prince & The Revolution ... Tracy's Song. No More Kings•7.2K views · 5:48. Go to channel · I ...",
+                        "title": "Kiss - YouTube",
+                        "url": "https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=rH9CZuuKpSg&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "pitchfork.com",
+                        "pub_date": 1492706700.0,
+                        "snippet": "But it was Chaka Khan who actually had a hit when she vamped up \"I Feel For You\" in 1984, riding the wave of Prince mania at the ideal time and sounding more Minneapolis than the version he cut back...",
+                        "title": "Prince Was a Queen-Maker",
+                        "url": "https://pitchfork.com/thepitch/1491-prince-was-a-queen-maker?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "It became a global No 1—holding the top spot on the US *Billboard* Hot 100 for two weeks—and is certified gold",
+                "attributable_index": "243-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com))",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [
+                  {
+                    "attribution": "en.wikipedia.org",
+                    "attribution_segments": [
+                      "243-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Kiss\" is a song by American musician Prince. Released by the Paisley Park label as the lead single from Prince and the Revolution's eighth studio album, Parade, on February 5, 1986. It was a No. 1 hi...",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "The song stands out for its stripped-down instrumentation: no bassline, just drum-machine, funky guitar, and Prince’s signature falsetto",
+                "attributable_index": "376-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com))",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1743796539.0,
+                    "refs": [
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince-Lied)",
+                    "url": "https://de.wikipedia.org/wiki/Kiss_%28Prince-Lied%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750097941.0,
+                    "refs": [
+                      {
+                        "ref_index": 15,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Parade (Prince album)",
+                    "url": "https://en.wikipedia.org/wiki/Parade_%28Prince_album%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [
+                  {
+                    "attribution": "en.wikipedia.org",
+                    "attribution_segments": [
+                      "376-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 0,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 7,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 19,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 2,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 5,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 3,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Kiss\" is a song by American musician Prince. Released by the Paisley Park label as the lead single from Prince and the Revolution's eighth studio album, Parade, on February 5, 1986. It was a No. 1 hi...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "mixonline.com",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Classic Tracks: Prince's \"Kiss\"",
+                        "url": "https://www.mixonline.com/recording/classic-tracks-princes-kiss-365014?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "reddit.com",
+                        "pub_date": 1711843200.0,
+                        "snippet": "But the whole point of “Kiss” is him saying how he wants a real woman (regardless of wealth or coolness) and not a flirty, mindless girl.",
+                        "title": "The song Kiss 1986 from gX point of view : r/PRINCE - Reddit",
+                        "url": "https://www.reddit.com/r/PRINCE/comments/1brznzf/the_song_kiss_1986_from_gx_point_of_view/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "biography.com",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Prince - Songs, Death & Life",
+                        "url": "https://www.biography.com/musicians/prince?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1737417600.0,
+                        "snippet": "Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ ​ Prince - Kiss (Lyrics) ⏬ Download / Stream: ...",
+                        "title": "Prince - Kiss (Lyrics) - YouTube",
+                        "url": "https://www.youtube.com/watch?v=UVRqSQC9pU0&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "en.wikipedia.org",
+                        "pub_date": 1751230575.0,
+                        "snippet": "\"Alphabet St.\" is a song from American musician Prince's tenth album, Lovesexy (1988). It was the first single from that album and the album's only top 10 single, reaching the top 10 in both the UK an...",
+                        "title": "Alphabet St.",
+                        "url": "https://en.wikipedia.org/wiki/Alphabet_St.?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1556236800.0,
+                        "snippet": "\"Kiss\" by Prince from Live At Paisley Park, 12/18/1999 Listen to Prince: https://Prince.lnk.to/listen_YD Kiss from the Rave Un2 The Year ...",
+                        "title": "Prince - Kiss (Live At Paisley Park, 1999) - YouTube",
+                        "url": "https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=CkrT9u7ms1c&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "pitchfork.com",
+                        "pub_date": 1440378000.0,
+                        "snippet": "-Winston Cook-Wilson Listen on Apple Music See also: Talking Heads: \"And She Was\" / Talking Heads: \"Road to Nowhere\"  Prince and the Revolution: \"Kiss\" (1986) After the commercial and artistic triump...",
+                        "title": "The 200 Best Songs of the 1980s",
+                        "url": "https://pitchfork.com/features/lists-and-guides/9700-the-200-best-songs-of-the-1980s?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "tnhelearning.edu.vn",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Top 999+ prince images – Amazing Collection prince images Full 4K",
+                        "url": "https://tnhelearning.edu.vn/top-999-prince-images-amazing-collection-prince-images-full-4k/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "reddit.com",
+                        "pub_date": 1699142400.0,
+                        "snippet": "Kiss is a definite \"5\" for me. One of his biggest pop songs, and I just never loved it. It's \"fine\" but inessential. I never add it to Prince ...",
+                        "title": "Daily Song Discussion #97: Kiss : r/PRINCE - Reddit",
+                        "url": "https://www.reddit.com/r/PRINCE/comments/17okiit/daily_song_discussion_97_kiss/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "open.spotify.com",
+                        "pub_date": 512611200.0,
+                        "snippet": "Kiss Prince Parade - Music from the Motion Picture Under the Cherry Moon 1986 3:46 Sign in to see lyrics and listen to the full track.",
+                        "title": "Kiss - song and lyrics by Prince - Spotify",
+                        "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "Esteemed critics consider it one of his greatest:",
+                "attributable_index": "562-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "Voted No 85 on *Rolling Stone*’s *500 Greatest Songs of All Time* (2021)",
+                "attributable_index": "562-1",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com))",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1743796539.0,
+                    "refs": [
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince-Lied)",
+                    "url": "https://de.wikipedia.org/wiki/Kiss_%28Prince-Lied%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750097941.0,
+                    "refs": [
+                      {
+                        "ref_index": 15,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Parade (Prince album)",
+                    "url": "https://en.wikipedia.org/wiki/Parade_%28Prince_album%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [
+                  {
+                    "attribution": "en.wikipedia.org",
+                    "attribution_segments": [
+                      "562-1"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Kiss\" is a song by American musician Prince. Released by the Paisley Park label as the lead single from Prince and the Revolution's eighth studio album, Parade, on February 5, 1986. It was a No. 1 hi...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "de.wikipedia.org",
+                        "pub_date": 1743796539.0,
+                        "snippet": "Kiss ist ein 1986 veröffentlichter Song des US-amerikanischen Musikers Prince, den er geschrieben, arrangiert und produziert hat. Er nahm ihn mit seiner damaligen Begleitband The Revolution auf und pl...",
+                        "title": "Kiss (Prince-Lied)",
+                        "url": "https://de.wikipedia.org/wiki/Kiss_%28Prince-Lied%29?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "NME ranked it No 4 among the *150 Greatest Singles of All Time*",
+                "attributable_index": "737-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com))",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [
+                  {
+                    "attribution": "en.wikipedia.org",
+                    "attribution_segments": [
+                      "737-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 19,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 15,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 6,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 4,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Kiss\" is a song by American musician Prince. Released by the Paisley Park label as the lead single from Prince and the Revolution's eighth studio album, Parade, on February 5, 1986. It was a No. 1 hi...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "en.wikipedia.org",
+                        "pub_date": 1751230575.0,
+                        "snippet": "\"Alphabet St.\" is a song from American musician Prince's tenth album, Lovesexy (1988). It was the first single from that album and the album's only top 10 single, reaching the top 10 in both the UK an...",
+                        "title": "Alphabet St.",
+                        "url": "https://en.wikipedia.org/wiki/Alphabet_St.?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "en.wikipedia.org",
+                        "pub_date": 1750097941.0,
+                        "snippet": "Parade is the eighth studio album by American recording artist Prince, and the fourth and final album where the Revolution is billed. It also was the soundtrack album to the 1986 film Under the Cherry...",
+                        "title": "Parade (Prince album)",
+                        "url": "https://en.wikipedia.org/wiki/Parade_%28Prince_album%29?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1415318400.0,
+                        "snippet": "Provided to YouTube by Warner Records Kiss · Prince & The Revolution ... Tracy's Song. No More Kings•7.2K views · 5:48. Go to channel · I ...",
+                        "title": "Kiss - YouTube",
+                        "url": "https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=rH9CZuuKpSg&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "discogs.com",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Prince Discography: Vinyl, CDs, & More | Discogs",
+                        "url": "https://www.discogs.com/fr/artist/28795-Prince?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "*Pitchfork* lauded its \"shockingly spare\" yet otherworldly funk groove",
+                "attributable_index": "825-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "()",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1440378000.0,
+                    "refs": [
+                      {
+                        "ref_index": 8,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Pitchfork released a comprehensive list of the 200 best songs from the 1980s, highlighting the decade's diverse and influential music. The list features an eclectic mix of genres and artists, reflecting the wide-ranging impact of '80s music on future generations. Songs like \"I Cry (Night After Night)\" by Egyptian Lover influenced artists like Kanye West and Future, while classics such as Tom Zé's experimental \"Nave Maria\" and A Certain Ratio's \"Shack Up\" exemplify the innovative spirit of the era. Iconic tracks like Donald Byrd's \"Love Has Come Around\" and Dinosaur L's \"Go Bang! #5\" remind listeners of the transformative period in dance and jazz music. The inclusion of EPMD's \"You Gots to Chill,\" Kano's \"I'm Ready,\" and LL Cool J's \"I Can't Live Without My Radio\" showcase the foundation of hip-hop and its evolution. Additionally, songs like Michael Jackson's \"Billie Jean,\" Prince's \"Purple Rain,\" and New Order's \"Blue Monday\" stand out as defining tracks of the decade, their influence persisting through subsequent generations of music. The list provides an in-depth look at how the 1980s shaped the music industry and continues to resonate today.",
+                    "supporting_websites": [],
+                    "title": "The 200 Best Songs of the 1980s",
+                    "url": "https://pitchfork.com/features/lists-and-guides/9700-the-200-best-songs-of-the-1980s?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "Prince even won a Grammy for Best R&B Performance by a Duo or Group for \"Kiss\"",
+                "attributable_index": "918-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com))",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1743796539.0,
+                    "refs": [
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince-Lied)",
+                    "url": "https://de.wikipedia.org/wiki/Kiss_%28Prince-Lied%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [
+                  {
+                    "attribution": "en.wikipedia.org",
+                    "attribution_segments": [
+                      "918-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 3,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 2,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 1,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 0,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 4,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 11,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 6,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 7,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 13,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 9,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 14,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 3,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 5,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Kiss\" is a song by American musician Prince. Released by the Paisley Park label as the lead single from Prince and the Revolution's eighth studio album, Parade, on February 5, 1986. It was a No. 1 hi...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "open.spotify.com",
+                        "pub_date": 512611200.0,
+                        "snippet": "Kiss Prince Parade - Music from the Motion Picture Under the Cherry Moon 1986 3:46 Sign in to see lyrics and listen to the full track.",
+                        "title": "Kiss - song and lyrics by Prince - Spotify",
+                        "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1737417600.0,
+                        "snippet": "Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ ​ Prince - Kiss (Lyrics) ⏬ Download / Stream: ...",
+                        "title": "Prince - Kiss (Lyrics) - YouTube",
+                        "url": "https://www.youtube.com/watch?v=UVRqSQC9pU0&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1609372800.0,
+                        "snippet": "On this day in 1986, Prince shot the music video for his hit song \"Kiss\" from his Parade album. 36K views · Stop Motion Animation Clay Mixing ...",
+                        "title": "Kiss - YouTube",
+                        "url": "https://www.youtube.com/watch?v=iMSdnfpHtgM&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "mixonline.com",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Classic Tracks: Prince's \"Kiss\"",
+                        "url": "https://www.mixonline.com/recording/classic-tracks-princes-kiss-365014?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1556236800.0,
+                        "snippet": "\"Kiss\" by Prince from Live At Paisley Park, 12/18/1999 Listen to Prince: https://Prince.lnk.to/listen_YD Kiss from the Rave Un2 The Year ...",
+                        "title": "Prince - Kiss (Live At Paisley Park, 1999) - YouTube",
+                        "url": "https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=CkrT9u7ms1c&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "teenvogue.com",
+                        "pub_date": 1417348800.0,
+                        "snippet": "By now, you know Cara Delevingne can do way more than just strut down a runway. Not that being one of the most in-demand models on the face of the earth is NBD, but the Brit beauty has set her sights...",
+                        "title": "Watch Cara Delevingne and Cody Simpson Sing \"Kiss\" by Prince",
+                        "url": "https://www.teenvogue.com/story/cara-delevingne-cody-simpson-song?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "youtube.com",
+                        "pub_date": 1415318400.0,
+                        "snippet": "Provided to YouTube by Warner Records Kiss · Prince & The Revolution ... Tracy's Song. No More Kings•7.2K views · 5:48. Go to channel · I ...",
+                        "title": "Kiss - YouTube",
+                        "url": "https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=rH9CZuuKpSg&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "biography.com",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Prince - Songs, Death & Life",
+                        "url": "https://www.biography.com/musicians/prince?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "reddit.com",
+                        "pub_date": 1711843200.0,
+                        "snippet": "But the whole point of “Kiss” is him saying how he wants a real woman (regardless of wealth or coolness) and not a flirty, mindless girl.",
+                        "title": "The song Kiss 1986 from gX point of view : r/PRINCE - Reddit",
+                        "url": "https://www.reddit.com/r/PRINCE/comments/1brznzf/the_song_kiss_1986_from_gx_point_of_view/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "time.com",
+                        "pub_date": 1461269285.0,
+                        "snippet": "Legendary musician and global icon Prince died today at the age of 57 at his Paisley Park studio in Minnesota. While his ongoing musical revolution was cut short, generations will continue to appreci...",
+                        "title": "11 Essential Prince Songs You Should Listen to Right Now",
+                        "url": "https://time.com/4303780/prince-best-songs/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "ft.com",
+                        "pub_date": 1737262852.469,
+                        "snippet": "Kiss — how Prince gave his 1986 hit away Date: Sun Jan 19 05:00:52 2025 UTC  \"Why do we need to hear another cover of a song someone else did?\" Prince told Billboard in 2013, referencing the Maroon 5...",
+                        "title": "Kiss - how Prince gave his 1986 hit away",
+                        "url": "https://www.ft.com/content/0d8b5f80-4654-4a1c-b3fc-abb67d7a4932?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "ew.com",
+                        "pub_date": 1523030400.0,
+                        "snippet": "As one of the greatest musicians of all time, Prince has seemingly endless exceptional songs in his discography, including \"1999\" and \"Kiss.\" Here are EW's picks for the best of the best. It's tough...",
+                        "title": "Prince: 25 most essential tracks",
+                        "url": "https://ew.com/article/2018/04/06/25-essential-prince-tracks/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "pitchfork.com",
+                        "pub_date": 1440378000.0,
+                        "snippet": "-Winston Cook-Wilson Listen on Apple Music See also: Talking Heads: \"And She Was\" / Talking Heads: \"Road to Nowhere\"  Prince and the Revolution: \"Kiss\" (1986) After the commercial and artistic triump...",
+                        "title": "The 200 Best Songs of the 1980s",
+                        "url": "https://pitchfork.com/features/lists-and-guides/9700-the-200-best-songs-of-the-1980s?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "wall.alphacoders.com",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Download Music Prince 4k Ultra HD Wallpaper",
+                        "url": "https://wall.alphacoders.com/big.php?i=313497&utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "reddit.com",
+                        "pub_date": 1699142400.0,
+                        "snippet": "Kiss is a definite \"5\" for me. One of his biggest pop songs, and I just never loved it. It's \"fine\" but inessential. I never add it to Prince ...",
+                        "title": "Daily Song Discussion #97: Kiss : r/PRINCE - Reddit",
+                        "url": "https://www.reddit.com/r/PRINCE/comments/17okiit/daily_song_discussion_97_kiss/?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "[Prince – Kiss (Live At Paisley Park, 1999)](https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=CkrT9u7ms1c&utm_source=chatgpt.com)\n",
+                "prompt_text": null,
+                "thumbnail_url": "https://img.youtube.com/vi/CkrT9u7ms1c/maxresdefault.jpg",
+                "title": "Prince – Kiss (Live At Paisley Park, 1999)",
+                "type": "video",
+                "url": "https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=CkrT9u7ms1c&utm_source=chatgpt.com",
+                "video_id": "CkrT9u7ms1c",
+                "video_site": "youtube"
+              },
+              {
+                "alt": "**Minimalist genius:** Built on a simple guitar-as-hi-hat riff, no bass, and a tight drum machine; yet incredibly catchy",
+                "attributable_index": "1032-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "([pitchfork.com](https://pitchfork.com/features/lists-and-guides/9700-the-200-best-songs-of-the-1980s?utm_source=chatgpt.com))",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1440378000.0,
+                    "refs": [
+                      {
+                        "ref_index": 8,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "Pitchfork released a comprehensive list of the 200 best songs from the 1980s, highlighting the decade's diverse and influential music. The list features an eclectic mix of genres and artists, reflecting the wide-ranging impact of '80s music on future generations. Songs like \"I Cry (Night After Night)\" by Egyptian Lover influenced artists like Kanye West and Future, while classics such as Tom Zé's experimental \"Nave Maria\" and A Certain Ratio's \"Shack Up\" exemplify the innovative spirit of the era. Iconic tracks like Donald Byrd's \"Love Has Come Around\" and Dinosaur L's \"Go Bang! #5\" remind listeners of the transformative period in dance and jazz music. The inclusion of EPMD's \"You Gots to Chill,\" Kano's \"I'm Ready,\" and LL Cool J's \"I Can't Live Without My Radio\" showcase the foundation of hip-hop and its evolution. Additionally, songs like Michael Jackson's \"Billie Jean,\" Prince's \"Purple Rain,\" and New Order's \"Blue Monday\" stand out as defining tracks of the decade, their influence persisting through subsequent generations of music. The list provides an in-depth look at how the 1980s shaped the music industry and continues to resonate today.",
+                    "supporting_websites": [],
+                    "title": "The 200 Best Songs of the 1980s",
+                    "url": "https://pitchfork.com/features/lists-and-guides/9700-the-200-best-songs-of-the-1980s?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [
+                  {
+                    "attribution": "pitchfork.com",
+                    "attribution_segments": [
+                      "1032-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1440378000.0,
+                    "refs": [
+                      {
+                        "ref_index": 8,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "-Winston Cook-Wilson Listen on Apple Music See also: Talking Heads: \"And She Was\" / Talking Heads: \"Road to Nowhere\"  Prince and the Revolution: \"Kiss\" (1986) After the commercial and artistic triump...",
+                    "supporting_websites": [],
+                    "title": "The 200 Best Songs of the 1980s",
+                    "url": "https://pitchfork.com/features/lists-and-guides/9700-the-200-best-songs-of-the-1980s?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "**Liberating lyrics:** Prince celebrates authenticity and natural beauty—“You don't have to be rich… You don't have to be cool to rule my world…”—emphasising real connection over superficiality",
+                "attributable_index": "1275-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com))",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1743796539.0,
+                    "refs": [
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince-Lied)",
+                    "url": "https://de.wikipedia.org/wiki/Kiss_%28Prince-Lied%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [
+                  {
+                    "attribution": "en.wikipedia.org",
+                    "attribution_segments": [
+                      "1275-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 7,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 9,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Kiss\" is a song by American musician Prince. Released by the Paisley Park label as the lead single from Prince and the Revolution's eighth studio album, Parade, on February 5, 1986. It was a No. 1 hi...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "reddit.com",
+                        "pub_date": 1711843200.0,
+                        "snippet": "But the whole point of “Kiss” is him saying how he wants a real woman (regardless of wealth or coolness) and not a flirty, mindless girl.",
+                        "title": "The song Kiss 1986 from gX point of view : r/PRINCE - Reddit",
+                        "url": "https://www.reddit.com/r/PRINCE/comments/1brznzf/the_song_kiss_1986_from_gx_point_of_view/?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "ft.com",
+                        "pub_date": 1737262852.469,
+                        "snippet": "Kiss — how Prince gave his 1986 hit away Date: Sun Jan 19 05:00:52 2025 UTC  \"Why do we need to hear another cover of a song someone else did?\" Prince told Billboard in 2013, referencing the Maroon 5...",
+                        "title": "Kiss - how Prince gave his 1986 hit away",
+                        "url": "https://www.ft.com/content/0d8b5f80-4654-4a1c-b3fc-abb67d7a4932?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "biography.com",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Prince - Songs, Death & Life",
+                        "url": "https://www.biography.com/musicians/prince?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "**Creative backstory:** Originally an acoustic blues demo passed to protégés Mazarati, with arrangement and background vocals by David Z and the band. Prince later reclaimed and added his own falsetto, guitar riffs, and arrangement adjustments",
+                "attributable_index": "1508-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com))",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1743796539.0,
+                    "refs": [
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince-Lied)",
+                    "url": "https://de.wikipedia.org/wiki/Kiss_%28Prince-Lied%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1737262852.469,
+                    "refs": [
+                      {
+                        "ref_index": 9,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "In 2013, Prince expressed his view on covers saying true art involves creating something new rather than reworking existing material. Maroon 5’s cover of his song \"Kiss\" reimagines it as a seven-minute big-band swing piece, which significantly deviates from the original and demonstrates a transformative approach to covers. Interestingly, Prince's hit \"Kiss\" itself evolved through several stages before becoming the famous track. Initially, it was recorded as a demo in 1985 with just an acoustic guitar and a more traditional blues style, far from its final stripped-back funk version. Prince eventually gave away the demo, showcasing the song's journey through different creative reinventions. The paperback edition of \"The Life of a Song: The stories behind 100 of the world's best-loved songs,\" edited by David Cheal and Jan Dalley, explores such stories behind iconic songs.",
+                    "supporting_websites": [],
+                    "title": "Kiss - how Prince gave his 1986 hit away",
+                    "url": "https://www.ft.com/content/0d8b5f80-4654-4a1c-b3fc-abb67d7a4932?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [
+                  {
+                    "attribution": "en.wikipedia.org",
+                    "attribution_segments": [
+                      "1508-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 0,
+                        "ref_type": "image",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Kiss\" is a song by American musician Prince. Released by the Paisley Park label as the lead single from Prince and the Revolution's eighth studio album, Parade, on February 5, 1986. It was a No. 1 hi...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "pitchfork.com",
+                        "pub_date": 1440378000.0,
+                        "snippet": "-Winston Cook-Wilson Listen on Apple Music See also: Talking Heads: \"And She Was\" / Talking Heads: \"Road to Nowhere\"  Prince and the Revolution: \"Kiss\" (1986) After the commercial and artistic triump...",
+                        "title": "The 200 Best Songs of the 1980s",
+                        "url": "https://pitchfork.com/features/lists-and-guides/9700-the-200-best-songs-of-the-1980s?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "de.wikipedia.org",
+                        "pub_date": 1743796539.0,
+                        "snippet": "Kiss ist ein 1986 veröffentlichter Song des US-amerikanischen Musikers Prince, den er geschrieben, arrangiert und produziert hat. Er nahm ihn mit seiner damaligen Begleitband The Revolution auf und pl...",
+                        "title": "Kiss (Prince-Lied)",
+                        "url": "https://de.wikipedia.org/wiki/Kiss_%28Prince-Lied%29?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "mixonline.com",
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Classic Tracks: Prince's \"Kiss\"",
+                        "url": "https://www.mixonline.com/recording/classic-tracks-princes-kiss-365014?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "**Enduring influence:** It inspired numerous covers—like Art of Noise ft. Tom Jones—and remains a concert staple",
+                "attributable_index": "1802-0",
+                "attributions": null,
+                "prompt_text": null,
+                "type": "attribution"
+              },
+              {
+                "alt": "([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com))",
+                "fallback_items": [
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1743796539.0,
+                    "refs": [
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "",
+                    "supporting_websites": [],
+                    "title": "Kiss (Prince-Lied)",
+                    "url": "https://de.wikipedia.org/wiki/Kiss_%28Prince-Lied%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "items": [
+                  {
+                    "attribution": "en.wikipedia.org",
+                    "attribution_segments": [
+                      "1802-0"
+                    ],
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": 1750761360.0,
+                    "refs": [
+                      {
+                        "ref_index": 0,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 17,
+                        "ref_type": "search",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 8,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      },
+                      {
+                        "ref_index": 9,
+                        "ref_type": "news",
+                        "turn_index": 0
+                      }
+                    ],
+                    "snippet": "\"Kiss\" is a song by American musician Prince. Released by the Paisley Park label as the lead single from Prince and the Revolution's eighth studio album, Parade, on February 5, 1986. It was a No. 1 hi...",
+                    "supporting_websites": [
+                      {
+                        "attribution": "de.wikipedia.org",
+                        "pub_date": 1743796539.0,
+                        "snippet": "Kiss ist ein 1986 veröffentlichter Song des US-amerikanischen Musikers Prince, den er geschrieben, arrangiert und produziert hat. Er nahm ihn mit seiner damaligen Begleitband The Revolution auf und pl...",
+                        "title": "Kiss (Prince-Lied)",
+                        "url": "https://de.wikipedia.org/wiki/Kiss_%28Prince-Lied%29?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "pitchfork.com",
+                        "pub_date": 1440378000.0,
+                        "snippet": "-Winston Cook-Wilson Listen on Apple Music See also: Talking Heads: \"And She Was\" / Talking Heads: \"Road to Nowhere\"  Prince and the Revolution: \"Kiss\" (1986) After the commercial and artistic triump...",
+                        "title": "The 200 Best Songs of the 1980s",
+                        "url": "https://pitchfork.com/features/lists-and-guides/9700-the-200-best-songs-of-the-1980s?utm_source=chatgpt.com"
+                      },
+                      {
+                        "attribution": "ft.com",
+                        "pub_date": 1737262852.469,
+                        "snippet": "Kiss — how Prince gave his 1986 hit away Date: Sun Jan 19 05:00:52 2025 UTC  \"Why do we need to hear another cover of a song someone else did?\" Prince told Billboard in 2013, referencing the Maroon 5...",
+                        "title": "Kiss - how Prince gave his 1986 hit away",
+                        "url": "https://www.ft.com/content/0d8b5f80-4654-4a1c-b3fc-abb67d7a4932?utm_source=chatgpt.com"
+                      }
+                    ],
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  }
+                ],
+                "prompt_text": null,
+                "type": "grouped_webpages"
+              },
+              {
+                "alt": "",
+                "has_images": true,
+                "prompt_text": null,
+                "sources": [
+                  {
+                    "attribution": "en.wikipedia.org",
+                    "title": "Kiss (Prince song)",
+                    "url": "https://en.wikipedia.org/wiki/Kiss_%28Prince_song%29?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "pitchfork.com",
+                    "title": "The 200 Best Songs of the 1980s",
+                    "url": "https://pitchfork.com/features/lists-and-guides/9700-the-200-best-songs-of-the-1980s?utm_source=chatgpt.com"
+                  }
+                ],
+                "type": "sources_footnote"
+              }
+            ],
+            "model_slug": "gpt-4o",
+            "parent_id": "fae9e721-72cd-4af4-96e2-c98df5053114",
+            "search_result_groups": [
+              {
+                "domain": "youtube.com",
+                "entries": [
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "On this day in 1986, Prince shot the music video for his hit song \"Kiss\" from his Parade album. 36K views · Stop Motion Animation Clay Mixing ...",
+                    "title": "Kiss - YouTube",
+                    "url": "https://www.youtube.com/watch?v=iMSdnfpHtgM&utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ ​ Prince - Kiss (Lyrics) ⏬ Download / Stream: ...",
+                    "title": "Prince - Kiss (Lyrics) - YouTube",
+                    "url": "https://www.youtube.com/watch?v=UVRqSQC9pU0&utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "\"Kiss\" by Prince from Live At Paisley Park, 12/18/1999 Listen to Prince: https://Prince.lnk.to/listen_YD Kiss from the Rave Un2 The Year ...",
+                    "title": "Prince - Kiss (Live At Paisley Park, 1999) - YouTube",
+                    "url": "https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=CkrT9u7ms1c&utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "youtube.com",
+                    "snippet": "Provided to YouTube by Warner Records Kiss · Prince & The Revolution ... Tracy's Song. No More Kings•7.2K views · 5:48. Go to channel · I ...",
+                    "title": "Kiss - YouTube",
+                    "url": "https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=rH9CZuuKpSg&utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "spotify.com",
+                "entries": [
+                  {
+                    "attribution": "spotify.com",
+                    "snippet": "Kiss Prince Parade - Music from the Motion Picture Under the Cherry Moon 1986 3:46 Sign in to see lyrics and listen to the full track.",
+                    "title": "Kiss - song and lyrics by Prince - Spotify",
+                    "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05?utm_source=chatgpt.com"
+                  }
+                ]
+              },
+              {
+                "domain": "reddit.com",
+                "entries": [
+                  {
+                    "attribution": "reddit.com",
+                    "snippet": "Kiss is a definite \"5\" for me. One of his biggest pop songs, and I just never loved it. It's \"fine\" but inessential. I never add it to Prince ...",
+                    "title": "Daily Song Discussion #97: Kiss : r/PRINCE - Reddit",
+                    "url": "https://www.reddit.com/r/PRINCE/comments/17okiit/daily_song_discussion_97_kiss/?utm_source=chatgpt.com"
+                  },
+                  {
+                    "attribution": "reddit.com",
+                    "snippet": "But the whole point of “Kiss” is him saying how he wants a real woman (regardless of wealth or coolness) and not a flirty, mindless girl.",
+                    "title": "The song Kiss 1986 from gX point of view : r/PRINCE - Reddit",
+                    "url": "https://www.reddit.com/r/PRINCE/comments/1brznzf/the_song_kiss_1986_from_gx_point_of_view/?utm_source=chatgpt.com"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "parent": "fae9e721-72cd-4af4-96e2-c98df5053114"
+      },
+      "28b427ea-f9f9-4314-9221-6f067ab68eab": {
+        "id": "28b427ea-f9f9-4314-9221-6f067ab68eab",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "kiss prince"
+            ]
+          },
+          "create_time": 1751723394.141,
+          "id": "28b427ea-f9f9-4314-9221-6f067ab68eab",
+          "metadata": {
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            }
+          }
+        },
+        "parent": "client-created-root"
+      },
+      "359ff854-13cf-4d76-9665-a08d5c62e39b": {
+        "id": "359ff854-13cf-4d76-9665-a08d5c62e39b",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Can you add minimalistic lyrics to this that has the same vibe with the overall musical production?"
+            ]
+          },
+          "create_time": 1782134569.136065,
+          "id": "359ff854-13cf-4d76-9665-a08d5c62e39b"
+        },
+        "parent": "7ed54859-fd5e-467e-a494-01f02d316872"
+      },
+      "3af66bf1-c553-42bc-a367-7b22ff3f3967": {
+        "id": "3af66bf1-c553-42bc-a367-7b22ff3f3967",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "image_group{\"aspect_ratio\":\"16:9\",\"query\":[\"Prince Kiss 1986 performance\",\"Prince Parade era\",\"Prince studio portrait 1986\",\"Prince guitar performance Kiss\"]}\n\nIf you're interested in the production side of **entity[\"song\",\"Kiss\",\"Prince song (1986)\"]**, it's often cited as an example of how removing elements can make a record stronger.\n\n### Why \"Kiss\" sounds so unique\n\n#### 1. Almost no bass\nMost pop, funk, and R&B records rely heavily on bass guitar or synth bass.\n\n\"Kiss\" largely avoids a traditional bassline. Instead, the groove is carried by:\n\n- Drum machine\n- Rhythm guitar\n- Vocal rhythm\n- Percussion accents\n\nThis creates a surprisingly spacious mix.\n\n#### 2. Guitar becomes percussion\nThe guitar isn't just playing chords.\n\nentity[\"musical_artist\",\"Prince\",\"American singer-songwriter\"] uses short, muted funk stabs that behave almost like hi-hats or shakers. The guitar locks tightly with the drums, creating the track's signature bounce.\n\n#### 3. Drum machine discipline\nThe drum pattern is extremely simple:\n\n- Dry kick\n- Sharp snare\n- Minimal fills\n- Lots of repetition\n\nRather than changing the beat constantly, the arrangement creates interest by adding and removing elements.\n\n#### 4. Vocal as a rhythmic instrument\nListen closely and you'll notice the vocal doesn't merely follow the beat.\n\nPrince's:\n- Falsetto phrases\n- Breath sounds\n- Spoken interjections\n- Background responses\n\nall function as percussion.\n\nMany modern producers overlook this. In \"Kiss,\" the vocal groove is as important as the drum groove.\n\n#### 5. Extreme arrangement restraint\nA typical pop song might have:\n- Drums\n- Bass\n- Keys\n- Pads\n- Multiple guitars\n- Strings\n- FX\n\n\"Kiss\" strips away nearly everything unnecessary.\n\nThis creates:\n- More punch\n- More space\n- More tension\n- Greater impact when new elements appear\n\n### A useful lesson for Suno or music production\n\nMany creators try to improve a track by adding layers.\n\n\"Kiss\" demonstrates the opposite principle:\n\n> Remove elements until every remaining part is essential.\n\nThat approach often produces stronger grooves, clearer vocals, and more memorable hooks.\n\n### If you want to recreate the vibe\n\nA modern production brief might be:\n\n```txt\nMinimalist funk-pop, 112 BPM, dry drum machine groove,\nmuted rhythm guitar stabs, sparse arrangement, no dominant\nbassline, falsetto lead vocal, playful confidence, intimate\nmix, vintage 1980s funk energy, tight syncopation,\nminimal reverb, groove-driven production\n```\n\nFor Suno specifically, I can also break down \"Kiss\" into:\n- Song structure\n- Chord movement\n- Drum pattern\n- Guitar pattern\n- Vocal techniques\n- A Suno-compatible prompt inspired by the production style (without imitating Prince directly)"
+            ]
+          },
+          "create_time": 1782032994.111811,
+          "id": "3af66bf1-c553-42bc-a367-7b22ff3f3967",
+          "metadata": {
+            "code_blocks": {
+              "0": {
+                "edited": false,
+                "id": "sl9v1o",
+                "preview_language": null,
+                "previewable": false
+              }
+            },
+            "content_references": [
+              {
+                "alt": "![Image](https://images.openai.com/static-rsc-4/GT3VDor-WLWnmlyTOIErFsJzKy7NkdtGbRUbBfpN35CuRG3uFCXwpFaOsvSdZu0KTIU8Ir046aDqSvea_sabCfP8uugtg7H29a4sjEGsgSi-Fr_bhTso-dXUMjb4lq2hwYBH36rmMdekwEA3Z4T7qtrepvR715I3Mp4iTx8OrIzma4T5DjotFjhRpvYTkexN?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/60bL5oHCayevGkprW9YGBdIbEGM569yKnK07ntPjVPT6akXL-7xkgg-fadcfaQBQDHXN5r8r_UrWK1rKev1qccqPjkdP_NKlVZZWWw1Rp1JlrtvXFoPQW709l-MZDYJdNuaYCipCCnOyUN-9wqKXwWm-ssNlZCjcjlorpe3EnPhj_4myggyDTmIYdgF2dnMs?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/PM3E7dAcKSMEXlnSe3Ab3gngBRoUukXjRSA3zf4cqGPgOWgGnl1dPWTQLPQ0OdDpKGBsZlV4dHfumnlfrfvSq2AeZiyqAPYOU4dMd0VFIyDa8_fERA5cm_n7mLJK1T8gmbYnR_1crJ7iVQmMfaLOjPDSpIQsVRRGxlWL5PrVOHGBHi1kzkIca09iAlHsqfFw?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/659EYIz9AeXKEG-BuxA1q4GySGtYIvEKHi5G2dE15R1Gk7mpQQq9o0BD7CGKDMT2QyqBcFxkxphZFIvGnveheAwA1kp-rBs8GsptsKhHowwMbRW-9GcpSBBohW41_gWeGsdpWJETWyaZywgvjE16aJ7rc5MOpldQfm0ZtpFZmz8fiUyft6FRwf2cQp4C0Bcw?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/czyon5LkMubov_GFihA8gD07nt7m3yy1PTKPYRZ6wWQjLASBO4vWGLZNzGWM_qcQmwrZ8bHQJVhzuTr5q8eNSZcSaQwfI5Fj3wbBf8bHyBNWKeJ8sqrBiXVEaokzziFBSAk8KtlJ3lfYE_hVptH_uM3sWHzxM58UHjApRrkphvO-wvJxlG0ZhUwYwuFlsbPZ?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/DW_D6-hBme8W2FLGr8cudlTSOa_MrBDA8ykW8UxaO5G-wqdlZg7VYaG5M0cWqqjsV_i0sziHMxCim3hXt3-ZRYDfnP6_B55ihgwfiPFuft1w4daSsr7BZGQTy3fXbGr8REFg91nvDQlU-raC5n9s4R7RyE3z_giJJQSYDOLyjG1ukyCNIDDtqTAqpGGhPTdE?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/B9BzsWmeO7jD1JOJ66mB1-L6po9tUI70CbA8rotb3bJke34yaN798GKJkPNJfU9wMmquug8IFkTHwq-EfZGUpW888sA7YwFpXlUOoLNiXaJtgrHM62yHgeHM_4AiAPINYM3LP2srURonx5kyRuDd47DYV2E1pX0lDn1MRMowAU-hHNZ_cOD43Z-Zs4x9Qbk7?purpose=fullsize)",
+                "images": [
+                  {
+                    "image_ref_id": null,
+                    "image_result": {
+                      "content_size": {
+                        "height": 1282,
+                        "width": 1920
+                      },
+                      "content_url": "https://images.openai.com/static-rsc-4/GT3VDor-WLWnmlyTOIErFsJzKy7NkdtGbRUbBfpN35CuRG3uFCXwpFaOsvSdZu0KTIU8Ir046aDqSvea_sabCfP8uugtg7H29a4sjEGsgSi-Fr_bhTso-dXUMjb4lq2hwYBH36rmMdekwEA3Z4T7qtrepvR715I3Mp4iTx8OrIzma4T5DjotFjhRpvYTkexN?purpose=fullsize",
+                      "original_content_url": "https://parade.com/.image/ODowMDAwMDAwMDAxODkwNTMz/retro-des-concerts-de-prince-car-il-entame-une-tournee-mondiale-avec-son-album-a-los-angeles-1-janvier-1986-photo-by-bill-marinosygma-via-getty-images-stockpack-gettyimages.jpg?ar=4-3&io=1&profile=w2560",
+                      "scores": null,
+                      "show_url": true,
+                      "thumbnail_crop_info": {
+                        "center_x_percent": 0.49583333333333335,
+                        "center_y_percent": 0.34399375975039004
+                      },
+                      "thumbnail_render_mode": "thumbnail_only",
+                      "thumbnail_size": {
+                        "height": 860,
+                        "width": 1288
+                      },
+                      "thumbnail_url": "https://images.openai.com/static-rsc-4/zMxl2h3tR5nTH5ehV7aQaw2p18AGXbMEbi2Q67h3vgSe2ngm91FtK3ekVMZQSg2t21oYP9-6B-G0wR1qN0CSDIa0_gsSKYto7g8AJzE6Dq9Zgw0MxclKyBLXvDciaEYbv0NqYWQIhVjv5VffyDnpdPYH2mdt2NoupxejW_dyAL0?purpose=inline",
+                      "title": "'Kiss' by Prince Hit No. 1 40 Years Ago Today - Parade",
+                      "url": "https://parade.com/news/1986-kiss-prince-ranked-among-greatest-songs-all-time-hit-no-1-40-years-ago-today?utm_source=chatgpt.com"
+                    },
+                    "image_search_query": "Prince Kiss 1986 performance",
+                    "image_search_system": null
+                  },
+                  {
+                    "image_ref_id": null,
+                    "image_result": {
+                      "content_size": {
+                        "height": 800,
+                        "width": 1200
+                      },
+                      "content_url": "https://images.openai.com/static-rsc-4/60bL5oHCayevGkprW9YGBdIbEGM569yKnK07ntPjVPT6akXL-7xkgg-fadcfaQBQDHXN5r8r_UrWK1rKev1qccqPjkdP_NKlVZZWWw1Rp1JlrtvXFoPQW709l-MZDYJdNuaYCipCCnOyUN-9wqKXwWm-ssNlZCjcjlorpe3EnPhj_4myggyDTmIYdgF2dnMs?purpose=fullsize",
+                      "original_content_url": "https://townsquare.media/site/252/files/2016/04/prince1.jpg?a=t&format=natural&h=0&q=89&s=0&w=1200&zc=1",
+                      "scores": null,
+                      "show_url": true,
+                      "thumbnail_crop_info": {
+                        "center_x_percent": 0.48583333333333334,
+                        "center_y_percent": 0.24875
+                      },
+                      "thumbnail_render_mode": "thumbnail_only",
+                      "thumbnail_size": {
+                        "height": 800,
+                        "width": 1200
+                      },
+                      "thumbnail_url": "https://images.openai.com/static-rsc-4/2hKRtF9oRm27_69fHh2W6KJE8p50LK4tE1fHfNFSq8fsU1Aed9zRnHSmOUHqoea2At0qyfXG8LmzfFjk64_2xshvZWGIKjOZqvOY_2VrKr46z9iD1tZ2fxIErExEEwTcv79AwCR2ps48G5eks8-UXIvmWxvd7E3Kr9Ssw17eA3E?purpose=inline",
+                      "title": "Diamonds and Pearls: Prince's 10 Most Iconic Fashion Moments of All Time",
+                      "url": "https://popcrush.com/prince-most-iconic-fashion-gallery-style-icon/?utm_source=chatgpt.com"
+                    },
+                    "image_search_query": "Prince Parade era",
+                    "image_search_system": null
+                  },
+                  {
+                    "image_ref_id": null,
+                    "image_result": {
+                      "content_size": {
+                        "height": 1050,
+                        "width": 1400
+                      },
+                      "content_url": "https://images.openai.com/static-rsc-4/PM3E7dAcKSMEXlnSe3Ab3gngBRoUukXjRSA3zf4cqGPgOWgGnl1dPWTQLPQ0OdDpKGBsZlV4dHfumnlfrfvSq2AeZiyqAPYOU4dMd0VFIyDa8_fERA5cm_n7mLJK1T8gmbYnR_1crJ7iVQmMfaLOjPDSpIQsVRRGxlWL5PrVOHGBHi1kzkIca09iAlHsqfFw?purpose=fullsize",
+                      "original_content_url": "https://www.uncut.co.uk/wp-content/uploads/2020/09/154_Warner_JeffKatz.jpg",
+                      "scores": null,
+                      "show_url": true,
+                      "thumbnail_crop_info": {
+                        "center_x_percent": 0.48928571428571427,
+                        "center_y_percent": 0.3647619047619048
+                      },
+                      "thumbnail_render_mode": "thumbnail_only",
+                      "thumbnail_size": {
+                        "height": 860,
+                        "width": 1147
+                      },
+                      "thumbnail_url": "https://images.openai.com/static-rsc-4/hHNeMqFYn3FG9Lz0-cwdIUpmA_H-glcJ5ZEecBCnNQyaNyYmVsEMNSbjvkoPhrwEf-62RDpQh55jFh4yxIIoECOi4Okt-De2qn8V0b9KUhZ0TxfU1mF7eoU0UlScYeuLTH7wecpmWtEiNZWDXXwN2vX_pl6rvXFsFQiQUsfFiFs?purpose=inline",
+                      "title": "Prince – Sign O’ The Times - UNCUT",
+                      "url": "https://www.uncut.co.uk/reviews/album/prince-sign-o-the-times-128140/?utm_source=chatgpt.com"
+                    },
+                    "image_search_query": "Prince studio portrait 1986",
+                    "image_search_system": null
+                  },
+                  {
+                    "image_ref_id": null,
+                    "image_result": {
+                      "content_size": {
+                        "height": 795,
+                        "width": 800
+                      },
+                      "content_url": "https://images.openai.com/static-rsc-4/659EYIz9AeXKEG-BuxA1q4GySGtYIvEKHi5G2dE15R1Gk7mpQQq9o0BD7CGKDMT2QyqBcFxkxphZFIvGnveheAwA1kp-rBs8GsptsKhHowwMbRW-9GcpSBBohW41_gWeGsdpWJETWyaZywgvjE16aJ7rc5MOpldQfm0ZtpFZmz8fiUyft6FRwf2cQp4C0Bcw?purpose=fullsize",
+                      "original_content_url": "https://4.bp.blogspot.com/_BDysdKuiN_0/S9XeYYvjZuI/AAAAAAAAAWM/lhvXH4U6dY4/s1600/Prince_Guitar_notype.jpg",
+                      "scores": null,
+                      "show_url": true,
+                      "thumbnail_crop_info": {
+                        "center_x_percent": 0.55,
+                        "center_y_percent": 0.5345911949685535
+                      },
+                      "thumbnail_render_mode": "thumbnail_only",
+                      "thumbnail_size": {
+                        "height": 795,
+                        "width": 800
+                      },
+                      "thumbnail_url": "https://images.openai.com/static-rsc-4/tAkkhBL4ce_ziWN0r0PFBjj8rLmRcclVwWl5oZOKeVZZTVpvGnCZ3O8-udlOa_ok5T1YXCPgDdKOIKdT2BupVD33ocPAWARwNCGg-kn3D9mLZ_rTCZk9fG-MKrcokenFBfApmXVeVDV77lrTpU3CluVy0qGGhdcIxpAyI75WY_Q?purpose=inline",
+                      "title": "Planet Earth era 2007 - 2009",
+                      "url": "https://prince.org/msg/7/390529?pg=2&utm_source=chatgpt.com"
+                    },
+                    "image_search_query": "Prince guitar performance Kiss",
+                    "image_search_system": null
+                  },
+                  {
+                    "image_ref_id": null,
+                    "image_result": {
+                      "content_size": {
+                        "height": 1142,
+                        "width": 1692
+                      },
+                      "content_url": "https://images.openai.com/static-rsc-4/czyon5LkMubov_GFihA8gD07nt7m3yy1PTKPYRZ6wWQjLASBO4vWGLZNzGWM_qcQmwrZ8bHQJVhzuTr5q8eNSZcSaQwfI5Fj3wbBf8bHyBNWKeJ8sqrBiXVEaokzziFBSAk8KtlJ3lfYE_hVptH_uM3sWHzxM58UHjApRrkphvO-wvJxlG0ZhUwYwuFlsbPZ?purpose=fullsize",
+                      "original_content_url": "https://www.salon.com/app/uploads/2026/02/prince-526096232.jpg",
+                      "scores": null,
+                      "show_url": true,
+                      "thumbnail_crop_info": {
+                        "center_x_percent": 0.4373522458628842,
+                        "center_y_percent": 0.3415061295971979
+                      },
+                      "thumbnail_render_mode": "thumbnail_only",
+                      "thumbnail_size": {
+                        "height": 860,
+                        "width": 1274
+                      },
+                      "thumbnail_url": "https://images.openai.com/static-rsc-4/coHxes5GSYOBljl1GG2sGprBGtP5k3Kr10lpIFTXTZ1IVWwCY9fz408gpwzhMgtekLwmEtVDPsf_ztVF93eqBMMY92tIbaKuyEBPMrd3XiWKxgmMMyTC3AsVtDXviL2n5k63Z9FutJqFjyYq5T8baVEr69Pu-M8h7D0hf78lQrI?purpose=inline",
+                      "title": "We still swoon for Prince's \"Kiss\" - Salon.com",
+                      "url": "https://www.salon.com/2026/02/14/we-still-swoon-for-princes-kiss/?utm_source=chatgpt.com"
+                    },
+                    "image_search_query": "Prince Kiss 1986 performance",
+                    "image_search_system": null
+                  },
+                  {
+                    "image_ref_id": null,
+                    "image_result": {
+                      "content_size": {
+                        "height": 2048,
+                        "width": 1491
+                      },
+                      "content_url": "https://images.openai.com/static-rsc-4/DW_D6-hBme8W2FLGr8cudlTSOa_MrBDA8ykW8UxaO5G-wqdlZg7VYaG5M0cWqqjsV_i0sziHMxCim3hXt3-ZRYDfnP6_B55ihgwfiPFuft1w4daSsr7BZGQTy3fXbGr8REFg91nvDQlU-raC5n9s4R7RyE3z_giJJQSYDOLyjG1ukyCNIDDtqTAqpGGhPTdE?purpose=fullsize",
+                      "original_content_url": "https://i.pinimg.com/originals/53/5f/b5/535fb53d3e08a24a099e86697faf95b9.jpg",
+                      "scores": null,
+                      "show_url": true,
+                      "thumbnail_crop_info": {
+                        "center_x_percent": 0.5425888665325285,
+                        "center_y_percent": 0.2421875
+                      },
+                      "thumbnail_render_mode": "thumbnail_only",
+                      "thumbnail_size": {
+                        "height": 1407,
+                        "width": 1024
+                      },
+                      "thumbnail_url": "https://images.openai.com/static-rsc-4/oKWgCI7y68fEXJG_9sRrrNgMZjTJNp0qF5bXwVioXcpQtvxdlSEweQ0zz9i-YOrsMYf8zncp2vjkrS5osJD4uzkMmOhXXi5NmmUangaVD3uPbIzQzTzFd6NkNKlLaUfGOWdAQtAp-2VQtk5JnilWn7MSlVcI2JzFHT2avnI5wM8?purpose=inline",
+                      "title": "Prince - 1980's | Prince purple rain, Prince tribute, Prince rogers nelson",
+                      "url": "https://www.pinterest.com/pin/prince-1980s--542472717594091450/?utm_source=chatgpt.com"
+                    },
+                    "image_search_query": "Prince studio portrait 1986",
+                    "image_search_system": null
+                  },
+                  {
+                    "image_ref_id": null,
+                    "image_result": {
+                      "content_size": {
+                        "height": 400,
+                        "width": 400
+                      },
+                      "content_url": "https://images.openai.com/static-rsc-4/B9BzsWmeO7jD1JOJ66mB1-L6po9tUI70CbA8rotb3bJke34yaN798GKJkPNJfU9wMmquug8IFkTHwq-EfZGUpW888sA7YwFpXlUOoLNiXaJtgrHM62yHgeHM_4AiAPINYM3LP2srURonx5kyRuDd47DYV2E1pX0lDn1MRMowAU-hHNZ_cOD43Z-Zs4x9Qbk7?purpose=fullsize",
+                      "original_content_url": "https://therumpus.net/wp-content/uploads/2016/05/Prince-SMS-feature.jpg",
+                      "scores": null,
+                      "show_url": true,
+                      "thumbnail_crop_info": {
+                        "center_x_percent": 0.3375,
+                        "center_y_percent": 0.2
+                      },
+                      "thumbnail_render_mode": "thumbnail_only",
+                      "thumbnail_size": {
+                        "height": 400,
+                        "width": 400
+                      },
+                      "thumbnail_url": "https://images.openai.com/static-rsc-4/WCBhJHAVwzvF29MboIptG_ZhpvkOpuOUTVSD-r-mXu-d3L-dXCROJo0nzDfOvsrmyPykVnEDgMFbbTaUkBL70Ubo4OipMZD1QxIL2T9vXaAQNR_g6Psn-LPsUC1BUbSatlHLmVJpzy4GvzeeoSSuqA7uzSRzuYrdwZnQc9FgU9w?purpose=inline",
+                      "title": "Swinging Modern Sounds #73: Prince Rogers Nelson, Guitar Player: A Symposium - The Rumpus",
+                      "url": "https://therumpus.net/2016/06/23/swinging-modern-sounds-72-prince-rogers-nelson-guitar-player-a-symposium/?utm_source=chatgpt.com"
+                    },
+                    "image_search_query": "Prince guitar performance Kiss",
+                    "image_search_system": null
+                  }
+                ],
+                "prefix": null,
+                "prompt_text": null,
+                "type": "image_group"
+              },
+              {
+                "alt": "Kiss",
+                "entity_data": null,
+                "entity_index": null,
+                "extra_params": {
+                  "disambiguation": "Prince song (1986)"
+                },
+                "id": "BKRXshQN12hiB3IP",
+                "metadata": null,
+                "name": "Kiss",
+                "notes": null,
+                "prefix": null,
+                "prompt_text": "Kiss",
+                "type": "entity"
+              },
+              {
+                "alt": "Prince",
+                "entity_data": null,
+                "entity_index": null,
+                "extra_params": {
+                  "disambiguation": "American singer-songwriter"
+                },
+                "id": "wPnvZOkRyWvrvdfp",
+                "metadata": null,
+                "name": "Prince",
+                "notes": null,
+                "prefix": null,
+                "prompt_text": "Prince",
+                "type": "entity"
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "87bac1f8-8874-485b-9b0a-b15d374c5d5b"
+          }
+        },
+        "parent": "f365396c-49c2-419e-9998-637168a9ebd0"
+      },
+      "48389528-35d5-46f1-baf8-d690dd8fbf91": {
+        "id": "48389528-35d5-46f1-baf8-d690dd8fbf91",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "[Song's Style: minimal funk-pop x nu-funk dance groove, playful confident flirtatious effortlessly cool, 112 bpm, key of e minor, dry drum machine groove with tight kick snare and crisp closed hi-hats, muted syncopated funk guitar stabs, subtle hand percussion, sparse electric piano accents, minimal bass, rhythmic vocal ad-libs, intimate vintage analog warmth, lots of negative space]\n\n[style prompt: minimal funk-pop nu-funk dance groove, dry drum machine beats, syncopated muted rhythm guitar, playful expressive conversational vocals with light falsetto, intimate close-mic production, vintage analog character, sparse arrangement, strong pocket, groove-driven with human feel, sophisticated yet infectious rhythm]\n\nLyrics:\n[title]\nbarely groove\n\n[short instrumental intro]\n*muted guitar stabs and tight drum pocket establishing the lean swing*\n\n[verse 1]\nooh say it slow ooh, \nsaw you stealing glances then playing it shy, \ni feel that same quiet pull, no need to hide, \nyou move like the room belongs to that spark in your eye\n\n[pre chorus]\nsteady in the lights but your vibe pulls me near, \ni keep it light and easy, let the tension sit right here\n\n[chorus]\ni'll be careless with you, careless with you, \nlose you in the party then find you when it feels true, \ncareless with you, careless with you, \nlove the way we barely touch, barely, barely, barely touch\n\n[verse 2]\nstepped close to dance, knew you'd catch the signal, \ntake you home yeah the want runs mutual and deep, \ndon't go sweet on purpose, i'm already leaning, \nyour sleeve under my fingers said more than words could speak\n\n[chorus]\ni'll be careless with you, careless with you, \nlose you at the party then find you after three, \ncareless with you, careless with you, \ni like when we barely touch, barely, barely, barely touch\n\n[instrumental groove break]\n*drum machine tightens, guitar stabs answer the hi-hats, hand percussion fills the spaces, vocal ad-libs echo playfully*\n\n[final chorus]\nbe careless with me too, careless with me, \nwe can get lost then chase this gentle heat, \ncareless with you, careless with me, \nthis barely touch holds the whole night, barely, barely, barely touch\n\n[outro]\nooh you wanna go out, \nyeah that sounds nice and real, \nsay it slow, \nbarely with you, \n*sparse guitar fade into silence, last hi-hat tick*\n\n*light falsetto on barely lines, conversational delivery throughout, vocal interacts with the groove like percussion, small dynamic shifts every 8 bars, keep everything dry and in the pocket*"
+            ]
+          },
+          "create_time": 1782135549.554998,
+          "id": "48389528-35d5-46f1-baf8-d690dd8fbf91"
+        },
+        "parent": "c047132b-8a24-45f8-98e6-fcf3284445ea"
+      },
+      "5e1dbbde-a639-4f9b-819b-2acb0143d58a": {
+        "id": "5e1dbbde-a639-4f9b-819b-2acb0143d58a",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We were making song by inspired prince kiss. And I have you a sample SUNO struts tee. I did it ask you to remake that song . "
+            ]
+          },
+          "create_time": 1782134726.040341,
+          "id": "5e1dbbde-a639-4f9b-819b-2acb0143d58a"
+        },
+        "parent": "784aed8c-cfe1-4bc1-ae36-f4fcc15da234"
+      },
+      "5fb76afd-736f-4a80-8494-660acb281003": {
+        "id": "5fb76afd-736f-4a80-8494-660acb281003",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "thoughts",
+            "source_analysis_msg_id": "06bf5187-c17a-4aa4-b18f-aeceb41d9777",
+            "thoughts": [
+              {
+                "chunks": [],
+                "content": "The user mentioned \"kiss prince.\" I wonder if they’re referring to the musician Prince and his song \"Kiss,\" or perhaps it's a reference to a different \"kiss\" song by someone named Prince? It’s a little unclear, so I think I’ll search for more details on Prince’s song \"Kiss\" to be sure.",
+                "finished": true,
+                "summary": "Interpreting \"kiss prince\""
+              }
+            ]
+          },
+          "create_time": 1751723406.486001,
+          "id": "5fb76afd-736f-4a80-8494-660acb281003",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-4o",
+            "parent_id": "7d3976b4-1418-4ec7-b3b3-3dbf2155e1c9"
+          }
+        },
+        "parent": "28b427ea-f9f9-4314-9221-6f067ab68eab"
+      },
+      "784aed8c-cfe1-4bc1-ae36-f4fcc15da234": {
+        "id": "784aed8c-cfe1-4bc1-ae36-f4fcc15da234",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Yes. Looking at the production brief, the music is doing most of the emotional work:\n\n- Dance-punk groove\n- Bouncy bass\n- Sharp guitar stabs\n- Neon synth accents\n- Stylish nightclub tension\n- Flirtation mixed with distance\n- Female lead as the moving figure\n- Male voice as the grounded observer\n\nFor that type of arrangement, I would make the lyrics even more economical and repetitive. The repetition becomes part of the groove.\n\n:::writing{variant=\"standard\" id=\"32854\"}\n[Verse 1]\n\n[Female Lead]\n\nHeard you asking after me\nIn the neon\nIn the heat\n\nHeard you calling out my name\nI was already\nMoving on\n\n[Male Voice]\n\nShe was only passing through\n\n[Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\n\nDid you see me?\n(See me)\n\nSpinning in the lights\n\nDid you see me?\n\nI was gone before the dawn\n\n[Verse 2]\n\n[Female Lead]\n\nEvery corner\nEvery street\n\nEvery shadow\nLooks at me\n\nYou were searching\nI was dancing\n\nTo another song\n\n[Male Voice]\n\nSome things never stay too long\n\n[Bridge]\n\n[Female Lead]\n\nCatch me in a flash of light\n\nCatch me in a photograph\n\nCatch me in a memory\n\nThen let it fade\n\n[Male Voice]\n\nNothing lost\nNothing broken\n\nJust a night\nMoving on\n\n[Final Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\n\nDid you see me?\n(See me)\n\nSpinning in the lights\n\nDid you see me?\n\nI was gone before the dawn\n\n[Outro]\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nYou should move on\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nI'm already gone\n\n(Already gone)\n:::\n\nFor this particular production, I would actually expect this version to perform better than a lyric-heavy version because the groove, bassline, guitar stabs, and vocal attitude become the hook rather than the narrative. That's very consistent with dance-punk, art-pop, post-disco, and the kind of minimalist club storytelling your production notes suggest."
+            ]
+          },
+          "create_time": 1782134570.086013,
+          "id": "784aed8c-cfe1-4bc1-ae36-f4fcc15da234",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-5",
+            "parent_id": "359ff854-13cf-4d76-9665-a08d5c62e39b"
+          }
+        },
+        "parent": "359ff854-13cf-4d76-9665-a08d5c62e39b"
+      },
+      "7ed54859-fd5e-467e-a494-01f02d316872": {
+        "id": "7ed54859-fd5e-467e-a494-01f02d316872",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Yes. For that dance-punk / art-pop / post-punk groove, I'd actually reduce the lyric density and let the rhythm carry more of the track. The current version tells quite a complete story. A more Crazy P, LCD Soundsystem, ESG, early Róisín Murphy, post-disco approach would leave more air between lines.\n\nSomething like:\n\n:::writing{variant=\"standard\" id=\"61482\"}\n[Verse 1]\n\n[Female Lead]\n\nHeard you asking after me\nIn the lights\nIn the smoke\n\nHeard you calling out my name\nI just smiled\nAnd I disappeared\n\n[Male Voice]\n\nShe was only passing through\nYou should let it go\n\n[Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\n\nDid you see me?\n(See me)\n\nLaughing in the neon\n\nDid you see me?\n\nI was gone before the dawn\n\n[Verse 2]\n\n[Female Lead]\n\nEvery corner\nEvery street\n\nEvery face\nLooking back at me\n\nYou were searching\nI was moving\n\nNever staying\nLong enough\n\n[Male Voice]\n\nSome things only last a night\n\n[Bridge]\n\n[Female Lead]\n\nIf you catch me in the mirror\nDon't look twice\n\nIf you hear me in the music\nLet it pass\n\n[Male Voice]\n\nNothing broken\nNothing lost\n\nJust another goodbye\n\n[Final Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\n\nDid you see me?\n(See me)\n\nLaughing in the neon\n\nDid you see me?\n\nI was gone before the dawn\n\n[Outro]\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nYou should move on\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nI'm already gone\n\n(Already gone)\n:::\n\nThis version gives the instruments much more room to breathe. The bass, guitar stabs, drums, and synth accents become part of the conversation instead of constantly competing with lyrics. That's often where this kind of stylish nightclub music becomes strongest."
+            ]
+          },
+          "create_time": 1782134458.892058,
+          "id": "7ed54859-fd5e-467e-a494-01f02d316872",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-5",
+            "parent_id": "dd1732bd-18b7-430a-9ae2-78d983a0ccbd"
+          }
+        },
+        "parent": "167d77ba-b1ae-4de4-b126-e48b070e49a9"
+      },
+      "8281dfdf-878b-4ca0-8615-dfcacb5895fb": {
+        "id": "8281dfdf-878b-4ca0-8615-dfcacb5895fb",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Now I understand what you were doing.\n\nYou already had a **Kiss-inspired original song**. You weren't asking for new lyrics. You were showing a completed Suno prompt and, implicitly, checking whether the lyric/prodution relationship actually matches the style brief.\n\nThe answer is: **mostly yes, but the lyrics are still denser and more romantic-pop than the production suggests.**\n\nThe production brief says:\n\n- minimal funk-pop\n- groove-first\n- negative space\n- conversational\n- rhythmic vocals\n- vocal acts like percussion\n- sparse arrangement\n- intimate and playful\n\nBut some lines read more like contemporary indie-pop:\n\n```txt\nsaw you stealing glances then playing it shy\ni feel that same quiet pull, no need to hide\n```\n\nand\n\n```txt\nyour sleeve under my fingers said more than words could speak\n```\n\nThose are good lyrics, but they're descriptive.\n\nThe production wants slightly more *physical rhythm* and slightly less *explanation*.\n\nFor example:\n\n```txt\nsaw you looking once\nthen looking away\n\ni did the same thing\nanyway\n```\n\nor\n\n```txt\nstepped into the groove\ncaught your eye\n\nsaid nothing\nall night\n```\n\nNot because they're better poetry.\n\nBecause they leave more room for:\n\n- guitar stabs\n- drum pocket\n- falsetto fills\n- ad-libs\n- silence\n\nThe strongest section is actually the chorus:\n\n```txt\ncareless with you\ncareless with you\n\nlose you in the party\nthen find you when it feels true\n```\n\nbecause it has:\n\n- repetition\n- hook language\n- rhythmic phrasing\n- conversational tone\n\nwhich fits the style brief perfectly.\n\nThe other thing I notice is that your style says:\n\n```txt\nminimal bass\n```\n\nbut the lyric concept:\n\n```txt\nlose you in the party\nfind you again\nbarely touch\n```\n\nis actually very close to the emotional ambiguity that works in a Kiss-inspired track.\n\nSo I would not rewrite the song.\n\nI would only trim maybe 15–20% of the verse wording and let the groove breathe more.\n\nStructurally, however, your format is already much closer to what I would standardize:\n\n```txt\n[Song's Style]\n\n[Style Prompt]\n\nLyrics:\n\n[Title]\n\n[Short Instrumental Intro]\n\n[Verse 1]\n\n[Pre Chorus]\n\n[Chorus]\n\n[Verse 2]\n\n[Chorus]\n\n[Instrumental Groove Break]\n\n[Final Chorus]\n\n[Outro]\n\n[Performance Notes]\n```\n\nAnd yes, I agree with your earlier point:\n\n- `[ ]` = all instructions and section labels\n- `( )` = harmonies / echoes / responses / layers\n- plain text = lyrics\n- `* *` is unnecessary and introduces another syntax system\n\nSo I'd actually replace:\n\n```txt\n*muted guitar stabs and tight drum pocket*\n```\n\nwith:\n\n```txt\n[Muted guitar stabs and tight drum pocket establishing the lean swing]\n```\n\nand:\n\n```txt\n*light falsetto on barely lines*\n```\n\nwith:\n\n```txt\n[Light falsetto on \"barely\" phrases]\n```\n\nThat gives you one consistent language throughout the entire prompt."
+            ]
+          },
+          "create_time": 1782135550.41493,
+          "id": "8281dfdf-878b-4ca0-8615-dfcacb5895fb",
+          "metadata": {
+            "code_blocks": {
+              "0": {
+                "edited": false,
+                "id": "ekqwfh",
+                "preview_language": null,
+                "previewable": false
+              },
+              "1": {
+                "edited": false,
+                "id": "9ahrkv",
+                "preview_language": null,
+                "previewable": false
+              },
+              "10": {
+                "edited": false,
+                "id": "l3ugw2",
+                "preview_language": null,
+                "previewable": false
+              },
+              "11": {
+                "edited": false,
+                "id": "zd7f4g",
+                "preview_language": null,
+                "previewable": false
+              },
+              "2": {
+                "edited": false,
+                "id": "jgrbca",
+                "preview_language": null,
+                "previewable": false
+              },
+              "3": {
+                "edited": false,
+                "id": "nyahud",
+                "preview_language": null,
+                "previewable": false
+              },
+              "4": {
+                "edited": false,
+                "id": "o12xi2",
+                "preview_language": null,
+                "previewable": false
+              },
+              "5": {
+                "edited": false,
+                "id": "i1uqn3",
+                "preview_language": null,
+                "previewable": false
+              },
+              "6": {
+                "edited": false,
+                "id": "85abdh",
+                "preview_language": null,
+                "previewable": false
+              },
+              "7": {
+                "edited": false,
+                "id": "m2012n",
+                "preview_language": null,
+                "previewable": false
+              },
+              "8": {
+                "edited": false,
+                "id": "s21vmc",
+                "preview_language": null,
+                "previewable": false
+              },
+              "9": {
+                "edited": false,
+                "id": "uie4jo",
+                "preview_language": null,
+                "previewable": false
+              }
+            },
+            "content_references": [],
+            "conversation_context_citation_metadata": [
+              {
+                "citation": {
+                  "alt": null,
+                  "attribution": "Memory",
+                  "citation_uuid": "60e5a901-5615-454e-b666-3bd2bb3dcc83",
+                  "conversation_context_type": "user_memory",
+                  "end_idx": -1,
+                  "index": 3,
+                  "matched_text": "",
+                  "memory_id": "523013a5-cf02-4da9-9e87-977cda9d0c56",
+                  "prompt_text": null,
+                  "reason": "You require specific Suno bracket/parenthesis formatting rules.",
+                  "refs": [],
+                  "snippet": "Use the user's specified Suno Song Architect formatting: [ ] for non-lyric instructions only, ( ) for sung vocal layers only, plain text for main lyrics",
+                  "start_idx": -1,
+                  "title": "You require specific Suno bracket/parenthesis formatting rules.",
+                  "type": "conversation_context_citation",
+                  "url": "#settings/Personalization"
+                },
+                "citation_uuid": "60e5a901-5615-454e-b666-3bd2bb3dcc83",
+                "deleted": false,
+                "feedback": null
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "eaaaacc6-1763-48e3-9e4a-9b3443d84ff5"
+          }
+        },
+        "parent": "48389528-35d5-46f1-baf8-d690dd8fbf91"
+      },
+      "8399e42c-bf29-450d-8fe3-ee2b4e48634c": {
+        "id": "8399e42c-bf29-450d-8fe3-ee2b4e48634c",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Thanks please is this format. I mean just something consistent. So ai should follow without confusing. For example section names in [] , and other non lyrical content somehow has to be consistent again.either put in [], or make them bold , or italic, remember using () creates echo, back vocal or layer harmony. So just saying. \nStyles: Dance-punk / art-pop / post-punk duet at 128 BPM. Lean, wiry, kinetic groove with sharp offbeat guitar stabs, elastic bouncy bass, twitchy crisp drums, and neon synth accents. Bright airy female lead up front; warm low male voice enters briefly in a drier, grounded tone. Minimal pads, strong rhythmic contrast, stylish nightclub tension. Avoid EDM drops, oversized pad wash, glossy corporate pop, and royalty-free stock feel.]\n\n[Song Description: Flirtatious, elusive, and slightly bittersweet — like someone dancing out of reach in a neon club while a calm voice on the sidelines tells you to let go.]\n\nLyrics:\n\n[Intro]\n[Bar 1–2: muted guitar stab motif + filtered noise/synth bed,\nBar 3–4: bass enters with a playful bouncing figure,\nBar 5–8: kick, hats, and snare lock in; tiny vocal breath/chop hints at the female lead]\n\n[Verse 1 - female] Heard you been asking around for me I'm nowhere to be found \nWe shared a dance together\nBut I rarely stick around \nHeard you're looking for me \nI don't mean to do you wrong\n\n[Male] She was only passing through, boy So you better move on\n\n[Chorus] Did you see me? (See me) Dancing through the crowd Like a sparkle in the spotlight I was laughing out so loud Did you see me? (See me) Now I'm moving on You don't need to chase me ever I was gone before the dawn\n\n[Verse 2 - female] Heard you're looking for me In the corners of the town Every shadow, every alley But I never settle down Heard you're looking for me Like a spark that won't stay lit\n\n[Male] It was just a lovely evening And I really needed it\n\n[Bridge - female] If you catch me in the mirror Smile and let the image fade I was dancing for the feeling Not to stay inside the shade\n\n[Bridge - male] You can look across the ocean You can look across the sky But the sweet things disappear, boy With a whispered goodbye\n\n[Chorus] Did you see me? (See me) Dancing through the crowd Like a sparkle in the spotlight I was laughing out so loud Did you see me? (See me) Now I'm moving on You don't need to chase me ever I was gone before the dawn\n\n[Outro] [Female] Are you looking for me? [Male] You better move on [Female] Are you looking for me? [Male] Well, I'm already gone (Already gone)\n\n"
+            ]
+          },
+          "create_time": 1782078971.802211,
+          "id": "8399e42c-bf29-450d-8fe3-ee2b4e48634c"
+        },
+        "parent": "dc0ec98c-6de7-4b9c-abe4-7a4da73dbc33"
+      },
+      "9a052489-3fce-4bc4-965c-2a9dcf1b2c3f": {
+        "id": "9a052489-3fce-4bc4-965c-2a9dcf1b2c3f",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I've kept your concept, hook, structure, and production direction intact. The changes are:\n\n- Removed `* *` instructions and converted everything to `[ ]`.\n- Tightened some verse lines so they sit better in a groove-first arrangement.\n- Kept the conversational, flirtatious feel.\n- Left the chorus largely intact because it's already the strongest section.\n- Standardized the format so every non-lyric instruction uses `[ ]` and every vocal layer/echo uses `( )`.\n\n:::writing{variant=\"standard\" id=\"68421\"}\n[Song's Style: minimal funk-pop x nu-funk dance groove, playful confident flirtatious effortlessly cool, 112 BPM, key of E minor, dry drum machine groove with tight kick snare and crisp closed hi-hats, muted syncopated funk guitar stabs, subtle hand percussion, sparse electric piano accents, minimal bass, rhythmic vocal ad-libs, intimate vintage analog warmth, lots of negative space]\n\n[Style Prompt: minimal funk-pop nu-funk dance groove, dry drum machine beats, syncopated muted rhythm guitar, playful expressive conversational vocals with light falsetto, intimate close-mic production, vintage analog character, sparse arrangement, strong pocket, groove-driven with human feel, sophisticated yet infectious rhythm]\n\nLyrics:\n\n[Title]\nBarely Groove\n\n[Short Instrumental Intro]\n\n[Muted guitar stabs and tight drum pocket establishing the lean swing]\n\n[Verse 1]\n\nOoh, say it slow, ooh\n\nSaw you stealing glances, then playing it shy\nI felt that same pull, no need to hide\nYou move like the room belongs to that spark in your eye\n\n[Pre-Chorus]\n\nSteady in the lights but your vibe pulls me near\nI keep it easy, let the tension stay right here\n\n[Chorus]\n\nI'll be careless with you\nCareless with you\n\nLose you in the party\nThen find you when it feels true\n\nCareless with you\nCareless with you\n\nLove the way we barely touch\nBarely, barely, barely touch\n\n[Verse 2]\n\nStepped close to dance\nKnew you'd catch the signal\n\nTake you home, yeah\nThe want runs mutual\n\nDon't go sweet on purpose\nI'm already leaning\n\nYour sleeve under my fingers\nSaid enough for me\n\n[Chorus]\n\nI'll be careless with you\nCareless with you\n\nLose you at the party\nThen find you after three\n\nCareless with you\nCareless with you\n\nI like when we barely touch\nBarely, barely, barely touch\n\n[Instrumental Groove Break]\n\n[Drum machine tightens. Guitar stabs answer the hi-hats. Hand percussion fills the spaces. Vocal ad-libs echo playfully.]\n\n[Final Chorus]\n\nBe careless with me too\nCareless with me\n\nWe can get lost\nThen chase this gentle heat\n\nCareless with you\nCareless with me\n\nThis barely touch\nHolds the whole night\n\nBarely, barely, barely touch\n\n[Outro]\n\nOoh, you wanna go out\n\nYeah, that sounds nice and real\n\nSay it slow\n\nBarely with you\n\n[Sparse guitar fade into silence. Final hi-hat tick.]\n\n[Light falsetto on \"barely\" phrases. Conversational delivery throughout. Vocal interacts with the groove like percussion. Small dynamic changes every 8 bars. Keep everything dry, intimate and in the pocket.]\n:::\n\nThis version is closer to the \"Kiss\" principle: less explanation, more rhythm, more space for the groove to do the work."
+            ]
+          },
+          "create_time": 1782135612.032343,
+          "id": "9a052489-3fce-4bc4-965c-2a9dcf1b2c3f",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-5",
+            "parent_id": "ab3f4561-de5c-40ad-bd05-9079b6fdb3b5"
+          }
+        },
+        "parent": "ab3f4561-de5c-40ad-bd05-9079b6fdb3b5"
+      },
+      "ab3f4561-de5c-40ad-bd05-9079b6fdb3b5": {
+        "id": "ab3f4561-de5c-40ad-bd05-9079b6fdb3b5",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Then do it"
+            ]
+          },
+          "create_time": 1782135611.3453178,
+          "id": "ab3f4561-de5c-40ad-bd05-9079b6fdb3b5"
+        },
+        "parent": "8281dfdf-878b-4ca0-8615-dfcacb5895fb"
+      },
+      "b5129abe-7772-410d-8d3c-b12bce5d9e53": {
+        "id": "b5129abe-7772-410d-8d3c-b12bce5d9e53",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Fick off"
+            ]
+          },
+          "create_time": 1782134755.321197,
+          "id": "b5129abe-7772-410d-8d3c-b12bce5d9e53"
+        },
+        "parent": "d20285cc-dfb6-426f-b16c-f47530422555"
+      },
+      "c047132b-8a24-45f8-98e6-fcf3284445ea": {
+        "id": "c047132b-8a24-45f8-98e6-fcf3284445ea",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Fair criticism.\n\nI jumped from \"Prince Kiss-inspired production\" to rewriting the lyrics, when what you were actually discussing was **prompt architecture and formatting standards**.\n\nYour example already had lyrics. The question was about keeping the prompt structure consistent and making sure instructions, arrangement notes, vocal assignments, and lyrics are clearly separated.\n\nI should have focused on the structure itself, not started replacing the song.\n\nThe distinction matters:\n\n- **Production inspiration** = minimalist funk-pop, groove-first, space, rhythmic vocals.\n- **Prompt structure** = how `[Style]`, `[Song Description]`, `[Lyrics]`, `[Verse]`, `[Female Lead]`, `(harmonies)` etc. are formatted.\n- **Song content** = your lyrics.\n\nThose are three separate layers.\n\nWhen you showed the dance-punk example, I should have treated it as a formatting template, not as a candidate for lyrical replacement.\n\nIf you want to continue, tell me which of these you actually want to solve:\n\n1. A permanent Suno formatting standard.\n2. A Prince \"Kiss\"-inspired prompt structure.\n3. A lyric-writing standard that matches groove-first songs.\n4. Something else entirely.\n\nAnd I'll stay on that specific target."
+            ]
+          },
+          "create_time": 1782134756.053686,
+          "id": "c047132b-8a24-45f8-98e6-fcf3284445ea",
+          "metadata": {
+            "content_references": [],
+            "conversation_context_citation_metadata": [
+              {
+                "citation": {
+                  "alt": null,
+                  "attribution": "Memory",
+                  "citation_uuid": "0a70eb83-e965-4130-82dc-55aeb6ac3d5e",
+                  "conversation_context_type": "user_memory",
+                  "end_idx": -1,
+                  "index": 3,
+                  "matched_text": "",
+                  "memory_id": "523013a5-cf02-4da9-9e87-977cda9d0c56",
+                  "prompt_text": null,
+                  "reason": "You want Suno prompt formatting with specific bracket rules.",
+                  "refs": [],
+                  "snippet": "Use the user's specified Suno Song Architect formatting: [ ] for non-lyric instructions only, ( ) for sung vocal layers only, plain text for main lyrics,",
+                  "start_idx": -1,
+                  "title": "You want Suno prompt formatting with specific bracket rules.",
+                  "type": "conversation_context_citation",
+                  "url": "#settings/Personalization"
+                },
+                "citation_uuid": "0a70eb83-e965-4130-82dc-55aeb6ac3d5e",
+                "deleted": false,
+                "feedback": null
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "b5129abe-7772-410d-8d3c-b12bce5d9e53"
+          }
+        },
+        "parent": "b5129abe-7772-410d-8d3c-b12bce5d9e53"
+      },
+      "client-created-root": {
+        "id": "client-created-root",
+        "message": null,
+        "parent": null
+      },
+      "d20285cc-dfb6-426f-b16c-f47530422555": {
+        "id": "d20285cc-dfb6-426f-b16c-f47530422555",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You're right. I misunderstood your objective.\n\nYou weren't asking me to rewrite the song into a minimalist version.\n\nYou had:\n\n1. A **Prince \"Kiss\" production discussion**.\n2. A **Suno structure/template example** showing how you format prompts.\n3. A request about **consistent prompt formatting**.\n\nThe goal was to add a *small amount of lyric guidance* that fits the musical production style, not replace the song with a new minimalist lyric.\n\nFor a \"Kiss\"-inspired production, the important thing isn't reducing the song into fragments. It's understanding why the lyrics work with the groove:\n\n- conversational\n- playful\n- teasing\n- confident\n- rhythmic\n- economical\n- lots of space between ideas\n- vocal phrasing acts as percussion\n- call-and-response works well\n- memorable repeated hooks\n\nSo if we take your existing structure, I'd add guidance like this:\n\n:::writing{variant=\"standard\" id=\"51743\"}\n[Lyric Direction]\n\nConversational rather than poetic.\n\nShort phrases preferred over long narrative lines.\n\nUse repetition as a rhythmic tool.\n\nAllow space between ideas so the groove carries the energy.\n\nFlirtatious, playful, elusive and confident.\n\nThe female lead should feel untouchable but never cruel.\n\nThe male voice acts as a grounded observer rather than a second protagonist.\n\nAvoid excessive exposition, detailed storytelling, emotional over-explaining, dramatic heartbreak language, and dense lyric blocks.\n\nPrioritize memorable repeated phrases, call-and-response moments, vocal hooks, spoken-style delivery, and rhythmic phrasing that locks into the groove.\n\nExample tonal references:\n\nFemale:\n\"Did you see me?\"\n\"Maybe I was there.\"\n\"Maybe I was gone.\"\n\"You looked away.\"\n\"I kept dancing.\"\n\nMale:\n\"She was passing through.\"\n\"You should let it go.\"\n\"It was only one night.\"\n\"Some things don't stay.\"\n\nUse lyrics as part of the rhythm section.\nThe groove should remain the primary focus.\n:::\n\nI think this is closer to what you were trying to establish:\n\n- **Style** section = production.\n- **Song Description** section = emotional intent.\n- **Lyric Direction** section = writing rules.\n- **Lyrics** section = actual lyrics.\n\nThat keeps everything consistent and reusable across future Suno projects."
+            ]
+          },
+          "create_time": 1782134727.239691,
+          "id": "d20285cc-dfb6-426f-b16c-f47530422555",
+          "metadata": {
+            "content_references": [],
+            "model_slug": "gpt-5-5",
+            "parent_id": "ef4a5073-7865-420f-99b7-a0433fecb411"
+          }
+        },
+        "parent": "5e1dbbde-a639-4f9b-819b-2acb0143d58a"
+      },
+      "dc0ec98c-6de7-4b9c-abe4-7a4da73dbc33": {
+        "id": "dc0ec98c-6de7-4b9c-abe4-7a4da73dbc33",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "If by \"last option\" you mean:\n\n> **A Suno-compatible prompt inspired by the production style of \"Kiss\" without imitating Prince directly**\n\nthen I'd build it around the underlying production principles rather than the artist.\n\n```txt\n[Genre: Minimal Funk-Pop, Nu-Funk, Dance Groove]\n\n[Mood: Playful, Confident, Flirtatious, Effortlessly Cool]\n\n[Tempo: 112 BPM]\n\n[Instrumentation]\nDry drum machine groove, tight kick and snare, crisp closed hi-hats, muted syncopated funk guitar stabs, subtle hand percussion, sparse electric piano accents, minimal bass presence, rhythmic vocal ad-libs, occasional crowd-style responses.\n\n[Production]\nExtremely minimalist arrangement, lots of negative space, groove-driven composition, dry mix, very little reverb, punchy transients, intimate vocals, vintage analog character, organic human timing, dynamic arrangement through subtraction rather than addition.\n\n[Vocal Style]\nExpressive lead vocal, conversational phrasing, playful attitude, light falsetto moments, rhythmic delivery, natural imperfections, close-mic intimacy.\n\n[Song Structure]\nShort instrumental intro\nVerse 1\nPre-Chorus\nChorus\nVerse 2\nChorus\nInstrumental Groove Break\nFinal Chorus\nOutro\n\n[Arrangement Notes]\nThe groove carries the song. Every instrument serves the rhythm. No oversized synths, no orchestral layers, no wall of sound. Keep the track lean, infectious, and danceable. Introduce small changes every 8 bars. Use silence and space as musical elements. The vocal interacts with the groove like another percussion instrument.\n\n[Master Prompt]\nMinimal funk-pop dance groove with dry drum machine beats, syncopated muted rhythm guitar, playful expressive vocals, intimate production, vintage analog warmth, sparse arrangement, strong pocket, infectious rhythm, conversational attitude, human feel, dancefloor-ready energy, sophisticated groove, modern fidelity with classic funk sensibilities.\n```\n\nFor a stronger Suno result, I'd actually push it a little closer to what makes that style work today:\n\n```txt\nMinimal funk-pop, nu-disco groove, dry drum machine, muted rhythm guitar stabs, playful male or female vocal, intimate close-mic delivery, sparse arrangement, organic swing, vintage analog warmth, subtle electric piano, dancefloor groove, infectious pocket, stylish confidence, sophisticated nightlife energy, minimal bass, crisp percussion, negative space, groove-first production, modern studio quality.\n```\n\nThis tends to generate better results because it describes the *mechanics* of the sound rather than relying on references Suno may interpret inconsistently."
+            ]
+          },
+          "create_time": 1782033261.133563,
+          "id": "dc0ec98c-6de7-4b9c-abe4-7a4da73dbc33",
+          "metadata": {
+            "code_blocks": {
+              "0": {
+                "edited": false,
+                "id": "pozo7x",
+                "preview_language": null,
+                "previewable": false
+              },
+              "1": {
+                "edited": false,
+                "id": "la1k45",
+                "preview_language": null,
+                "previewable": false
+              }
+            },
+            "content_references": [],
+            "model_slug": "gpt-5-5",
+            "parent_id": "e65b9350-8420-42d8-8695-fce5bac75a0f"
+          }
+        },
+        "parent": "e65b9350-8420-42d8-8695-fce5bac75a0f"
+      },
+      "e65b9350-8420-42d8-8695-fce5bac75a0f": {
+        "id": "e65b9350-8420-42d8-8695-fce5bac75a0f",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Ok let’s try last option "
+            ]
+          },
+          "create_time": 1782033260.337276,
+          "id": "e65b9350-8420-42d8-8695-fce5bac75a0f"
+        },
+        "parent": "3af66bf1-c553-42bc-a367-7b22ff3f3967"
+      },
+      "efe1d40b-f32c-4c3d-95ee-9f41bb6b1475": {
+        "id": "efe1d40b-f32c-4c3d-95ee-9f41bb6b1475",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Yes. I think consistency is important, especially if you're building prompts that may pass through ChatGPT → Suno → later edits → remix workflows.\n\nFrom years of user experimentation, the least ambiguous structure is usually:\n\n### Recommended Standard\n\n- `[ ]` = all non-lyric instructions, metadata, arrangement notes, section labels, production notes, vocal assignments.\n- `( )` = sung backing vocals, call-and-response, harmonies, echoes, ad-libs, layered vocals.\n- Plain text = lyrics only.\n- Avoid `**bold**`, `*italic*`, or markdown formatting inside the prompt itself because Suno doesn't consistently interpret them.\n- Never mix systems unless necessary.\n\nSo instead of:\n\n```txt\n[Verse 1 - female]\n```\n\nI would actually standardize to:\n\n```txt\n[Verse 1]\n[Female Lead]\n```\n\nor\n\n```txt\n[Verse 1 | Female Lead]\n```\n\nLikewise:\n\n```txt\n[Male]\nShe was only passing through, boy\nSo you better move on\n```\n\ninstead of embedding speaker changes inside lyric lines.\n\n---\n\nFor your example, I'd normalize it like this:\n\n:::writing{variant=\"standard\" id=\"58271\"}\n[Style]\nDance-punk, art-pop, post-punk duet, 128 BPM. Lean wiry groove. Sharp offbeat guitar stabs. Elastic bouncy bass. Twitchy crisp drums. Neon synth accents. Bright airy female lead. Warm low male voice appears briefly in a dry grounded tone. Minimal pads. Strong rhythmic contrast. Stylish nightclub tension. Avoid EDM drops, oversized pad wash, glossy corporate pop, royalty-free stock feel.\n\n[Song Description]\nFlirtatious, elusive, slightly bittersweet. Like someone dancing out of reach in a neon club while a calm voice on the sidelines tells you to let go.\n\n[Lyrics]\n\n[Intro]\n\n[Arrangement]\nBar 1-2: muted guitar stab motif and filtered synth noise bed.\nBar 3-4: bass enters with playful bouncing figure.\nBar 5-8: kick, hats and snare lock together. Small vocal breath and chop hints.\n\n[Verse 1]\n\n[Female Lead]\n\nHeard you been asking around for me\nI'm nowhere to be found\nWe shared a dance together\nBut I rarely stick around\nHeard you're looking for me\nI don't mean to do you wrong\n\n[Male Voice]\n\nShe was only passing through, boy\nSo you better move on\n\n[Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\nLike a sparkle in the spotlight\nI was laughing out so loud\n\nDid you see me?\n(See me)\n\nNow I'm moving on\nYou don't need to chase me ever\nI was gone before the dawn\n\n[Verse 2]\n\n[Female Lead]\n\nHeard you're looking for me\nIn the corners of the town\nEvery shadow, every alley\nBut I never settle down\n\nHeard you're looking for me\nLike a spark that won't stay lit\n\n[Male Voice]\n\nIt was just a lovely evening\nAnd I really needed it\n\n[Bridge]\n\n[Female Lead]\n\nIf you catch me in the mirror\nSmile and let the image fade\nI was dancing for the feeling\nNot to stay inside the shade\n\n[Bridge]\n\n[Male Voice]\n\nYou can look across the ocean\nYou can look across the sky\nBut the sweet things disappear, boy\nWith a whispered goodbye\n\n[Chorus]\n\nDid you see me?\n(See me)\n\nDancing through the crowd\nLike a sparkle in the spotlight\nI was laughing out so loud\n\nDid you see me?\n(See me)\n\nNow I'm moving on\nYou don't need to chase me ever\nI was gone before the dawn\n\n[Outro]\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nYou better move on\n\n[Female Lead]\n\nAre you looking for me?\n\n[Male Voice]\n\nWell, I'm already gone\n(Already gone)\n:::\n\nThis is very close to the format I would recommend as a permanent project standard:\n\n```txt\n[Style]\n...\n\n[Song Description]\n...\n\n[Lyrics]\n\n[Intro]\n\n[Arrangement]\n...\n\n[Verse 1]\n[Female Lead]\n\nlyrics\n\n[Male Voice]\n\nlyrics\n\n[Chorus]\n\nlyrics\n(harmonies)\n\n[Bridge]\n\n...\n\n[Outro]\n\n...\n```\n\nIt's easy for humans to read, easy to edit later, and keeps a strict separation between instructions, vocal assignments, and actual lyrics. It also aligns well with the Suno prompt-builder structure you've been developing in your project files. fileciteturn0file15 fileciteturn0file45"
+            ]
+          },
+          "create_time": 1782078972.706606,
+          "id": "efe1d40b-f32c-4c3d-95ee-9f41bb6b1475",
+          "metadata": {
+            "code_blocks": {
+              "0": {
+                "edited": false,
+                "id": "w5dg0i",
+                "preview_language": null,
+                "previewable": false
+              },
+              "1": {
+                "edited": false,
+                "id": "mxjeh5",
+                "preview_language": null,
+                "previewable": false
+              },
+              "2": {
+                "edited": false,
+                "id": "0p1vz0",
+                "preview_language": null,
+                "previewable": false
+              },
+              "3": {
+                "edited": false,
+                "id": "ssd2bx",
+                "preview_language": null,
+                "previewable": false
+              },
+              "4": {
+                "edited": false,
+                "id": "09wf32",
+                "preview_language": null,
+                "previewable": false
+              }
+            },
+            "content_references": [
+              {
+                "alt": null,
+                "cloud_doc_url": null,
+                "connector_id": null,
+                "drug_file_reference": null,
+                "fff_metadata": null,
+                "id": "file-RBMLuHcaTACM1ZabPeuQTU",
+                "input_pointer": {
+                  "file_index": 15,
+                  "line_range_end": null,
+                  "line_range_start": null,
+                  "message_id": "2bcf249e-2251-4a3d-9a40-aa11fc1afdba",
+                  "message_index": 0
+                },
+                "library_artifact_type": null,
+                "library_file_id": null,
+                "medical_file_reference": {
+                  "authors_display": null,
+                  "doi": null,
+                  "journal_homepage_url": null,
+                  "journal_name": null,
+                  "publication_year": null,
+                  "source_icon_url": null,
+                  "source_label": null,
+                  "source_url": null
+                },
+                "name": "Suno AI Music Making Research.pdf",
+                "page_range_end": null,
+                "page_range_start": null,
+                "snippet": null,
+                "source": "my_files",
+                "type": "file"
+              },
+              {
+                "alt": null,
+                "prefix": null,
+                "prompt_text": null,
+                "type": "hidden"
+              }
+            ],
+            "conversation_context_citation_metadata": [
+              {
+                "citation": {
+                  "alt": null,
+                  "attribution": "Memory",
+                  "citation_uuid": "cc5dc813-4f67-4497-8a2a-f41ea3e53f91",
+                  "conversation_context_type": "user_memory",
+                  "end_idx": -1,
+                  "index": 3,
+                  "matched_text": "",
+                  "memory_id": "523013a5-cf02-4da9-9e87-977cda9d0c56",
+                  "prompt_text": null,
+                  "reason": "You want Suno Song Architect formatting with [ ] and ( ).",
+                  "refs": [],
+                  "snippet": "Use the user's specified Suno Song Architect formatting: [ ] for non-lyric instructions only, ( ) for sung vocal layers only, plain text for main lyrics, Song's Style then Lyrics, and output song drafts directly in a txt code block for clean copy-paste.",
+                  "start_idx": -1,
+                  "title": "You want Suno Song Architect formatting with [ ] and ( ).",
+                  "type": "conversation_context_citation",
+                  "url": "#settings/Personalization"
+                },
+                "citation_uuid": "cc5dc813-4f67-4497-8a2a-f41ea3e53f91",
+                "deleted": false,
+                "feedback": null
+              }
+            ],
+            "model_slug": "gpt-5-5",
+            "parent_id": "92859dca-e7c0-45a1-9f62-4a0be1d68e48"
+          }
+        },
+        "parent": "8399e42c-bf29-450d-8fe3-ee2b4e48634c"
+      },
+      "f365396c-49c2-419e-9998-637168a9ebd0": {
+        "id": "f365396c-49c2-419e-9998-637168a9ebd0",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Yes"
+            ]
+          },
+          "create_time": 1782032988.299875,
+          "id": "f365396c-49c2-419e-9998-637168a9ebd0"
+        },
+        "parent": "179dba00-835e-43d4-bfde-af5dc79b32da"
+      },
+      "fae9e721-72cd-4af4-96e2-c98df5053114": {
+        "id": "fae9e721-72cd-4af4-96e2-c98df5053114",
+        "message": {
+          "author": {
+            "name": null,
+            "role": "assistant"
+          },
+          "content": {
+            "content": "Thought for 6 seconds",
+            "content_type": "reasoning_recap"
+          },
+          "create_time": 1751723406.486137,
+          "id": "fae9e721-72cd-4af4-96e2-c98df5053114",
+          "metadata": {
+            "model_slug": "gpt-4o",
+            "parent_id": "e3af241a-cc7e-4906-8dbe-535a74dd31d1"
+          }
+        },
+        "parent": "5fb76afd-736f-4a80-8494-660acb281003"
+      }
+    },
+    "memory_scope": "global_enabled",
+    "pinned_time": null,
+    "plugin_ids": null,
+    "title": "Prince Kiss Song Summary",
+    "update_time": 1784329017.209084,
+    "voice": null
+  }
+}
